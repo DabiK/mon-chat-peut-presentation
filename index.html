@@ -790,25 +790,12 @@
         margin-top: 4rem;
         overflow-x: auto;
         scroll-snap-type: x mandatory;
-        justify-content: center;
+        justify-content: flex-start;
         text-align: center;
         padding: 2rem 0;
         scrollbar-width: thin;
         scrollbar-color: var(--primary) var(--bg-light);
-        animation: autoScroll 20s linear infinite;
-      }
-
-      @keyframes autoScroll {
-        0% {
-          scroll-behavior: smooth;
-        }
-        100% {
-          scroll-behavior: smooth;
-        }
-      }
-
-      .screenshots-carousel:hover {
-        animation-play-state: paused;
+        scroll-behavior: smooth;
       }
 
       .screenshots-carousel::-webkit-scrollbar {
@@ -1656,6 +1643,85 @@
             document.getElementById("successMessage").classList.add("active");
           }, 1000);
         });
+
+      // Auto-scroll screenshots carousel
+      const screenshotsCarousel = document.querySelector(
+        ".screenshots-carousel"
+      );
+      if (screenshotsCarousel) {
+        let autoScrollInterval;
+        let isUserInteracting = false;
+        let userInteractionTimeout;
+
+        function startAutoScroll() {
+          // S'assurer que le carousel commence à la première image
+          screenshotsCarousel.scrollLeft = 0;
+
+          autoScrollInterval = setInterval(() => {
+            if (!isUserInteracting && screenshotsCarousel) {
+              const maxScroll =
+                screenshotsCarousel.scrollWidth -
+                screenshotsCarousel.clientWidth;
+              const currentScroll = screenshotsCarousel.scrollLeft;
+              const itemWidth = 280 + 32; // 280px width + 2rem gap
+
+              // Si on approche de la fin, revenir au début
+              if (currentScroll >= maxScroll - itemWidth) {
+                screenshotsCarousel.scrollLeft = 0;
+              } else {
+                // Scroll vers la droite d'un élément
+                screenshotsCarousel.scrollLeft += itemWidth;
+              }
+            }
+          }, 3000); // Change d'image toutes les 3 secondes
+        }
+
+        function stopAutoScroll() {
+          if (autoScrollInterval) {
+            clearInterval(autoScrollInterval);
+            autoScrollInterval = null;
+          }
+        }
+
+        function handleUserInteraction() {
+          isUserInteracting = true;
+          stopAutoScroll();
+
+          // Réinitialiser le timeout
+          if (userInteractionTimeout) {
+            clearTimeout(userInteractionTimeout);
+          }
+
+          // Reprendre l'auto-scroll après 5 secondes d'inactivité
+          userInteractionTimeout = setTimeout(() => {
+            isUserInteracting = false;
+            startAutoScroll();
+          }, 5000);
+        }
+
+        // Détecter les interactions utilisateur
+        screenshotsCarousel.addEventListener(
+          "mousedown",
+          handleUserInteraction
+        );
+        screenshotsCarousel.addEventListener(
+          "touchstart",
+          handleUserInteraction
+        );
+        screenshotsCarousel.addEventListener("wheel", handleUserInteraction);
+        screenshotsCarousel.addEventListener("scroll", () => {
+          if (screenshotsCarousel.scrollLeft % 1 !== 0) {
+            // L'utilisateur scroll manuellement
+            handleUserInteraction();
+          }
+        });
+
+        // Démarrer l'auto-scroll au chargement de la page
+        // Petit délai pour s'assurer que le DOM est prêt
+        setTimeout(() => {
+          startAutoScroll();
+        }, 1000);
+      }
 
       // Sparkles
       function createSparkle() {
