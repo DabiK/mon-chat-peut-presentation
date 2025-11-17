@@ -734,15 +734,16 @@
         grid-template-columns: repeat(2, 1fr);
         gap: 2rem;
         margin-top: 3rem;
-        max-width: 600px;
+        max-width: 700px;
         margin-left: auto;
         margin-right: auto;
       }
 
-      .interactive-stats .stat-item:nth-child(3) {
-        grid-column: 1 / -1;
-        max-width: 200px;
-        margin: 0 auto;
+      @media (max-width: 768px) {
+        .interactive-stats {
+          grid-template-columns: 1fr;
+          gap: 1rem;
+        }
       }
 
       .stat-item {
@@ -1165,6 +1166,416 @@
           transform: scale(1);
         }
       }
+
+      /* How It Works Section - Mobile-first scroll animation */
+      .how-it-works-section {
+        padding: 3rem 1.5rem;
+        background: linear-gradient(
+          135deg,
+          #fff5f0 0%,
+          #ffe8dd 50%,
+          #ffd4e5 100%
+        );
+        position: relative;
+        overflow: hidden;
+      }
+
+      .how-it-works-section::before {
+        content: "✨";
+        position: absolute;
+        top: 5%;
+        left: 5%;
+        font-size: 2rem;
+        opacity: 0.15;
+        animation: float 6s ease-in-out infinite;
+      }
+
+      .how-it-works-section::after {
+        content: "💫";
+        position: absolute;
+        bottom: 5%;
+        right: 5%;
+        font-size: 2rem;
+        opacity: 0.15;
+        animation: float 8s ease-in-out infinite 1s;
+      }
+
+      .workflow-scroll-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        position: relative;
+      }
+
+      /* Sticky phone qui reste en haut */
+      .sticky-phone {
+        position: sticky;
+        top: 80px;
+        margin: 2rem auto;
+        max-width: 300px;
+        z-index: 10;
+      }
+
+      .phone-frame {
+        background: #1a1a1a;
+        border-radius: 35px;
+        padding: 12px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        position: relative;
+        aspect-ratio: 9/19.5;
+        overflow: hidden;
+      }
+
+      .phone-notch {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 150px;
+        height: 25px;
+        background: #1a1a1a;
+        border-radius: 0 0 20px 20px;
+        z-index: 20;
+      }
+
+      .phone-content {
+        background: white;
+        border-radius: 25px;
+        height: 100%;
+        position: relative;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .phone-step {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem 1.5rem;
+        opacity: 0;
+        transform: scale(0.8);
+        transition: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+        pointer-events: none;
+      }
+
+      .phone-step.active {
+        opacity: 1;
+        transform: scale(1);
+        pointer-events: auto;
+      }
+
+      /* Form mockup mini */
+      .form-mockup-mini {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 0.8rem;
+      }
+
+      .avatar-circle-mini {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, var(--kawaii-pink), var(--kawaii-purple));
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2rem;
+        margin: 0 auto 1rem;
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      .form-field-mini {
+        height: 35px;
+        background: linear-gradient(90deg, #f0f0f0 0%, #e0e0e0 50%, #f0f0f0 100%);
+        background-size: 200% 100%;
+        border-radius: 8px;
+        animation: shimmer 2s infinite;
+      }
+
+      .form-field-mini.short {
+        width: 60%;
+      }
+
+      /* Gauge mini */
+      .gauge-mini {
+        text-align: center;
+        margin-bottom: 1.5rem;
+      }
+
+      .gauge-ring-mini {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border: 10px solid #f0f0f0;
+        border-top-color: var(--primary);
+        border-right-color: var(--primary);
+        margin: 0 auto 1rem;
+        animation: spin 2s linear infinite;
+      }
+
+      .gauge-text {
+        font-size: 1.8rem;
+        font-weight: 800;
+        color: var(--primary);
+        line-height: 1.2;
+      }
+
+      .gauge-text span {
+        font-size: 0.9rem;
+        font-weight: 600;
+      }
+
+      .criteria-mini {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 0.6rem;
+      }
+
+      .criterion-bar {
+        height: 25px;
+        background: linear-gradient(90deg, var(--accent), var(--kawaii-pink));
+        border-radius: 8px;
+        animation: expandWidth 1s ease-out forwards;
+      }
+
+      .criterion-bar:nth-child(2) {
+        animation-delay: 0.2s;
+        width: 85%;
+      }
+
+      .criterion-bar:nth-child(3) {
+        animation-delay: 0.4s;
+        width: 92%;
+      }
+
+      /* Scanner mini */
+      .scanner-mini {
+        text-align: center;
+        margin-bottom: 1.5rem;
+      }
+
+      .scan-box {
+        width: 120px;
+        height: 120px;
+        margin: 0 auto 1.5rem;
+        border: 3px dashed var(--primary);
+        border-radius: 12px;
+        position: relative;
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      .scan-line {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 3px;
+        background: var(--primary);
+        box-shadow: 0 0 10px var(--primary);
+        animation: scan 2s ease-in-out infinite;
+      }
+
+      .barcode-mini {
+        display: flex;
+        gap: 4px;
+        justify-content: center;
+        margin-bottom: 1rem;
+      }
+
+      .bar-mini {
+        width: 6px;
+        height: 40px;
+        background: var(--text-dark);
+        border-radius: 2px;
+      }
+
+      .bar-mini.tall {
+        height: 50px;
+      }
+
+      .score-mini {
+        display: inline-block;
+        padding: 0.6rem 1.5rem;
+        background: linear-gradient(135deg, #4caf50, #45a049);
+        color: white;
+        border-radius: 20px;
+        font-size: 1.3rem;
+        font-weight: 800;
+        animation: bounce 1s ease-in-out infinite;
+      }
+
+      /* Chart mini */
+      .chart-mini {
+        width: 100%;
+        display: flex;
+        align-items: flex-end;
+        gap: 0.8rem;
+        height: 120px;
+        margin-bottom: 1.5rem;
+        padding: 0 1rem;
+      }
+
+      .bar-chart {
+        flex: 1;
+        background: linear-gradient(to top, var(--primary), var(--kawaii-pink));
+        border-radius: 8px 8px 0 0;
+        animation: growBar 1s ease-out forwards;
+        height: 60%;
+      }
+
+      .bar-chart:nth-child(2) {
+        animation-delay: 0.2s;
+      }
+
+      .bar-chart:nth-child(3) {
+        animation-delay: 0.4s;
+      }
+
+      .bar-chart:nth-child(4) {
+        animation-delay: 0.6s;
+      }
+
+      .stats-row {
+        display: flex;
+        gap: 0.8rem;
+        padding: 0 1rem;
+      }
+
+      .stat-box {
+        flex: 1;
+        height: 50px;
+        background: linear-gradient(135deg, var(--kawaii-blue), var(--kawaii-purple));
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      .stat-box:nth-child(2) {
+        animation-delay: 0.3s;
+      }
+
+      /* Workflow steps défilantes */
+      .workflow-steps-scroll {
+        margin-top: 3rem;
+      }
+
+      .workflow-step-scroll {
+        min-height: 50vh;
+        display: flex;
+        align-items: center;
+        gap: 1.5rem;
+        padding: 2rem 1.5rem;
+        margin-bottom: 2rem;
+        background: white;
+        border-radius: 20px;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+        opacity: 0.3;
+        transform: translateY(20px);
+        transition: all 0.5s ease;
+      }
+
+      .workflow-step-scroll.active {
+        opacity: 1;
+        transform: translateY(0);
+        box-shadow: 0 15px 40px rgba(255, 154, 118, 0.25);
+        border: 2px solid var(--primary);
+      }
+
+      .step-badge {
+        flex-shrink: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .step-num {
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, var(--primary), var(--kawaii-pink));
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.3rem;
+        font-weight: 800;
+        box-shadow: 0 5px 15px rgba(255, 154, 118, 0.3);
+      }
+
+      .step-emoji {
+        font-size: 2rem;
+        animation: bounce 2s ease-in-out infinite;
+      }
+
+      .step-text h3 {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: var(--text-dark);
+        margin-bottom: 0.5rem;
+      }
+
+      .step-text p {
+        color: var(--text-gray);
+        line-height: 1.5;
+        margin: 0;
+        font-size: 0.95rem;
+      }
+
+      .workflow-spacer {
+        height: 30vh;
+      }
+
+      /* Desktop adjustments */
+      @media (min-width: 768px) {
+        .sticky-phone {
+          max-width: 320px;
+          top: 100px;
+        }
+
+        .workflow-step-scroll {
+          padding: 2.5rem 2rem;
+        }
+
+        .step-text h3 {
+          font-size: 1.4rem;
+        }
+
+        .step-text p {
+          font-size: 1rem;
+        }
+      }
+
+      @media (min-width: 968px) {
+        .workflow-scroll-container {
+          display: grid;
+          grid-template-columns: 400px 1fr;
+          gap: 4rem;
+          align-items: start;
+        }
+
+        .sticky-phone {
+          margin: 0;
+          max-width: 100%;
+        }
+
+        .workflow-steps-scroll {
+          margin-top: 0;
+        }
+
+        .workflow-step-scroll {
+          min-height: 40vh;
+        }
+      }
     </style>
   </head>
   <!-- Google tag (gtag.js) -->
@@ -1196,7 +1607,9 @@
           Découvrez si votre chat peut le manger <span class="emoji">🐾</span>
         </h1>
         <p class="subtitle">
-          L'app qui vous aide à nourrir votre chat sainement et sans stress.
+          Recherche d'aliments, plan nutritionnel intelligent, suivi macros &
+          hydratation — tout pour la santé de votre chat dans une app douce et
+          kawaii 💕
         </p>
 
         <div class="hero-form-container" id="heroFormContainer">
@@ -1251,20 +1664,140 @@
             <span class="highlight"
               >Trop d'aliments sont dangereux pour les chats</span
             >
-            — et les listes sur Google sont souvent contradictoires.
+            — et les informations sur Google sont souvent contradictoires.
           </p>
           <p>
-            Notre application utilise l'IA pour vous dire
-            <span class="highlight">instantanément</span> si un aliment est sûr
-            ou non.
+            Notre application combine
+            <span class="highlight">reconnaissance d'image IA</span>,
+            <span class="highlight">base de 10 000+ aliments</span> et
+            <span class="highlight">plans nutritionnels vétérinaires</span>
+            pour vous donner des réponses instantanées et fiables.
           </p>
           <p>
-            Plus de doutes, plus de stress. Juste des réponses claires et
-            fiables pour protéger votre compagnon 🐾
+            Plus de doutes, plus de stress. Suivez les macros, l'hydratation et
+            le poids de votre chat avec des outils professionnels dans une app
+            douce et kawaii 🐾
           </p>
         </div>
         <div class="why-image fade-in">
           <img src="question.png" alt="Un maitre et son chat" />
+        </div>
+      </div>
+    </section>
+
+    <!-- Comment ça marche Section - Scroll-triggered animation -->
+    <section class="how-it-works-section">
+      <h2 class="section-title">Comment ça marche ? ✨</h2>
+      <p class="section-subtitle">
+        Quatre étapes simples pour prendre soin de votre chat
+      </p>
+      
+      <div class="workflow-scroll-container">
+        <!-- Sticky phone mockup qui change au scroll -->
+        <div class="sticky-phone">
+          <div class="phone-frame">
+            <div class="phone-notch"></div>
+            <div class="phone-content" id="phoneContent">
+              <!-- Step 1: Profile -->
+              <div class="phone-step active" data-step="1">
+                <div class="form-mockup-mini">
+                  <div class="avatar-circle-mini">🐱</div>
+                  <div class="form-field-mini"></div>
+                  <div class="form-field-mini short"></div>
+                  <div class="form-field-mini"></div>
+                </div>
+              </div>
+              <!-- Step 2: Plan -->
+              <div class="phone-step" data-step="2">
+                <div class="gauge-mini">
+                  <div class="gauge-ring-mini"></div>
+                  <div class="gauge-text">185<br><span>kcal</span></div>
+                </div>
+                <div class="criteria-mini">
+                  <div class="criterion-bar"></div>
+                  <div class="criterion-bar"></div>
+                  <div class="criterion-bar"></div>
+                </div>
+              </div>
+              <!-- Step 3: Scan -->
+              <div class="phone-step" data-step="3">
+                <div class="scanner-mini">
+                  <div class="scan-box">
+                    <div class="scan-line"></div>
+                  </div>
+                  <div class="barcode-mini">
+                    <div class="bar-mini"></div>
+                    <div class="bar-mini tall"></div>
+                    <div class="bar-mini"></div>
+                  </div>
+                </div>
+                <div class="score-mini">85/100</div>
+              </div>
+              <!-- Step 4: Charts -->
+              <div class="phone-step" data-step="4">
+                <div class="chart-mini">
+                  <div class="bar-chart"></div>
+                  <div class="bar-chart" style="height: 75%"></div>
+                  <div class="bar-chart" style="height: 85%"></div>
+                  <div class="bar-chart" style="height: 95%"></div>
+                </div>
+                <div class="stats-row">
+                  <div class="stat-box">💧</div>
+                  <div class="stat-box">⚖️</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Steps défilantes qui triggent les changements -->
+        <div class="workflow-steps-scroll">
+          <div class="workflow-step-scroll" data-trigger="1">
+            <div class="step-badge">
+              <span class="step-num">1</span>
+              <span class="step-emoji">🐱</span>
+            </div>
+            <div class="step-text">
+              <h3>Créez le profil</h3>
+              <p>Ajoutez votre chat avec sa photo, son poids, son âge et ses caractéristiques</p>
+            </div>
+          </div>
+
+          <div class="workflow-step-scroll" data-trigger="2">
+            <div class="step-badge">
+              <span class="step-num">2</span>
+              <span class="step-emoji">🎯</span>
+            </div>
+            <div class="step-text">
+              <h3>Générez son plan</h3>
+              <p>Un plan personnalisé basé sur 8 critères avec calculs vétérinaires (RER/DER)</p>
+            </div>
+          </div>
+
+          <div class="workflow-step-scroll" data-trigger="3">
+            <div class="step-badge">
+              <span class="step-num">3</span>
+              <span class="step-emoji">🔍</span>
+            </div>
+            <div class="step-text">
+              <h3>Scannez ses produits</h3>
+              <p>Vérifiez la qualité de ses croquettes et comparez avec 500+ produits</p>
+            </div>
+          </div>
+
+          <div class="workflow-step-scroll" data-trigger="4">
+            <div class="step-badge">
+              <span class="step-num">4</span>
+              <span class="step-emoji">📊</span>
+            </div>
+            <div class="step-text">
+              <h3>Suivez son évolution</h3>
+              <p>Macros, hydratation, poids — visualisez sa transformation au quotidien</p>
+            </div>
+          </div>
+
+          <!-- Spacer pour permettre le scroll final -->
+          <div class="workflow-spacer"></div>
         </div>
       </div>
     </section>
@@ -1277,50 +1810,56 @@
       <div class="features-grid">
         <div class="feature-card fade-in">
           <div class="feature-icon">📸</div>
-          <h4>Photo instantanée</h4>
+          <h4>Recherche d'aliment ultra-rapide</h4>
           <p>
-            Prenez en photo n'importe quel aliment et découvrez en 3 secondes
-            s'il est sûr pour votre chat
+            Prenez en photo n'importe quel aliment ou cherchez par mot-clé dans
+            notre base de 10 000+ aliments. Réponse en 3 secondes avec un
+            verdict clair : Safe, Modéré ou Dangereux
           </p>
         </div>
         <div class="feature-card fade-in">
-          <div class="feature-icon">🤖</div>
-          <h4>Intelligence artificielle</h4>
+          <div class="feature-icon">🧮</div>
+          <h4>Plan intelligent personnalisé</h4>
           <p>
-            Notre IA analyse des milliers d'aliments pour vous donner des
-            réponses fiables et précises
+            Un plan alimentaire sur-mesure basé sur 8 critères (poids, âge,
+            stérilisation, race, activité, BCS, objectif, environnement). Calcul
+            automatique des besoins caloriques avec formule vétérinaire RER/DER
           </p>
         </div>
         <div class="feature-card fade-in">
-          <div class="feature-icon">💡</div>
-          <h4>Conseils détaillés</h4>
+          <div class="feature-icon">🏆</div>
+          <h4>Comparateur de produits</h4>
           <p>
-            Des explications claires sur pourquoi un aliment est bon ou mauvais,
-            avec des alternatives
+            Scannez le code-barre de vos croquettes ou pâtées pour voir leur
+            score de qualité (0-100), comparer les macros et vérifier le rapport
+            Ca:P idéal pour les reins de votre chat
           </p>
         </div>
         <div class="feature-card fade-in">
-          <div class="feature-icon">🍽️</div>
-          <h4>Plan nutritionnel</h4>
+          <div class="feature-icon">💧</div>
+          <h4>Suivi macros & hydratation</h4>
           <p>
-            Créez un plan alimentaire personnalisé adapté à l'âge, au poids et
-            aux besoins de votre chat
+            Suivez les calories, protéines, lipides et glucides quotidiens.
+            L'app calcule automatiquement l'hydratation selon la nourriture
+            humide/sèche avec des jauges animées et 4 statuts de vigilance
           </p>
         </div>
         <div class="feature-card fade-in">
           <div class="feature-icon">📊</div>
-          <h4>Suivi de santé</h4>
+          <h4>Historique & graphiques</h4>
           <p>
-            Suivez l'évolution du poids, de l'appétit et de la santé de votre
-            chat au quotidien
+            Visualisez l'évolution sur 7 jours de l'alimentation, du poids et de
+            l'hydratation de votre chat. Détectez les tendances et ajustez le
+            plan en temps réel
           </p>
         </div>
         <div class="feature-card fade-in">
           <div class="feature-icon">❤️</div>
-          <h4>Multi-chats</h4>
+          <h4>Multi-chats avec avatars</h4>
           <p>
-            Gérez plusieurs profils pour tous vos chats avec des recommandations
-            individualisées
+            Créez des profils individuels avec photo pour chaque chat. Plans
+            nutritionnels séparés, objectifs différents (perte/maintien/gain),
+            historiques indépendants. Parfait pour les familles félines !
           </p>
         </div>
       </div>
@@ -1339,17 +1878,30 @@
             <p>
               Votre chat vous regarde avec ses grands yeux pendant que vous
               mangez du thon. Vous vous demandez : "Est-ce que je peux lui en
-              donner ?" Vous cherchez sur Google... et trouvez 10 réponses
-              différentes.
+              donner ? En quelle quantité ?" Vous cherchez sur Google... et
+              trouvez 10 réponses différentes. Et ses croquettes actuelles,
+              sont-elles vraiment bonnes ?
             </p>
           </div>
 
           <div class="solution-highlight">
-            <h3>✨ 3 secondes, une réponse claire</h3>
+            <h3>✨ Une app complète pour la santé de votre chat</h3>
             <p>
-              Avec Mon Chat Peut?, prenez une photo ou cherchez "thon" dans
-              l'app. Réponse instantanée, validée par des vétérinaires, avec les
-              quantités recommandées !
+              <strong>Recherche instantanée :</strong> Prenez une photo ou
+              cherchez "thon" — verdict en 3 secondes avec les quantités
+              recommandées.
+            </p>
+            <p>
+              <strong>Comparateur produits :</strong> Scannez vos croquettes
+              pour voir leur score de qualité et comparez avec 500+ produits.
+            </p>
+            <p>
+              <strong>Plan personnalisé :</strong> Un plan nutritionnel adapté
+              avec calcul automatique des besoins caloriques (RER/DER).
+            </p>
+            <p>
+              <strong>Suivi quotidien :</strong> Macros, hydratation, poids —
+              tout dans une interface douce et intuitive 🐱
             </p>
           </div>
 
@@ -1359,12 +1911,16 @@
               <div class="stat-label">Temps de réponse</div>
             </div>
             <div class="stat-item">
-              <div class="stat-value">98%</div>
-              <div class="stat-label">Précision</div>
+              <div class="stat-value">10 000+</div>
+              <div class="stat-label">Aliments analysés</div>
             </div>
             <div class="stat-item">
-              <div class="stat-value">10000+</div>
-              <div class="stat-label">Aliments</div>
+              <div class="stat-value">8</div>
+              <div class="stat-label">Critères du plan</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">500+</div>
+              <div class="stat-label">Produits comparables</div>
             </div>
           </div>
         </div>
@@ -1380,23 +1936,29 @@
       <div class="screenshots-carousel">
         <div class="screenshot-item fade-in">
           <img src="screenshot-1.jpg" alt="Reconnaissance instantanée" />
-          <p class="screenshot-caption">Reconnaissance instantanée</p>
+          <p class="screenshot-caption">
+            Recherche d'aliment par photo ou mot-clé
+          </p>
         </div>
         <div class="screenshot-item fade-in">
           <img src="screenshot-2.jpg" alt="Plan alimentaire" />
-          <p class="screenshot-caption">Plan alimentaire intelligent</p>
+          <p class="screenshot-caption">Plan intelligent basé sur 8 critères</p>
         </div>
         <div class="screenshot-item fade-in">
           <img src="screenshot-3.jpg" alt="Historique" />
-          <p class="screenshot-caption">Historique de santé</p>
+          <p class="screenshot-caption">
+            Suivi macros et hydratation quotidiens
+          </p>
         </div>
         <div class="screenshot-item fade-in">
           <img src="screenshot-4.jpg" alt="Multi-chats" />
-          <p class="screenshot-caption">Gestion multi-chats</p>
+          <p class="screenshot-caption">Profils multi-chats avec avatars</p>
         </div>
         <div class="screenshot-item fade-in">
           <img src="screenshot-5.jpg" alt="Conseils" />
-          <p class="screenshot-caption">Conseils personnalisés</p>
+          <p class="screenshot-caption">
+            Comparateur de produits avec code-barre
+          </p>
         </div>
       </div>
     </section>
@@ -1739,6 +2301,92 @@
       }
 
       setInterval(createSparkle, 2000);
+
+      // How It Works Workflow Animation
+      const workflowSteps = document.querySelectorAll(".workflow-step");
+      const mockupScreen = document.getElementById("mockupScreen");
+      let currentStep = 0;
+      let workflowInterval;
+
+      function activateStep(stepIndex) {
+        // Remove active class from all steps
+        workflowSteps.forEach((step) => step.classList.remove("active"));
+
+        // Remove active from all screens
+        const screens = mockupScreen?.querySelectorAll(".screen-content");
+        screens?.forEach((screen) => screen.classList.remove("active"));
+
+        // Add active to current step
+        if (workflowSteps[stepIndex]) {
+          workflowSteps[stepIndex].classList.add("active");
+        }
+
+        // Show corresponding screen
+        const currentScreen = mockupScreen?.querySelector(
+          `[data-screen="${stepIndex + 1}"]`
+        );
+        if (currentScreen) {
+          currentScreen.classList.add("active");
+        }
+      }
+
+      function startWorkflowAnimation() {
+        // Check if workflow section is in viewport
+        const workflowSection = document.querySelector(
+          ".how-it-works-section"
+        );
+        if (!workflowSection) return;
+
+        const workflowObserver = new IntersectionObserver(
+          (entries) => {
+            entries.forEach((entry) => {
+              if (entry.isIntersecting) {
+                // Start auto-cycle
+                activateStep(0);
+                workflowInterval = setInterval(() => {
+                  currentStep = (currentStep + 1) % 4;
+                  activateStep(currentStep);
+                }, 3000); // Change step every 3 seconds
+              } else {
+                // Stop when out of viewport
+                if (workflowInterval) {
+                  clearInterval(workflowInterval);
+                }
+              }
+            });
+          },
+          { threshold: 0.3 }
+        );
+
+        workflowObserver.observe(workflowSection);
+
+        // Manual click handlers
+        workflowSteps.forEach((step, index) => {
+          step.addEventListener("click", () => {
+            // Reset interval
+            if (workflowInterval) {
+              clearInterval(workflowInterval);
+            }
+            currentStep = index;
+            activateStep(currentStep);
+
+            // Restart auto-cycle after 5 seconds
+            setTimeout(() => {
+              workflowInterval = setInterval(() => {
+                currentStep = (currentStep + 1) % 4;
+                activateStep(currentStep);
+              }, 3000);
+            }, 5000);
+          });
+        });
+      }
+
+      // Initialize workflow animation when DOM is ready
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", startWorkflowAnimation);
+      } else {
+        startWorkflowAnimation();
+      }
     </script>
   </body>
 </html>
