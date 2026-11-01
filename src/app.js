@@ -87,15 +87,12 @@
   let demoOn = !reduce, heroVisible = true;
   const sleep = ms => new Promise(r => setTimeout(r, ms));
   new IntersectionObserver(([e]) => { heroVisible = e.isIntersecting; }).observe(hero);
-  // l'ancien mot s'efface en fondu, le nouveau se tape : rien d'autre ne bouge dans le hero
+  // l'ancien mot s'efface lettre par lettre, le nouveau se tape : le texte reste toujours bien contrasté,
+  // et rien d'autre ne bouge dans le hero
   async function typeTo(t) {
     input.placeholder = "";
     setVivi("q");
-    input.classList.add("erasing");
-    await sleep(200);
-    if (!demoOn) return;
-    input.value = ""; size();
-    input.classList.remove("erasing");
+    while (input.value) { if (!demoOn) return; input.value = input.value.slice(0, -1); size(); await sleep(24); }
     for (const ch of t) { if (!demoOn) return; input.value += ch; size(); await sleep(55); }
   }
   async function demo() {
@@ -111,7 +108,7 @@
       await sleep(3000);
     }
   }
-  const stopDemo = () => { demoOn = false; input.classList.remove("erasing"); input.placeholder = L.placeholder; };
+  const stopDemo = () => { demoOn = false; input.placeholder = L.placeholder; };
 
   function pick(q) { stopDemo(); input.value = q; size(); show(q, true); }
   document.addEventListener("click", e => {

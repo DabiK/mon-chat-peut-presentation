@@ -32,9 +32,8 @@
   display: block; width: 100%; min-width: 0; margin: 0; padding: 0 0 .02em;
   border: 0; border-radius: 0; background: transparent; outline: none;
   font: inherit; letter-spacing: inherit; line-height: 1.12; color: var(--v); caret-color: var(--roux);
-  transition: color .3s ease, opacity .18s ease;
+  transition: color .3s ease;
 }
-.blank input.erasing { opacity: 0; }
 .blank input::placeholder { color: #A08876; }
 .measure { position: absolute; left: 0; top: 0; visibility: hidden; white-space: pre; font: inherit; letter-spacing: inherit; }
 .q-mark { flex: none; width: auto; height: 1.02em; }
