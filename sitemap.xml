@@ -15,12 +15,45 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mon-chat-peut.com/"/>
   </url>
   <url>
-    <loc>https://mon-chat-peut.com/privacy-policy</loc>
+    <loc>https://mon-chat-peut.com/terms-of-service</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mon-chat-peut.com/terms-of-service"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mon-chat-peut.com/en/terms-of-service"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mon-chat-peut.com/terms-of-service"/>
   </url>
   <url>
-    <loc>https://mon-chat-peut.com/terms-of-service</loc>
+    <loc>https://mon-chat-peut.com/en/terms-of-service</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mon-chat-peut.com/terms-of-service"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mon-chat-peut.com/en/terms-of-service"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mon-chat-peut.com/terms-of-service"/>
+  </url>
+  <url>
+    <loc>https://mon-chat-peut.com/privacy-policy</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mon-chat-peut.com/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mon-chat-peut.com/en/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mon-chat-peut.com/privacy-policy"/>
+  </url>
+  <url>
+    <loc>https://mon-chat-peut.com/en/privacy-policy</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mon-chat-peut.com/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mon-chat-peut.com/en/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mon-chat-peut.com/privacy-policy"/>
   </url>
   <url>
     <loc>https://mon-chat-peut.com/user-rights</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mon-chat-peut.com/user-rights"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mon-chat-peut.com/en/user-rights"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mon-chat-peut.com/user-rights"/>
+  </url>
+  <url>
+    <loc>https://mon-chat-peut.com/en/user-rights</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mon-chat-peut.com/user-rights"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mon-chat-peut.com/en/user-rights"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mon-chat-peut.com/user-rights"/>
   </url>
 </urlset>

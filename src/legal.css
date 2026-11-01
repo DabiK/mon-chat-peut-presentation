@@ -1,0 +1,37 @@
+/* Pages légales : conditions d'utilisation, confidentialité, droits RGPD. */
+
+.legal {
+  background-color: var(--creme);
+  background-image: linear-gradient(rgba(247, 129, 58, .06) 1px, transparent 1px), linear-gradient(90deg, rgba(247, 129, 58, .06) 1px, transparent 1px);
+  background-size: 28px 28px;
+  padding: clamp(28px, 5vw, 56px) 0 clamp(56px, 7vw, 96px);
+}
+.legal .wrap { max-width: 860px; }
+.crumb { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; font-weight: 600; text-decoration: none; }
+.crumb svg { width: 18px; height: 18px; }
+.legal-head { display: flex; flex-direction: column; gap: 12px; margin: 12px 0 28px; }
+.legal-head h1 { font-family: var(--display); font-weight: 800; font-size: clamp(34px, 5vw, 56px); line-height: 1.04; letter-spacing: -.02em; text-wrap: balance; }
+.updated { font-family: var(--mono); font-size: 13px; color: var(--doux); }
+
+.prose { padding: clamp(22px, 4vw, 44px); border: 1px solid var(--ligne); border-radius: 28px; background: var(--lait); box-shadow: 0 30px 60px -48px rgba(156, 60, 24, .45); }
+.prose > :first-child { margin-top: 0; }
+.prose h2 { margin: 40px 0 12px; font-family: var(--display); font-weight: 800; font-size: clamp(22px, 2.4vw, 28px); line-height: 1.15; letter-spacing: -.01em; }
+.prose h3 { margin: 24px 0 8px; font-family: var(--display); font-weight: 700; font-size: 19px; line-height: 1.25; }
+.prose p, .prose li { font-size: 16.5px; line-height: 1.65; }
+.prose p { margin: 0 0 12px; }
+.prose ul { margin: 0 0 16px; padding-left: 22px; }
+.prose li { margin: 4px 0; }
+.prose li::marker { color: var(--roux); }
+.prose strong { font-weight: 700; }
+.prose a { font-weight: 600; overflow-wrap: anywhere; }
+.note { margin: 16px 0; padding: 14px 18px; border-radius: 16px; background: var(--peu-t); }
+.note.ok { background: var(--oui-t); }
+.note p:last-child { margin-bottom: 0; }
+.contact { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 18px; border-radius: 999px; background: var(--peche); color: var(--cacao); font-weight: 700; text-decoration: none; }
+.contact:hover { color: var(--cacao); background: #FAD7B8; }
+.contact svg { width: 18px; height: 18px; color: var(--rayure); }
+
+.legal-other { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; margin-top: 28px; }
+.legal-other p { width: 100%; font-family: var(--mono); font-size: 13px; color: var(--doux); }
+.legal-other a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 18px; border: 1px solid var(--ligne-2); border-radius: 999px; background: var(--lait); color: var(--cacao); font-weight: 600; text-decoration: none; }
+.legal-other a:hover { border-color: var(--cacao); }
