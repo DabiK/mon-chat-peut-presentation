@@ -1,0 +1,625 @@
+{
+ "lang": "fr",
+ "lang_other": "en",
+ "locale": "fr_FR",
+ "locale_alt": "en_US",
+ "url": "https://mon-chat-peut.com/",
+ "title": "Mon chat peut ? · Ce que ton chat peut manger, en 3 secondes",
+ "description": "Tape un aliment : l'app Mon chat peut ? te dit en 3 secondes si ton chat peut en manger, pourquoi, et combien. Plan alimentaire et suivi du poids.",
+ "og_title": "Mon chat peut manger du chocolat ?",
+ "og_desc": "Tape un aliment : l'app te dit en 3 secondes si ton chat peut en manger, pourquoi, et combien.",
+ "og_alt": "Mon chat peut manger du chocolat ? Non ! Vivi, le chat de l'app, boude.",
+ "nav_home_label": "Mon chat peut ?, accueil",
+ "nav_top_label": "Mon chat peut ?, haut de page",
+ "nav_sections": "Sections",
+ "nav_test": "Le test",
+ "nav_day": "Une journée",
+ "nav_faq": "Questions",
+ "lang_href": "/en/",
+ "lang_code": "EN",
+ "lang_label": "English version",
+ "lang_name": "English",
+ "download": "Télécharger",
+ "h1": "Mon chat peut ? Sache en 3 secondes si ton chat peut manger un aliment, et pourquoi.",
+ "q_lead": "Mon chat peut manger",
+ "q_label": "Aliment à tester",
+ "q_value": "du chocolat",
+ "q_placeholder": "un aliment",
+ "stamp_init": "Non&#8239;!",
+ "reason_init": "Le chocolat contient de la théobromine et de la caféine, que le chat élimine très mal.",
+ "picks_label": "Tape un aliment dans la phrase, ou essaie&#8239;:",
+ "count_init": "Démo avec 60 aliments. L'app, elle, reconnaît aussi tes plats en photo.",
+ "s_title_init": "Non&#8239;!",
+ "s_sub_init": "Ne donne pas cet aliment.",
+ "s_food_init": "Chocolat",
+ "again": "Tester un autre aliment",
+ "moment_alt": "Vue depuis la table : une fourchette tient un morceau de saumon, et Vivi fixe la fourchette par-dessus le bord de la table.",
+ "moment_title": "Il te fixe. Tu as la fourchette à la main.",
+ "moment_lede": "Alors tu tapes « mon chat peut manger du thon » dans Google. Dix onglets plus tard, voilà ce que tu as&#8239;:",
+ "snip1_src": "Un forum, 2014",
+ "snip1": "Le thon c'est leur plat préféré, vas-y sans souci&#8239;!",
+ "snip2_src": "Un blog animaux",
+ "snip2": "JAMAIS de thon, c'est bourré de mercure.",
+ "snip3_src": "Ton beau-frère",
+ "snip3": "Un peu ça va, mais pas à l'huile. Ou alors si&#8239;?",
+ "snip4_src": "Une vidéo, 1,2 M de vues",
+ "snip4": "Le mien en mange tous les jours depuis 15 ans.",
+ "answer_title": "Un peu.",
+ "answer_text": "Un morceau de thon au naturel de temps en temps, c'est OK. Tous les jours, non&#8239;: trop de mercure, et un risque de carence en vitamine&#8239;E.",
+ "answer_src": "La réponse de l'app, en 3 secondes.",
+ "day_title": "Une journée avec Vivi",
+ "day_lede": "Vivi est au régime. Fais défiler sa journée&#8239;: l'app l'accompagne du premier repas à la fiche du soir.",
+ "ds_plans": "Mes régimes",
+ "ds_loss": "Perte de poids",
+ "ds_active": "En cours",
+ "ds_kcal_left": "kcal restantes",
+ "ds_per_day": "par jour",
+ "ds_weight_now": "poids actuel",
+ "ds_weight_val": "4,8&#8239;kg",
+ "tag1": "Arachide",
+ "tag2": "Oignon",
+ "tag3": "Ail",
+ "ds_verdict_title": "Non&#8239;!",
+ "ds_verdict_text": "Mafé&#8239;: l'oignon et l'ail sont toxiques.",
+ "ds_check_title": "Check-in du soir",
+ "ds_kibble": "Croquettes",
+ "ds_treats": "Friandises",
+ "ds_water": "Eau fraîche",
+ "ds_vivi_weight": "Poids de Vivi",
+ "w_old": "4,8",
+ "w_new": "4,9",
+ "ds_adjust": "Plan ajusté&#8239;: −3&#8239;% de calories, à cause de la prise de poids.",
+ "read_tag1": "santé",
+ "read_tag2": "débutant",
+ "read_title": "Les signes d'une bonne hydratation",
+ "read_meta": "4&#8239;min de lecture",
+ "read_body": "L'hydratation est cruciale pour la santé rénale et urinaire de ton chat. Voici comment reconnaître les bons signes.",
+ "chart_title": "Bilan de la semaine",
+ "chart_big": "−0,5&#8239;kg",
+ "chart_small": "en 8 semaines",
+ "chart_goal": "objectif 4,3&#8239;kg",
+ "chart_start": "5,3&#8239;kg",
+ "chart_end": "4,8&#8239;kg",
+ "chart_w1": "sem. 1",
+ "chart_w8": "sem. 8",
+ "m_p": "Protéines 46&#8239;%",
+ "m_l": "Lipides 23&#8239;%",
+ "m_g": "Glucides 31&#8239;%",
+ "step1_title": "Le plan du jour",
+ "step1_text": "Âge, poids, objectif&#8239;: l'app calcule sa ration. Pour Vivi, 44&#8239;g de croquettes et 176&#8239;kcal par jour.",
+ "step2_title": "Il lorgne ton assiette",
+ "step2_text": "Tu prends ton mafé en photo. L'IA repère l'arachide, l'oignon et l'ail, et répond&#8239;: non.",
+ "step3_title": "Le check-in",
+ "step3_text": "Tu notes ses repas et son poids. Vivi a pris 100&#8239;g&#8239;: le plan se recalcule tout seul, −3&#8239;% de calories.",
+ "step4_title": "Une fiche avant de dormir",
+ "step4_text": "Hydratation, croquettes, poids idéal&#8239;: des fiches de 4 minutes, écrites simplement.",
+ "step5_clock": "Dim.",
+ "step5_time": "Dimanche",
+ "step5_title": "Le bilan de la semaine",
+ "step5_text": "La courbe de poids et la répartition protéines, lipides, glucides. Vivi a perdu 500&#8239;g en 8 semaines.",
+ "founder_title": "J'ai fait cette app pour mes propres chats.",
+ "founder_text": "Tous les soirs, la même question devant mon assiette. Les listes en ligne se contredisaient, les forums encore plus. Je voulais une réponse nette, avec la raison et la bonne quantité, en quelques secondes. Puis un plan pour qu'ils gardent la ligne.",
+ "founder_role": "Créateur de Mon chat peut&#8239;?",
+ "founder_alt": "Dabi, le créateur de l'app, en sweat noir, la main tendue vers son message.",
+ "faq_title": "Ce qu'on nous demande le plus",
+ "faq1_q": "Est-ce que ça remplace mon vétérinaire&#8239;?",
+ "faq1_a": "Non. L'app t'aide pour les décisions du quotidien. Si ton chat a avalé quelque chose de toxique, appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes.",
+ "faq2_q": "Comment l'app reconnaît un plat&#8239;?",
+ "faq2_a": "Tu prends une photo ou tu tapes le nom. L'IA identifie l'aliment et ses ingrédients probables (oignon, ail, sel…), puis te donne le verdict avec l'explication.",
+ "faq3_q": "J'ai plusieurs chats, ça marche&#8239;?",
+ "faq3_a": "Oui. Chaque chat a son profil&#8239;: âge, poids, objectif, plan alimentaire et suivi. Tu passes de l'un à l'autre en un geste.",
+ "faq4_q": "Et sur iPhone&#8239;?",
+ "faq4_a": "Pas encore. L'app est disponible sur Android, et la version iPhone arrive bientôt.",
+ "faq5_q": "Que deviennent mes données&#8239;?",
+ "faq5_a": "On ne collecte que ce qui sert à l'app. Tu peux consulter, corriger ou supprimer ton compte et les données de tes chats à tout moment (RGPD).",
+ "final_title": "La prochaine fois qu'il te fixe pendant le dîner, tu sauras.",
+ "store_href": "https://play.google.com/store/apps/details?id=com.dabik.monchatpeut&amp;hl=fr",
+ "store_small": "Disponible sur",
+ "final_fine": "Disponible sur Android. La version iPhone arrive bientôt.",
+ "legal_label": "Informations légales",
+ "legal_terms": "Conditions d'utilisation",
+ "legal_privacy": "Confidentialité",
+ "legal_rights": "Tes droits (RGPD)",
+ "copy": "© 2026 Mon chat peut&#8239;? · Fait par Dabi Keita, avec ses chats.",
+ "js": {
+  "foods": [
+   [
+    "Chocolat",
+    "du chocolat",
+    "non",
+    "chocolat|chocolat noir|chocolat au lait|nutella|cacao|brownie",
+    "Le chocolat contient de la théobromine et de la caféine, que le chat élimine très mal. Même un carré peut provoquer vomissements, tremblements et troubles du rythme cardiaque. Plus il est noir, plus il est dangereux."
+   ],
+   [
+    "Oignon",
+    "de l'oignon",
+    "non",
+    "oignon|oignons|oignon cuit|soupe a l'oignon",
+    "L'oignon, cru, cuit ou en poudre, abîme les globules rouges du chat et peut provoquer une anémie. Attention aux sauces, soupes et plats préparés qui en contiennent."
+   ],
+   [
+    "Ail",
+    "de l'ail",
+    "non",
+    "ail|gousse d'ail|pain a l'ail",
+    "Même famille que l'oignon, en plus concentré. L'ail attaque les globules rouges, et les effets peuvent n'apparaître que plusieurs jours après."
+   ],
+   [
+    "Poireau",
+    "du poireau",
+    "non",
+    "poireau|echalote|ciboulette|oignon vert",
+    "Comme l'oignon et l'ail, c'est un allium. Cru ou cuit, il est toxique pour les globules rouges du chat."
+   ],
+   [
+    "Raisin",
+    "du raisin",
+    "non",
+    "raisin|raisins secs|raisin sec",
+    "Le raisin est lié à des atteintes rénales graves chez le chien, et on ne connaît pas la dose dangereuse. Par précaution, jamais de raisin ni de raisins secs pour un chat."
+   ],
+   [
+    "Mafé",
+    "du mafé",
+    "non",
+    "mafe|maffe",
+    "Le mafé contient généralement de la pâte d'arachide riche en graisses et souvent des oignons, de l'ail et des épices. L'oignon et l'ail sont toxiques pour les chats, et les plats gras ou salés peuvent provoquer vomissements, diarrhée ou pancréatite."
+   ],
+   [
+    "Courgette",
+    "de la courgette",
+    "oui",
+    "courgette",
+    "La courgette n'est pas toxique pour les chats et peut être donnée en petite quantité, crue ou cuite. Elle est pauvre en nutriments essentiels pour le chat et doit rester un aliment occasionnel."
+   ],
+   [
+    "Thon",
+    "du thon",
+    "peu",
+    "thon|thon en boite|thon au naturel",
+    "Un morceau de thon au naturel de temps en temps, c'est OK. Tous les jours, non : trop de mercure, et un risque de carence en vitamine E. Évite le thon à l'huile ou salé."
+   ],
+   [
+    "Lait",
+    "du lait",
+    "non",
+    "lait|lait de vache|lait demi-ecreme|creme|creme fraiche",
+    "La plupart des chats adultes digèrent mal le lactose : ballonnements et diarrhée. Pour lui faire plaisir, il existe du lait spécial chat, sans lactose."
+   ],
+   [
+    "Fromage",
+    "du fromage",
+    "peu",
+    "fromage|emmental|comte|gruyere|parmesan|camembert",
+    "Un petit dé de fromage à pâte dure passe en général, il contient peu de lactose. Mais c'est gras et salé : une friandise rare, pas une habitude."
+   ],
+   [
+    "Yaourt nature",
+    "du yaourt",
+    "peu",
+    "yaourt|yaourt nature|yogourt|fromage blanc",
+    "Un peu de yaourt nature sans sucre est souvent bien toléré. Jamais aux fruits, ni avec des édulcorants."
+   ],
+   [
+    "Poulet cuit",
+    "du poulet",
+    "oui",
+    "poulet|poulet cuit|blanc de poulet|escalope",
+    "Le poulet cuit est une excellente source de protéines. Sans peau, sans os et sans assaisonnement : ni sel, ni ail, ni oignon."
+   ],
+   [
+    "Dinde cuite",
+    "de la dinde",
+    "oui",
+    "dinde|blanc de dinde",
+    "Cuite, nature et sans os, la dinde est une protéine maigre que les chats adorent. Évite la charcuterie de dinde, trop salée."
+   ],
+   [
+    "Bœuf cuit",
+    "du bœuf",
+    "oui",
+    "boeuf|steak|steak hache|viande hachee|viande",
+    "Le bœuf cuit, nature, est parfait. Cuis-le bien et sans assaisonnement."
+   ],
+   [
+    "Jambon",
+    "du jambon",
+    "peu",
+    "jambon|jambon blanc",
+    "Pas toxique, mais très salé et souvent plein de conservateurs. Un petit bout de temps en temps, pas plus."
+   ],
+   [
+    "Saucisson",
+    "du saucisson",
+    "non",
+    "saucisson|charcuterie|saucisse|chorizo|lardons|bacon",
+    "Trop gras, trop salé, et souvent assaisonné à l'ail. À garder pour toi."
+   ],
+   [
+    "Saumon cuit",
+    "du saumon",
+    "oui",
+    "saumon|saumon cuit|pave de saumon",
+    "Cuit, sans arêtes et sans assaisonnement, le saumon apporte des protéines et des oméga-3. Évite le saumon fumé, beaucoup trop salé."
+   ],
+   [
+    "Saumon fumé",
+    "du saumon fumé",
+    "non",
+    "saumon fume",
+    "Beaucoup trop salé pour un chat. Préfère un morceau de saumon cuit nature."
+   ],
+   [
+    "Poisson cru",
+    "du poisson cru",
+    "non",
+    "poisson cru|sushi|sashimi|tartare de poisson",
+    "Le poisson cru contient une enzyme qui détruit la vitamine B1 et peut transmettre des parasites. Cuit, c'est mieux."
+   ],
+   [
+    "Sardines",
+    "des sardines",
+    "peu",
+    "sardine|sardines|maquereau",
+    "À l'eau ou au naturel, sans sel ajouté : une bonne friandise de temps en temps. Évite les sardines à l'huile ou à la tomate."
+   ],
+   [
+    "Crevettes",
+    "des crevettes",
+    "oui",
+    "crevette|crevettes|gambas",
+    "Cuites, décortiquées et nature, les crevettes sont une friandise appréciée. Pas de crevettes crues, ni en sauce."
+   ],
+   [
+    "Œuf cuit",
+    "de l'œuf",
+    "oui",
+    "oeuf|oeufs|oeuf dur|oeuf cuit|omelette|oeufs brouilles",
+    "Un œuf cuit, dur ou brouillé sans sel ni beurre, apporte de bonnes protéines. Jamais cru : risque de salmonelle."
+   ],
+   [
+    "Œuf cru",
+    "de l'œuf cru",
+    "non",
+    "oeuf cru|jaune d'oeuf cru|blanc d'oeuf cru",
+    "Risque de salmonelle, et le blanc cru empêche l'absorption d'une vitamine (la biotine). Toujours cuit."
+   ],
+   [
+    "Os cuits",
+    "des os",
+    "non",
+    "os|os de poulet|os cuit|os cuits",
+    "Les os cuits éclatent en esquilles qui peuvent blesser la bouche, l'œsophage ou l'intestin."
+   ],
+   [
+    "Foie",
+    "du foie",
+    "peu",
+    "foie|foie de volaille|abats",
+    "Très riche en vitamine A. Un peu de temps en temps, c'est bien. Trop souvent, ça peut causer une hypervitaminose A."
+   ],
+   [
+    "Riz cuit",
+    "du riz",
+    "oui",
+    "riz|riz cuit|riz blanc",
+    "Le riz cuit nature se digère bien et dépanne en cas de petits troubles digestifs. Il n'apporte presque rien au chat : en complément seulement."
+   ],
+   [
+    "Pâtes",
+    "des pâtes",
+    "peu",
+    "pates|spaghetti|coquillettes",
+    "Cuites et nature, elles ne sont pas dangereuses, mais inutiles pour un carnivore. Jamais avec une sauce à l'ail ou à l'oignon."
+   ],
+   [
+    "Pain",
+    "du pain",
+    "peu",
+    "pain|baguette|pain de mie|croissant|brioche",
+    "Un petit bout de pain cuit ne pose pas de problème, mais n'apporte rien. La pâte crue, elle, est dangereuse : elle fermente dans l'estomac."
+   ],
+   [
+    "Pâte à pain crue",
+    "de la pâte crue",
+    "non",
+    "pate crue|pate a pain|pate a pizza crue|levure",
+    "La pâte crue gonfle et fermente dans l'estomac, et produit de l'alcool. Urgence vétérinaire."
+   ],
+   [
+    "Carotte",
+    "de la carotte",
+    "oui",
+    "carotte|carottes",
+    "Cuite et en petits morceaux, la carotte passe très bien. Crue, elle est dure à mâcher."
+   ],
+   [
+    "Concombre",
+    "du concombre",
+    "oui",
+    "concombre",
+    "Peu calorique et plein d'eau, le concombre est sans danger en petits morceaux."
+   ],
+   [
+    "Haricots verts",
+    "des haricots verts",
+    "oui",
+    "haricot vert|haricots verts|haricots",
+    "Cuits à l'eau et sans sel, ils peuvent même aider un chat au régime à se sentir rassasié."
+   ],
+   [
+    "Citrouille",
+    "de la citrouille",
+    "oui",
+    "citrouille|potiron|courge|butternut",
+    "Cuite et nature, la citrouille apporte des fibres qui aident le transit. Une cuillère à café suffit."
+   ],
+   [
+    "Petits pois",
+    "des petits pois",
+    "oui",
+    "petit pois|petits pois",
+    "Cuits, les petits pois sont sans danger. On en trouve d'ailleurs dans certaines croquettes."
+   ],
+   [
+    "Brocoli",
+    "du brocoli",
+    "oui",
+    "brocoli|brocolis",
+    "Cuit à la vapeur et en petite quantité, le brocoli est sans danger."
+   ],
+   [
+    "Épinards",
+    "des épinards",
+    "peu",
+    "epinard|epinards",
+    "Pas toxiques, mais riches en oxalates. À éviter complètement si ton chat a des problèmes urinaires ou rénaux."
+   ],
+   [
+    "Tomate",
+    "de la tomate",
+    "peu",
+    "tomate|tomates|tomate cerise",
+    "La chair d'une tomate bien mûre passe en petite quantité. Les feuilles, les tiges et les tomates vertes contiennent de la solanine : toxiques."
+   ],
+   [
+    "Pomme de terre",
+    "de la pomme de terre",
+    "peu",
+    "pomme de terre|patate|puree|frites",
+    "Cuite et nature, en petite quantité : OK. Crue ou verte, jamais, elle contient de la solanine. Les frites, trop grasses et salées, non plus."
+   ],
+   [
+    "Avocat",
+    "de l'avocat",
+    "non",
+    "avocat|guacamole",
+    "Très gras, et le noyau, la peau et les feuilles contiennent de la persine. Mieux vaut l'éviter complètement."
+   ],
+   [
+    "Pomme",
+    "de la pomme",
+    "peu",
+    "pomme|pommes|compote",
+    "Quelques petits morceaux sans peau, sans trognon ni pépins. Les pépins contiennent des composés cyanogènes."
+   ],
+   [
+    "Banane",
+    "de la banane",
+    "peu",
+    "banane",
+    "Pas toxique, mais très sucrée. Une rondelle de temps en temps, pas plus."
+   ],
+   [
+    "Melon",
+    "du melon",
+    "peu",
+    "melon",
+    "Beaucoup de chats adorent le melon. Quelques petits dés sans la peau, c'est OK, mais c'est sucré."
+   ],
+   [
+    "Pastèque",
+    "de la pastèque",
+    "peu",
+    "pasteque",
+    "Sans pépins ni écorce, quelques petits dés désaltèrent. Ça reste du sucre."
+   ],
+   [
+    "Fraise",
+    "des fraises",
+    "peu",
+    "fraise|fraises|framboise|framboises",
+    "Pas toxique. Quelques morceaux de temps en temps, sans plus."
+   ],
+   [
+    "Myrtilles",
+    "des myrtilles",
+    "oui",
+    "myrtille|myrtilles",
+    "Sans danger en petite quantité. Quelques baies suffisent."
+   ],
+   [
+    "Agrumes",
+    "de l'orange",
+    "non",
+    "orange|citron|pamplemousse|clementine|mandarine|agrume|agrumes",
+    "Les agrumes contiennent de l'acide citrique et des huiles essentielles qui irritent le système digestif. La plupart des chats détestent l'odeur, et c'est tant mieux."
+   ],
+   [
+    "Cerises",
+    "des cerises",
+    "non",
+    "cerise|cerises|abricot|peche|prune",
+    "Les noyaux, les tiges et les feuilles contiennent des composés cyanogènes, et un noyau avalé peut boucher l'intestin."
+   ],
+   [
+    "Fruits à coque",
+    "des noix",
+    "non",
+    "noix|amande|amandes|noisette|noisettes|macadamia|noix de cajou|pistache",
+    "Très gras et difficiles à digérer, et certains, comme la macadamia, sont toxiques chez le chien. Pas de fruits à coque."
+   ],
+   [
+    "Cacahuètes",
+    "des cacahuètes",
+    "non",
+    "cacahuete|cacahuetes|arachide|beurre de cacahuete",
+    "Pas toxiques en soi, mais très grasses, souvent salées, et certains beurres de cacahuète contiennent du xylitol. On évite."
+   ],
+   [
+    "Café",
+    "du café",
+    "non",
+    "cafe|expresso|capsule|the|the vert|matcha|energy drink|coca",
+    "La caféine est toxique pour le chat : agitation, cœur qui s'emballe, tremblements. Attention aussi au marc et aux dosettes."
+   ],
+   [
+    "Alcool",
+    "de l'alcool",
+    "non",
+    "alcool|vin|biere|rhum|champagne|tiramisu",
+    "Même une petite quantité d'alcool peut être grave pour un chat. Attention aussi aux desserts alcoolisés."
+   ],
+   [
+    "Lys",
+    "du lys",
+    "non",
+    "lys|lis|lilium",
+    "Pas un aliment, mais la question revient souvent : le lys est mortel pour le chat. Une feuille mâchonnée ou du pollen léché sur le pelage peut provoquer une insuffisance rénale aiguë."
+   ],
+   [
+    "Herbe à chat",
+    "de l'herbe à chat",
+    "oui",
+    "herbe a chat|cataire|herbe",
+    "C'est fait pour ça. Il peut la mâchonner, la renifler et se rouler dedans."
+   ],
+   [
+    "Croquettes pour chien",
+    "des croquettes pour chien",
+    "peu",
+    "croquettes pour chien|croquettes chien|patee pour chien",
+    "Pas toxiques, mais pas adaptées : elles manquent de taurine, indispensable au chat. Une fois par erreur, aucun souci."
+   ],
+   [
+    "Glace",
+    "de la glace",
+    "non",
+    "glace|creme glacee|sorbet",
+    "Lactose et sucre : mauvaise combinaison. Certaines glaces contiennent aussi du chocolat ou du xylitol."
+   ],
+   [
+    "Pizza",
+    "de la pizza",
+    "non",
+    "pizza|quiche|lasagnes|burger|kebab",
+    "Pâte, fromage gras, sauce à l'ail et à l'oignon, charcuterie : à peu près tout ce qu'il ne faut pas."
+   ],
+   [
+    "Maïs",
+    "du maïs",
+    "peu",
+    "mais|epi de mais|pop corn|popcorn",
+    "Cuit et nature, sans danger en petite quantité. Jamais l'épi, qui peut boucher l'intestin."
+   ],
+   [
+    "Huile d'olive",
+    "de l'huile d'olive",
+    "peu",
+    "huile|huile d'olive|beurre",
+    "Une goutte dans sa gamelle ne pose pas de problème. Trop, et c'est la diarrhée."
+   ],
+   [
+    "Chewing-gum",
+    "du chewing-gum",
+    "non",
+    "chewing-gum|chewing gum|bonbon|bonbons|xylitol",
+    "Souvent sucré au xylitol, et il peut faire s'étouffer. Hors de portée."
+   ],
+   [
+    "Champignons",
+    "des champignons",
+    "peu",
+    "champignon|champignons|champignon de paris",
+    "Les champignons de Paris du commerce, cuits et nature, passent en petite quantité. Les champignons sauvages, jamais."
+   ]
+  ],
+  "articles": "^(un peu d'|un peu de |du |de la |de l'|des |de |d'|le |la |les |l'|un |une )",
+  "verdict": {
+   "oui": {
+    "stamp": "Oui !",
+    "title": "Oui !",
+    "sub": "Cet aliment est OK pour ton chat."
+   },
+   "peu": {
+    "stamp": "Un peu",
+    "title": "Un peu.",
+    "sub": "En petite quantité, de temps en temps."
+   },
+   "non": {
+    "stamp": "Non !",
+    "title": "Non !",
+    "sub": "Ne donne pas cet aliment."
+   },
+   "q": {
+    "stamp": "Hmm…",
+    "title": "Hmm…",
+    "sub": "Pas encore dans cette démo."
+   }
+  },
+  "unknownReason": "Celui-là n'est pas dans la démo. Dans l'app, prends-le en photo : l'IA identifie le plat et ses ingrédients.",
+  "unknownWhy": "Prends-le en photo ou décris le plat : l'IA repère les ingrédients (oignon, ail, sel…) et te répond en quelques secondes.",
+  "unknownFood": "Ton plat",
+  "chips": [
+   [
+    "du thon",
+    "Thon"
+   ],
+   [
+    "du fromage",
+    "Fromage"
+   ],
+   [
+    "du lait",
+    "Lait"
+   ],
+   [
+    "du poulet",
+    "Poulet"
+   ],
+   [
+    "du concombre",
+    "Concombre"
+   ],
+   [
+    "du raisin",
+    "Raisin"
+   ],
+   [
+    "de l'avocat",
+    "Avocat"
+   ],
+   [
+    "de la citrouille",
+    "Citrouille"
+   ],
+   [
+    "de l'œuf",
+    "Œuf"
+   ],
+   [
+    "de la pizza",
+    "Pizza"
+   ]
+  ],
+  "count": "Démo avec {n} aliments. L'app, elle, reconnaît aussi tes plats en photo.",
+  "demo": [
+   "de la courgette",
+   "du thon",
+   "du mafé",
+   "du chocolat"
+  ],
+  "placeholder": "un aliment",
+  "gaId": "G-KJ70YT6VBH"
+ }
+}
