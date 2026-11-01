@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{page_title}}</title>
+<meta name="description" content="{{page_description}}">
+<link rel="canonical" href="{{page_url}}">
+<link rel="alternate" hreflang="fr" href="{{page_url_fr}}">
+<link rel="alternate" hreflang="en" href="{{page_url_en}}">
+<link rel="alternate" hreflang="x-default" href="{{page_url_fr}}">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#FFF4E8">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Mon chat peut ?">
+<meta property="og:locale" content="{{locale}}">
+<meta property="og:url" content="{{page_url}}">
+<meta property="og:title" content="{{page_title}}">
+<meta property="og:description" content="{{page_description}}">
+<meta property="og:image" content="https://mon-chat-peut.com{{og_image}}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="/assets/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/figtree-latin.woff2" as="font" type="font/woff2" crossorigin>
+<script type="application/ld+json">{{page_jsonld}}</script>
+<style>
+{{css}}
+</style>
+</head>
+<body>
+<!-- Page générée par build.py à partir de src/legal.html et src/legal/ : modifier src/, puis lancer python3 build.py -->
+<a class="skip" href="#contenu">{{skip}}</a>
+
+<header class="site-head">
+  <div class="wrap">
+    <a class="logo" href="{{home_href}}" aria-label="{{nav_home_label}}">Mon chat peut<img src="/img/logo.webp" width="81" height="120" alt=""></a>
+    <nav class="nav-links" aria-label="{{legal_label}}">
+      <a href="{{legal_terms_href}}">{{legal_terms}}</a>
+      <a href="{{legal_privacy_href}}">{{legal_privacy}}</a>
+      <a href="{{legal_rights_href}}">{{legal_rights}}</a>
+    </nav>
+    <a class="lang" href="{{lang_href}}" hreflang="{{lang_other}}" lang="{{lang_other}}" aria-label="{{lang_label}}">{{lang_code}}</a>
+    <a class="btn" href="{{store_href}}" rel="noopener">{{download}}</a>
+  </div>
+</header>
+
+<main class="legal" id="contenu">
+  <div class="wrap">
+    <a class="crumb" href="{{home_href}}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>{{legal_back}}</a>
+    <div class="legal-head">
+      <p class="eyebrow">{{legal_eyebrow}}</p>
+      <h1>{{page_h1}}</h1>
+      <p class="updated">{{legal_updated}}</p>
+    </div>
+    <article class="prose">
+{{page_content}}
+    </article>
+    <nav class="legal-other" aria-label="{{legal_other}}">
+      <p>{{legal_other}}</p>
+      {{page_others}}
+    </nav>
+  </div>
+</main>
+
+{{footer}}
+</body>
+</html>

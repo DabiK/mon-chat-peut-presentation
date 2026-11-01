@@ -2,23 +2,27 @@
 
 Landing page de l'app [Mon chat peut ?](https://play.google.com/store/apps/details?id=com.dabik.monchatpeut), en ligne sur https://mon-chat-peut.com (français) et https://mon-chat-peut.com/en/ (anglais).
 
-## Modifier la page
+## Modifier le site
 
-Les pages `index.html` et `en/index.html` sont générées. On modifie les sources dans `src/`, puis on régénère :
+Toutes les pages HTML sont générées : la landing (`index.html`, `en/index.html`) et les pages légales (`privacy-policy.html`, `terms-of-service.html`, `user-rights.html` et leurs versions dans `en/`). On modifie les sources dans `src/`, puis on régénère :
 
 ```bash
 python3 build.py
 ```
 
-- `src/template.html` : le balisage, avec des clés `{{nom}}`
-- `src/i18n/fr.json` et `src/i18n/en.json` : les textes et les aliments de la démo (mêmes clés dans les deux fichiers)
-- `src/styles.css` et `src/app.js` : intégrés dans chaque page au build, pour éviter des requêtes bloquantes
-- `img/` : illustrations en WebP, images de partage `og-fr.png` et `og-en.png`
-- `assets/fonts/` : Gluten, Figtree et DM Mono, hébergées ici (licence SIL OFL)
+- `src/template.html` : la landing, avec des clés `{{nom}}`
+- `src/legal.html` : le gabarit des pages légales ; `src/legal/fr/*.html` et `src/legal/en/*.html` : leur contenu
+- `src/footer.html` : le pied de page, commun à toutes les pages
+- `src/i18n/fr.json` et `src/i18n/en.json` : les textes, les titres et descriptions des pages légales et les aliments de la démo (mêmes clés dans les deux fichiers)
+- `src/base.css` (polices, couleurs, en-tête, pied de page), `src/landing.css`, `src/legal.css` et `src/app.js` : intégrés dans chaque page au build, pour éviter des requêtes bloquantes
+- `img/` : illustrations de Vivi en WebP, images de partage `og-carnet-fr.png` et `og-carnet-en.png`
+- `assets/fonts/` : Bricolage Grotesque (titres), Figtree (texte) et DM Mono (étiquettes), hébergées ici (licence SIL OFL)
 
-`build.py` régénère aussi `sitemap.xml`, puis recopie dans `dist/` tout ce qui est publié : les pages, `img/`, `assets/fonts/`, les icônes, `robots.txt`, `sitemap.xml`, les pages légales et `_headers`. `src/`, les notes `.md` et `build.py` n'y vont pas. `dist/` n'est pas versionné.
+Direction visuelle « Le carnet de Vivi » : les couleurs sont prises sur Vivi (roux `#F7813A`, crème `#FFF4E8`, pêche `#FCE4CC`, rayure `#9C3C18`, cacao `#3A2A22` pour le texte, menthe de sa gamelle pour le « oui »), formes arrondies, tampon oui / un peu / non. Elles sont définies dans `src/base.css`.
 
-Les pages légales (`privacy-policy.html`, `terms-of-service.html`, `user-rights.html`) sont écrites à la main. Cloudflare les sert sans l'extension (`/privacy-policy`) ; les anciennes adresses en `.html` redirigent vers les nouvelles.
+`build.py` régénère aussi `sitemap.xml` (chaque page avec sa traduction), puis recopie dans `dist/` tout ce qui est publié : les pages, `img/`, `assets/fonts/`, les icônes, `robots.txt`, `sitemap.xml` et `_headers`. `src/`, les notes `.md` et `build.py` n'y vont pas. `dist/` n'est pas versionné.
+
+Cloudflare sert les pages sans l'extension (`/privacy-policy`, `/en/privacy-policy`) ; les anciennes adresses en `.html` redirigent vers les nouvelles.
 
 ## Déployer
 

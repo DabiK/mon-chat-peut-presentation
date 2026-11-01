@@ -1,625 +1,704 @@
 {
- "lang": "en",
- "lang_other": "fr",
- "locale": "en_US",
- "locale_alt": "fr_FR",
- "url": "https://mon-chat-peut.com/en/",
- "title": "Mon chat peut ? · Can my cat eat this? Answers in 3 seconds",
- "description": "Type any food: the Mon chat peut ? app tells you in 3 seconds whether your cat can eat it, why, and how much. Meal plans and weight tracking included.",
- "og_title": "Can my cat eat chocolate?",
- "og_desc": "Type any food: the app tells you in 3 seconds whether your cat can eat it, why, and how much.",
- "og_alt": "Can my cat eat chocolate? No! Vivi, the app's cat, sulks.",
- "nav_home_label": "Mon chat peut ?, home",
- "nav_top_label": "Mon chat peut ?, back to top",
- "nav_sections": "Sections",
- "nav_test": "Try it",
- "nav_day": "A day",
- "nav_faq": "Questions",
- "lang_href": "/",
- "lang_code": "FR",
- "lang_label": "Version française",
- "lang_name": "Français",
- "download": "Download",
- "h1": "Mon chat peut ? Find out in 3 seconds whether your cat can eat a food, and why.",
- "q_lead": "Can my cat eat",
- "q_label": "Food to check",
- "q_value": "chocolate",
- "q_placeholder": "a food",
- "stamp_init": "No!",
- "reason_init": "Chocolate contains theobromine and caffeine, which cats get rid of very poorly.",
- "picks_label": "Type a food into the sentence, or try:",
- "count_init": "Demo with 60 foods. The app also recognizes your dishes from a photo.",
- "s_title_init": "No!",
- "s_sub_init": "Don't give this food.",
- "s_food_init": "Chocolate",
- "again": "Try another food",
- "moment_alt": "Seen from the table: a fork holds a piece of salmon, and Vivi stares at it over the edge of the table.",
- "moment_title": "Your cat is staring. You're holding the fork.",
- "moment_lede": "So you google “can my cat eat tuna”. Ten tabs later, here's what you've got:",
- "snip1_src": "A forum, 2014",
- "snip1": "Tuna is their favorite, go for it!",
- "snip2_src": "A pet blog",
- "snip2": "NEVER give tuna, it's full of mercury.",
- "snip3_src": "Your brother-in-law",
- "snip3": "A little is fine, just not in oil. Or maybe it is?",
- "snip4_src": "A video, 1.2M views",
- "snip4": "Mine has eaten it every day for 15 years.",
- "answer_title": "A little.",
- "answer_text": "A bit of plain tuna now and then is fine. Every day, no: too much mercury, and a risk of vitamin E deficiency.",
- "answer_src": "The app's answer, in 3 seconds.",
- "day_title": "A day with Vivi",
- "day_lede": "Vivi is on a diet. Scroll through her day: the app is there from the first meal to the bedtime read.",
- "ds_plans": "My plans",
- "ds_loss": "Weight loss",
- "ds_active": "Active",
- "ds_kcal_left": "kcal left",
- "ds_per_day": "per day",
- "ds_weight_now": "current weight",
- "ds_weight_val": "4.8&#8239;kg",
- "tag1": "Peanut",
- "tag2": "Onion",
- "tag3": "Garlic",
- "ds_verdict_title": "No!",
- "ds_verdict_text": "Mafé: onion and garlic are toxic.",
- "ds_check_title": "Evening check-in",
- "ds_kibble": "Kibble",
- "ds_treats": "Treats",
- "ds_water": "Fresh water",
- "ds_vivi_weight": "Vivi's weight",
- "w_old": "4.8",
- "w_new": "4.9",
- "ds_adjust": "Plan adjusted: −3% calories, due to weight gain.",
- "read_tag1": "health",
- "read_tag2": "beginner",
- "read_title": "Signs of good hydration",
- "read_meta": "4 min read",
- "read_body": "Hydration is key to your cat's kidney and urinary health. Here's how to spot the good signs.",
- "chart_title": "Weekly review",
- "chart_big": "−0.5&#8239;kg",
- "chart_small": "over 8 weeks",
- "chart_goal": "goal 4.3&#8239;kg",
- "chart_start": "5.3&#8239;kg",
- "chart_end": "4.8&#8239;kg",
- "chart_w1": "wk 1",
- "chart_w8": "wk 8",
- "m_p": "Protein 46%",
- "m_l": "Fat 23%",
- "m_g": "Carbs 31%",
- "step1_title": "Today's plan",
- "step1_text": "Age, weight, goal: the app works out her portion. For Vivi, 44&#8239;g of kibble and 176&#8239;kcal a day.",
- "step2_title": "Eyeing your plate",
- "step2_text": "You snap a photo of your mafé. The AI spots peanut, onion and garlic, and answers: no.",
- "step3_title": "The check-in",
- "step3_text": "You log her meals and her weight. Vivi gained 100&#8239;g: the plan adjusts on its own, −3% calories.",
- "step4_title": "A guide before bed",
- "step4_text": "Hydration, kibble, ideal weight: 4-minute guides, written simply.",
- "step5_clock": "Sun.",
- "step5_time": "Sunday",
- "step5_title": "The weekly review",
- "step5_text": "Her weight curve and the protein, fat and carb split. Vivi lost 500&#8239;g in 8 weeks.",
- "founder_title": "I built this app for my own cats.",
- "founder_text": "Every evening, the same question over my plate. Online lists contradicted each other, and forums even more so. I wanted a clear answer, with the reason and the right amount, in a few seconds. Then a plan to keep them in shape.",
- "founder_role": "Creator of Mon chat peut ?",
- "founder_alt": "Dabi, the app's creator, in a black hoodie, gesturing toward the message.",
- "faq_title": "What people ask us most",
- "faq1_q": "Does it replace my vet?",
- "faq1_a": "No. The app helps with everyday decisions. If your cat has swallowed something toxic, call your vet or an animal poison control center right away, without waiting for symptoms.",
- "faq2_q": "How does the app recognize a dish?",
- "faq2_a": "Take a photo or type its name. The AI identifies the food and its likely ingredients (onion, garlic, salt…), then gives you the verdict with an explanation.",
- "faq3_q": "I have several cats. Does it work?",
- "faq3_a": "Yes. Each cat has its own profile: age, weight, goal, meal plan and tracking. Switch between them in one tap.",
- "faq4_q": "What about iPhone?",
- "faq4_a": "Not yet. The app is available on Android, and the iPhone version is coming soon.",
- "faq5_q": "What happens to my data?",
- "faq5_a": "We only collect what the app needs. You can view, correct or delete your account and your cats' data at any time (GDPR).",
- "final_title": "Next time your cat stares at you during dinner, you'll know.",
- "store_href": "https://play.google.com/store/apps/details?id=com.dabik.monchatpeut&amp;hl=en",
- "store_small": "Get it on",
- "final_fine": "Available on Android. The iPhone version is coming soon.",
- "legal_label": "Legal information",
- "legal_terms": "Terms of use (FR)",
- "legal_privacy": "Privacy (FR)",
- "legal_rights": "Your rights, GDPR (FR)",
- "copy": "© 2026 Mon chat peut ? · Made by Dabi Keita, with a little help from the cats.",
- "js": {
-  "foods": [
-   [
-    "Chocolate",
-    "chocolate",
-    "non",
-    "chocolate|dark chocolate|milk chocolate|cocoa|brownie|nutella",
-    "Chocolate contains theobromine and caffeine, which cats get rid of very poorly. Even a single square can cause vomiting, tremors and heart rhythm problems. The darker it is, the more dangerous."
-   ],
-   [
-    "Onion",
-    "onion",
-    "non",
-    "onion|onions|cooked onion|onion soup|onion powder",
-    "Raw, cooked or powdered, onion damages a cat's red blood cells and can cause anemia. Watch out for sauces, soups and ready meals that contain it."
-   ],
-   [
-    "Garlic",
-    "garlic",
-    "non",
-    "garlic|garlic bread|garlic clove",
-    "Same family as onion, but more concentrated. Garlic attacks red blood cells, and the effects can take several days to show."
-   ],
-   [
-    "Leek",
-    "leeks",
-    "non",
-    "leek|leeks|shallot|shallots|chives|spring onion|scallion|scallions",
-    "Like onion and garlic, it's an allium. Raw or cooked, it's toxic to a cat's red blood cells."
-   ],
-   [
-    "Grapes",
-    "grapes",
-    "non",
-    "grape|grapes|raisin|raisins|sultanas",
-    "Grapes are linked to serious kidney damage in dogs, and no one knows the dangerous dose. To be safe, never give a cat grapes or raisins."
-   ],
-   [
-    "Mafé",
-    "mafé",
-    "non",
-    "mafe|maafe|peanut stew",
-    "Mafé usually contains fatty peanut paste, and often onions, garlic and spices. Onion and garlic are toxic to cats, and fatty or salty dishes can cause vomiting, diarrhea or pancreatitis."
-   ],
-   [
-    "Zucchini",
-    "zucchini",
-    "oui",
-    "zucchini|zucchinis|courgette|courgettes",
-    "Zucchini isn't toxic to cats and can be given in small amounts, raw or cooked. It has few of the nutrients a cat needs, so keep it occasional."
-   ],
-   [
-    "Tuna",
-    "tuna",
-    "peu",
-    "tuna|canned tuna|tinned tuna",
-    "A bit of plain tuna now and then is fine. Every day, no: too much mercury, and a risk of vitamin E deficiency. Avoid tuna in oil or brine."
-   ],
-   [
-    "Milk",
-    "milk",
-    "non",
-    "milk|cow milk|cows milk|cream",
-    "Most adult cats digest lactose poorly: bloating and diarrhea. If you want to treat them, there is lactose-free cat milk."
-   ],
-   [
-    "Cheese",
-    "cheese",
-    "peu",
-    "cheese|cheddar|parmesan|emmental|camembert|brie",
-    "A small cube of hard cheese is usually fine, since it has little lactose. But it's fatty and salty: a rare treat, not a habit."
-   ],
-   [
-    "Plain yogurt",
-    "plain yogurt",
-    "peu",
-    "yogurt|yoghurt|plain yogurt|greek yogurt|cottage cheese",
-    "A little plain, unsweetened yogurt is often well tolerated. Never fruit yogurt, and never with sweeteners."
-   ],
-   [
-    "Cooked chicken",
-    "chicken",
-    "oui",
-    "chicken|cooked chicken|chicken breast",
-    "Cooked chicken is an excellent source of protein. Skinless, boneless and unseasoned: no salt, no garlic, no onion."
-   ],
-   [
-    "Cooked turkey",
-    "turkey",
-    "oui",
-    "turkey|turkey breast",
-    "Cooked, plain and boneless, turkey is a lean protein cats love. Skip turkey deli meat, which is too salty."
-   ],
-   [
-    "Cooked beef",
-    "beef",
-    "oui",
-    "beef|steak|ground beef|minced beef|meat",
-    "Plain cooked beef is perfect. Cook it through, with no seasoning."
-   ],
-   [
-    "Ham",
-    "ham",
-    "peu",
-    "ham",
-    "Not toxic, but very salty and often full of preservatives. A small piece once in a while, no more."
-   ],
-   [
-    "Salami",
-    "salami",
-    "non",
-    "salami|sausage|sausages|chorizo|bacon|pepperoni|deli meat",
-    "Too fatty, too salty, and often seasoned with garlic. Keep it for yourself."
-   ],
-   [
-    "Cooked salmon",
-    "salmon",
-    "oui",
-    "salmon|cooked salmon|salmon fillet",
-    "Cooked, boneless and unseasoned, salmon provides protein and omega-3s. Avoid smoked salmon, which is far too salty."
-   ],
-   [
-    "Smoked salmon",
-    "smoked salmon",
-    "non",
-    "smoked salmon|lox",
-    "Far too salty for a cat. Go for a piece of plain cooked salmon instead."
-   ],
-   [
-    "Raw fish",
-    "raw fish",
-    "non",
-    "raw fish|sushi|sashimi|fish tartare|ceviche",
-    "Raw fish contains an enzyme that destroys vitamin B1 and can carry parasites. Cooked is better."
-   ],
-   [
-    "Sardines",
-    "sardines",
-    "peu",
-    "sardine|sardines|mackerel",
-    "In water, with no added salt: a good treat now and then. Avoid sardines in oil or tomato sauce."
-   ],
-   [
-    "Shrimp",
-    "shrimp",
-    "oui",
-    "shrimp|shrimps|prawn|prawns",
-    "Cooked, peeled and plain, shrimp is a much-loved treat. No raw shrimp, and nothing in sauce."
-   ],
-   [
-    "Cooked eggs",
-    "eggs",
-    "oui",
-    "egg|eggs|boiled egg|cooked egg|scrambled eggs|omelette|omelet",
-    "A cooked egg, hard-boiled or scrambled without salt or butter, provides good protein. Never raw: risk of salmonella."
-   ],
-   [
-    "Raw eggs",
-    "raw eggs",
-    "non",
-    "raw egg|raw eggs|raw egg yolk|raw egg white",
-    "Risk of salmonella, and raw egg white blocks the absorption of a vitamin (biotin). Always cooked."
-   ],
-   [
-    "Cooked bones",
-    "bones",
-    "non",
-    "bone|bones|chicken bones|cooked bones",
-    "Cooked bones splinter into shards that can injure the mouth, esophagus or gut."
-   ],
-   [
-    "Liver",
-    "liver",
-    "peu",
-    "liver|chicken liver|offal",
-    "Very rich in vitamin A. A little now and then is good. Too often, it can cause vitamin A toxicity."
-   ],
-   [
-    "Cooked rice",
-    "rice",
-    "oui",
-    "rice|cooked rice|white rice",
-    "Plain cooked rice is easy to digest and helps with minor tummy trouble. It gives a cat almost nothing, so only as a side."
-   ],
-   [
-    "Pasta",
-    "pasta",
-    "peu",
-    "pasta|spaghetti|noodles",
-    "Cooked and plain, it's not dangerous, but useless for a carnivore. Never with garlic or onion sauce."
-   ],
-   [
-    "Bread",
-    "bread",
-    "peu",
-    "bread|baguette|toast|croissant|brioche",
-    "A small piece of baked bread is no problem, but adds nothing. Raw dough, on the other hand, is dangerous: it ferments in the stomach."
-   ],
-   [
-    "Raw dough",
-    "raw dough",
-    "non",
-    "raw dough|bread dough|pizza dough|yeast",
-    "Raw dough swells and ferments in the stomach, producing alcohol. It's a vet emergency."
-   ],
-   [
-    "Carrot",
-    "carrots",
-    "oui",
-    "carrot|carrots",
-    "Cooked and cut small, carrot goes down well. Raw, it's hard to chew."
-   ],
-   [
-    "Cucumber",
-    "cucumber",
-    "oui",
-    "cucumber|cucumbers",
-    "Low in calories and full of water, cucumber is safe in small pieces."
-   ],
-   [
-    "Green beans",
-    "green beans",
-    "oui",
-    "green bean|green beans|beans",
-    "Boiled and unsalted, they can even help a cat on a diet feel full."
-   ],
-   [
-    "Pumpkin",
-    "pumpkin",
-    "oui",
-    "pumpkin|squash|butternut",
-    "Cooked and plain, pumpkin brings fiber that helps digestion. A teaspoon is enough."
-   ],
-   [
-    "Peas",
-    "peas",
-    "oui",
-    "pea|peas|green peas",
-    "Cooked peas are safe. You'll even find them in some kibble."
-   ],
-   [
-    "Broccoli",
-    "broccoli",
-    "oui",
-    "broccoli",
-    "Steamed and in small amounts, broccoli is safe."
-   ],
-   [
-    "Spinach",
-    "spinach",
-    "peu",
-    "spinach",
-    "Not toxic, but rich in oxalates. Avoid it completely if your cat has urinary or kidney problems."
-   ],
-   [
-    "Tomato",
-    "tomatoes",
-    "peu",
-    "tomato|tomatoes|cherry tomato|cherry tomatoes",
-    "The flesh of a ripe tomato is fine in small amounts. The leaves, stems and green tomatoes contain solanine: toxic."
-   ],
-   [
-    "Potato",
-    "potatoes",
-    "peu",
-    "potato|potatoes|mashed potatoes|fries|chips",
-    "Cooked and plain, in small amounts: OK. Raw or green, never, it contains solanine. Fries, too fatty and salty, are out as well."
-   ],
-   [
-    "Avocado",
-    "avocado",
-    "non",
-    "avocado|guacamole",
-    "Very fatty, and the pit, skin and leaves contain persin. Best avoided entirely."
-   ],
-   [
-    "Apple",
-    "apples",
-    "peu",
-    "apple|apples|applesauce",
-    "A few small pieces, peeled, without core or seeds. The seeds contain cyanogenic compounds."
-   ],
-   [
-    "Banana",
-    "bananas",
-    "peu",
-    "banana|bananas",
-    "Not toxic, but very sugary. One slice now and then, no more."
-   ],
-   [
-    "Melon",
-    "melon",
-    "peu",
-    "melon|cantaloupe|honeydew",
-    "Lots of cats love melon. A few small cubes without the rind are OK, but it's sugary."
-   ],
-   [
-    "Watermelon",
-    "watermelon",
-    "peu",
-    "watermelon",
-    "Seedless and without the rind, a few small cubes are refreshing. It's still sugar."
-   ],
-   [
-    "Strawberries",
-    "strawberries",
-    "peu",
-    "strawberry|strawberries|raspberry|raspberries",
-    "Not toxic. A few pieces once in a while, no more."
-   ],
-   [
-    "Blueberries",
-    "blueberries",
-    "oui",
-    "blueberry|blueberries",
-    "Safe in small amounts. A few berries are plenty."
-   ],
-   [
-    "Citrus",
-    "oranges",
-    "non",
-    "orange|oranges|lemon|lemons|grapefruit|clementine|mandarin|lime|citrus",
-    "Citrus fruits contain citric acid and essential oils that irritate the digestive system. Most cats hate the smell, and that's a good thing."
-   ],
-   [
-    "Cherries",
-    "cherries",
-    "non",
-    "cherry|cherries|apricot|apricots|peach|peaches|plum|plums",
-    "The pits, stems and leaves contain cyanogenic compounds, and a swallowed pit can block the gut."
-   ],
-   [
-    "Nuts",
-    "nuts",
-    "non",
-    "nut|nuts|walnut|walnuts|almond|almonds|hazelnut|hazelnuts|macadamia|cashew|cashews|pistachio|pistachios",
-    "Very fatty and hard to digest, and some, like macadamia, are toxic to dogs. No nuts."
-   ],
-   [
-    "Peanuts",
-    "peanuts",
-    "non",
-    "peanut|peanuts|peanut butter",
-    "Not toxic in themselves, but very fatty, often salted, and some peanut butters contain xylitol. Best avoided."
-   ],
-   [
-    "Coffee",
-    "coffee",
-    "non",
-    "coffee|espresso|tea|green tea|matcha|energy drink|cola|coke",
-    "Caffeine is toxic to cats: agitation, racing heart, tremors. Watch out for coffee grounds and pods too."
-   ],
-   [
-    "Alcohol",
-    "alcohol",
-    "non",
-    "alcohol|wine|beer|rum|vodka|champagne|tiramisu",
-    "Even a small amount of alcohol can be serious for a cat. Watch out for boozy desserts too."
-   ],
-   [
-    "Lilies",
-    "lilies",
-    "non",
-    "lily|lilies|lilium",
-    "Not a food, but the question comes up often: lilies are deadly to cats. A chewed leaf or pollen licked off the fur can cause acute kidney failure."
-   ],
-   [
-    "Catnip",
-    "catnip",
-    "oui",
-    "catnip|cat grass|grass",
-    "That's what it's for. They can chew it, sniff it and roll in it."
-   ],
-   [
-    "Dog food",
-    "dog food",
-    "peu",
-    "dog food|dog kibble|kibble for dogs",
-    "Not toxic, but not suitable: it lacks taurine, which cats need. Once by mistake is no problem."
-   ],
-   [
-    "Ice cream",
-    "ice cream",
-    "non",
-    "ice cream|gelato|sorbet",
-    "Lactose and sugar: a bad combination. Some ice creams also contain chocolate or xylitol."
-   ],
-   [
-    "Pizza",
-    "pizza",
-    "non",
-    "pizza|quiche|lasagna|lasagne|burger|kebab",
-    "Dough, fatty cheese, sauce with garlic and onion, cured meat: pretty much everything you shouldn't."
-   ],
-   [
-    "Corn",
-    "corn",
-    "peu",
-    "corn|sweetcorn|corn on the cob|popcorn",
-    "Cooked and plain, safe in small amounts. Never the cob, which can block the gut."
-   ],
-   [
-    "Olive oil",
-    "olive oil",
-    "peu",
-    "oil|olive oil|butter",
-    "A drop in the bowl is no problem. Too much, and it's diarrhea."
-   ],
-   [
-    "Chewing gum",
-    "chewing gum",
-    "non",
-    "chewing gum|gum|candy|sweets|xylitol",
-    "Often sweetened with xylitol, and a choking hazard. Keep it out of reach."
-   ],
-   [
-    "Mushrooms",
-    "mushrooms",
-    "peu",
-    "mushroom|mushrooms|button mushrooms",
-    "Store-bought button mushrooms, cooked and plain, are fine in small amounts. Wild mushrooms, never."
-   ]
-  ],
-  "articles": "^(a little |a bit of |some |a |an |the |any |my )",
-  "verdict": {
-   "oui": {
-    "stamp": "Yes!",
-    "title": "Yes!",
-    "sub": "This food is OK for your cat."
-   },
-   "peu": {
-    "stamp": "A bit",
-    "title": "A little.",
-    "sub": "Small amounts, once in a while."
-   },
-   "non": {
-    "stamp": "No!",
-    "title": "No!",
-    "sub": "Don't give this food."
-   },
-   "q": {
-    "stamp": "Hmm…",
-    "title": "Hmm…",
-    "sub": "Not in this demo yet."
-   }
+  "lang": "en",
+  "lang_other": "fr",
+  "locale": "en_US",
+  "locale_alt": "fr_FR",
+  "url": "https://mon-chat-peut.com/en/",
+  "title": "Mon chat peut ? · Can my cat eat this? Answers in 3 seconds",
+  "description": "Type any food: the Mon chat peut ? app tells you in 3 seconds whether your cat can eat it, why, and how much. Meal plans and weight tracking included.",
+  "og_title": "Can my cat eat chocolate?",
+  "og_desc": "Type any food: the app tells you in 3 seconds whether your cat can eat it, why, and how much.",
+  "og_alt": "Can my cat eat chocolate? No! Vivi, the app's cat, sulks.",
+  "nav_home_label": "Mon chat peut ?, home",
+  "nav_top_label": "Mon chat peut ?, back to top",
+  "nav_sections": "Sections",
+  "nav_test": "Try it",
+  "nav_day": "A day",
+  "nav_faq": "Questions",
+  "lang_href": "/",
+  "lang_code": "FR",
+  "lang_label": "Version française",
+  "lang_name": "Français",
+  "download": "Download",
+  "h1": "Mon chat peut ? Find out in 3 seconds whether your cat can eat a food, and why.",
+  "q_lead": "Can my cat eat",
+  "q_label": "Food to check",
+  "q_value": "chocolate",
+  "q_placeholder": "a food",
+  "stamp_init": "No!",
+  "reason_init": "Chocolate contains theobromine and caffeine, which cats get rid of very poorly.",
+  "picks_label": "Type a food into the sentence, or try:",
+  "count_init": "Demo with {n} foods. The app also recognizes dishes from a photo and reads barcodes.",
+  "s_food_init": "Chocolate",
+  "moment_alt": "Seen from the table: a fork holds a piece of salmon, and Vivi stares at it over the edge of the table.",
+  "moment_title": "Your cat is staring. You're holding the fork.",
+  "moment_lede": "So you google “can my cat eat tuna”. Ten tabs later, here's what you've got:",
+  "snip1_src": "A forum, 2014",
+  "snip1": "Tuna is their favorite, go for it!",
+  "snip2_src": "A pet blog",
+  "snip2": "NEVER give tuna, it's full of mercury.",
+  "snip3_src": "Your brother-in-law",
+  "snip3": "A little is fine, just not in oil. Or maybe it is?",
+  "snip4_src": "A video, 1.2M views",
+  "snip4": "Mine has eaten it every day for 15 years.",
+  "answer_title": "A little.",
+  "answer_text": "A bit of plain tuna now and then is fine. Every day, no: too much mercury, and a risk of vitamin E deficiency.",
+  "answer_src": "The app's answer, in 3 seconds.",
+  "day_title": "A day with Vivi",
+  "day_lede": "Vivi is on a diet. Scroll through her day: the app is there from the first meal to the bedtime read.",
+  "ds_plans": "My plans",
+  "ds_loss": "Weight loss",
+  "ds_active": "Active",
+  "ds_kcal_left": "kcal left",
+  "ds_per_day": "per day",
+  "ds_weight_now": "current weight",
+  "ds_weight_val": "4.8&#8239;kg",
+  "tag1": "Peanut",
+  "tag2": "Onion",
+  "tag3": "Garlic",
+  "ds_verdict_title": "No!",
+  "ds_verdict_text": "Mafé: onion and garlic are toxic.",
+  "ds_check_title": "Evening check-in",
+  "ds_kibble": "Kibble",
+  "ds_treats": "Treats",
+  "ds_water": "Fresh water",
+  "ds_vivi_weight": "Vivi's weight",
+  "w_new": "4.9",
+  "ds_adjust": "Plan adjusted: −3% calories, due to weight gain.",
+  "read_tag1": "health",
+  "read_tag2": "beginner",
+  "read_title": "Signs of good hydration",
+  "read_meta": "4 min read",
+  "read_body": "Hydration is key to your cat's kidney and urinary health. Here's how to spot the good signs.",
+  "chart_title": "Weekly review",
+  "chart_big": "−0.5&#8239;kg",
+  "chart_small": "over 8 weeks",
+  "chart_goal": "goal 4.3&#8239;kg",
+  "chart_start": "5.3&#8239;kg",
+  "chart_end": "4.8&#8239;kg",
+  "chart_w1": "wk 1",
+  "chart_w8": "wk 8",
+  "m_p": "Protein 46%",
+  "m_l": "Fat 23%",
+  "m_g": "Carbs 31%",
+  "step1_title": "Today's plan",
+  "step1_text": "Age, weight, goal: the app works out her portion. For Vivi, 44&#8239;g of kibble and 176&#8239;kcal a day.",
+  "step2_title": "Eyeing your plate",
+  "step2_text": "You snap a photo of your mafé. The AI spots peanut, onion and garlic, and answers: no.",
+  "step3_title": "The check-in",
+  "step3_text": "You log her meals and her weight. Vivi gained 100&#8239;g: the plan adjusts on its own, −3% calories.",
+  "step4_title": "A guide before bed",
+  "step4_text": "Hydration, kibble, ideal weight: 4-minute guides, written simply.",
+  "step5_clock": "Sun.",
+  "step5_time": "Sunday",
+  "step5_title": "The weekly review",
+  "step5_text": "Her weight curve and the protein, fat and carb split. Vivi lost 500&#8239;g in 8 weeks.",
+  "founder_title": "I built this app for my own cats.",
+  "founder_text": "Every evening, the same question over my plate. Online lists contradicted each other, and forums even more so. I wanted a clear answer, with the reason and the right amount, in a few seconds. Then a plan to keep them in shape.",
+  "founder_role": "Creator of Mon chat peut ?",
+  "faq_title": "What people ask us most",
+  "faq1_q": "Does it replace my vet?",
+  "faq1_a": "No. The app helps with everyday decisions. If your cat has swallowed something toxic, call your vet or an animal poison control center right away, without waiting for symptoms.",
+  "faq2_q": "How does the app recognize a dish?",
+  "faq2_a": "Take a photo or type its name. The AI identifies the food and its likely ingredients (onion, garlic, salt…), then gives you the verdict with an explanation.",
+  "faq3_q": "I have several cats. Does it work?",
+  "faq3_a": "Yes. Each cat has its own profile: age, weight, goal, meal plan and tracking. Switch between them in one tap.",
+  "faq4_q": "What about iPhone?",
+  "faq4_a": "Not yet. The app is available on Android, and the iPhone version is coming soon.",
+  "faq5_q": "What happens to my data?",
+  "faq5_a": "We only collect what the app needs. You can view, correct or delete your account and your cats' data at any time (GDPR).",
+  "final_title": "Next time your cat stares at you during dinner, you'll know.",
+  "store_href": "https://play.google.com/store/apps/details?id=com.dabik.monchatpeut&amp;hl=en",
+  "store_small": "Get it on",
+  "final_fine": "Available on Android. The iPhone version is coming soon.",
+  "legal_label": "Legal information",
+  "legal_terms": "Terms of service",
+  "legal_privacy": "Privacy",
+  "legal_rights": "Your rights (GDPR)",
+  "copy": "© 2026 Mon chat peut ? · Made by Dabi Keita, with a little help from the cats.",
+  "js": {
+    "foods": [
+      [
+        "Chocolate",
+        "chocolate",
+        "non",
+        "chocolate|dark chocolate|milk chocolate|cocoa|brownie|nutella",
+        "Chocolate contains theobromine and caffeine, which cats get rid of very poorly. Even a single square can cause vomiting, tremors and heart rhythm problems. The darker it is, the more dangerous."
+      ],
+      [
+        "Onion",
+        "onion",
+        "non",
+        "onion|onions|cooked onion|onion soup|onion powder",
+        "Raw, cooked or powdered, onion damages a cat's red blood cells and can cause anemia. Watch out for sauces, soups and ready meals that contain it."
+      ],
+      [
+        "Garlic",
+        "garlic",
+        "non",
+        "garlic|garlic bread|garlic clove",
+        "Same family as onion, but more concentrated. Garlic attacks red blood cells, and the effects can take several days to show."
+      ],
+      [
+        "Leek",
+        "leeks",
+        "non",
+        "leek|leeks|shallot|shallots|chives|spring onion|scallion|scallions",
+        "Like onion and garlic, it's an allium. Raw or cooked, it's toxic to a cat's red blood cells."
+      ],
+      [
+        "Grapes",
+        "grapes",
+        "non",
+        "grape|grapes|raisin|raisins|sultanas",
+        "Grapes are linked to serious kidney damage in dogs, and no one knows the dangerous dose. To be safe, never give a cat grapes or raisins."
+      ],
+      [
+        "Mafé",
+        "mafé",
+        "non",
+        "mafe|maafe|peanut stew",
+        "Mafé usually contains fatty peanut paste, and often onions, garlic and spices. Onion and garlic are toxic to cats, and fatty or salty dishes can cause vomiting, diarrhea or pancreatitis."
+      ],
+      [
+        "Zucchini",
+        "zucchini",
+        "oui",
+        "zucchini|zucchinis|courgette|courgettes",
+        "Zucchini isn't toxic to cats and can be given in small amounts, raw or cooked. It has few of the nutrients a cat needs, so keep it occasional."
+      ],
+      [
+        "Tuna",
+        "tuna",
+        "peu",
+        "tuna|canned tuna|tinned tuna",
+        "A bit of plain tuna now and then is fine. Every day, no: too much mercury, and a risk of vitamin E deficiency. Avoid tuna in oil or brine."
+      ],
+      [
+        "Milk",
+        "milk",
+        "non",
+        "milk|cow milk|cows milk|cream",
+        "Most adult cats digest lactose poorly: bloating and diarrhea. If you want to treat them, there is lactose-free cat milk."
+      ],
+      [
+        "Cheese",
+        "cheese",
+        "peu",
+        "cheese|cheddar|parmesan|emmental|camembert|brie",
+        "A small cube of hard cheese is usually fine, since it has little lactose. But it's fatty and salty: a rare treat, not a habit."
+      ],
+      [
+        "Plain yogurt",
+        "plain yogurt",
+        "peu",
+        "yogurt|yoghurt|plain yogurt|greek yogurt|cottage cheese",
+        "A little plain, unsweetened yogurt is often well tolerated. Never fruit yogurt, and never with sweeteners."
+      ],
+      [
+        "Cooked chicken",
+        "chicken",
+        "oui",
+        "chicken|cooked chicken|chicken breast",
+        "Cooked chicken is an excellent source of protein. Skinless, boneless and unseasoned: no salt, no garlic, no onion."
+      ],
+      [
+        "Cooked turkey",
+        "turkey",
+        "oui",
+        "turkey|turkey breast",
+        "Cooked, plain and boneless, turkey is a lean protein cats love. Skip turkey deli meat, which is too salty."
+      ],
+      [
+        "Cooked beef",
+        "beef",
+        "oui",
+        "beef|steak|ground beef|minced beef|meat",
+        "Plain cooked beef is perfect. Cook it through, with no seasoning."
+      ],
+      [
+        "Ham",
+        "ham",
+        "peu",
+        "ham",
+        "Not toxic, but very salty and often full of preservatives. A small piece once in a while, no more."
+      ],
+      [
+        "Salami",
+        "salami",
+        "non",
+        "salami|sausage|sausages|chorizo|bacon|pepperoni|deli meat",
+        "Too fatty, too salty, and often seasoned with garlic. Keep it for yourself."
+      ],
+      [
+        "Cooked salmon",
+        "salmon",
+        "oui",
+        "salmon|cooked salmon|salmon fillet",
+        "Cooked, boneless and unseasoned, salmon provides protein and omega-3s. Avoid smoked salmon, which is far too salty."
+      ],
+      [
+        "Smoked salmon",
+        "smoked salmon",
+        "non",
+        "smoked salmon|lox",
+        "Far too salty for a cat. Go for a piece of plain cooked salmon instead."
+      ],
+      [
+        "Raw fish",
+        "raw fish",
+        "non",
+        "raw fish|sushi|sashimi|fish tartare|ceviche",
+        "Raw fish contains an enzyme that destroys vitamin B1 and can carry parasites. Cooked is better."
+      ],
+      [
+        "Sardines",
+        "sardines",
+        "peu",
+        "sardine|sardines|mackerel",
+        "In water, with no added salt: a good treat now and then. Avoid sardines in oil or tomato sauce."
+      ],
+      [
+        "Shrimp",
+        "shrimp",
+        "oui",
+        "shrimp|shrimps|prawn|prawns",
+        "Cooked, peeled and plain, shrimp is a much-loved treat. No raw shrimp, and nothing in sauce."
+      ],
+      [
+        "Cooked eggs",
+        "eggs",
+        "oui",
+        "egg|eggs|boiled egg|cooked egg|scrambled eggs|omelette|omelet",
+        "A cooked egg, hard-boiled or scrambled without salt or butter, provides good protein. Never raw: risk of salmonella."
+      ],
+      [
+        "Raw eggs",
+        "raw eggs",
+        "non",
+        "raw egg|raw eggs|raw egg yolk|raw egg white",
+        "Risk of salmonella, and raw egg white blocks the absorption of a vitamin (biotin). Always cooked."
+      ],
+      [
+        "Cooked bones",
+        "bones",
+        "non",
+        "bone|bones|chicken bones|cooked bones",
+        "Cooked bones splinter into shards that can injure the mouth, esophagus or gut."
+      ],
+      [
+        "Liver",
+        "liver",
+        "peu",
+        "liver|chicken liver|offal",
+        "Very rich in vitamin A. A little now and then is good. Too often, it can cause vitamin A toxicity."
+      ],
+      [
+        "Cooked rice",
+        "rice",
+        "oui",
+        "rice|cooked rice|white rice",
+        "Plain cooked rice is easy to digest and helps with minor tummy trouble. It gives a cat almost nothing, so only as a side."
+      ],
+      [
+        "Pasta",
+        "pasta",
+        "peu",
+        "pasta|spaghetti|noodles",
+        "Cooked and plain, it's not dangerous, but useless for a carnivore. Never with garlic or onion sauce."
+      ],
+      [
+        "Bread",
+        "bread",
+        "peu",
+        "bread|baguette|toast|croissant|brioche",
+        "A small piece of baked bread is no problem, but adds nothing. Raw dough, on the other hand, is dangerous: it ferments in the stomach."
+      ],
+      [
+        "Raw dough",
+        "raw dough",
+        "non",
+        "raw dough|bread dough|pizza dough|yeast",
+        "Raw dough swells and ferments in the stomach, producing alcohol. It's a vet emergency."
+      ],
+      [
+        "Carrot",
+        "carrots",
+        "oui",
+        "carrot|carrots",
+        "Cooked and cut small, carrot goes down well. Raw, it's hard to chew."
+      ],
+      [
+        "Cucumber",
+        "cucumber",
+        "oui",
+        "cucumber|cucumbers",
+        "Low in calories and full of water, cucumber is safe in small pieces."
+      ],
+      [
+        "Green beans",
+        "green beans",
+        "oui",
+        "green bean|green beans|beans",
+        "Boiled and unsalted, they can even help a cat on a diet feel full."
+      ],
+      [
+        "Pumpkin",
+        "pumpkin",
+        "oui",
+        "pumpkin|squash|butternut",
+        "Cooked and plain, pumpkin brings fiber that helps digestion. A teaspoon is enough."
+      ],
+      [
+        "Peas",
+        "peas",
+        "oui",
+        "pea|peas|green peas",
+        "Cooked peas are safe. You'll even find them in some kibble."
+      ],
+      [
+        "Broccoli",
+        "broccoli",
+        "oui",
+        "broccoli",
+        "Steamed and in small amounts, broccoli is safe."
+      ],
+      [
+        "Spinach",
+        "spinach",
+        "peu",
+        "spinach",
+        "Not toxic, but rich in oxalates. Avoid it completely if your cat has urinary or kidney problems."
+      ],
+      [
+        "Tomato",
+        "tomatoes",
+        "peu",
+        "tomato|tomatoes|cherry tomato|cherry tomatoes",
+        "The flesh of a ripe tomato is fine in small amounts. The leaves, stems and green tomatoes contain solanine: toxic."
+      ],
+      [
+        "Potato",
+        "potatoes",
+        "peu",
+        "potato|potatoes|mashed potatoes|fries|chips",
+        "Cooked and plain, in small amounts: OK. Raw or green, never, it contains solanine. Fries, too fatty and salty, are out as well."
+      ],
+      [
+        "Avocado",
+        "avocado",
+        "non",
+        "avocado|guacamole",
+        "Very fatty, and the pit, skin and leaves contain persin. Best avoided entirely."
+      ],
+      [
+        "Apple",
+        "apples",
+        "peu",
+        "apple|apples|applesauce",
+        "A few small pieces, peeled, without core or seeds. The seeds contain cyanogenic compounds."
+      ],
+      [
+        "Banana",
+        "bananas",
+        "peu",
+        "banana|bananas",
+        "Not toxic, but very sugary. One slice now and then, no more."
+      ],
+      [
+        "Melon",
+        "melon",
+        "peu",
+        "melon|cantaloupe|honeydew",
+        "Lots of cats love melon. A few small cubes without the rind are OK, but it's sugary."
+      ],
+      [
+        "Watermelon",
+        "watermelon",
+        "peu",
+        "watermelon",
+        "Seedless and without the rind, a few small cubes are refreshing. It's still sugar."
+      ],
+      [
+        "Strawberries",
+        "strawberries",
+        "peu",
+        "strawberry|strawberries|raspberry|raspberries",
+        "Not toxic. A few pieces once in a while, no more."
+      ],
+      [
+        "Blueberries",
+        "blueberries",
+        "oui",
+        "blueberry|blueberries",
+        "Safe in small amounts. A few berries are plenty."
+      ],
+      [
+        "Citrus",
+        "oranges",
+        "non",
+        "orange|oranges|lemon|lemons|grapefruit|clementine|mandarin|lime|citrus",
+        "Citrus fruits contain citric acid and essential oils that irritate the digestive system. Most cats hate the smell, and that's a good thing."
+      ],
+      [
+        "Cherries",
+        "cherries",
+        "non",
+        "cherry|cherries|apricot|apricots|peach|peaches|plum|plums",
+        "The pits, stems and leaves contain cyanogenic compounds, and a swallowed pit can block the gut."
+      ],
+      [
+        "Nuts",
+        "nuts",
+        "non",
+        "nut|nuts|walnut|walnuts|almond|almonds|hazelnut|hazelnuts|macadamia|cashew|cashews|pistachio|pistachios",
+        "Very fatty and hard to digest, and some, like macadamia, are toxic to dogs. No nuts."
+      ],
+      [
+        "Peanuts",
+        "peanuts",
+        "non",
+        "peanut|peanuts|peanut butter",
+        "Not toxic in themselves, but very fatty, often salted, and some peanut butters contain xylitol. Best avoided."
+      ],
+      [
+        "Coffee",
+        "coffee",
+        "non",
+        "coffee|espresso|tea|green tea|matcha|energy drink|cola|coke",
+        "Caffeine is toxic to cats: agitation, racing heart, tremors. Watch out for coffee grounds and pods too."
+      ],
+      [
+        "Alcohol",
+        "alcohol",
+        "non",
+        "alcohol|wine|beer|rum|vodka|champagne|tiramisu",
+        "Even a small amount of alcohol can be serious for a cat. Watch out for boozy desserts too."
+      ],
+      [
+        "Lilies",
+        "lilies",
+        "non",
+        "lily|lilies|lilium",
+        "Not a food, but the question comes up often: lilies are deadly to cats. A chewed leaf or pollen licked off the fur can cause acute kidney failure."
+      ],
+      [
+        "Catnip",
+        "catnip",
+        "oui",
+        "catnip|cat grass|grass",
+        "That's what it's for. They can chew it, sniff it and roll in it."
+      ],
+      [
+        "Dog food",
+        "dog food",
+        "peu",
+        "dog food|dog kibble|kibble for dogs",
+        "Not toxic, but not suitable: it lacks taurine, which cats need. Once by mistake is no problem."
+      ],
+      [
+        "Ice cream",
+        "ice cream",
+        "non",
+        "ice cream|gelato|sorbet",
+        "Lactose and sugar: a bad combination. Some ice creams also contain chocolate or xylitol."
+      ],
+      [
+        "Pizza",
+        "pizza",
+        "non",
+        "pizza|quiche|lasagna|lasagne|burger|kebab",
+        "Dough, fatty cheese, sauce with garlic and onion, cured meat: pretty much everything you shouldn't."
+      ],
+      [
+        "Corn",
+        "corn",
+        "peu",
+        "corn|sweetcorn|corn on the cob|popcorn",
+        "Cooked and plain, safe in small amounts. Never the cob, which can block the gut."
+      ],
+      [
+        "Olive oil",
+        "olive oil",
+        "peu",
+        "oil|olive oil|butter",
+        "A drop in the bowl is no problem. Too much, and it's diarrhea."
+      ],
+      [
+        "Chewing gum",
+        "chewing gum",
+        "non",
+        "chewing gum|gum|candy|sweets|xylitol",
+        "Often sweetened with xylitol, and a choking hazard. Keep it out of reach."
+      ],
+      [
+        "Mushrooms",
+        "mushrooms",
+        "peu",
+        "mushroom|mushrooms|button mushrooms",
+        "Store-bought button mushrooms, cooked and plain, are fine in small amounts. Wild mushrooms, never."
+      ]
+    ],
+    "articles": "^(a little |a bit of |some |a |an |the |any |my )",
+    "verdict": {
+      "oui": {
+        "stamp": "Yes!",
+        "title": "Yes!",
+        "sub": "This food is OK for your cat.",
+        "band": "verdict: yes"
+      },
+      "peu": {
+        "stamp": "A bit",
+        "title": "A little.",
+        "sub": "Small amounts, once in a while.",
+        "band": "verdict: a little"
+      },
+      "non": {
+        "stamp": "No!",
+        "title": "No!",
+        "sub": "Don't give this food.",
+        "band": "verdict: no"
+      },
+      "q": {
+        "stamp": "Hmm…",
+        "title": "Hmm…",
+        "sub": "Not in this demo yet.",
+        "band": "pending"
+      }
+    },
+    "unknownReason": "That one isn't in the demo. In the app, snap a photo: the AI identifies the dish and its ingredients.",
+    "unknownWhy": "Take a photo or describe the dish: the AI spots the ingredients (onion, garlic, salt…) and answers in seconds.",
+    "unknownFood": "Your dish",
+    "chips": [
+      [
+        "tuna",
+        "Tuna"
+      ],
+      [
+        "cheese",
+        "Cheese"
+      ],
+      [
+        "milk",
+        "Milk"
+      ],
+      [
+        "chicken",
+        "Chicken"
+      ],
+      [
+        "cucumber",
+        "Cucumber"
+      ],
+      [
+        "grapes",
+        "Grapes"
+      ],
+      [
+        "avocado",
+        "Avocado"
+      ],
+      [
+        "pumpkin",
+        "Pumpkin"
+      ],
+      [
+        "eggs",
+        "Eggs"
+      ],
+      [
+        "pizza",
+        "Pizza"
+      ]
+    ],
+    "demo": [
+      "zucchini",
+      "tuna",
+      "mafé",
+      "chocolate"
+    ],
+    "placeholder": "a food",
+    "gaId": "G-KJ70YT6VBH"
   },
-  "unknownReason": "That one isn't in the demo. In the app, snap a photo: the AI identifies the dish and its ingredients.",
-  "unknownWhy": "Take a photo or describe the dish: the AI spots the ingredients (onion, garlic, salt…) and answers in seconds.",
-  "unknownFood": "Your dish",
-  "chips": [
-   [
-    "tuna",
-    "Tuna"
-   ],
-   [
-    "cheese",
-    "Cheese"
-   ],
-   [
-    "milk",
-    "Milk"
-   ],
-   [
-    "chicken",
-    "Chicken"
-   ],
-   [
-    "cucumber",
-    "Cucumber"
-   ],
-   [
-    "grapes",
-    "Grapes"
-   ],
-   [
-    "avocado",
-    "Avocado"
-   ],
-   [
-    "pumpkin",
-    "Pumpkin"
-   ],
-   [
-    "eggs",
-    "Eggs"
-   ],
-   [
-    "pizza",
-    "Pizza"
-   ]
-  ],
-  "count": "Demo with {n} foods. The app also recognizes your dishes from a photo.",
-  "demo": [
-   "zucchini",
-   "tuna",
-   "mafé",
-   "chocolate"
-  ],
-  "placeholder": "a food",
-  "gaId": "G-KJ70YT6VBH"
- }
+  "skip": "Skip to content",
+  "nav_app": "Features",
+  "eyebrow_test": "the test · answer in 3 seconds",
+  "stamp_label": "verdict",
+  "store_cta": "Get it on Google Play",
+  "ios_soon": "iPhone version coming soon",
+  "trust1": "Dishes by photo, products by barcode",
+  "trust2": "One profile per cat",
+  "trust3": "Swallowed something? Call your vet",
+  "fiche_label": "food card",
+  "fiche_brief": "in short",
+  "fiche_why": "why",
+  "band_init": "verdict: no",
+  "brief_init": "Don't give this food.",
+  "why_init": "Chocolate contains theobromine and caffeine, which cats get rid of very poorly. Even a single square can cause vomiting, tremors and heart rhythm problems. The darker it is, the more dangerous.",
+  "f_name_init": "Chocolate",
+  "app_eyebrow": "what the app does",
+  "app_title": "A clear answer, then real follow-up.",
+  "app_lede": "Mon chat peut ? answers the dinner-table question, then helps your cat stay in shape.",
+  "f1_title": "A verdict in 3 seconds",
+  "f1_text": "Type a food: yes, a little or no, with the reason and the right amount.",
+  "f2_title": "Scan the barcode",
+  "f2_text": "A pouch, a tin, a box: scan the food's barcode and the app shows its macros (protein, fat, carbs).",
+  "f2_example": "example · per 100&#8239;g",
+  "mac_p": "Protein",
+  "mac_l": "Fat",
+  "mac_g": "Carbs",
+  "f3_title": "Your dishes from a photo",
+  "f3_text": "Take a photo or type its name. The AI identifies the dish and its likely ingredients (onion, garlic, salt…), then gives the verdict with an explanation.",
+  "tag_salmon": "cooked salmon · yes",
+  "tag_tomato": "tomato · a little",
+  "tag_lemon": "lemon · no",
+  "f4_title": "A meal plan",
+  "f4_text": "Age, weight, goal: the app works out the portion in grams and calories.",
+  "plan_for": "for Vivi",
+  "f5_title": "The evening check-in",
+  "f5_text": "Log meals and weight. If your cat gains or loses weight, the plan recalculates on its own.",
+  "check_weigh": "Weigh-in",
+  "adjust_pill": "plan adjusted: −3%",
+  "f6_title": "4-minute guides",
+  "f6_text": "Hydration, kibble, ideal weight: short guides, written simply.",
+  "fan_weight": "Ideal weight",
+  "fan_water": "Hydration",
+  "fan_min": "4&#8239;min",
+  "f7_title": "The weekly review",
+  "f7_text": "The weight curve and the protein, fat and carb split.",
+  "f8_title": "Several cats",
+  "f8_text": "Each cat has its own profile: age, weight, goal, meal plan and tracking. Switch between them in one tap.",
+  "day_eyebrow": "a day with Vivi",
+  "band1": "my plans",
+  "band2": "photo of the dish",
+  "band3": "evening check-in",
+  "band4": "bedtime guide",
+  "band5": "weekly review",
+  "founder_eyebrow": "a word from the creator",
+  "faq_eyebrow": "questions",
+  "legal_terms_href": "/en/terms-of-service",
+  "legal_privacy_href": "/en/privacy-policy",
+  "legal_rights_href": "/en/user-rights",
+  "home_href": "/en/",
+  "legal_back": "Back to home",
+  "legal_eyebrow": "legal information",
+  "legal_updated": "Last updated: 2025",
+  "legal_other": "Other legal pages",
+  "legal_pages": {
+    "terms-of-service": {
+      "title": "Terms of service · Mon chat peut ?",
+      "description": "The terms of service of the Mon chat peut ? app: services, AI limitations, accounts, subscriptions, liability and governing law.",
+      "h1": "Terms of service"
+    },
+    "privacy-policy": {
+      "title": "Privacy policy · Mon chat peut ?",
+      "description": "How the Mon chat peut ? app collects, uses, stores and protects your personal data, in line with the GDPR.",
+      "h1": "Privacy policy"
+    },
+    "user-rights": {
+      "title": "Your rights (GDPR) · Mon chat peut ?",
+      "description": "Your rights over your personal data in the Mon chat peut ? app (GDPR): access, rectification, erasure, portability, and how to exercise them.",
+      "h1": "Your rights (GDPR)"
+    }
+  }
 }
