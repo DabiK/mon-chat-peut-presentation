@@ -1,0 +1,9 @@
+name = "mon-chat-peut"
+compatibility_date = "2026-10-01"
+# Adresse de secours, en plus du domaine.
+workers_dev = true
+
+# Aucun script : le Worker sert seulement les fichiers de dist/, générés par `python3 build.py`.
+# Le cache des images et des polices est réglé dans _headers.
+[assets]
+directory = "./dist"

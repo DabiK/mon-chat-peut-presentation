@@ -1,0 +1,18 @@
+# En-têtes ajoutés par Cloudflare aux fichiers de dist/ (copié par build.py).
+# Les pages HTML gardent le défaut : revalidées à chaque visite (ETag).
+
+# Polices : un fichier ne change jamais sous le même nom.
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Images : 30 jours. Pour en remplacer une tout de suite, changer son nom.
+/img/*
+  Cache-Control: public, max-age=2592000
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# L'adresse workers.dev reste ouverte mais hors des moteurs de recherche.
+https://:worker.:account.workers.dev/*
+  X-Robots-Tag: noindex

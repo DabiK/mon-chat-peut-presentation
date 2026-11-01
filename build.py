@@ -8,13 +8,16 @@ Sources dans src/ :
   i18n/fr.json    les textes et les aliments de la démo, en français
   i18n/en.json    les mêmes clés, en anglais
 
-Sorties : index.html (fr), en/index.html (en) et sitemap.xml.
+Sorties : index.html (fr), en/index.html (en) et sitemap.xml, puis dist/, le dossier
+publié par le Worker Cloudflare : les pages et les fichiers publics, sans src/, les notes
+ni ce script.
 Usage : python3 build.py
 """
 import datetime
 import html
 import json
 import re
+import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -22,6 +25,11 @@ SRC = ROOT / "src"
 SITE = "https://mon-chat-peut.com"
 STORE = "https://play.google.com/store/apps/details?id=com.dabik.monchatpeut"
 PAGES = {"fr": ROOT / "index.html", "en": ROOT / "en" / "index.html"}
+DIST = ROOT / "dist"
+# Tout ce que sert le site. Le reste du dépôt n'est pas publié.
+PUBLIC = ("index.html", "en", "img", "assets/fonts", "favicon-96.png", "apple-touch-icon.png",
+          "robots.txt", "sitemap.xml", "privacy-policy.html", "terms-of-service.html",
+          "user-rights.html", "_headers")
 
 
 def plain(text):
@@ -71,6 +79,20 @@ def render(template, values):
     return re.sub(r"\{\{(\w+)\}\}", sub, template)
 
 
+def publish():
+    """Recopie les fichiers publics dans dist/, vidé à chaque build."""
+    shutil.rmtree(DIST, ignore_errors=True)
+    for name in PUBLIC:
+        src, dst = ROOT / name, DIST / name
+        if src.is_dir():
+            shutil.copytree(src, dst, ignore=shutil.ignore_patterns(".*"))
+        else:
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(src, dst)
+    count = sum(1 for f in DIST.rglob("*") if f.is_file())
+    print(f"dist/ : {count} fichiers")
+
+
 def main():
     template = (SRC / "template.html").read_text(encoding="utf-8")
     css = minify_css((SRC / "styles.css").read_text(encoding="utf-8"))
@@ -93,7 +115,7 @@ def main():
         for path in ("/", "/en/")
     ) + "".join(
         f"  <url>\n    <loc>{SITE}/{page}</loc>\n  </url>\n"
-        for page in ("privacy-policy.html", "terms-of-service.html", "user-rights.html")
+        for page in ("privacy-policy", "terms-of-service", "user-rights")
     )
     (ROOT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -102,6 +124,7 @@ def main():
         encoding="utf-8",
     )
     print("sitemap.xml")
+    publish()
 
 
 if __name__ == "__main__":
