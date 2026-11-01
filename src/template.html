@@ -79,8 +79,15 @@
 
         <div class="verdict-row" aria-hidden="true">
           <span class="stamp" id="stamp"><small>{{stamp_label}}</small><b id="stamp-word">{{stamp_init}}</b></span>
+          <span class="vivi-mini">
+            <img data-v="q" data-src="/img/vivi-hero.webp" width="300" height="335" alt="" decoding="async">
+            <img data-v="oui" data-src="/img/vivi-oui.webp" width="300" height="342" alt="" decoding="async">
+            <img class="on" data-v="non" src="/img/vivi-non.webp" width="300" height="351" alt="" decoding="async">
+            <img data-v="peu" data-src="/img/vivi-peu.webp" width="300" height="336" alt="" decoding="async">
+          </span>
           <p class="reason" id="reason">{{reason_init}}</p>
         </div>
+        <p class="sr-only" id="sr-verdict" role="status" aria-live="polite"></p>
 
         <div class="picks">
           <p class="picks-label">{{picks_label}}</p>
@@ -107,7 +114,7 @@
           <img class="on" data-v="non" src="/img/vivi-non.webp" width="300" height="351" alt="" decoding="async" fetchpriority="high">
           <img data-v="peu" data-src="/img/vivi-peu.webp" width="300" height="336" alt="" decoding="async">
         </div>
-        <div class="fiche" role="status" aria-live="polite">
+        <div class="fiche">
           <div class="fiche-band"><span>{{fiche_label}}</span><span id="f-band">{{band_init}}</span></div>
           <div class="fiche-body">
             <p class="fiche-name" id="f-name">{{f_name_init}}</p>
