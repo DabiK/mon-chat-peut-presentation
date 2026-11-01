@@ -1177,7 +1177,8 @@
           #ffd4e5 100%
         );
         position: relative;
-        overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: visible;
       }
 
       .how-it-works-section::before {
@@ -1204,15 +1205,13 @@
         max-width: 1200px;
         margin: 0 auto;
         position: relative;
+        padding: 2rem 0;
       }
 
-      /* Sticky phone qui reste en haut */
+      /* Phone centralisé */
       .sticky-phone {
-        position: sticky;
-        top: 80px;
-        margin: 2rem auto;
+        margin: 2rem auto 4rem;
         max-width: 300px;
-        z-index: 10;
       }
 
       .phone-frame {
@@ -1280,7 +1279,11 @@
         width: 70px;
         height: 70px;
         border-radius: 50%;
-        background: linear-gradient(135deg, var(--kawaii-pink), var(--kawaii-purple));
+        background: linear-gradient(
+          135deg,
+          var(--kawaii-pink),
+          var(--kawaii-purple)
+        );
         display: flex;
         align-items: center;
         justify-content: center;
@@ -1291,7 +1294,12 @@
 
       .form-field-mini {
         height: 35px;
-        background: linear-gradient(90deg, #f0f0f0 0%, #e0e0e0 50%, #f0f0f0 100%);
+        background: linear-gradient(
+          90deg,
+          #f0f0f0 0%,
+          #e0e0e0 50%,
+          #f0f0f0 100%
+        );
         background-size: 200% 100%;
         border-radius: 8px;
         animation: shimmer 2s infinite;
@@ -1354,63 +1362,384 @@
         width: 92%;
       }
 
-      /* Scanner mini */
-      .scanner-mini {
-        text-align: center;
-        margin-bottom: 1.5rem;
-      }
-
-      .scan-box {
-        width: 120px;
-        height: 120px;
-        margin: 0 auto 1.5rem;
-        border: 3px dashed var(--primary);
-        border-radius: 12px;
-        position: relative;
-        animation: pulse 2s ease-in-out infinite;
-      }
-
-      .scan-line {
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        height: 3px;
-        background: var(--primary);
-        box-shadow: 0 0 10px var(--primary);
-        animation: scan 2s ease-in-out infinite;
-      }
-
-      .barcode-mini {
+      /* Plan mockup mini - Design app réel */
+      .plan-mockup-mini {
+        width: 100%;
         display: flex;
-        gap: 4px;
-        justify-content: center;
-        margin-bottom: 1rem;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0.5rem;
       }
 
-      .bar-mini {
-        width: 6px;
-        height: 40px;
-        background: var(--text-dark);
-        border-radius: 2px;
+      .plan-header {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+        padding-bottom: 0.8rem;
       }
 
-      .bar-mini.tall {
+      .plan-avatar {
+        width: 50px;
         height: 50px;
+        border-radius: 50%;
+        background: linear-gradient(
+          135deg,
+          var(--kawaii-pink),
+          var(--kawaii-purple)
+        );
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       }
 
-      .score-mini {
-        display: inline-block;
-        padding: 0.6rem 1.5rem;
-        background: linear-gradient(135deg, #4caf50, #45a049);
-        color: white;
-        border-radius: 20px;
-        font-size: 1.3rem;
+      .plan-name {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 0.2rem;
+      }
+
+      .plan-badges {
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+      }
+
+      .plan-badge {
+        padding: 0.4rem 0.8rem;
+        border-radius: 12px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-align: center;
+        line-height: 1.3;
+      }
+
+      .plan-badge.neutered {
+        background: linear-gradient(135deg, #ffe8dd, #ffd4e5);
+        color: var(--primary);
+      }
+
+      .plan-badge.weight {
+        background: linear-gradient(135deg, #d4f5e9, #c8f0e4);
+        color: #2d9b7b;
+      }
+
+      .plan-badge.bcs {
+        background: linear-gradient(135deg, #ffe8f0, #ffd4e5);
+        color: #e86ba4;
+      }
+
+      .plan-badge span {
+        font-size: 0.65rem;
+        font-weight: 500;
+        opacity: 0.8;
+      }
+
+      .plan-goal {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+        padding: 0.8rem;
+        background: linear-gradient(135deg, #fff5f0, #ffe8dd);
+        border-radius: 15px;
+        border-left: 4px solid var(--primary);
+      }
+
+      .goal-icon {
+        font-size: 1.5rem;
+      }
+
+      .goal-text {
+        font-size: 1rem;
+        font-weight: 700;
+        color: var(--primary);
+      }
+
+      .plan-calories {
+        text-align: center;
+        padding: 1rem;
+        background: white;
+        border-radius: 15px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      }
+
+      .calorie-icon {
+        font-size: 1.5rem;
+        margin-bottom: 0.3rem;
+      }
+
+      .calorie-label {
+        font-size: 0.75rem;
+        color: #999;
+        margin-bottom: 0.5rem;
+      }
+
+      .calorie-value {
+        font-size: 2rem;
         font-weight: 800;
-        animation: bounce 1s ease-in-out infinite;
+        color: var(--primary);
+        line-height: 1;
       }
 
-      /* Chart mini */
+      .calorie-value span {
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: #999;
+      }
+
+      .plan-rations {
+        text-align: center;
+        padding: 1rem;
+        background: linear-gradient(135deg, #f0f9ff, #e0f2fe);
+        border-radius: 15px;
+      }
+
+      .ration-icon {
+        font-size: 1.3rem;
+        margin-bottom: 0.3rem;
+      }
+
+      .ration-label {
+        font-size: 0.75rem;
+        color: #666;
+        margin-bottom: 0.5rem;
+      }
+
+      .ration-values {
+        font-size: 0.85rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      /* Product mockup mini */
+      .product-mockup-mini {
+        display: flex;
+        flex-direction: column;
+        gap: 0.8rem;
+        padding: 0.5rem;
+      }
+
+      .product-header {
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+      }
+
+      .product-badge {
+        padding: 0.3rem 0.8rem;
+        border-radius: 8px;
+        font-size: 0.7rem;
+        font-weight: 600;
+      }
+
+      .product-badge.category {
+        background: linear-gradient(135deg, #ffe8dd, #ffd4c4);
+        color: #ff6b35;
+      }
+
+      .product-badge.type {
+        background: linear-gradient(135deg, #e8e8e8, #d4d4d4);
+        color: #666;
+      }
+
+      .product-image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 1rem 0;
+      }
+
+      .product-image {
+        width: 120px;
+        height: 160px;
+        background: linear-gradient(135deg, #f5f5f5, #e8e8e8);
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 4rem;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      }
+
+      .product-title {
+        font-size: 0.75rem;
+        font-weight: 700;
+        color: #333;
+        text-align: center;
+        line-height: 1.3;
+        padding: 0 0.5rem;
+      }
+
+      .product-card {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+        padding: 0.8rem;
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+      }
+
+      .calories-card {
+        background: linear-gradient(135deg, #fff5f0, #ffe8dd);
+      }
+
+      .quality-card {
+        background: linear-gradient(135deg, #fff9e6, #fff0cc);
+      }
+
+      .card-icon {
+        font-size: 1.8rem;
+        flex-shrink: 0;
+      }
+
+      .card-content {
+        display: flex;
+        flex-direction: column;
+        gap: 0.1rem;
+        flex: 1;
+      }
+
+      .card-label {
+        font-size: 0.65rem;
+        font-weight: 600;
+        color: #999;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      .card-value {
+        font-size: 1.8rem;
+        font-weight: 800;
+        color: #ff6b35;
+        line-height: 1;
+      }
+
+      .quality-value {
+        color: #ffb300;
+      }
+
+      .card-unit {
+        font-size: 0.65rem;
+        color: #ff9a76;
+        font-weight: 600;
+      }
+
+      .card-quality-text {
+        font-size: 0.75rem;
+        font-weight: 700;
+        color: #ffb300;
+      }
+
+      .card-updated {
+        font-size: 0.6rem;
+        color: #aaa;
+        margin-top: 0.2rem;
+      }
+
+      /* Analytics mockup mini */
+      .analytics-mockup-mini {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0.5rem;
+        width: 100%;
+      }
+
+      .analytics-card {
+        background: white;
+        border-radius: 15px;
+        padding: 1rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+      }
+
+      .analytics-header {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .analytics-icon {
+        font-size: 1.2rem;
+      }
+
+      .analytics-title {
+        font-size: 0.85rem;
+        font-weight: 700;
+        color: #333;
+      }
+
+      .analytics-subtitle {
+        font-size: 0.65rem;
+        color: #999;
+        line-height: 1.3;
+        margin-bottom: 0.8rem;
+      }
+
+      /* Weight Chart */
+      .weight-chart-container {
+        display: flex;
+        gap: 0.5rem;
+      }
+
+      .weight-y-axis {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-right: 0.3rem;
+      }
+
+      .y-label {
+        font-size: 0.6rem;
+        color: #999;
+        font-weight: 600;
+      }
+
+      .weight-chart {
+        flex: 1;
+        position: relative;
+      }
+
+      .weight-x-axis,
+      .calories-x-axis {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 0.3rem;
+      }
+
+      .x-label {
+        font-size: 0.6rem;
+        color: #999;
+        font-weight: 600;
+      }
+
+      /* Calories Chart */
+      .calories-chart-container {
+        position: relative;
+      }
+
+      .calories-value {
+        font-size: 1.2rem;
+        font-weight: 800;
+        color: #ff9800;
+        margin-bottom: 0.5rem;
+      }
+
+      .calories-chart {
+        position: relative;
+      }
+
+      .calories-baseline {
+        font-size: 0.6rem;
+        color: #999;
+        font-weight: 600;
+        margin-top: 0.3rem;
+      }
+
+      /* Chart mini - Keep for backward compatibility but unused now */
       .chart-mini {
         width: 100%;
         display: flex;
@@ -1450,7 +1779,11 @@
       .stat-box {
         flex: 1;
         height: 50px;
-        background: linear-gradient(135deg, var(--kawaii-blue), var(--kawaii-purple));
+        background: linear-gradient(
+          135deg,
+          var(--kawaii-blue),
+          var(--kawaii-purple)
+        );
         border-radius: 10px;
         display: flex;
         align-items: center;
@@ -1465,29 +1798,37 @@
 
       /* Workflow steps défilantes */
       .workflow-steps-scroll {
-        margin-top: 3rem;
+        margin-top: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: stretch;
+        flex-wrap: wrap;
+        gap: 2rem;
       }
 
       .workflow-step-scroll {
-        min-height: 50vh;
         display: flex;
+        flex-direction: column;
         align-items: center;
+        text-align: center;
         gap: 1.5rem;
         padding: 2rem 1.5rem;
-        margin-bottom: 2rem;
         background: white;
         border-radius: 20px;
         box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
-        opacity: 0.3;
-        transform: translateY(20px);
+        opacity: 0.4;
+        transform: scale(0.95);
         transition: all 0.5s ease;
+        width: 280px;
+        flex-shrink: 0;
       }
 
       .workflow-step-scroll.active {
         opacity: 1;
-        transform: translateY(0);
+        transform: scale(1);
         box-shadow: 0 15px 40px rgba(255, 154, 118, 0.25);
         border: 2px solid var(--primary);
+        background: linear-gradient(135deg, white, #fff9f5);
       }
 
       .step-badge {
@@ -1531,15 +1872,10 @@
         font-size: 0.95rem;
       }
 
-      .workflow-spacer {
-        height: 30vh;
-      }
-
       /* Desktop adjustments */
       @media (min-width: 768px) {
         .sticky-phone {
           max-width: 320px;
-          top: 100px;
         }
 
         .workflow-step-scroll {
@@ -1556,24 +1892,8 @@
       }
 
       @media (min-width: 968px) {
-        .workflow-scroll-container {
-          display: grid;
-          grid-template-columns: 400px 1fr;
-          gap: 4rem;
-          align-items: start;
-        }
-
-        .sticky-phone {
-          margin: 0;
-          max-width: 100%;
-        }
-
         .workflow-steps-scroll {
-          margin-top: 0;
-        }
-
-        .workflow-step-scroll {
-          min-height: 40vh;
+          justify-content: center;
         }
       }
     </style>
@@ -1608,8 +1928,7 @@
         </h1>
         <p class="subtitle">
           Recherche d'aliments, plan nutritionnel intelligent, suivi macros &
-          hydratation — tout pour la santé de votre chat dans une app douce et
-          kawaii 💕
+          hydratation
         </p>
 
         <div class="hero-form-container" id="heroFormContainer">
@@ -1664,7 +1983,7 @@
             <span class="highlight"
               >Trop d'aliments sont dangereux pour les chats</span
             >
-            — et les informations sur Google sont souvent contradictoires.
+            , et les informations sur Google sont souvent contradictoires.
           </p>
           <p>
             Notre application combine
@@ -1675,8 +1994,7 @@
           </p>
           <p>
             Plus de doutes, plus de stress. Suivez les macros, l'hydratation et
-            le poids de votre chat avec des outils professionnels dans une app
-            douce et kawaii 🐾
+            le poids de votre chat avec des outils professionnels.
           </p>
         </div>
         <div class="why-image fade-in">
@@ -1689,61 +2007,266 @@
     <section class="how-it-works-section">
       <h2 class="section-title">Comment ça marche ? ✨</h2>
       <p class="section-subtitle">
-        Quatre étapes simples pour prendre soin de votre chat
+        Trois étapes simples pour prendre soin de votre chat
       </p>
-      
+
       <div class="workflow-scroll-container">
         <!-- Sticky phone mockup qui change au scroll -->
         <div class="sticky-phone">
           <div class="phone-frame">
             <div class="phone-notch"></div>
             <div class="phone-content" id="phoneContent">
-              <!-- Step 1: Profile -->
+              <!-- Step 1: Plan -->
               <div class="phone-step active" data-step="1">
-                <div class="form-mockup-mini">
-                  <div class="avatar-circle-mini">🐱</div>
-                  <div class="form-field-mini"></div>
-                  <div class="form-field-mini short"></div>
-                  <div class="form-field-mini"></div>
+                <div class="plan-mockup-mini">
+                  <!-- Header avec avatar et nom -->
+                  <div class="plan-header">
+                    <div class="plan-avatar">🐱</div>
+                    <div class="plan-name">
+                      <div
+                        style="font-weight: 700; font-size: 1.1rem; color: #333"
+                      >
+                        Vivi
+                      </div>
+                      <div style="font-size: 0.8rem; color: #999">
+                        Female • 14 months
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Badges -->
+                  <div class="plan-badges">
+                    <div class="plan-badge neutered">✓ Neutered</div>
+                    <div class="plan-badge weight">
+                      4.8 kg<br /><span>Weight</span>
+                    </div>
+                    <div class="plan-badge bcs">
+                      Not specified<br /><span>BCS</span>
+                    </div>
+                  </div>
+
+                  <!-- Objectif -->
+                  <div class="plan-goal">
+                    <div class="goal-icon">📉</div>
+                    <div class="goal-text">Loss</div>
+                  </div>
+
+                  <!-- Calorie Intake -->
+                  <div class="plan-calories">
+                    <div class="calorie-icon">🔥</div>
+                    <div class="calorie-label">Calorie Intake</div>
+                    <div class="calorie-value">
+                      183<br /><span>kcal/day</span>
+                    </div>
+                  </div>
+
+                  <!-- Daily Rations -->
+                  <div class="plan-rations">
+                    <div class="ration-icon">🍽️</div>
+                    <div class="ration-label">Daily Rations</div>
+                    <div class="ration-values">
+                      <span style="font-weight: 800; color: var(--primary)"
+                        >45g</span
+                      >
+                      <span style="color: #999; margin: 0 0.5rem">or</span>
+                      <span style="font-weight: 800; color: var(--kawaii-blue)"
+                        >183 kcal</span
+                      >
+                    </div>
+                  </div>
                 </div>
               </div>
-              <!-- Step 2: Plan -->
+              <!-- Step 2: Scan -->
               <div class="phone-step" data-step="2">
-                <div class="gauge-mini">
-                  <div class="gauge-ring-mini"></div>
-                  <div class="gauge-text">185<br><span>kcal</span></div>
-                </div>
-                <div class="criteria-mini">
-                  <div class="criterion-bar"></div>
-                  <div class="criterion-bar"></div>
-                  <div class="criterion-bar"></div>
+                <div class="product-mockup-mini">
+                  <!-- Header avec badges -->
+                  <div class="product-header">
+                    <div class="product-badge category">
+                      Équilibre & Instinct
+                    </div>
+                    <div class="product-badge type">Croquettes</div>
+                  </div>
+
+                  <!-- Image du produit -->
+                  <div class="product-image-container">
+                    <div class="product-image">📦</div>
+                  </div>
+
+                  <!-- Titre produit -->
+                  <div class="product-title">
+                    Équilibre & Instinct - Croquettes pour Chats Stérilisés
+                  </div>
+
+                  <!-- Carte Calories -->
+                  <div class="product-card calories-card">
+                    <div class="card-icon">🔥</div>
+                    <div class="card-content">
+                      <div class="card-label">Calories</div>
+                      <div class="card-value">359</div>
+                      <div class="card-unit">kcal per 100g</div>
+                    </div>
+                  </div>
+
+                  <!-- Carte Quality Score -->
+                  <div class="product-card quality-card">
+                    <div class="card-icon">⭐</div>
+                    <div class="card-content">
+                      <div class="card-label">Quality Score</div>
+                      <div class="card-value quality-value">80</div>
+                      <div class="card-quality-text">Good</div>
+                      <div class="card-updated">Updated on today</div>
+                    </div>
+                  </div>
                 </div>
               </div>
-              <!-- Step 3: Scan -->
+              <!-- Step 3: Charts -->
               <div class="phone-step" data-step="3">
-                <div class="scanner-mini">
-                  <div class="scan-box">
-                    <div class="scan-line"></div>
+                <div class="analytics-mockup-mini">
+                  <!-- Weight Evolution Card -->
+                  <div class="analytics-card weight-card">
+                    <div class="analytics-header">
+                      <div class="analytics-icon">⚖️</div>
+                      <div class="analytics-title">Weight Evolution</div>
+                    </div>
+                    <div class="analytics-subtitle">
+                      Track your cat's weight curve to ensure they stay in
+                      tip-top shape! 📊
+                    </div>
+
+                    <!-- Weight Chart -->
+                    <div class="weight-chart-container">
+                      <div class="weight-y-axis">
+                        <span class="y-label">5.3 kg</span>
+                        <span class="y-label">5.0 kg</span>
+                        <span class="y-label">4.5 kg</span>
+                        <span class="y-label">4.0 kg</span>
+                        <span class="y-label">3.9 kg</span>
+                      </div>
+                      <div class="weight-chart">
+                        <svg
+                          viewBox="0 0 400 150"
+                          style="width: 100%; height: 150px"
+                        >
+                          <!-- Grid lines -->
+                          <line
+                            x1="0"
+                            y1="30"
+                            x2="400"
+                            y2="30"
+                            stroke="#f0f0f0"
+                            stroke-width="1"
+                          />
+                          <line
+                            x1="0"
+                            y1="60"
+                            x2="400"
+                            y2="60"
+                            stroke="#f0f0f0"
+                            stroke-width="1"
+                          />
+                          <line
+                            x1="0"
+                            y1="90"
+                            x2="400"
+                            y2="90"
+                            stroke="#f0f0f0"
+                            stroke-width="1"
+                          />
+                          <line
+                            x1="0"
+                            y1="120"
+                            x2="400"
+                            y2="120"
+                            stroke="#f0f0f0"
+                            stroke-width="1"
+                          />
+
+                          <!-- Area fill -->
+                          <path
+                            d="M 50 40 L 350 110 L 350 150 L 50 150 Z"
+                            fill="rgba(100, 181, 246, 0.2)"
+                          />
+
+                          <!-- Line chart -->
+                          <path
+                            d="M 50 40 L 350 110"
+                            stroke="#64B5F6"
+                            stroke-width="3"
+                            fill="none"
+                            stroke-linecap="round"
+                          />
+
+                          <!-- Points -->
+                          <circle cx="50" cy="40" r="5" fill="#64B5F6" />
+                          <circle cx="350" cy="110" r="5" fill="#64B5F6" />
+                        </svg>
+                        <div class="weight-x-axis">
+                          <span class="x-label">16/11</span>
+                          <span class="x-label">17/11</span>
+                        </div>
+                      </div>
+                    </div>
                   </div>
-                  <div class="barcode-mini">
-                    <div class="bar-mini"></div>
-                    <div class="bar-mini tall"></div>
-                    <div class="bar-mini"></div>
+
+                  <!-- Calories Consumed Card -->
+                  <div class="analytics-card calories-consumed-card">
+                    <div class="analytics-header">
+                      <div class="analytics-icon">🔥</div>
+                      <div class="analytics-title">Calories Consumed</div>
+                    </div>
+                    <div class="analytics-subtitle">
+                      Keep an eye on daily caloric intake for a healthy cat 🍽️
+                    </div>
+
+                    <!-- Calories Chart -->
+                    <div class="calories-chart-container">
+                      <div class="calories-value">219 kcal</div>
+                      <div class="calories-chart">
+                        <svg
+                          viewBox="0 0 400 120"
+                          style="width: 100%; height: 120px"
+                        >
+                          <!-- Area fill with gradient -->
+                          <defs>
+                            <linearGradient
+                              id="caloriesGradient"
+                              x1="0%"
+                              y1="0%"
+                              x2="0%"
+                              y2="100%"
+                            >
+                              <stop
+                                offset="0%"
+                                style="stop-color: #ffb74d; stop-opacity: 0.8"
+                              />
+                              <stop
+                                offset="100%"
+                                style="stop-color: #ffb74d; stop-opacity: 0.2"
+                              />
+                            </linearGradient>
+                          </defs>
+                          <path
+                            d="M 50 80 L 100 60 L 150 70 L 200 50 L 250 55 L 300 45 L 350 40 L 350 120 L 50 120 Z"
+                            fill="url(#caloriesGradient)"
+                          />
+
+                          <!-- Line -->
+                          <path
+                            d="M 50 80 L 100 60 L 150 70 L 200 50 L 250 55 L 300 45 L 350 40"
+                            stroke="#FF9800"
+                            stroke-width="2"
+                            fill="none"
+                            stroke-linecap="round"
+                          />
+                        </svg>
+                        <div class="calories-x-axis">
+                          <span class="x-label">16/11</span>
+                          <span class="x-label">17/11</span>
+                        </div>
+                      </div>
+                      <div class="calories-baseline">0 kcal</div>
+                    </div>
                   </div>
-                </div>
-                <div class="score-mini">85/100</div>
-              </div>
-              <!-- Step 4: Charts -->
-              <div class="phone-step" data-step="4">
-                <div class="chart-mini">
-                  <div class="bar-chart"></div>
-                  <div class="bar-chart" style="height: 75%"></div>
-                  <div class="bar-chart" style="height: 85%"></div>
-                  <div class="bar-chart" style="height: 95%"></div>
-                </div>
-                <div class="stats-row">
-                  <div class="stat-box">💧</div>
-                  <div class="stat-box">⚖️</div>
                 </div>
               </div>
             </div>
@@ -1755,49 +2278,46 @@
           <div class="workflow-step-scroll" data-trigger="1">
             <div class="step-badge">
               <span class="step-num">1</span>
-              <span class="step-emoji">🐱</span>
+              <span class="step-emoji">🎯</span>
             </div>
             <div class="step-text">
-              <h3>Créez le profil</h3>
-              <p>Ajoutez votre chat avec sa photo, son poids, son âge et ses caractéristiques</p>
+              <h3>Générez son plan</h3>
+              <p>
+                Un plan personnalisé basé sur 8 critères avec calculs
+                vétérinaires (RER/DER)
+              </p>
             </div>
           </div>
 
           <div class="workflow-step-scroll" data-trigger="2">
             <div class="step-badge">
               <span class="step-num">2</span>
-              <span class="step-emoji">🎯</span>
+              <span class="step-emoji">🔍</span>
             </div>
             <div class="step-text">
-              <h3>Générez son plan</h3>
-              <p>Un plan personnalisé basé sur 8 critères avec calculs vétérinaires (RER/DER)</p>
+              <h3>Scannez ses produits</h3>
+              <p>
+                Vérifiez la qualité de ses croquettes et comparez avec 500+
+                produits
+              </p>
             </div>
           </div>
 
           <div class="workflow-step-scroll" data-trigger="3">
             <div class="step-badge">
               <span class="step-num">3</span>
-              <span class="step-emoji">🔍</span>
-            </div>
-            <div class="step-text">
-              <h3>Scannez ses produits</h3>
-              <p>Vérifiez la qualité de ses croquettes et comparez avec 500+ produits</p>
-            </div>
-          </div>
-
-          <div class="workflow-step-scroll" data-trigger="4">
-            <div class="step-badge">
-              <span class="step-num">4</span>
               <span class="step-emoji">📊</span>
             </div>
             <div class="step-text">
               <h3>Suivez son évolution</h3>
-              <p>Macros, hydratation, poids — visualisez sa transformation au quotidien</p>
+              <p>
+                Macros, hydratation, poids, visualisez sa transformation au
+                quotidien
+              </p>
             </div>
           </div>
 
           <!-- Spacer pour permettre le scroll final -->
-          <div class="workflow-spacer"></div>
         </div>
       </div>
     </section>
@@ -1888,7 +2408,7 @@
             <h3>✨ Une app complète pour la santé de votre chat</h3>
             <p>
               <strong>Recherche instantanée :</strong> Prenez une photo ou
-              cherchez "thon" — verdict en 3 secondes avec les quantités
+              cherchez "thon" verdict en 3 secondes avec les quantités
               recommandées.
             </p>
             <p>
@@ -1900,7 +2420,7 @@
               avec calcul automatique des besoins caloriques (RER/DER).
             </p>
             <p>
-              <strong>Suivi quotidien :</strong> Macros, hydratation, poids —
+              <strong>Suivi quotidien :</strong> Macros, hydratation, poids,
               tout dans une interface douce et intuitive 🐱
             </p>
           </div>
@@ -1919,7 +2439,7 @@
               <div class="stat-label">Critères du plan</div>
             </div>
             <div class="stat-item">
-              <div class="stat-value">500+</div>
+              <div class="stat-value">1000+</div>
               <div class="stat-label">Produits comparables</div>
             </div>
           </div>
@@ -1951,11 +2471,11 @@
           </p>
         </div>
         <div class="screenshot-item fade-in">
-          <img src="screenshot-4.jpg" alt="Multi-chats" />
+          <img src="plan-list-page.jpg" alt="Multi-chats" />
           <p class="screenshot-caption">Profils multi-chats avec avatars</p>
         </div>
         <div class="screenshot-item fade-in">
-          <img src="screenshot-5.jpg" alt="Conseils" />
+          <img src="screenshot-6.jpg" alt="Conseils" />
           <p class="screenshot-caption">
             Comparateur de produits avec code-barre
           </p>
@@ -2055,11 +2575,6 @@
           L'application qui protège votre chat en vous aidant à faire les bons
           choix alimentaires, avec amour 💕
         </p>
-        <div class="social-links">
-          <a href="#" class="social-icon">📱</a>
-          <a href="#" class="social-icon">📸</a>
-          <a href="#" class="social-icon">💌</a>
-        </div>
 
         <div class="footer-links">
           <a href="terms-of-service.html">Terms of Service</a>
@@ -2302,90 +2817,63 @@
 
       setInterval(createSparkle, 2000);
 
-      // How It Works Workflow Animation
-      const workflowSteps = document.querySelectorAll(".workflow-step");
-      const mockupScreen = document.getElementById("mockupScreen");
-      let currentStep = 0;
-      let workflowInterval;
+      // Workflow auto-animation
+      function initWorkflowAnimation() {
+        const phoneSteps = document.querySelectorAll(".phone-step");
+        const workflowSteps = document.querySelectorAll(
+          ".workflow-step-scroll"
+        );
 
-      function activateStep(stepIndex) {
-        // Remove active class from all steps
-        workflowSteps.forEach((step) => step.classList.remove("active"));
+        if (!phoneSteps.length || !workflowSteps.length) return;
 
-        // Remove active from all screens
-        const screens = mockupScreen?.querySelectorAll(".screen-content");
-        screens?.forEach((screen) => screen.classList.remove("active"));
+        let currentIndex = 0;
 
-        // Add active to current step
-        if (workflowSteps[stepIndex]) {
-          workflowSteps[stepIndex].classList.add("active");
+        function activateStep(index) {
+          // Désactiver tous les steps
+          phoneSteps.forEach((step) => step.classList.remove("active"));
+          workflowSteps.forEach((step) => step.classList.remove("active"));
+
+          // Activer le step actuel
+          if (phoneSteps[index]) phoneSteps[index].classList.add("active");
+          if (workflowSteps[index])
+            workflowSteps[index].classList.add("active");
         }
 
-        // Show corresponding screen
-        const currentScreen = mockupScreen?.querySelector(
-          `[data-screen="${stepIndex + 1}"]`
-        );
-        if (currentScreen) {
-          currentScreen.classList.add("active");
-        }
-      }
+        // Activer le premier step au démarrage
+        activateStep(0);
 
-      function startWorkflowAnimation() {
-        // Check if workflow section is in viewport
-        const workflowSection = document.querySelector(
-          ".how-it-works-section"
-        );
-        if (!workflowSection) return;
+        // Changer de step toutes les 4 secondes
+        setInterval(() => {
+          currentIndex = (currentIndex + 1) % phoneSteps.length;
+          activateStep(currentIndex);
+        }, 4000);
 
-        const workflowObserver = new IntersectionObserver(
-          (entries) => {
-            entries.forEach((entry) => {
-              if (entry.isIntersecting) {
-                // Start auto-cycle
-                activateStep(0);
-                workflowInterval = setInterval(() => {
-                  currentStep = (currentStep + 1) % 4;
-                  activateStep(currentStep);
-                }, 3000); // Change step every 3 seconds
-              } else {
-                // Stop when out of viewport
-                if (workflowInterval) {
-                  clearInterval(workflowInterval);
-                }
-              }
-            });
-          },
-          { threshold: 0.3 }
-        );
-
-        workflowObserver.observe(workflowSection);
-
-        // Manual click handlers
+        // Permettre le clic sur les cards pour naviguer manuellement
         workflowSteps.forEach((step, index) => {
           step.addEventListener("click", () => {
-            // Reset interval
-            if (workflowInterval) {
-              clearInterval(workflowInterval);
-            }
-            currentStep = index;
-            activateStep(currentStep);
-
-            // Restart auto-cycle after 5 seconds
-            setTimeout(() => {
-              workflowInterval = setInterval(() => {
-                currentStep = (currentStep + 1) % 4;
-                activateStep(currentStep);
-              }, 3000);
-            }, 5000);
+            currentIndex = index;
+            activateStep(currentIndex);
           });
+          step.style.cursor = "pointer";
         });
       }
 
-      // Initialize workflow animation when DOM is ready
-      if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", startWorkflowAnimation);
-      } else {
-        startWorkflowAnimation();
+      // Démarrer l'animation quand la section devient visible
+      const workflowObserver = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              initWorkflowAnimation();
+              workflowObserver.unobserve(entry.target);
+            }
+          });
+        },
+        { threshold: 0.2 }
+      );
+
+      const workflowSection = document.querySelector(".how-it-works-section");
+      if (workflowSection) {
+        workflowObserver.observe(workflowSection);
       }
     </script>
   </body>
