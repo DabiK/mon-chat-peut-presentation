@@ -33,7 +33,7 @@
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // Vivi réagit au verdict : les images pas encore vues se chargent à la demande
-  const vivis = [...document.querySelectorAll(".vivi-react img")];
+  const vivis = [...document.querySelectorAll(".vivi-react img, .vivi-mini img")];
   const reveal = img => { if (img.dataset.src) { img.src = img.dataset.src; img.removeAttribute("data-src"); } };
   const setVivi = v => vivis.forEach(img => {
     const on = img.dataset.v === v;
@@ -72,10 +72,14 @@
     $("stamp-word").textContent = V.stamp;
     if (!reduce && !instant) { stamp.classList.remove("thump"); void stamp.offsetWidth; stamp.classList.add("thump"); }
     setReason(food ? firstSentence(food.why) : L.unknownReason, instant);
+    const name = food ? food.name : cap(strip(text) || L.unknownFood);
+    const why = food ? food.why : L.unknownWhy;
     $("f-band").textContent = V.band;
-    $("f-name").textContent = food ? food.name : cap(strip(text) || L.unknownFood);
+    $("f-name").textContent = name;
     $("f-brief").textContent = V.sub;
-    $("f-why").textContent = food ? food.why : L.unknownWhy;
+    $("f-why").textContent = why;
+    // annonce pour les lecteurs d'écran, quelle que soit la mise en page (la fiche est masquée sur téléphone)
+    if (!instant) $("sr-verdict").textContent = `${name}. ${V.stamp} ${V.sub} ${why}`;
     document.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", String(!!food && find(c.dataset.q) === food)));
   }
 
