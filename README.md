@@ -39,4 +39,8 @@ Cache et en-têtes : `_headers`. Les pages HTML sont revalidées à chaque visit
 
 ### Domaine
 
-Le DNS de `mon-chat-peut.com` reste chez Hostinger, où sont aussi les e-mails (MX et SPF, à ne pas toucher). Comme `demeure.iamdabi.com`, le domaine passe par Cloudflare for SaaS : `mon-chat-peut.com` et `www.mon-chat-peut.com` sont des noms de domaine personnalisés de la zone `pasdansmonfil.fr`, d'où les routes déclarées dans cette zone dans `wrangler.toml`.
+Le DNS de `mon-chat-peut.com` reste chez Hostinger, où sont aussi les e-mails (MX et SPF, à ne pas toucher). Comme `demeure.iamdabi.com`, le domaine passe par Cloudflare for SaaS : `mon-chat-peut.com` et `www.mon-chat-peut.com` sont des noms de domaine personnalisés de la zone `pasdansmonfil.fr` (compte devcompte44@gmail.com).
+
+- Chez Hostinger : `@` en ALIAS (saisi comme un CNAME sur `@`) et `www` en CNAME, vers `mon-chat-peut-saas.pasdansmonfil.fr`.
+- Dans la zone `pasdansmonfil.fr` : `mon-chat-peut-saas` est un enregistrement AAAA `100::` proxifié, qui ne sert que de cible ; la route `mon-chat-peut.com/*` envoie le domaine vers le Worker (`wrangler.toml`) ; une règle de redirection envoie `www.mon-chat-peut.com` vers `https://mon-chat-peut.com` en 301.
+- Les certificats sont émis et renouvelés par Cloudflare (validation HTTP).

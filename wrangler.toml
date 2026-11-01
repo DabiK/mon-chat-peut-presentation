@@ -7,3 +7,11 @@ workers_dev = true
 # Le cache des images et des polices est réglé dans _headers.
 [assets]
 directory = "./dist"
+
+# Le DNS de mon-chat-peut.com reste chez Hostinger : le domaine pointe vers mon-chat-peut-saas.pasdansmonfil.fr
+# (ALIAS à la racine, CNAME pour www). Les deux noms sont des noms de domaine personnalisés Cloudflare for SaaS
+# de la zone pasdansmonfil.fr, d'où la route dans cette zone. www est redirigé vers le domaine nu par une règle
+# de redirection de la zone, avant d'arriver au Worker.
+[[routes]]
+pattern = "mon-chat-peut.com/*"
+zone_name = "pasdansmonfil.fr"
