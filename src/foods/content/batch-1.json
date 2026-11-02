@@ -1,0 +1,977 @@
+[
+  {
+    "id": "pomme",
+    "verdict": "peu",
+    "related": ["poire", "compote", "banane", "melon"],
+    "fr": {
+      "short": "Un peu. Quelques petits morceaux de pomme épluchée, sans trognon ni pépins, ne posent pas de problème à ton chat de temps en temps.",
+      "why": "La chair de la pomme n'est pas toxique, mais elle est sucrée et ton chat, carnivore strict, n'en a aucun besoin. Les pépins, la tige et les feuilles contiennent des composés cyanogènes, qui peuvent libérer du cyanure une fois mâchés. Le trognon, dur et fibreux, peut aussi le faire s'étouffer ou gêner sa digestion.",
+      "amount": "Deux ou trois petits dés de la taille d'un petit pois, de temps en temps, suffisent. Lave et épluche la pomme, retire le trognon et tous les pépins, et sers-la crue ou cuite, sans sucre ajouté.",
+      "risks": [
+        "Pépins, tige et feuilles : composés cyanogènes",
+        "Étouffement avec le trognon ou un morceau trop gros",
+        "Diarrhée ou ballonnements si trop de fruit",
+        "Sucre en trop pour un chat diabétique ou en surpoids"
+      ],
+      "ifEaten": "Un morceau de pomme, même avec un ou deux pépins, est en général sans conséquence. Surveille-le 24 à 48 heures : vomissements, diarrhée ou fatigue inhabituelle. S'il a mâché beaucoup de pépins, avalé un trognon entier, ou si ces signes apparaissent, appelle ton vétérinaire.",
+      "alternatives": "Pour une friandise qui lui fait vraiment plaisir, un petit morceau de poulet cuit nature ou une friandise pour chat est bien plus adapté. S'il aime mâchonner du vert, propose-lui de l'herbe à chat.",
+      "faq": [
+        {"q": "Et la peau de la pomme ?", "a": "Elle n'est pas toxique, mais elle est plus dure à digérer et peut garder des traces de pesticides. Mieux vaut l'éplucher, surtout pour un petit chat."},
+        {"q": "Mon chat a mangé un pépin de pomme, c'est grave ?", "a": "Non, un pépin isolé ne suffit pas à l'intoxiquer, surtout s'il l'a avalé sans le croquer. Ce sont de grandes quantités de pépins mâchés qui posent problème. Garde quand même les trognons hors de sa portée."}
+      ]
+    },
+    "en": {
+      "short": "A little. A few small pieces of peeled apple, with the core and seeds removed, are fine for your cat as an occasional treat.",
+      "why": "Apple flesh isn't toxic, but it's sugary, and as an obligate carnivore your cat has no need for it. The seeds, stem and leaves contain cyanogenic compounds that can release cyanide when chewed. The tough core is also a choking hazard and hard to digest.",
+      "amount": "Two or three pea-sized pieces once in a while is plenty. Wash and peel the apple, remove the core and every seed, and serve it raw or cooked, with no added sugar.",
+      "risks": [
+        "Seeds, stem and leaves contain cyanogenic compounds",
+        "Choking on the core or a large chunk",
+        "Diarrhea or bloating from too much fruit",
+        "Extra sugar, a concern for diabetic or overweight cats"
+      ],
+      "ifEaten": "A piece of apple, even with a seed or two, is usually nothing to worry about. Watch your cat for 24 to 48 hours for vomiting, diarrhea or unusual tiredness. Call your vet if those signs appear, or if your cat chewed a lot of seeds or swallowed a whole core.",
+      "alternatives": "For a treat your cat will actually appreciate, try a small piece of plain cooked chicken or a cat treat. If they like to nibble greens, offer some cat grass.",
+      "faq": [
+        {"q": "Can cats eat apple skin?", "a": "It isn't toxic, but it's tougher to digest and may carry pesticide residue. Peeling the apple is the safer choice, especially for kittens."},
+        {"q": "Can cats have applesauce?", "a": "Plain, unsweetened applesauce is fine as a lick now and then. Skip versions with added sugar, spices or sweeteners."}
+      ]
+    }
+  },
+  {
+    "id": "poire",
+    "verdict": "peu",
+    "related": ["pomme", "peche", "compote", "banane"],
+    "fr": {
+      "short": "Un peu. Quelques petits morceaux de poire bien mûre, épluchée et sans pépins, sont sans danger pour ton chat de temps en temps.",
+      "why": "La poire n'est pas toxique pour le chat, mais c'est un fruit sucré qui ne lui apporte rien d'utile. Comme pour la pomme, ses pépins, sa tige et ses feuilles contiennent des composés cyanogènes. Sa chair riche en fibres et en eau peut aussi ramollir les selles si ton chat en mange trop.",
+      "amount": "Un ou deux petits dés de poire bien mûre, de temps en temps, c'est suffisant. Épluche-la, retire le cœur et les pépins, et évite les poires au sirop.",
+      "risks": [
+        "Pépins et tige : composés cyanogènes",
+        "Diarrhée si trop de fibres et de sucre",
+        "Étouffement avec le cœur ou un morceau trop gros",
+        "Sucre en trop pour un chat diabétique"
+      ],
+      "ifEaten": "Un morceau de poire est en général sans conséquence, même avec un pépin. Surveille ton chat 24 à 48 heures : selles molles, vomissements ou abattement. Appelle ton vétérinaire si ces signes apparaissent ou s'il a mangé une grande quantité, cœur et pépins compris.",
+      "alternatives": "Une petite lamelle de dinde ou de poulet cuit nature est une bien meilleure friandise pour lui. Les friandises pour chat ont aussi l'avantage d'être faciles à doser.",
+      "faq": [
+        {"q": "Et les poires au sirop ?", "a": "Non, le sirop est beaucoup trop sucré pour un chat. Si tu veux partager, prends un petit morceau de poire fraîche bien mûre."},
+        {"q": "Mon chat a croqué un pépin de poire, je dois m'inquiéter ?", "a": "Un pépin seul ne suffit pas à l'intoxiquer. C'est la consommation importante ou répétée de pépins mâchés qui est à éviter."}
+      ]
+    },
+    "en": {
+      "short": "A little. A few small pieces of ripe, peeled pear with the seeds removed are safe for your cat as an occasional treat.",
+      "why": "Pears aren't toxic to cats, but they're sugary and offer nothing your cat needs. Like apple seeds, pear seeds, stems and leaves contain cyanogenic compounds. The fiber- and water-rich flesh can also loosen stools if your cat eats too much.",
+      "amount": "One or two small cubes of ripe pear once in a while is enough. Peel it, remove the core and seeds, and skip canned pears in syrup.",
+      "risks": [
+        "Seeds and stem contain cyanogenic compounds",
+        "Diarrhea from too much fiber and sugar",
+        "Choking on the core or a large piece",
+        "Extra sugar for diabetic cats"
+      ],
+      "ifEaten": "A bite of pear is usually harmless, even with a seed in it. Keep an eye on your cat for 24 to 48 hours for loose stools, vomiting or lethargy. Call your vet if those signs show up or if your cat ate a large amount, core and seeds included.",
+      "alternatives": "A thin strip of plain cooked turkey or chicken makes a far better treat. Cat treats are also easy to portion.",
+      "faq": [
+        {"q": "Can cats eat canned pears?", "a": "Not pears in syrup, which are far too sugary. If you want to share, use a small piece of fresh, ripe pear."},
+        {"q": "Can kittens eat pears?", "a": "There's no reason to give them any. A kitten's stomach is sensitive and every bite should go toward kitten food, so save the odd fruit treat for adulthood."}
+      ]
+    }
+  },
+  {
+    "id": "banane",
+    "verdict": "peu",
+    "related": ["pomme", "melon", "mangue", "sucre"],
+    "fr": {
+      "short": "Un peu. La banane n'est pas toxique pour ton chat, mais elle est très sucrée : une petite rondelle de temps en temps, pas plus.",
+      "why": "La banane est riche en sucres et en amidon, dont un carnivore strict n'a aucun besoin et qu'il digère mal en quantité. Une banane entière représenterait une bonne partie de ses besoins caloriques de la journée. La peau, très fibreuse, ne se digère pas et peut gêner l'intestin.",
+      "amount": "Une fine rondelle, coupée en petits morceaux, de temps en temps suffit. Sers-la nature et épluchée, jamais en gâteau ni en dessert sucré.",
+      "risks": [
+        "Diarrhée ou constipation si trop de banane",
+        "Prise de poids avec le sucre et l'amidon",
+        "Déconseillée aux chats diabétiques",
+        "Peau indigeste, risque d'obstruction"
+      ],
+      "ifEaten": "S'il a chipé un bout de banane, pas d'inquiétude : ce n'est pas toxique. Surveille-le 24 à 48 heures pour des vomissements, de la diarrhée ou de la constipation. Appelle ton vétérinaire s'il a avalé de la peau, mangé une banane entière, ou si ces signes durent.",
+      "alternatives": "Pour lui faire plaisir, un petit morceau de poulet ou de poisson cuit nature est bien plus adapté. Si c'est la texture fondante qui l'attire, une cuillère à café de citrouille cuite nature fait aussi l'affaire.",
+      "faq": [
+        {"q": "Et la peau de banane ?", "a": "Elle n'est pas toxique, mais elle est très fibreuse et ne se digère pas. Un gros morceau avalé peut provoquer vomissements ou obstruction : jette-la hors de sa portée."},
+        {"q": "Et le gâteau ou le pain à la banane ?", "a": "Non : il contient du sucre, du beurre, et parfois du chocolat, des noix ou des raisins secs. Si tu veux partager, une rondelle nature suffit."}
+      ]
+    },
+    "en": {
+      "short": "A little. Bananas aren't toxic to cats, but they're very sugary: a small slice now and then is the limit.",
+      "why": "Bananas are full of sugar and starch, which an obligate carnivore doesn't need and handles poorly in quantity. A whole banana would cover a big share of a cat's daily calories. The peel is tough and fibrous, so it isn't digested and can upset the gut.",
+      "amount": "One thin slice, cut into small pieces, once in a while is enough. Serve it plain and peeled, never as banana bread or a sugary dessert.",
+      "risks": [
+        "Diarrhea or constipation from too much banana",
+        "Weight gain from sugar and starch",
+        "Not suitable for diabetic cats",
+        "Indigestible peel, risk of blockage"
+      ],
+      "ifEaten": "If your cat stole a bite of banana, don't worry: it isn't toxic. Watch for vomiting, diarrhea or constipation over the next 24 to 48 hours. Call your vet if your cat swallowed peel, ate a whole banana or if symptoms persist.",
+      "alternatives": "A small piece of plain cooked chicken or fish suits your cat much better. If it's the soft texture they love, a teaspoon of plain cooked pumpkin works too.",
+      "faq": [
+        {"q": "What about banana bread?", "a": "Skip it. It's loaded with sugar and butter, and some recipes add chocolate, raisins or nuts. A plain slice of banana is the only version to share."},
+        {"q": "Can kittens eat bananas?", "a": "It isn't toxic, but there's no benefit and a kitten's stomach is sensitive. Stick to kitten food and save the odd bite of fruit for adulthood."}
+      ]
+    }
+  },
+  {
+    "id": "fraise",
+    "verdict": "peu",
+    "related": ["framboise", "myrtille", "yaourt", "glace"],
+    "fr": {
+      "short": "Un peu. Les fraises ne sont pas toxiques pour ton chat : quelques petits morceaux de temps en temps, bien lavés et sans les feuilles.",
+      "why": "La fraise n'a rien de toxique, mais elle contient du sucre et des fibres que ton chat n'utilise pas vraiment. Il ne perçoit d'ailleurs pas le goût sucré : s'il s'y intéresse, c'est surtout par curiosité. En trop grande quantité, elle peut provoquer des troubles digestifs.",
+      "amount": "Une demi-fraise coupée en petits morceaux, de temps en temps, suffit largement. Lave-la bien, retire la queue et les feuilles, et oublie les fraises au sucre ou à la chantilly.",
+      "risks": [
+        "Diarrhée ou vomissements si trop de fruit",
+        "Sucre en trop pour un chat diabétique ou en surpoids",
+        "Étouffement si la fraise est donnée entière",
+        "Desserts à la fraise : lactose, sucre, édulcorants"
+      ],
+      "ifEaten": "Quelques fraises chipées ne sont pas dangereuses. Surveille-le 24 à 48 heures pour des vomissements ou de la diarrhée. S'il en a mangé une barquette entière ou si les symptômes durent, appelle ton vétérinaire.",
+      "alternatives": "Pour une friandise vraiment adaptée, mise sur un petit morceau de poulet cuit nature ou une friandise pour chat. Côté fruits, deux ou trois myrtilles sont aussi une option.",
+      "faq": [
+        {"q": "Et les feuilles de fraisier ?", "a": "Le fraisier n'est pas considéré comme toxique pour le chat. S'il mâchonne une feuille, il risque au pire un petit trouble digestif."},
+        {"q": "Mon chat peut-il manger du yaourt ou de la glace à la fraise ?", "a": "Non. Ces desserts sont sucrés, contiennent du lactose et parfois des édulcorants. Si tu veux partager, un petit morceau de fraise nature suffit."}
+      ]
+    },
+    "en": {
+      "short": "A little. Strawberries aren't toxic to cats: a few small pieces now and then, washed and with the leaves removed.",
+      "why": "There's nothing toxic in strawberries, but they contain sugar and fiber your cat doesn't really use. Cats can't even taste sweetness, so interest in a strawberry is mostly curiosity. Too much can upset their stomach.",
+      "amount": "Half a strawberry cut into small pieces, once in a while, is plenty. Wash it well, remove the stem and leaves, and skip sugared or cream-topped strawberries.",
+      "risks": [
+        "Diarrhea or vomiting from too much fruit",
+        "Extra sugar for diabetic or overweight cats",
+        "Choking if given whole",
+        "Strawberry desserts: lactose, sugar, sweeteners"
+      ],
+      "ifEaten": "A few stolen strawberries are not dangerous. Watch for vomiting or diarrhea over the next 24 to 48 hours. If your cat ate a whole carton or symptoms persist, call your vet.",
+      "alternatives": "For a treat that really suits your cat, go for a small piece of plain cooked chicken or a cat treat. If you want to stick with fruit, a couple of blueberries work too.",
+      "faq": [
+        {"q": "Are strawberry leaves safe for cats?", "a": "The strawberry plant isn't considered toxic to cats. Chewing a leaf may cause mild stomach upset at worst."},
+        {"q": "Can cats eat strawberry yogurt or ice cream?", "a": "No. These desserts are sugary, contain lactose and sometimes sweeteners such as xylitol. A plain piece of strawberry is the way to share."}
+      ]
+    }
+  },
+  {
+    "id": "framboise",
+    "verdict": "peu",
+    "related": ["fraise", "myrtille", "confiture", "chewing-gum"],
+    "fr": {
+      "short": "Un peu. Les framboises ne sont pas toxiques pour ton chat : deux ou trois baies de temps en temps, pas plus.",
+      "why": "La framboise n'est pas toxique, mais elle est riche en fibres et contient du sucre, inutiles pour un carnivore. Elle renferme aussi naturellement un peu de xylitol, en très petite quantité : ce n'est pas un problème pour quelques baies, mais c'est une raison de plus de ne pas en abuser. En trop grande quantité, ses fibres peuvent donner la diarrhée.",
+      "amount": "Deux ou trois framboises fraîches et lavées, de temps en temps, suffisent. Coupe-les en deux pour un petit chat, et évite confitures, coulis et desserts.",
+      "risks": [
+        "Diarrhée ou vomissements si trop de baies",
+        "Sucre en trop pour un chat diabétique",
+        "Confitures et coulis : très sucrés",
+        "Desserts ou produits allégés parfois sucrés au xylitol"
+      ],
+      "ifEaten": "Quelques framboises ne sont pas dangereuses. Surveille-le 24 à 48 heures pour des troubles digestifs. Appelle ton vétérinaire s'il a mangé une grande quantité, s'il a avalé un produit sans sucre contenant du xylitol, ou si des symptômes apparaissent.",
+      "alternatives": "Pour une friandise vraiment faite pour lui, un petit morceau de dinde ou de poulet cuit nature est idéal. Côté fruits, les myrtilles sont un peu plus simples à doser.",
+      "faq": [
+        {"q": "Et la confiture de framboise ?", "a": "Non, c'est surtout du sucre, et certaines versions allégées contiennent des édulcorants. Une baie fraîche reste la seule option."},
+        {"q": "Et les mûres ?", "a": "Mêmes règles que pour la framboise : elles ne sont pas toxiques, et quelques baies nature de temps en temps ne posent pas de problème."}
+      ]
+    },
+    "en": {
+      "short": "A little. Raspberries aren't toxic to cats: two or three berries once in a while, no more.",
+      "why": "Raspberries aren't toxic, but they're high in fiber and contain sugar a carnivore doesn't need. They also naturally contain a tiny amount of xylitol: not a problem in a few berries, but one more reason not to overdo it. Too many can cause diarrhea.",
+      "amount": "Two or three fresh, washed raspberries now and then is enough. Cut them in half for a small cat, and skip jam, coulis and desserts.",
+      "risks": [
+        "Diarrhea or vomiting from too many berries",
+        "Extra sugar for diabetic cats",
+        "Jam and coulis: very sugary",
+        "Desserts or sugar-free products sometimes sweetened with xylitol"
+      ],
+      "ifEaten": "A few raspberries are not dangerous. Watch for stomach upset over the next 24 to 48 hours. Call your vet if your cat ate a large amount, got into a sugar-free product containing xylitol, or shows symptoms.",
+      "alternatives": "For a treat made for your cat, a small piece of plain cooked turkey or chicken is ideal. If you want fruit, blueberries are a little easier to portion.",
+      "faq": [
+        {"q": "Can cats eat raspberry jam?", "a": "No, it's mostly sugar, and some reduced-sugar versions contain sweeteners. A fresh berry is the only option."},
+        {"q": "What about blackberries?", "a": "Same rules as raspberries: they aren't toxic, and a few plain berries now and then are fine."}
+      ]
+    }
+  },
+  {
+    "id": "myrtille",
+    "verdict": "oui",
+    "related": ["framboise", "fraise", "raisin", "citrouille"],
+    "fr": {
+      "short": "Oui. Les myrtilles sont sans danger pour ton chat en petite quantité : quelques baies nature suffisent comme friandise.",
+      "why": "La myrtille n'est pas toxique, elle est peu calorique et riche en antioxydants, et on en trouve d'ailleurs dans certaines recettes de croquettes. Elle reste un fruit : ton chat n'en a pas besoin et ne perçoit même pas son goût sucré. Petite et ronde, une baie entière peut aussi gêner un chat qui avale sans mâcher.",
+      "amount": "Deux à quatre myrtilles, de temps en temps, c'est bien. Lave-les, sers-les nature, fraîches ou décongelées, et coupe-les en deux si ton chat a tendance à tout avaler d'un coup.",
+      "risks": [
+        "Diarrhée si trop de baies",
+        "Fausse route si la baie est avalée entière",
+        "Muffins et desserts : sucre, beurre, lactose",
+        "Sucre en trop pour un chat diabétique"
+      ],
+      "ifEaten": "Quelques myrtilles ne posent aucun problème. S'il en a mangé une bonne poignée, surveille-le 24 à 48 heures : selles molles ou vomissements. Appelle ton vétérinaire si ces signes durent, et tout de suite s'il semble gêné pour avaler ou respirer.",
+      "alternatives": "Les myrtilles sont déjà une bonne option côté fruits. Pour une vraie friandise de carnivore, rien ne vaut un petit morceau de poulet ou de poisson cuit nature.",
+      "faq": [
+        {"q": "Combien de myrtilles peut manger un chat ?", "a": "Deux à quatre baies de temps en temps suffisent. Les friandises, fruits compris, doivent rester sous 10 % de ce qu'il mange dans la journée."},
+        {"q": "Et les muffins ou les desserts aux myrtilles ?", "a": "Non : le sucre, le beurre et la crème ne lui conviennent pas. Garde les myrtilles nature pour lui."}
+      ]
+    },
+    "en": {
+      "short": "Yes. Blueberries are safe for cats in small amounts: a few plain berries make a fine treat.",
+      "why": "Blueberries aren't toxic, they're low in calories and rich in antioxidants, and some cat food recipes even include them. They're still fruit: your cat doesn't need them and can't even taste their sweetness. Small and round, a whole berry can also go down the wrong way in a cat that gulps without chewing.",
+      "amount": "Two to four blueberries now and then is fine. Wash them, serve them plain, fresh or thawed, and cut them in half if your cat tends to swallow things whole.",
+      "risks": [
+        "Diarrhea from too many berries",
+        "Choking if swallowed whole",
+        "Muffins and desserts: sugar, butter, lactose",
+        "Extra sugar for diabetic cats"
+      ],
+      "ifEaten": "A few blueberries are no problem at all. If your cat ate a big handful, watch for loose stools or vomiting over the next 24 to 48 hours. Call your vet if those signs last, and right away if your cat seems to struggle to swallow or breathe.",
+      "alternatives": "Blueberries are already one of the better fruit options. For a true carnivore treat, nothing beats a small piece of plain cooked chicken or fish.",
+      "faq": [
+        {"q": "How many blueberries can a cat eat?", "a": "Two to four berries now and then is enough. Treats, fruit included, should stay under 10% of what your cat eats in a day."},
+        {"q": "Can cats eat dried blueberries?", "a": "Better not: drying concentrates the sugar, and many are sweetened. Stick to a few fresh or thawed berries."}
+      ]
+    }
+  },
+  {
+    "id": "melon",
+    "verdict": "peu",
+    "related": ["pasteque", "concombre", "banane", "mangue"],
+    "fr": {
+      "short": "Un peu. Beaucoup de chats adorent le melon : quelques petits dés sans peau ni graines, c'est OK de temps en temps, mais ça reste sucré.",
+      "why": "Le melon n'est pas toxique et contient beaucoup d'eau, mais il est sucré et n'apporte rien d'indispensable à ton chat. En trop grande quantité, il peut donner la diarrhée. L'écorce est dure et indigeste, et sa surface peut porter des bactéries.",
+      "amount": "Deux ou trois petits dés de chair, de temps en temps, suffisent. Lave le melon avant de le couper, retire l'écorce et les graines, et sers-le nature, sans jambon cru.",
+      "risks": [
+        "Diarrhée si trop de melon",
+        "Sucre en trop pour un chat diabétique ou en surpoids",
+        "Écorce indigeste, risque d'obstruction",
+        "Melon-jambon : bien trop salé"
+      ],
+      "ifEaten": "Quelques dés de melon ne sont pas un souci. Surveille ton chat 24 à 48 heures pour de la diarrhée ou des vomissements. Appelle ton vétérinaire s'il a avalé de l'écorce, mangé beaucoup, ou si les symptômes persistent.",
+      "alternatives": "Pour l'hydrater, une pâtée ou un peu d'eau ajoutée à sa ration est plus utile que le fruit. Pour le plaisir, un petit morceau de poulet cuit nature fera aussi un tabac.",
+      "faq": [
+        {"q": "Pourquoi mon chat adore le melon ?", "a": "On ne le sait pas avec certitude. Une hypothèse souvent avancée : certains composés de son odeur rappelleraient ceux de la viande. Ce n'est pas prouvé, mais ça expliquerait pourquoi il réclame."},
+        {"q": "Et le melon au jambon ?", "a": "Le melon passe, le jambon cru beaucoup moins : il est très salé. Donne-lui juste un petit dé de melon nature."}
+      ]
+    },
+    "en": {
+      "short": "A little. Lots of cats love melon: a few small cubes without rind or seeds are OK now and then, but it's still sugary.",
+      "why": "Melon isn't toxic and is mostly water, but it's sugary and gives your cat nothing essential. Too much can cause diarrhea. The rind is tough and indigestible, and its surface can carry bacteria.",
+      "amount": "Two or three small cubes of flesh once in a while is enough. Wash the melon before cutting it, remove the rind and seeds, and serve it plain, not wrapped in prosciutto.",
+      "risks": [
+        "Diarrhea from too much melon",
+        "Extra sugar for diabetic or overweight cats",
+        "Indigestible rind, risk of blockage",
+        "Melon with prosciutto: far too salty"
+      ],
+      "ifEaten": "A few cubes of melon are nothing to worry about. Watch your cat for diarrhea or vomiting over the next 24 to 48 hours. Call your vet if your cat swallowed rind, ate a lot or if symptoms persist.",
+      "alternatives": "For hydration, wet food or a little water added to meals helps more than fruit. For pure enjoyment, a small piece of plain cooked chicken will be a hit.",
+      "faq": [
+        {"q": "Why do cats love cantaloupe?", "a": "No one knows for sure. One popular theory is that some compounds in its smell resemble those found in meat. It isn't proven, but it would explain the begging."},
+        {"q": "Can cats eat honeydew?", "a": "Yes, the same rules apply: a few small cubes of flesh, no rind and no seeds, once in a while."}
+      ]
+    }
+  },
+  {
+    "id": "pasteque",
+    "verdict": "peu",
+    "related": ["melon", "concombre", "fraise", "courgette"],
+    "fr": {
+      "short": "Un peu. Quelques petits dés de pastèque sans pépins ni écorce peuvent rafraîchir ton chat, mais ça reste du sucre.",
+      "why": "La pastèque est faite surtout d'eau et n'est pas toxique, mais sa chair contient du sucre dont ton chat n'a pas besoin. Les pépins noirs peuvent l'étouffer ou s'accumuler dans l'intestin, et l'écorce, dure et fibreuse, ne se digère pas. Trop de pastèque d'un coup donne facilement la diarrhée.",
+      "amount": "Deux ou trois petits dés de chair rouge, de temps en temps, suffisent. Retire tous les pépins et l'écorce, et sers-la nature, à température ambiante ou juste fraîche.",
+      "risks": [
+        "Pépins : étouffement ou obstruction",
+        "Écorce indigeste",
+        "Diarrhée si trop de fruit",
+        "Sucre en trop pour un chat diabétique"
+      ],
+      "ifEaten": "Un peu de pastèque n'est pas dangereux. Surveille-le 24 à 48 heures : diarrhée, vomissements, ventre douloureux ou perte d'appétit. Appelle ton vétérinaire s'il a avalé de l'écorce ou beaucoup de pépins, ou si ces signes apparaissent.",
+      "alternatives": "Pour l'aider à boire par temps chaud, une fontaine à eau ou une pâtée bien hydratée est plus efficace. En friandise, un petit morceau de poisson cuit nature lui conviendra mieux.",
+      "faq": [
+        {"q": "Et les pépins de pastèque ?", "a": "Ils ne sont pas toxiques, mais ils peuvent le faire s'étouffer ou, en nombre, gêner l'intestin. Retire-les avant de lui en donner."},
+        {"q": "La pastèque peut-elle hydrater mon chat en été ?", "a": "Un peu, mais ça reste anecdotique. Pour qu'il boive plus, mise plutôt sur la pâtée, une fontaine ou plusieurs gamelles d'eau fraîche dans la maison."}
+      ]
+    },
+    "en": {
+      "short": "A little. A few small cubes of seedless watermelon without the rind can refresh your cat, but it's still sugar.",
+      "why": "Watermelon is mostly water and isn't toxic, but the flesh contains sugar your cat doesn't need. The black seeds can cause choking or build up in the gut, and the tough, fibrous rind can't be digested. Too much watermelon at once easily causes diarrhea.",
+      "amount": "Two or three small cubes of red flesh now and then is enough. Remove all the seeds and the rind, and serve it plain, at room temperature or slightly chilled.",
+      "risks": [
+        "Seeds: choking or blockage",
+        "Indigestible rind",
+        "Diarrhea from too much fruit",
+        "Extra sugar for diabetic cats"
+      ],
+      "ifEaten": "A little watermelon is not dangerous. Watch for diarrhea, vomiting, a sore belly or loss of appetite over the next 24 to 48 hours. Call your vet if your cat swallowed rind or a lot of seeds, or if those signs appear.",
+      "alternatives": "To help your cat drink more in hot weather, a water fountain or wet food works better. As a treat, a small piece of plain cooked fish is a better fit.",
+      "faq": [
+        {"q": "Can cats eat watermelon seeds?", "a": "They aren't toxic, but they can cause choking or, in numbers, a blockage. Remove them before sharing."},
+        {"q": "Can watermelon keep my cat hydrated in summer?", "a": "A little, but not much. To get your cat drinking more, rely on wet food, a fountain or several bowls of fresh water around the house."}
+      ]
+    }
+  },
+  {
+    "id": "raisin",
+    "verdict": "non",
+    "related": ["raisins-secs", "cerise", "alcool", "myrtille"],
+    "fr": {
+      "short": "Non. Le raisin est lié à de graves atteintes rénales chez le chien et la dose dangereuse est inconnue : par précaution, jamais de raisin pour ton chat.",
+      "why": "Chez le chien, le raisin peut provoquer une insuffisance rénale aiguë, sans qu'on sache prédire quel animal réagira ni à partir de quelle quantité. Le mécanisme n'est pas totalement élucidé, l'acide tartrique étant aujourd'hui une piste sérieuse. Chez le chat, les données sont rares, mais des cas ont été rapportés : par précaution, on applique la même règle.",
+      "amount": "Aucune quantité n'est considérée comme sûre, qu'il soit blanc, noir, bio, avec ou sans pépins. Garde les grappes hors de sa portée, corbeille à fruits comprise.",
+      "risks": [
+        "Atteinte rénale aiguë (décrite chez le chien)",
+        "Vomissements et diarrhée",
+        "Abattement et perte d'appétit",
+        "Soif ou urines anormales, voire arrêt des urines"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, même pour un seul grain et même s'il a l'air d'aller bien. Note ce qu'il a mangé, combien et à quelle heure. Ne le fais pas vomir toi-même : c'est au vétérinaire de décider.",
+      "alternatives": "Si ton chat aime chiper des petites billes, deux ou trois myrtilles sont une alternative sans danger. Une friandise pour chat ou un petit morceau de poulet cuit feront aussi très bien l'affaire.",
+      "faq": [
+        {"q": "Un seul grain de raisin, c'est grave ?", "a": "On ne connaît pas de dose sûre, et la sensibilité varie d'un animal à l'autre. Un seul grain ne provoque pas forcément de problème, mais appelle ton vétérinaire pour avoir son avis plutôt que d'attendre."},
+        {"q": "Et le jus de raisin ou le vin ?", "a": "Non plus. Le jus pose la même question que le fruit, et le vin ajoute l'alcool, dangereux même en petite quantité."}
+      ]
+    },
+    "en": {
+      "short": "No. Grapes are linked to serious kidney damage in dogs and no one knows the dangerous dose, so to be safe, never give grapes to your cat.",
+      "why": "In dogs, grapes can cause acute kidney failure, and there's no way to predict which animal will react or how much it takes. The mechanism isn't fully understood, though tartaric acid is currently a leading suspect. Data in cats is scarce, but cases have been reported, so the same rule applies to be safe.",
+      "amount": "No amount is considered safe, whether green, red, organic, seeded or seedless. Keep bunches out of reach, fruit bowl included.",
+      "risks": [
+        "Acute kidney damage (described in dogs)",
+        "Vomiting and diarrhea",
+        "Lethargy and loss of appetite",
+        "Abnormal thirst or urination, or no urine at all"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, even for a single grape and even if your cat seems fine. Note what was eaten, how much and when. Don't try to make your cat vomit yourself: let the vet decide.",
+      "alternatives": "If your cat loves batting at and nibbling small round things, a couple of blueberries are a safe swap. A cat treat or a bit of plain cooked chicken works just as well.",
+      "faq": [
+        {"q": "My cat ate one grape, what should I do?", "a": "There's no known safe dose, and sensitivity varies between animals. One grape won't necessarily cause harm, but call your vet for advice rather than waiting."},
+        {"q": "Are seedless or peeled grapes safe?", "a": "No. In dogs, problems have been reported with all kinds of grapes, seedless and peeled included, so none are considered safe for cats either."}
+      ]
+    }
+  },
+  {
+    "id": "raisins-secs",
+    "verdict": "non",
+    "related": ["raisin", "datte", "cereales", "gateau"],
+    "fr": {
+      "short": "Non. Les raisins secs posent le même problème que le raisin frais, en plus concentré : par précaution, jamais de raisins secs pour ton chat.",
+      "why": "Les raisins secs sont du raisin déshydraté : le risque rénal décrit chez le chien est le même, et leur petite taille fait qu'on en avale vite beaucoup. Comme pour le raisin frais, on ne connaît ni la dose dangereuse ni la cause exacte de cette toxicité. Chez le chat, les données manquent, d'où la règle de prudence.",
+      "amount": "Aucune quantité n'est sûre, raisins de Corinthe et sultanines compris. Méfie-toi des aliments qui en cachent : pain aux raisins, cake, muesli, barres de céréales.",
+      "risks": [
+        "Atteinte rénale aiguë (décrite chez le chien)",
+        "Vomissements dans les heures qui suivent",
+        "Abattement, perte d'appétit, douleurs au ventre",
+        "Soif ou urines anormales, voire arrêt des urines"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison vétérinaire sans attendre, même s'il n'en a mangé qu'un ou deux et qu'il semble aller bien. Garde l'emballage pour savoir exactement ce que contenait le produit. Ne le fais pas vomir toi-même.",
+      "alternatives": "En friandise, préfère un petit morceau de poulet ou de poisson cuit nature, ou une friandise pour chat. Si tu tiens à un fruit, quelques myrtilles fraîches sont sans danger.",
+      "faq": [
+        {"q": "Et le pain aux raisins ou le muesli ?", "a": "Même règle : ce sont les raisins secs qu'ils contiennent qui posent problème. Si ton chat en a mangé, appelle ton vétérinaire."},
+        {"q": "Combien de raisins secs sont dangereux pour un chat ?", "a": "Personne ne le sait, et la sensibilité varie d'un animal à l'autre. C'est pour ça qu'aucune quantité n'est considérée comme sûre."}
+      ]
+    },
+    "en": {
+      "short": "No. Raisins carry the same risk as grapes, in a more concentrated form: to be safe, never give raisins to your cat.",
+      "why": "Raisins are simply dried grapes: the kidney risk described in dogs is the same, and because they're small it's easy to eat a lot of them. As with fresh grapes, no one knows the dangerous dose or the exact cause of the toxicity. Data in cats is lacking, hence the cautious rule.",
+      "amount": "No amount is safe, sultanas and currants included. Watch out for foods that hide them: raisin bread, fruitcake, granola, cereal bars and trail mix.",
+      "risks": [
+        "Acute kidney damage (described in dogs)",
+        "Vomiting within hours",
+        "Lethargy, loss of appetite, belly pain",
+        "Abnormal thirst or urination, or no urine at all"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, even if your cat ate only one or two and seems fine. Keep the packaging so you know exactly what the product contained. Don't try to make your cat vomit yourself.",
+      "alternatives": "As a treat, choose a small piece of plain cooked chicken or fish, or a cat treat. If you want fruit, a few fresh blueberries are safe.",
+      "faq": [
+        {"q": "What about sultanas and currants?", "a": "Same risk: sultanas and dried currants are dried grapes too. Keep them, and anything baked with them, away from your cat."},
+        {"q": "How many raisins are toxic to a cat?", "a": "No one knows, and sensitivity varies from one animal to another. That's why no amount is considered safe."}
+      ]
+    }
+  },
+  {
+    "id": "orange",
+    "verdict": "non",
+    "related": ["citron", "mandarine", "jus-orange", "ananas"],
+    "fr": {
+      "short": "Non. L'orange contient de l'acide citrique et des huiles essentielles qui irritent le système digestif de ton chat : mieux vaut l'éviter.",
+      "why": "La pulpe est acide, et l'écorce concentre des huiles essentielles comme le limonène et le linalol, ainsi que des psoralènes. Le chat élimine mal certains de ces composés, ce qui le rend plus sensible que nous. Résultat possible : vomissements, diarrhée, abattement, et parfois une sensibilité de la peau au soleil. La plupart des chats détestent l'odeur des agrumes, et c'est tant mieux.",
+      "amount": "Aucune quantité n'est recommandée, ni en quartier, ni en jus, ni en zeste. Ne laisse pas traîner les épluchures, que certains chats mâchonnent par curiosité.",
+      "risks": [
+        "Vomissements et diarrhée",
+        "Bave abondante et irritation de la bouche",
+        "Abattement, démarche instable (huiles de l'écorce)",
+        "Sensibilité de la peau au soleil (psoralènes)"
+      ],
+      "ifEaten": "Un petit morceau de pulpe provoque en général, au pire, un trouble digestif passager : surveille-le 24 à 48 heures. S'il a mâché de l'écorce, mangé une bonne quantité, ou s'il vomit, bave beaucoup ou semble abattu, appelle ton vétérinaire. Ne le fais pas vomir toi-même.",
+      "alternatives": "Pour une touche fraîche et sans danger, propose-lui deux ou trois myrtilles. Et s'il aime mâchonner des végétaux, l'herbe à chat est faite pour ça.",
+      "faq": [
+        {"q": "Mon chat a léché du jus d'orange, c'est grave ?", "a": "Quelques gouttes de jus ne sont pas dangereuses, mais elles peuvent l'irriter un peu. Surveille-le, et appelle ton vétérinaire s'il vomit ou bave beaucoup."},
+        {"q": "Peut-on utiliser des écorces d'orange pour l'éloigner des plantes ?", "a": "C'est une astuce courante, mais elle n'est pas sans risque : s'il les mâchonne, il avale les huiles de l'écorce. Évite surtout les huiles essentielles et les sprays aux agrumes, bien plus concentrés."}
+      ]
+    },
+    "en": {
+      "short": "No. Oranges contain citric acid and essential oils that irritate your cat's digestive system, so they're best avoided.",
+      "why": "The pulp is acidic, and the peel is packed with essential oils such as limonene and linalool, plus compounds called psoralens. Cats process some of these poorly, which makes them more sensitive than we are. The result can be vomiting, diarrhea, lethargy and sometimes skin that's sensitive to sunlight. Most cats hate the smell of citrus, and that's a good thing.",
+      "amount": "No amount is recommended: no segments, no juice, no zest. Don't leave peels lying around, since some cats chew them out of curiosity.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Heavy drooling and mouth irritation",
+        "Lethargy or wobbliness (oils in the peel)",
+        "Skin sensitivity to sunlight (psoralens)"
+      ],
+      "ifEaten": "A small bite of pulp usually causes, at worst, a passing stomach upset: watch your cat for 24 to 48 hours. If your cat chewed peel, ate a fair amount, or is vomiting, drooling heavily or seems lethargic, call your vet. Don't try to make your cat vomit yourself.",
+      "alternatives": "For something fresh and safe, offer two or three blueberries. And if your cat likes chewing on plants, cat grass is made for that.",
+      "faq": [
+        {"q": "My cat licked orange juice, is that bad?", "a": "A few drops of juice aren't dangerous, though they may cause mild irritation. Keep an eye on your cat and call your vet if there's vomiting or heavy drooling."},
+        {"q": "Can I use orange peels to keep my cat off plants?", "a": "It's a common trick, but not risk-free: if your cat chews the peels, it swallows the oils. Above all, avoid citrus essential oils and sprays, which are far more concentrated."}
+      ]
+    }
+  },
+  {
+    "id": "citron",
+    "verdict": "non",
+    "related": ["orange", "mandarine", "jus-orange", "kiwi"],
+    "fr": {
+      "short": "Non. Le citron, très acide et riche en huiles essentielles, irrite le système digestif de ton chat : à éviter, jus et zeste compris.",
+      "why": "Le citron est le plus acide des agrumes courants, et son écorce concentre des huiles essentielles comme le limonène, ainsi que des psoralènes. Le chat métabolise mal ces composés, qui peuvent provoquer vomissements, diarrhée, abattement et une sensibilité de la peau au soleil. Heureusement, son odeur suffit en général à le faire fuir.",
+      "amount": "Aucune quantité n'est recommandée : ni rondelle, ni jus, ni zeste, ni poisson citronné. Garde aussi hors de sa portée les produits ménagers et les huiles essentielles au citron.",
+      "risks": [
+        "Vomissements et diarrhée",
+        "Irritation de la bouche et bave",
+        "Abattement, faiblesse, démarche instable",
+        "Irritation de la peau ou sensibilité au soleil"
+      ],
+      "ifEaten": "S'il a juste léché un peu de jus, une irritation passagère est le plus probable : surveille-le 24 à 48 heures. S'il a mâché de l'écorce ou un morceau entier, ou s'il vomit, bave ou semble faible, appelle ton vétérinaire. Ne le fais pas vomir toi-même.",
+      "alternatives": "Si tu veux partager ton poisson, laisse-le nature : c'est comme ça qu'il le préfère. Pour le plaisir de mâchonner, mise sur l'herbe à chat.",
+      "faq": [
+        {"q": "L'huile essentielle de citron est-elle dangereuse pour mon chat ?", "a": "Oui, bien plus que le fruit : c'est un concentré des composés qu'il élimine mal. Ne la diffuse pas près de lui, ne l'applique jamais sur lui, et appelle ton vétérinaire en cas d'ingestion ou de contact."},
+        {"q": "Et le citron vert ?", "a": "Même règle : le citron vert est un agrume, avec les mêmes huiles et la même acidité. À éviter aussi."}
+      ]
+    },
+    "en": {
+      "short": "No. Lemons are very acidic and rich in essential oils that irritate your cat's digestive system: avoid them, juice and zest included.",
+      "why": "Lemon is the most acidic of the common citrus fruits, and its peel is concentrated in essential oils such as limonene, plus psoralens. Cats metabolize these compounds poorly, and they can cause vomiting, diarrhea, lethargy and skin sensitivity to sunlight. Luckily, the smell alone usually sends cats running.",
+      "amount": "No amount is recommended: no slices, no juice, no zest, no lemony fish. Also keep lemon-scented cleaning products and lemon essential oil out of reach.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Mouth irritation and drooling",
+        "Lethargy, weakness, wobbliness",
+        "Skin irritation or sensitivity to sunlight"
+      ],
+      "ifEaten": "If your cat only licked a little juice, mild irritation is the most likely outcome: watch for 24 to 48 hours. If your cat chewed peel or a whole piece, or is vomiting, drooling or seems weak, call your vet. Don't try to make your cat vomit yourself.",
+      "alternatives": "If you want to share your fish, leave it plain: that's how cats like it best. For something to chew on, try cat grass.",
+      "faq": [
+        {"q": "Is lemon essential oil safe around cats?", "a": "No, and it's far riskier than the fruit: it's a concentrate of the very compounds cats process poorly. Don't diffuse it near your cat, never apply it to their fur, and call your vet after any ingestion or skin contact."},
+        {"q": "What about limes?", "a": "Same rule: limes are citrus fruits with the same oils and the same acidity. Avoid them too."}
+      ]
+    }
+  },
+  {
+    "id": "mandarine",
+    "verdict": "non",
+    "related": ["orange", "citron", "jus-orange", "kiwi"],
+    "fr": {
+      "short": "Non. Comme tous les agrumes, la mandarine contient de l'acide citrique et des huiles essentielles qui irritent le système digestif de ton chat.",
+      "why": "La mandarine est plus douce que l'orange, mais elle reste un agrume : sa pulpe est acide et son écorce contient des huiles essentielles et des psoralènes. Le chat élimine mal ces composés, qui peuvent irriter son estomac et son intestin. Elle est aussi sucrée, ce qui n'arrange rien.",
+      "amount": "Aucune quantité n'est recommandée, même un quartier. Pense aux épluchures qui traînent sur la table basse en hiver.",
+      "risks": [
+        "Vomissements et diarrhée",
+        "Bave et irritation de la bouche",
+        "Abattement si l'écorce a été mâchée",
+        "Sensibilité de la peau au soleil (psoralènes)"
+      ],
+      "ifEaten": "Un quartier volé provoque en général, au pire, un trouble digestif passager : surveille-le 24 à 48 heures. S'il a mâché l'écorce, en a mangé plusieurs quartiers, ou s'il vomit, bave ou semble abattu, appelle ton vétérinaire. Ne le fais pas vomir toi-même.",
+      "alternatives": "Pour partager un moment de goûter avec lui, une friandise pour chat ou un petit morceau de dinde cuite nature est parfait. Côté fruits, deux ou trois myrtilles sont sans danger.",
+      "faq": [
+        {"q": "Et la clémentine ?", "a": "Même règle : la clémentine est un agrume très proche de la mandarine. On l'évite aussi, épluchures comprises."},
+        {"q": "Mon chat a mangé un quartier de mandarine, que faire ?", "a": "Pas de panique : c'est surtout irritant. Surveille-le 24 à 48 heures, et appelle ton vétérinaire s'il vomit à répétition, bave beaucoup ou semble abattu."}
+      ]
+    },
+    "en": {
+      "short": "No. Like all citrus fruits, mandarins contain citric acid and essential oils that irritate your cat's digestive system.",
+      "why": "Mandarins are sweeter than oranges, but they're still citrus: the pulp is acidic and the peel contains essential oils and psoralens. Cats process these compounds poorly, and they can irritate the stomach and gut. The sugar doesn't help either.",
+      "amount": "No amount is recommended, not even a single segment. Watch for peels left on the coffee table in winter.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Drooling and mouth irritation",
+        "Lethargy if the peel was chewed",
+        "Skin sensitivity to sunlight (psoralens)"
+      ],
+      "ifEaten": "A stolen segment usually causes, at worst, a passing stomach upset: watch your cat for 24 to 48 hours. If your cat chewed the peel, ate several segments, or is vomiting, drooling or lethargic, call your vet. Don't try to make your cat vomit yourself.",
+      "alternatives": "To share snack time, a cat treat or a small piece of plain cooked turkey is perfect. If you want fruit, two or three blueberries are safe.",
+      "faq": [
+        {"q": "What about clementines and tangerines?", "a": "Same rule: they're close relatives of the mandarin and just as much citrus. Avoid them too, peels included."},
+        {"q": "My cat ate a mandarin segment, what should I do?", "a": "Don't panic: it's mainly an irritant. Watch your cat for 24 to 48 hours, and call your vet if there's repeated vomiting, heavy drooling or lethargy."}
+      ]
+    }
+  },
+  {
+    "id": "kiwi",
+    "verdict": "peu",
+    "related": ["ananas", "mangue", "fraise", "herbe-a-chat"],
+    "fr": {
+      "short": "Un peu. Le kiwi n'est pas toxique pour ton chat : un ou deux petits morceaux épluchés de temps en temps, sans plus.",
+      "why": "La chair du kiwi n'est pas toxique, mais elle est acide, sucrée, et contient une enzyme, l'actinidine, qui peut irriter la bouche et l'estomac. Le kiwi renferme aussi des oxalates, déconseillés aux chats qui ont tendance à faire des calculs urinaires. Sa peau velue est difficile à digérer.",
+      "amount": "Un ou deux petits dés de chair bien mûre, de temps en temps, suffisent. Épluche le kiwi, coupe-le petit, et évite-le complètement si ton chat a des problèmes urinaires.",
+      "risks": [
+        "Irritation de la bouche ou de l'estomac",
+        "Diarrhée si trop de fruit",
+        "Oxalates : déconseillé en cas de calculs urinaires",
+        "Peau velue difficile à digérer"
+      ],
+      "ifEaten": "Un morceau de kiwi n'est pas dangereux. Surveille-le 24 à 48 heures : vomissements, diarrhée, bave ou s'il se frotte la bouche. Appelle ton vétérinaire si ces signes apparaissent ou s'il a mangé un kiwi entier avec la peau.",
+      "alternatives": "Une friandise pour chat ou un petit morceau de poulet cuit nature lui conviendra bien mieux. Et s'il cherche à mâchonner du végétal, l'herbe à chat est là pour ça.",
+      "faq": [
+        {"q": "Le matatabi est-il un kiwi ?", "a": "C'est un proche cousin : le matatabi, ou silver vine, appartient au même genre de plantes que le kiwi. Ce sont ses tiges et ses fruits séchés qui excitent beaucoup de chats, un peu comme l'herbe à chat, pas le kiwi que tu manges."},
+        {"q": "Et la peau du kiwi ?", "a": "Elle n'est pas toxique, mais elle est velue, fibreuse et difficile à digérer. Épluche toujours le kiwi avant de lui en donner."}
+      ]
+    },
+    "en": {
+      "short": "A little. Kiwi isn't toxic to cats: one or two small peeled pieces now and then, no more.",
+      "why": "Kiwi flesh isn't toxic, but it's acidic, sugary and contains an enzyme called actinidin that can irritate the mouth and stomach. Kiwi also contains oxalates, which aren't recommended for cats prone to urinary stones. The fuzzy skin is hard to digest.",
+      "amount": "One or two small cubes of ripe flesh once in a while is enough. Peel the kiwi, cut it small, and skip it entirely if your cat has urinary issues.",
+      "risks": [
+        "Mouth or stomach irritation",
+        "Diarrhea from too much fruit",
+        "Oxalates: not for cats with urinary stones",
+        "Fuzzy skin is hard to digest"
+      ],
+      "ifEaten": "A bite of kiwi isn't dangerous. Watch for vomiting, diarrhea, drooling or pawing at the mouth over the next 24 to 48 hours. Call your vet if those signs appear or if your cat ate a whole kiwi, skin and all.",
+      "alternatives": "A cat treat or a small piece of plain cooked chicken will suit your cat much better. And if your cat wants to chew on plants, cat grass is the way to go.",
+      "faq": [
+        {"q": "Is silver vine related to kiwi?", "a": "Yes, silver vine belongs to the same plant genus as kiwi. It's the dried stems and fruit of silver vine that excite many cats, a bit like catnip, not the kiwi you eat."},
+        {"q": "Can cats eat kiwi skin?", "a": "It isn't toxic, but it's fuzzy, fibrous and hard to digest. Always peel the kiwi before sharing."}
+      ]
+    }
+  },
+  {
+    "id": "ananas",
+    "verdict": "peu",
+    "related": ["mangue", "kiwi", "orange", "noix-de-coco"],
+    "fr": {
+      "short": "Un peu. L'ananas frais n'est pas toxique pour ton chat : un ou deux petits morceaux de chair de temps en temps, sans le cœur ni l'écorce.",
+      "why": "La chair de l'ananas est très sucrée et acide, et contient de la bromélaïne, une enzyme qui peut irriter la bouche et l'estomac. Le cœur fibreux et l'écorce piquante ne se digèrent pas et peuvent provoquer une obstruction. L'ananas en boîte, souvent au sirop, est encore plus sucré.",
+      "amount": "Un ou deux petits dés d'ananas frais, de temps en temps, suffisent. Retire l'écorce, les yeux et le cœur, et oublie l'ananas au sirop.",
+      "risks": [
+        "Irritation de la bouche ou de l'estomac",
+        "Diarrhée ou vomissements si trop de fruit",
+        "Cœur et écorce : risque d'obstruction",
+        "Sucre en trop pour un chat diabétique"
+      ],
+      "ifEaten": "Un petit morceau d'ananas n'est pas dangereux. Surveille-le 24 à 48 heures pour des vomissements, de la diarrhée ou de la bave. Appelle ton vétérinaire s'il a avalé un morceau de cœur ou d'écorce, mangé beaucoup, ou si ces signes durent.",
+      "alternatives": "Pour une friandise qui lui va vraiment, un petit morceau de poisson ou de poulet cuit nature est idéal. Côté fruits, deux ou trois myrtilles sont moins acides et moins sucrées.",
+      "faq": [
+        {"q": "Et l'ananas en boîte ?", "a": "Mieux vaut éviter : il est souvent conservé dans un sirop très sucré. Si tu veux partager, prends de l'ananas frais."},
+        {"q": "Et le jus d'ananas ?", "a": "Non, c'est du sucre concentré sans les fibres du fruit. Ton chat n'a besoin que d'eau."}
+      ]
+    },
+    "en": {
+      "short": "A little. Fresh pineapple isn't toxic to cats: one or two small pieces of flesh now and then, without the core or skin.",
+      "why": "Pineapple flesh is very sweet and acidic, and it contains bromelain, an enzyme that can irritate the mouth and stomach. The fibrous core and spiky skin can't be digested and can cause a blockage. Canned pineapple, often packed in syrup, is even more sugary.",
+      "amount": "One or two small cubes of fresh pineapple once in a while is enough. Remove the skin, eyes and core, and skip pineapple in syrup.",
+      "risks": [
+        "Mouth or stomach irritation",
+        "Diarrhea or vomiting from too much fruit",
+        "Core and skin: risk of blockage",
+        "Extra sugar for diabetic cats"
+      ],
+      "ifEaten": "A small piece of pineapple isn't dangerous. Watch for vomiting, diarrhea or drooling over the next 24 to 48 hours. Call your vet if your cat swallowed core or skin, ate a lot, or if symptoms persist.",
+      "alternatives": "For a treat that truly suits your cat, a small piece of plain cooked fish or chicken is ideal. If you want fruit, a couple of blueberries are less acidic and less sugary.",
+      "faq": [
+        {"q": "Can cats eat canned pineapple?", "a": "Better not: it's often packed in very sugary syrup. If you want to share, use fresh pineapple."},
+        {"q": "Can cats eat pineapple skin or leaves?", "a": "No. They're tough, spiky and impossible to digest, and can irritate the mouth or block the gut. Only the soft flesh is OK."}
+      ]
+    }
+  },
+  {
+    "id": "mangue",
+    "verdict": "peu",
+    "related": ["ananas", "peche", "banane", "kiwi"],
+    "fr": {
+      "short": "Un peu. La chair de mangue n'est pas toxique pour ton chat : quelques petits dés de temps en temps, sans la peau ni le noyau.",
+      "why": "La chair de la mangue est très sucrée : sans danger en petite quantité, mais inutile pour un carnivore. Sa peau contient de l'urushiol, une substance irritante, la même que celle de l'herbe à puce, qui peut irriter la bouche et la peau. Le gros noyau peut l'étouffer ou bloquer son intestin.",
+      "amount": "Deux ou trois petits dés de chair bien mûre, de temps en temps, suffisent. Épluche la mangue, coupe la chair loin du noyau, et évite la mangue séchée ou au sirop.",
+      "risks": [
+        "Noyau : étouffement ou obstruction",
+        "Peau irritante pour la bouche (urushiol)",
+        "Diarrhée si trop de fruit",
+        "Sucre en trop pour un chat diabétique"
+      ],
+      "ifEaten": "Quelques dés de mangue ne sont pas dangereux. Surveille-le 24 à 48 heures pour des vomissements, de la diarrhée ou une irritation de la bouche. Appelle ton vétérinaire s'il a mâchonné le noyau ou la peau, ou si ces signes apparaissent.",
+      "alternatives": "Pour lui faire plaisir sans sucre, un petit morceau de poulet ou de dinde cuit nature est parfait. Les friandises pour chat sont aussi plus faciles à doser.",
+      "faq": [
+        {"q": "Et la mangue séchée ?", "a": "Mieux vaut éviter : le séchage concentre le sucre, on en ajoute souvent, et la texture caoutchouteuse est difficile à mâcher. Un dé de mangue fraîche est bien plus adapté."},
+        {"q": "Mon chat a joué avec un noyau de mangue, c'est dangereux ?", "a": "Le risque, c'est qu'il en arrache des morceaux ou essaie de l'avaler. Retire-le, et appelle ton vétérinaire s'il vomit, ne mange plus ou semble avoir mal au ventre."}
+      ]
+    },
+    "en": {
+      "short": "A little. Mango flesh isn't toxic to cats: a few small cubes now and then, without the skin or pit.",
+      "why": "Mango flesh is very sugary: safe in small amounts, but useless for a carnivore. The skin contains urushiol, the same irritant found in poison ivy, which can irritate the mouth and skin. The large pit can cause choking or block the gut.",
+      "amount": "Two or three small cubes of ripe flesh once in a while is enough. Peel the mango, cut the flesh away from the pit, and skip dried or canned mango.",
+      "risks": [
+        "Pit: choking or blockage",
+        "Skin irritates the mouth (urushiol)",
+        "Diarrhea from too much fruit",
+        "Extra sugar for diabetic cats"
+      ],
+      "ifEaten": "A few cubes of mango aren't dangerous. Watch for vomiting, diarrhea or mouth irritation over the next 24 to 48 hours. Call your vet if your cat chewed on the pit or skin, or if those signs appear.",
+      "alternatives": "For a sugar-free treat, a small piece of plain cooked chicken or turkey is perfect. Cat treats are also easier to portion.",
+      "faq": [
+        {"q": "Can cats eat dried mango?", "a": "Better not: drying concentrates the sugar, it's often sweetened, and the chewy texture is hard to manage. A cube of fresh mango is a much better fit."},
+        {"q": "Is mango skin bad for cats?", "a": "Yes, skip it. It contains urushiol, the irritant in poison ivy, and it's tough to digest. Only offer peeled flesh."}
+      ]
+    }
+  },
+  {
+    "id": "peche",
+    "verdict": "non",
+    "related": ["abricot", "cerise", "prune", "pomme"],
+    "fr": {
+      "short": "Non. Le noyau, les feuilles et la tige de la pêche contiennent des composés cyanogènes, et un noyau avalé peut boucher l'intestin : mieux vaut l'éviter.",
+      "why": "Le noyau de la pêche, comme ses feuilles et ses tiges, contient de l'amygdaline, qui libère du cyanure quand il est mâché ou cassé. Avalé entier, ce gros noyau peut aussi rester coincé dans l'œsophage ou l'intestin. La chair seule n'est pas toxique, mais elle est sucrée et n'apporte rien à ton chat : par précaution, la règle est de ne pas lui en donner.",
+      "amount": "Aucune quantité n'est recommandée. S'il a juste léché un peu de chair, ce n'est pas grave, mais ne laisse jamais traîner de noyaux, de branches ou de feuilles de pêcher.",
+      "risks": [
+        "Noyau, tige et feuilles : composés cyanogènes",
+        "Noyau avalé : obstruction de l'œsophage ou de l'intestin",
+        "Gencives rouge vif, pupilles dilatées, respiration difficile",
+        "Vomissements et diarrhée"
+      ],
+      "ifEaten": "S'il a mâché ou avalé un noyau, des feuilles ou une tige, appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes. Ne le fais pas vomir toi-même : un noyau peut se coincer en remontant. S'il a seulement léché un peu de chair, surveille-le 24 à 48 heures pour des troubles digestifs.",
+      "alternatives": "Pour une petite douceur sans danger, deux ou trois myrtilles font l'affaire. Mieux encore : un petit morceau de poulet cuit nature ou une friandise pour chat.",
+      "faq": [
+        {"q": "Mon chat a léché un morceau de pêche, c'est grave ?", "a": "Non, la chair seule n'est pas toxique. Ce sont le noyau, les feuilles et la tige qui posent problème : vérifie simplement qu'il n'y a pas touché."},
+        {"q": "Et la nectarine ou la pêche au sirop ?", "a": "La nectarine pose exactement les mêmes problèmes, noyau compris. La pêche au sirop, elle, est beaucoup trop sucrée : à éviter aussi."}
+      ]
+    },
+    "en": {
+      "short": "No. Peach pits, leaves and stems contain cyanogenic compounds, and a swallowed pit can block the gut, so peaches are best avoided.",
+      "why": "The peach pit, like the leaves and stems, contains amygdalin, which releases cyanide when chewed or cracked. Swallowed whole, that big pit can also get stuck in the esophagus or intestines. The flesh alone isn't toxic, but it's sugary and does nothing for your cat, so to be safe, the rule is not to share.",
+      "amount": "No amount is recommended. A lick of flesh is nothing serious, but never leave pits, branches or peach leaves lying around.",
+      "risks": [
+        "Pit, stem and leaves contain cyanogenic compounds",
+        "Swallowed pit: blockage of the esophagus or gut",
+        "Bright red gums, dilated pupils, trouble breathing",
+        "Vomiting and diarrhea"
+      ],
+      "ifEaten": "If your cat chewed or swallowed a pit, leaves or a stem, call your vet or an animal poison control center right away, without waiting for symptoms. Don't try to make your cat vomit yourself: a pit can get stuck on the way back up. If your cat only licked some flesh, watch for stomach upset over the next 24 to 48 hours.",
+      "alternatives": "For a small, safe sweet bite, two or three blueberries do the trick. Even better: a small piece of plain cooked chicken or a cat treat.",
+      "faq": [
+        {"q": "My cat licked a piece of peach, is that bad?", "a": "No, the flesh alone isn't toxic. The pit, leaves and stem are the problem: just make sure your cat didn't get to them."},
+        {"q": "What about nectarines or canned peaches?", "a": "Nectarines have exactly the same issues, pit included. Canned peaches in syrup are far too sugary: avoid them too."}
+      ]
+    }
+  },
+  {
+    "id": "abricot",
+    "verdict": "non",
+    "related": ["peche", "prune", "cerise", "datte"],
+    "fr": {
+      "short": "Non. Le noyau, les feuilles et la tige de l'abricot contiennent des composés cyanogènes, et un noyau avalé peut boucher l'intestin de ton chat.",
+      "why": "L'amande cachée dans le noyau d'abricot est riche en amygdaline, qui libère du cyanure une fois croquée, et les feuilles et les tiges en contiennent aussi. Le noyau, juste de la bonne taille pour se coincer, peut provoquer une obstruction. La chair n'est pas toxique, mais sucrée et inutile pour un chat : par précaution, on s'en passe.",
+      "amount": "Aucune quantité n'est recommandée. Garde les abricots, les noyaux et les amandes d'abricot hors de sa portée.",
+      "risks": [
+        "Noyau et amande : composés cyanogènes",
+        "Obstruction de l'intestin par un noyau",
+        "Gencives rouge vif, pupilles dilatées, halètement",
+        "Vomissements, abattement"
+      ],
+      "ifEaten": "S'il a mâché ou avalé un noyau, une amande d'abricot, des feuilles ou une tige, appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes. Ne le fais pas vomir toi-même. S'il n'a goûté qu'un peu de chair, surveille-le 24 à 48 heures.",
+      "alternatives": "Pour une friandise sans risque, un petit morceau de poulet ou de poisson cuit nature est idéal. Côté fruits, quelques myrtilles sont une option sûre.",
+      "faq": [
+        {"q": "Et les abricots secs ?", "a": "Ils n'ont plus de noyau, mais le séchage concentre le sucre et certains contiennent des sulfites. Ce n'est pas une friandise adaptée : mieux vaut éviter."},
+        {"q": "Les amandes d'abricot sont-elles dangereuses ?", "a": "Oui, c'est la partie la plus riche en amygdaline. Ne lui en donne jamais, et range bien les sachets d'amandes d'abricot amères."}
+      ]
+    },
+    "en": {
+      "short": "No. Apricot pits, leaves and stems contain cyanogenic compounds, and a swallowed pit can block your cat's gut.",
+      "why": "The kernel inside an apricot pit is rich in amygdalin, which releases cyanide once crunched, and the leaves and stems contain it too. The pit is just the right size to get stuck and can cause a blockage. The flesh isn't toxic, but it's sugary and useless for a cat, so to be safe, skip it.",
+      "amount": "No amount is recommended. Keep apricots, pits and apricot kernels out of reach.",
+      "risks": [
+        "Pit and kernel contain cyanogenic compounds",
+        "Intestinal blockage from a pit",
+        "Bright red gums, dilated pupils, panting",
+        "Vomiting, lethargy"
+      ],
+      "ifEaten": "If your cat chewed or swallowed a pit, an apricot kernel, leaves or a stem, call your vet or an animal poison control center right away, without waiting for symptoms. Don't try to make your cat vomit yourself. If your cat only tasted a bit of flesh, watch for 24 to 48 hours.",
+      "alternatives": "For a risk-free treat, a small piece of plain cooked chicken or fish is ideal. If you want fruit, a few blueberries are a safe option.",
+      "faq": [
+        {"q": "Can cats eat dried apricots?", "a": "They have no pit, but drying concentrates the sugar and some contain sulfites. They're not a suitable treat: better to skip them."},
+        {"q": "Are apricot kernels dangerous for cats?", "a": "Yes, they're the part richest in amygdalin. Never give them, and keep bags of bitter apricot kernels well out of reach."}
+      ]
+    }
+  },
+  {
+    "id": "cerise",
+    "verdict": "non",
+    "related": ["peche", "abricot", "prune", "raisin"],
+    "fr": {
+      "short": "Non. Les noyaux, les tiges et les feuilles de cerise contiennent des composés cyanogènes, et un noyau avalé peut boucher l'intestin de ton chat.",
+      "why": "Le noyau de cerise renferme de l'amygdaline, qui libère du cyanure quand il est croqué, et les tiges et les feuilles en contiennent aussi. Un noyau avalé entier peut rester coincé dans l'intestin d'un animal aussi petit. La chair n'est pas toxique, mais avec un fruit si petit, difficile de lui en donner sans risque de noyau : on évite.",
+      "amount": "Aucune quantité n'est recommandée. Garde les bols de cerises hors de sa portée, et ramasse les noyaux et les queues tombés par terre.",
+      "risks": [
+        "Noyau, tige et feuilles : composés cyanogènes",
+        "Noyau avalé : obstruction de l'intestin",
+        "Gencives rouge vif, pupilles dilatées, respiration difficile",
+        "Vomissements, abattement, perte d'appétit"
+      ],
+      "ifEaten": "S'il a avalé ou croqué un noyau, ou mâché des tiges ou des feuilles, appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes. Ne le fais pas vomir toi-même. S'il a seulement léché un peu de chair dénoyautée, surveille-le 24 à 48 heures.",
+      "alternatives": "Si ce sont les petits fruits ronds qui l'attirent, deux ou trois myrtilles sont sans danger. Pour une vraie friandise, un petit morceau de poulet cuit nature est encore mieux.",
+      "faq": [
+        {"q": "Mon chat a avalé un noyau de cerise, c'est grave ?", "a": "Avalé entier, un noyau libère peu de cyanure, mais il peut boucher l'intestin, et s'il l'a croqué, le risque d'intoxication augmente. Appelle ton vétérinaire sans attendre, et surveille vomissements, perte d'appétit ou ventre douloureux."},
+        {"q": "Et les cerises confites ou le clafoutis ?", "a": "Non : les cerises confites sont gorgées de sucre, et le clafoutis traditionnel se fait souvent avec les noyaux. Garde-les pour toi."}
+      ]
+    },
+    "en": {
+      "short": "No. Cherry pits, stems and leaves contain cyanogenic compounds, and a swallowed pit can block your cat's gut.",
+      "why": "The cherry pit contains amygdalin, which releases cyanide when crunched, and the stems and leaves contain it too. A pit swallowed whole can get stuck in the intestines of an animal this small. The flesh isn't toxic, but with such a small fruit it's hard to share without a pit risk, so skip it.",
+      "amount": "No amount is recommended. Keep bowls of cherries out of reach, and pick up any pits and stems that fall on the floor.",
+      "risks": [
+        "Pit, stem and leaves contain cyanogenic compounds",
+        "Swallowed pit: intestinal blockage",
+        "Bright red gums, dilated pupils, trouble breathing",
+        "Vomiting, lethargy, loss of appetite"
+      ],
+      "ifEaten": "If your cat swallowed or crunched a pit, or chewed stems or leaves, call your vet or an animal poison control center right away, without waiting for symptoms. Don't try to make your cat vomit yourself. If your cat only licked a bit of pitted flesh, watch for 24 to 48 hours.",
+      "alternatives": "If it's small round fruit that catches your cat's eye, two or three blueberries are safe. For a real treat, a small piece of plain cooked chicken is even better.",
+      "faq": [
+        {"q": "My cat swallowed a cherry pit, what should I do?", "a": "A pit swallowed whole releases little cyanide, but it can block the gut, and if it was crunched the poisoning risk goes up. Call your vet without waiting, and watch for vomiting, loss of appetite or belly pain."},
+        {"q": "What about maraschino cherries?", "a": "Skip them. They're pitted, but soaked in sugary syrup with added coloring, nothing a cat should eat."}
+      ]
+    }
+  },
+  {
+    "id": "prune",
+    "verdict": "non",
+    "related": ["cerise", "peche", "abricot", "raisins-secs"],
+    "fr": {
+      "short": "Non. Le noyau, les feuilles et la tige de la prune contiennent des composés cyanogènes, et un noyau avalé peut boucher l'intestin de ton chat.",
+      "why": "Comme la cerise et la pêche, la prune est un fruit à noyau : son noyau, ses feuilles et ses tiges contiennent de l'amygdaline, qui libère du cyanure une fois mâchée. Le noyau, dur et ovale, peut aussi provoquer une obstruction. La chair n'est pas toxique, mais elle est sucrée et laxative : par précaution, on l'évite.",
+      "amount": "Aucune quantité n'est recommandée, mirabelles et quetsches comprises. Ramasse les fruits tombés au jardin si ton chat y a accès.",
+      "risks": [
+        "Noyau, tige et feuilles : composés cyanogènes",
+        "Noyau avalé : obstruction de l'intestin",
+        "Diarrhée (effet laxatif de la chair)",
+        "Gencives rouge vif, pupilles dilatées, respiration difficile"
+      ],
+      "ifEaten": "S'il a mâché ou avalé un noyau, des feuilles ou une tige, appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes. Ne le fais pas vomir toi-même. S'il a seulement goûté un peu de chair, surveille-le 24 à 48 heures, surtout pour de la diarrhée.",
+      "alternatives": "Pour une friandise sans danger, un petit morceau de dinde ou de poulet cuit nature est parfait. Si tu veux un fruit, quelques myrtilles feront l'affaire.",
+      "faq": [
+        {"q": "Et les pruneaux ?", "a": "Même sans noyau, c'est non : très sucrés et franchement laxatifs, ils risquent surtout de lui donner la diarrhée. Et certains pruneaux sont vendus avec leur noyau."},
+        {"q": "Les prunes tombées au jardin sont-elles dangereuses ?", "a": "Oui, surtout pour un chat joueur qui pourrait croquer un noyau. Ramasse-les régulièrement, ainsi que les feuilles et les branches coupées."}
+      ]
+    },
+    "en": {
+      "short": "No. Plum pits, leaves and stems contain cyanogenic compounds, and a swallowed pit can block your cat's gut.",
+      "why": "Like cherries and peaches, plums are stone fruit: the pit, leaves and stems contain amygdalin, which releases cyanide once chewed. The hard, oval pit can also cause a blockage. The flesh isn't toxic, but it's sugary and has a laxative effect, so to be safe, avoid it.",
+      "amount": "No amount is recommended. If your cat goes outside, pick up fallen fruit in the yard.",
+      "risks": [
+        "Pit, stem and leaves contain cyanogenic compounds",
+        "Swallowed pit: intestinal blockage",
+        "Diarrhea (laxative effect of the flesh)",
+        "Bright red gums, dilated pupils, trouble breathing"
+      ],
+      "ifEaten": "If your cat chewed or swallowed a pit, leaves or a stem, call your vet or an animal poison control center right away, without waiting for symptoms. Don't try to make your cat vomit yourself. If your cat only tasted a bit of flesh, watch for 24 to 48 hours, especially for diarrhea.",
+      "alternatives": "For a safe treat, a small piece of plain cooked turkey or chicken is perfect. If you want fruit, a few blueberries will do.",
+      "faq": [
+        {"q": "Can cats eat prunes?", "a": "Even without the pit, no: they're very sugary and strongly laxative, so diarrhea is the likely result. Some prunes are also sold with their pits in."},
+        {"q": "Are fallen plums in the yard dangerous?", "a": "Yes, especially for a playful cat that might crunch a pit. Pick them up regularly, along with leaves and pruned branches."}
+      ]
+    }
+  },
+  {
+    "id": "datte",
+    "verdict": "peu",
+    "related": ["figue", "raisins-secs", "prune", "miel"],
+    "fr": {
+      "short": "Un peu. La datte n'est pas toxique pour ton chat, mais elle est très sucrée : un tout petit morceau dénoyauté, très rarement.",
+      "why": "La datte est un fruit séché extrêmement riche en sucre, dont ton chat n'a aucun besoin et dont il ne perçoit même pas le goût sucré. Sa texture collante peut gêner la mastication, et son noyau long et dur peut l'étouffer ou bloquer son intestin. Elle est aussi riche en fibres, ce qui peut provoquer une diarrhée.",
+      "amount": "Si tu tiens à partager, un morceau de la taille d'un petit pois, dénoyauté, de temps en temps suffit. Évite les dattes fourrées ou enrobées, et oublie-les complètement si ton chat est diabétique ou en surpoids.",
+      "risks": [
+        "Noyau : étouffement ou obstruction",
+        "Très sucrée : prise de poids, à éviter en cas de diabète",
+        "Diarrhée ou ballonnements",
+        "Dattes fourrées : pâte d'amande, noix, chocolat"
+      ],
+      "ifEaten": "Un bout de datte n'est pas dangereux. Surveille-le 24 à 48 heures pour des vomissements ou de la diarrhée. S'il a avalé un noyau, ou s'il vomit, ne mange plus ou semble avoir mal au ventre, appelle ton vétérinaire.",
+      "alternatives": "Pour une friandise qui lui convient, un petit morceau de dinde ou de poulet cuit nature est bien plus adapté. Côté fruits, une ou deux myrtilles sont beaucoup moins sucrées.",
+      "faq": [
+        {"q": "Mon chat a avalé un noyau de datte, c'est grave ?", "a": "Le noyau n'est pas toxique, mais il est dur et peut rester coincé. Appelle ton vétérinaire, surtout s'il vomit, refuse de manger ou ne fait plus de selles."},
+        {"q": "Et les dattes fourrées ?", "a": "Non : elles sont souvent garnies de pâte d'amande, de noix ou de chocolat, qui ne conviennent pas au chat, et le chocolat est toxique."}
+      ]
+    },
+    "en": {
+      "short": "A little. Dates aren't toxic to cats, but they're very sugary: a tiny pitted piece, only very rarely.",
+      "why": "Dates are extremely high in sugar, which your cat doesn't need and can't even taste. Their sticky texture is hard to chew, and the long, hard pit can cause choking or block the gut. They're also high in fiber, which can lead to diarrhea.",
+      "amount": "If you really want to share, a pea-sized piece, pitted, once in a while is enough. Skip stuffed or coated dates, and avoid them entirely if your cat is diabetic or overweight.",
+      "risks": [
+        "Pit: choking or blockage",
+        "Very sugary: weight gain, avoid with diabetes",
+        "Diarrhea or bloating",
+        "Stuffed dates: marzipan, nuts, chocolate"
+      ],
+      "ifEaten": "A bit of date isn't dangerous. Watch for vomiting or diarrhea over the next 24 to 48 hours. If your cat swallowed a pit, or is vomiting, not eating or seems to have belly pain, call your vet.",
+      "alternatives": "For a treat that suits your cat, a small piece of plain cooked turkey or chicken is a much better fit. If you want fruit, one or two blueberries carry far less sugar.",
+      "faq": [
+        {"q": "My cat swallowed a date pit, is that serious?", "a": "The pit isn't toxic, but it's hard and can get stuck. Call your vet, especially if your cat vomits, refuses food or stops passing stools."},
+        {"q": "What about stuffed or chocolate-covered dates?", "a": "No: they're often filled with marzipan or nuts, or coated in chocolate, none of which suit a cat, and chocolate is toxic."}
+      ]
+    }
+  },
+  {
+    "id": "figue",
+    "verdict": "non",
+    "related": ["datte", "raisins-secs", "prune", "pomme"],
+    "fr": {
+      "short": "Non. Le figuier contient une sève irritante pour le chat, présente dans les feuilles, les tiges et les fruits pas mûrs : mieux vaut ne pas lui donner de figue.",
+      "why": "La sève laiteuse du figuier contient de la ficine, une enzyme irritante, et des psoralènes, qui peuvent rendre la peau sensible au soleil. Les centres antipoison vétérinaires classent le figuier comme toxique pour le chat, avec surtout des troubles digestifs et des irritations de la peau. La figue bien mûre en contient beaucoup moins, mais elle est très sucrée et n'apporte rien à ton chat : par précaution, on l'évite.",
+      "amount": "Aucune quantité n'est recommandée, fraîche ou séchée. Garde aussi ton chat à l'écart des feuilles et des branches coupées du figuier.",
+      "risks": [
+        "Vomissements, diarrhée",
+        "Bave et irritation de la bouche",
+        "Irritation de la peau au contact de la sève",
+        "Très sucrée, surtout séchée"
+      ],
+      "ifEaten": "Une bouchée de figue bien mûre provoque en général, au pire, un trouble digestif passager : surveille-le 24 à 48 heures. S'il a mâché des feuilles, une tige ou une figue pas mûre, ou s'il vomit, bave ou se frotte la bouche, appelle ton vétérinaire. Ne le fais pas vomir toi-même.",
+      "alternatives": "Pour une friandise, un petit morceau de poulet ou de poisson cuit nature est bien plus adapté. S'il aime mâchonner les plantes, offre-lui de l'herbe à chat.",
+      "faq": [
+        {"q": "Le figuier du jardin est-il dangereux pour mon chat ?", "a": "Il peut l'être s'il mâchonne les feuilles ou se frotte à la sève : irritation de la bouche, du tube digestif ou de la peau. C'est rarement grave, mais surveille-le et appelle ton vétérinaire si des symptômes apparaissent."},
+        {"q": "Et le ficus d'appartement ?", "a": "C'est un cousin du figuier, avec le même genre de sève irritante. Place-le hors de portée si ton chat aime mâchonner les plantes, et propose-lui de l'herbe à chat à la place."}
+      ]
+    },
+    "en": {
+      "short": "No. Fig trees contain a sap that irritates cats, found in the leaves, stems and unripe fruit, so it's best not to give figs to your cat.",
+      "why": "The milky sap of the fig tree contains ficin, an irritating enzyme, and psoralens, which can make skin sensitive to sunlight. Animal poison control references list the fig plant as toxic to cats, mainly causing stomach upset and skin irritation. A fully ripe fig contains much less sap, but it's very sugary and does nothing for your cat, so to be safe, skip it.",
+      "amount": "No amount is recommended, fresh or dried. Also keep your cat away from fig leaves and pruned branches.",
+      "risks": [
+        "Vomiting, diarrhea",
+        "Drooling and mouth irritation",
+        "Skin irritation from contact with the sap",
+        "Very sugary, especially dried"
+      ],
+      "ifEaten": "A bite of ripe fig usually causes, at worst, a passing stomach upset: watch your cat for 24 to 48 hours. If your cat chewed leaves, a stem or an unripe fig, or is vomiting, drooling or pawing at the mouth, call your vet. Don't try to make your cat vomit yourself.",
+      "alternatives": "For a treat, a small piece of plain cooked chicken or fish is a much better fit. If your cat likes chewing on plants, offer cat grass.",
+      "faq": [
+        {"q": "Is my fig tree dangerous for my cat?", "a": "It can be if your cat chews the leaves or rubs against the sap: irritation of the mouth, gut or skin. It's rarely serious, but keep an eye out and call your vet if symptoms appear."},
+        {"q": "What about a ficus houseplant?", "a": "Ficus houseplants, like the weeping fig or fiddle-leaf fig, are relatives of the fig tree with the same kind of irritating sap. Keep them out of reach if your cat chews plants, and offer cat grass instead."}
+      ]
+    }
+  },
+  {
+    "id": "noix-de-coco",
+    "verdict": "peu",
+    "related": ["huile-olive", "lait-vegetal", "noix", "ananas"],
+    "fr": {
+      "short": "Un peu. Un petit morceau de chair de coco nature n'est pas toxique pour ton chat, mais elle est très grasse : à garder pour de rares occasions.",
+      "why": "La chair et le lait de coco sont riches en graisses, qui peuvent donner des selles molles, de la diarrhée ou des maux de ventre. L'eau de coco est très riche en potassium, ce qui la rend déconseillée pour un chat. La coque et les fibres ne se digèrent pas et peuvent provoquer une obstruction.",
+      "amount": "Un petit morceau de chair fraîche ou une pincée de coco râpée non sucrée, de temps en temps, suffit. Pas de coco sucrée, de lait de coco ni d'eau de coco.",
+      "risks": [
+        "Diarrhée ou selles molles (graisses)",
+        "Eau de coco : trop riche en potassium",
+        "Coque et fibres : risque d'obstruction",
+        "Prise de poids, à éviter en cas de pancréatite"
+      ],
+      "ifEaten": "Un peu de coco n'est pas dangereux. Surveille-le 24 à 48 heures : diarrhée, vomissements, ventre douloureux. Appelle ton vétérinaire s'il a avalé des morceaux de coque ou de fibre, bu beaucoup d'eau de coco, ou si les symptômes persistent.",
+      "alternatives": "Pour une friandise riche en bonnes graisses, un petit morceau de saumon ou de sardine cuits nature est bien plus adapté. Sinon, une friandise pour chat fait très bien l'affaire.",
+      "faq": [
+        {"q": "L'huile de coco est-elle bonne pour mon chat ?", "a": "On lui prête beaucoup de vertus, pour le pelage ou les boules de poils, mais les preuves manquent. C'est très gras et ça peut donner la diarrhée : demande l'avis de ton vétérinaire avant d'en ajouter à sa gamelle."},
+        {"q": "Et le lait ou l'eau de coco ?", "a": "Non. Le lait de coco est très gras, et l'eau de coco trop riche en potassium. De l'eau fraîche suffit."}
+      ]
+    },
+    "en": {
+      "short": "A little. A small piece of plain coconut flesh isn't toxic to cats, but it's very fatty: keep it for rare occasions.",
+      "why": "Coconut flesh and coconut milk are high in fat, which can cause loose stools, diarrhea or a sore belly. Coconut water is very high in potassium, so it isn't recommended for cats. The shell and husk fibers can't be digested and can cause a blockage.",
+      "amount": "A small piece of fresh flesh or a pinch of unsweetened shredded coconut now and then is enough. No sweetened coconut, coconut milk or coconut water.",
+      "risks": [
+        "Diarrhea or loose stools (fat)",
+        "Coconut water: too much potassium",
+        "Shell and husk: risk of blockage",
+        "Weight gain, avoid with a history of pancreatitis"
+      ],
+      "ifEaten": "A bit of coconut isn't dangerous. Watch for diarrhea, vomiting or belly pain over the next 24 to 48 hours. Call your vet if your cat swallowed pieces of shell or husk, drank a lot of coconut water or if symptoms persist.",
+      "alternatives": "For a treat with healthy fats, a small piece of plain cooked salmon or sardine is a much better fit. Otherwise, a cat treat works fine.",
+      "faq": [
+        {"q": "Is coconut oil good for cats?", "a": "It's often credited with benefits for the coat or hairballs, but the evidence is thin. It's very fatty and can cause diarrhea, so ask your vet before adding any to your cat's food."},
+        {"q": "Can cats drink coconut milk or coconut water?", "a": "No. Coconut milk is very fatty, and coconut water is too high in potassium. Fresh water is all your cat needs."}
+      ]
+    }
+  },
+  {
+    "id": "avocat",
+    "verdict": "non",
+    "related": ["olive", "huile-olive", "oignon", "ail"],
+    "fr": {
+      "short": "Non. L'avocat est très gras, et son noyau, sa peau et ses feuilles contiennent de la persine : mieux vaut l'éviter complètement.",
+      "why": "La persine, présente surtout dans le noyau, la peau et les feuilles, est très toxique pour certains animaux comme les oiseaux, et provoque surtout vomissements et diarrhée chez le chat. La chair, très grasse, peut aussi déclencher des troubles digestifs, voire une pancréatite. Enfin, le gros noyau peut l'étouffer ou bloquer son intestin.",
+      "amount": "Aucune quantité n'est recommandée, guacamole compris. Jette les noyaux et les peaux dans une poubelle fermée.",
+      "risks": [
+        "Vomissements et diarrhée",
+        "Pancréatite à cause des graisses",
+        "Noyau : étouffement ou obstruction",
+        "Guacamole : oignon et ail, toxiques"
+      ],
+      "ifEaten": "S'il a avalé un morceau de noyau, de peau ou du guacamole, appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes. Ne le fais pas vomir toi-même. S'il a juste léché un peu de chair, surveille-le 24 à 48 heures pour des vomissements, de la diarrhée ou un ventre douloureux.",
+      "alternatives": "Si tu cherches à lui apporter de bonnes graisses, un petit morceau de saumon cuit nature est bien plus adapté. Pour une friandise simple, un peu de poulet cuit fait très bien l'affaire.",
+      "faq": [
+        {"q": "Et le guacamole ?", "a": "Encore moins : en plus de l'avocat, il contient souvent de l'oignon et de l'ail, toxiques pour les globules rouges du chat. S'il en a mangé, appelle ton vétérinaire."},
+        {"q": "Pourquoi trouve-t-on de l'avocat dans certaines croquettes ?", "a": "Certains fabricants utilisent de la chair ou de l'huile d'avocat préparées, sans noyau, sans peau ni feuilles. Ça ne veut pas dire que l'avocat frais de ta cuisine lui convient."}
+      ]
+    },
+    "en": {
+      "short": "No. Avocado is very fatty, and its pit, skin and leaves contain persin: best avoided entirely.",
+      "why": "Persin, found mainly in the pit, skin and leaves, is highly toxic to some animals such as birds, and in cats it mostly causes vomiting and diarrhea. The flesh is very fatty and can also trigger stomach upset or even pancreatitis. And the big pit can cause choking or block the gut.",
+      "amount": "No amount is recommended, guacamole included. Throw pits and skins away in a closed trash can.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Pancreatitis from the fat",
+        "Pit: choking or blockage",
+        "Guacamole: onion and garlic, both toxic"
+      ],
+      "ifEaten": "If your cat swallowed a piece of pit or skin, or ate guacamole, call your vet or an animal poison control center right away, without waiting for symptoms. Don't try to make your cat vomit yourself. If your cat only licked a little flesh, watch for vomiting, diarrhea or belly pain over the next 24 to 48 hours.",
+      "alternatives": "If you want to give your cat healthy fats, a small piece of plain cooked salmon is a much better fit. For a simple treat, a bit of cooked chicken works well.",
+      "faq": [
+        {"q": "What about guacamole?", "a": "Even worse: on top of the avocado, it usually contains onion and garlic, which damage a cat's red blood cells. If your cat ate some, call your vet."},
+        {"q": "Why is avocado in some cat foods?", "a": "Some manufacturers use processed avocado flesh or oil, without the pit, skin or leaves. That doesn't mean fresh avocado from your kitchen is suitable."}
+      ]
+    }
+  },
+  {
+    "id": "olive",
+    "verdict": "peu",
+    "related": ["huile-olive", "avocat", "sel", "herbe-a-chat"],
+    "fr": {
+      "short": "Un peu. Une olive nature dénoyautée n'est pas toxique pour ton chat, mais elle est très salée : un petit morceau de temps en temps, pas plus.",
+      "why": "L'olive n'est pas toxique, mais celles du commerce sont conservées dans la saumure et donc très salées : trop de sel peut le faire boire beaucoup, vomir, voire l'intoxiquer en grande quantité. Le noyau peut l'étouffer ou se coincer dans l'intestin. Les olives farcies ou marinées contiennent souvent de l'ail, du fromage ou des épices, qui ne lui conviennent pas.",
+      "amount": "Un petit morceau d'olive dénoyautée, rincée à l'eau, de temps en temps suffit. Jamais d'olives farcies, à l'ail ou aux herbes, ni de tapenade.",
+      "risks": [
+        "Excès de sel : soif intense, vomissements",
+        "Noyau : étouffement ou obstruction",
+        "Olives farcies ou marinées : ail, fromage, piment",
+        "Diarrhée si trop d'huile"
+      ],
+      "ifEaten": "Une olive volée n'est en général pas grave. Surveille-le 24 à 48 heures : soif excessive, vomissements, diarrhée. Appelle ton vétérinaire s'il a avalé un noyau, mangé plusieurs olives ou des olives à l'ail, ou si ces signes apparaissent.",
+      "alternatives": "Si ton chat s'excite sur les olives, l'herbe à chat ou un jouet à la cataire lui fera le même effet, sans sel. En friandise, un petit morceau de poulet cuit nature est parfait.",
+      "faq": [
+        {"q": "Pourquoi mon chat adore les olives ?", "a": "Certains chats réagissent aux olives un peu comme à l'herbe à chat. Une hypothèse est que des composés de l'olive ressemblent à ceux de la cataire, mais ce n'est pas prouvé. Ce n'est pas une raison pour lui en donner souvent."},
+        {"q": "Et l'huile d'olive ?", "a": "Une goutte dans sa gamelle ne pose pas de problème. Trop, et c'est la diarrhée."}
+      ]
+    },
+    "en": {
+      "short": "A little. A plain pitted olive isn't toxic to cats, but it's very salty: a small piece now and then, no more.",
+      "why": "Olives aren't toxic, but store-bought ones are cured in brine and very salty: too much salt can make your cat drink a lot, vomit or, in large amounts, become poisoned. The pit can cause choking or get stuck in the gut. Stuffed or marinated olives often contain garlic, cheese or spices that don't suit cats.",
+      "amount": "A small piece of pitted olive, rinsed in water, once in a while is enough. Never stuffed olives, garlic or herb olives, or tapenade.",
+      "risks": [
+        "Too much salt: intense thirst, vomiting",
+        "Pit: choking or blockage",
+        "Stuffed or marinated olives: garlic, cheese, chili",
+        "Diarrhea from too much oil"
+      ],
+      "ifEaten": "A stolen olive is usually nothing serious. Watch for excessive thirst, vomiting or diarrhea over the next 24 to 48 hours. Call your vet if your cat swallowed a pit, ate several olives or garlic-marinated ones, or if those signs appear.",
+      "alternatives": "If your cat goes wild for olives, catnip or a catnip toy gives a similar thrill without the salt. As a treat, a small piece of plain cooked chicken is perfect.",
+      "faq": [
+        {"q": "Why do cats love olives?", "a": "Some cats react to olives a bit like they do to catnip. One theory is that certain olive compounds resemble those in catnip, but it isn't proven. It's not a reason to give them often."},
+        {"q": "Can cats have olive oil?", "a": "A drop in the bowl is no problem. Too much, and you'll get diarrhea."}
+      ]
+    }
+  }
+]

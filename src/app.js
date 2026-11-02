@@ -9,7 +9,8 @@
   const ARTICLE = new RegExp(L.articles);
   const strip = s => { let t = norm(s); let prev; do { prev = t; t = t.replace(ARTICLE, "").trim(); } while (t !== prev); return t; };
 
-  const FOODS = RAW.map(([name, phrase, v, keys, why]) => ({ name, phrase, v, keys: keys.split("|").map(norm), why }));
+  // [nom, formule, verdict, mots-clés, explication, adresse de la fiche détaillée (ajoutée par build.py, peut être vide)]
+  const FOODS = RAW.map(([name, phrase, v, keys, why, url]) => ({ name, phrase, v, keys: keys.split("|").map(norm), why, url }));
   const INDEX = new Map();
   FOODS.forEach(f => f.keys.forEach(k => INDEX.set(k, f)));
 
@@ -78,6 +79,12 @@
     $("f-name").textContent = name;
     $("f-brief").textContent = V.sub;
     $("f-why").textContent = why;
+    // lien vers la fiche détaillée de l'aliment, quand il en a une
+    ["f-link", "r-link"].forEach(id => {
+      const a = $(id);
+      a.hidden = !(food && food.url);
+      if (food && food.url) a.href = food.url;
+    });
     // annonce pour les lecteurs d'écran, quelle que soit la mise en page (la fiche est masquée sur téléphone)
     if (!instant) $("sr-verdict").textContent = `${name}. ${V.stamp} ${V.sub} ${why}`;
     document.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", String(!!food && find(c.dataset.q) === food)));

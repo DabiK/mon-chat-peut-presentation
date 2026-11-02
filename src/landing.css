@@ -96,6 +96,9 @@
 .fiche dt { padding-top: 1px; font-family: var(--mono); font-size: 13px; color: var(--doux); }
 .fiche dd { margin: 0; }
 .fiche .brief { font-weight: 600; }
+.see-card { align-self: flex-start; display: inline-flex; align-items: center; gap: 6px; min-height: 44px; font-weight: 700; text-decoration: none; }
+.see-card:hover { text-decoration: underline; }
+.see-card[hidden], .mobile-only { display: none; }
 
 /* Une seule colonne (téléphone, tablette) : la fiche passerait sous tout le reste du hero. On la masque et Vivi
    vient réagir juste à côté du tampon, sous la question : la réponse se voit tout de suite. */
@@ -105,6 +108,8 @@
   .verdict-row { align-items: center; gap: 10px 16px; }
   .vivi-mini { position: relative; display: block; flex: none; width: 118px; height: 132px; margin-left: auto; margin-right: 6px; }
   .reason { flex-basis: 100%; min-height: 4.2em; }
+  .mobile-only { display: inline-flex; margin-top: -12px; }
+  .mobile-only[hidden] { display: none; }
 }
 @media (max-width: 759px) {
   .chips {

@@ -1,0 +1,102 @@
+/* Pages aliment (/mon-chat-peut-il-manger/…, /en/can-cats-eat/…) et leur index. */
+
+.nowrap { white-space: nowrap; }
+[data-v="oui"] { --v: var(--oui); --vt: var(--oui-t); }
+[data-v="peu"] { --v: var(--peu); --vt: var(--peu-t); }
+[data-v="non"] { --v: var(--non); --vt: var(--non-t); }
+
+.grid-paper {
+  background-color: var(--creme);
+  background-image: linear-gradient(rgba(247, 129, 58, .08) 1px, transparent 1px), linear-gradient(90deg, rgba(247, 129, 58, .08) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+.crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin: 0 0 18px; padding: 0; list-style: none; font-size: 14px; color: var(--doux); }
+.crumbs li { display: inline-flex; align-items: center; gap: 8px; }
+.crumbs li + li::before { content: "›"; color: var(--ligne-2); }
+.crumbs a { display: inline-flex; align-items: center; min-height: 44px; color: var(--doux); text-decoration: none; }
+.crumbs a:hover { color: var(--cacao); text-decoration: underline; }
+
+/* ---------- Fiche aliment : en-tête ---------- */
+.food-hero { border-bottom: 1px solid var(--ligne); }
+.food-hero .wrap { padding-top: clamp(16px, 3vw, 28px); padding-bottom: clamp(40px, 6vw, 72px); }
+.food-hero h1 { max-width: 20ch; font-family: var(--display); font-weight: 800; font-size: clamp(34px, 5vw, 64px); line-height: 1.03; letter-spacing: -.02em; text-wrap: balance; }
+.food-verdict { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 28px; margin-top: 28px; }
+.stamp {
+  flex: none; display: inline-flex; flex-direction: column; align-items: center; gap: 2px;
+  min-width: 150px; padding: 10px 20px 8px;
+  border: 3px solid var(--v); border-radius: 18px; box-shadow: inset 0 0 0 3px var(--vt), inset 0 0 0 5px var(--v);
+  background: var(--vt); color: var(--v); transform: rotate(-6deg);
+}
+.stamp small { font-family: var(--mono); font-size: 11px; font-weight: 500; letter-spacing: .1em; }
+.stamp b { font-family: var(--display); font-weight: 800; font-size: 44px; line-height: 1; white-space: nowrap; }
+.food-vivi { flex: none; width: auto; height: 132px; }
+.food-short { flex: 1 1 320px; min-width: 0; max-width: 46ch; font-size: clamp(18px, 2.1vw, 22px); line-height: 1.45; }
+@media (max-width: 640px) {
+  .food-verdict { gap: 10px 16px; }
+  .food-vivi { height: 118px; margin-left: auto; margin-right: 6px; }
+  .food-short { flex-basis: 100%; }
+}
+
+/* ---------- Fiche aliment : contenu ---------- */
+.food-body { padding: clamp(40px, 6vw, 72px) 0; background: var(--lait); }
+.food-grid { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 32px 48px; }
+.food-main { flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 16px; }
+.food-aside { flex: 1 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 16px; }
+@media (min-width: 960px) { .food-aside { position: sticky; top: 24px; } }
+.block { padding: clamp(20px, 3vw, 28px); border: 1px solid var(--ligne); border-radius: 24px; background: var(--creme); }
+.block h2 { margin: 0 0 10px; font-family: var(--display); font-weight: 800; font-size: clamp(21px, 2.2vw, 26px); line-height: 1.15; }
+.block p { font-size: 17px; line-height: 1.65; }
+.risks { display: flex; flex-direction: column; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.risks li { display: flex; align-items: flex-start; gap: 10px; font-size: 16.5px; line-height: 1.5; }
+.risks li::before { content: ""; flex: none; width: 10px; height: 10px; margin-top: 8px; border-radius: 50%; background: var(--v); }
+.block.alert { border-color: transparent; background: var(--vt); }
+.block.alert h2 { color: var(--v); }
+.faq-list { display: flex; flex-direction: column; gap: 10px; }
+.faq-list details { padding: 0 20px; border: 1px solid var(--ligne); border-radius: 18px; background: var(--lait); }
+.faq-list summary { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 60px; padding: 12px 0; cursor: pointer; list-style: none; font-weight: 700; font-size: 17px; line-height: 1.35; }
+.faq-list summary::-webkit-details-marker { display: none; }
+.faq-plus { width: 30px; height: 30px; flex: none; border-radius: 50%; background: var(--peche); color: var(--rayure); display: flex; align-items: center; justify-content: center; transition: transform .25s ease; }
+.faq-plus svg { width: 13px; height: 13px; }
+.faq-list details[open] .faq-plus { transform: rotate(45deg); }
+.faq-list details p { padding: 0 0 18px; font-size: 16px; line-height: 1.6; color: var(--doux); }
+
+.cta-card { display: flex; flex-direction: column; gap: 14px; padding: 24px; border-radius: 24px; background: var(--roux); }
+.cta-card h2 { font-family: var(--display); font-weight: 800; font-size: 24px; line-height: 1.15; }
+.cta-card p { font-size: 15.5px; line-height: 1.5; }
+.cta-card .store { align-self: flex-start; display: inline-flex; align-items: center; gap: 10px; min-height: 52px; padding: 8px 22px 8px 16px; border-radius: 999px; background: var(--cacao); color: var(--creme); text-decoration: none; }
+.cta-card .store:hover { background: #503B30; color: var(--creme); }
+.cta-card .store svg { width: 22px; height: 22px; flex: none; }
+.cta-card .store small { display: block; font-size: 11.5px; line-height: 1.1; }
+.cta-card .store b { display: block; font-size: 17px; line-height: 1.15; }
+.related { display: flex; flex-direction: column; gap: 8px; padding: 20px; border: 1px solid var(--ligne); border-radius: 24px; background: var(--creme); }
+.related h2 { margin: 0 0 4px; font-family: var(--display); font-weight: 800; font-size: 20px; }
+.related ul { display: flex; flex-direction: column; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.food-link { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 48px; padding: 6px 8px 6px 14px; border-radius: 14px; background: var(--lait); color: var(--cacao); font-weight: 600; text-decoration: none; border: 1px solid var(--ligne); }
+.food-link:hover { border-color: var(--cacao); color: var(--cacao); }
+.pill { flex: none; padding: 4px 10px; border-radius: 999px; background: var(--vt); color: var(--v); font-family: var(--display); font-weight: 800; font-size: 13px; line-height: 1.2; white-space: nowrap; }
+.all-link { display: inline-flex; align-items: center; gap: 6px; min-height: 44px; font-weight: 700; text-decoration: none; }
+.disclaimer { margin-top: 8px; padding: 16px 18px; border-radius: 18px; background: var(--creme); border: 1px dashed var(--ligne-2); font-size: 14.5px; line-height: 1.55; color: var(--doux); }
+
+/* ---------- Index des aliments ---------- */
+.foods-hero { border-bottom: 1px solid var(--ligne); }
+.foods-hero .wrap { display: flex; flex-direction: column; gap: 14px; padding-top: clamp(16px, 3vw, 28px); padding-bottom: clamp(36px, 5vw, 56px); }
+.foods-hero h1 { font-family: var(--display); font-weight: 800; font-size: clamp(36px, 5.4vw, 68px); line-height: 1.02; letter-spacing: -.02em; }
+.foods-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; margin-top: 8px; }
+.foods-search { position: relative; flex: 1 1 280px; max-width: 460px; }
+.foods-search input {
+  width: 100%; min-height: 52px; padding: 0 18px 0 46px; border: 1.5px solid #EBD5C0; border-radius: 999px; background: var(--lait);
+  font: inherit; font-size: 16px; color: var(--cacao);
+}
+.foods-search input:focus { outline: 3px solid var(--roux); outline-offset: 2px; border-color: var(--roux); }
+.foods-search svg { position: absolute; left: 16px; top: 50%; width: 20px; height: 20px; margin-top: -10px; color: var(--doux); }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; }
+.filter { min-height: 44px; padding: 0 16px; border: 1.5px solid #EBD5C0; border-radius: 999px; background: var(--lait); color: var(--cacao); font-weight: 600; font-size: 15px; cursor: pointer; }
+.filter:hover { border-color: var(--cacao); }
+.filter[aria-pressed="true"] { border-color: var(--v, var(--cacao)); background: var(--vt, var(--cacao)); color: var(--v, var(--creme)); }
+.filter[data-filter="all"][aria-pressed="true"] { background: var(--cacao); color: var(--creme); }
+.foods-list { padding: clamp(36px, 5vw, 56px) 0 clamp(56px, 7vw, 88px); background: var(--lait); }
+.foods-list .wrap { display: flex; flex-direction: column; gap: 36px; }
+.cat h2 { margin: 0 0 14px; font-family: var(--display); font-weight: 800; font-size: clamp(22px, 2.4vw, 28px); }
+.cat ul { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: 8px; margin: 0; padding: 0; list-style: none; }
+.cat[hidden], .cat li[hidden] { display: none; }
+.foods-none { font-size: 17px; color: var(--doux); }

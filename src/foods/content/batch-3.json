@@ -1,0 +1,1329 @@
+[
+  {
+    "id": "poulet",
+    "verdict": "oui",
+    "related": [
+      "dinde",
+      "lapin",
+      "oeuf",
+      "riz"
+    ],
+    "fr": {
+      "short": "Oui. Cuit à cœur, nature, sans peau ni os, le poulet est une excellente friandise riche en protéines pour ton chat.",
+      "why": "Ton chat est un carnivore strict : il a besoin de protéines animales, et le poulet en apporte d'excellente qualité, faciles à digérer. La cuisse contient un peu plus de taurine que le blanc, mais elle est aussi plus grasse. Cuit et sans assaisonnement, c'est l'un des meilleurs extras possibles, mais seul il ne forme pas un repas complet : il manque de calcium et de plusieurs vitamines.",
+      "amount": "Quelques petits morceaux, l'équivalent d'une cuillère à soupe, en friandise ou mélangés à sa gamelle. Cuis-le bien à cœur, à l'eau ou à la vapeur, sans sel, sans ail, sans oignon, et retire la peau et tous les os. Les extras ne devraient pas dépasser 10 % de ce qu'il mange dans la journée.",
+      "risks": [
+        "Os cuits qui éclatent et peuvent blesser la bouche ou l'intestin",
+        "Peau grasse : vomissements, diarrhée",
+        "Assaisonnement à l'ail ou à l'oignon, toxique pour le chat",
+        "Salmonelle et campylobacter si la viande est crue ou mal cuite",
+        "Carences si le poulet remplace sa nourriture complète"
+      ],
+      "ifEaten": "S'il a mangé un peu de poulet nature, il n'y a rien à faire. S'il a volé du poulet assaisonné, avec la peau ou des os, surveille-le pendant 24 à 48 heures : vomissements, diarrhée, efforts pour faire ses besoins, abattement ou douleur au ventre doivent te faire appeler le vétérinaire. Ne cherche pas à le faire vomir s'il a avalé un os.",
+      "alternatives": "Pour varier, la dinde, le lapin ou un peu d'œuf cuit sont aussi de très bonnes friandises. Et pour ses repas, rien ne remplace une nourriture complète pour chat.",
+      "faq": [
+        {
+          "q": "Et le poulet rôti ?",
+          "a": "La chair du poulet rôti, sans peau et sans os, passe en petite quantité. La peau, elle, concentre le gras, le sel et souvent l'ail ou les herbes de la marinade : garde-la pour toi."
+        },
+        {
+          "q": "Mon chat peut-il manger du poulet cru ?",
+          "a": "Mieux vaut éviter. Le poulet cru peut porter des salmonelles et des campylobacters, dangereux pour lui comme pour toi. Si tu envisages une alimentation crue, fais-toi accompagner par un vétérinaire pour qu'elle soit sûre et équilibrée."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Plain cooked chicken, skinless and boneless, is one of the best high-protein treats you can give your cat.",
+      "why": "Cats are obligate carnivores, and chicken delivers high-quality, easy-to-digest animal protein. Dark meat has a bit more taurine than breast, but also more fat. Cooked and unseasoned, it's one of the best extras around, but on its own it isn't a complete meal: it lacks calcium and several vitamins cats need.",
+      "amount": "A few small bites, about a tablespoon, as a treat or mixed into the regular food. Cook it all the way through, boiled or steamed, with no salt, garlic or onion, and remove the skin and every bone. Keep treats under about 10% of your cat's daily calories.",
+      "risks": [
+        "Cooked bones that splinter and can injure the mouth or gut",
+        "Fatty skin: vomiting or diarrhea",
+        "Garlic or onion seasoning, which is toxic to cats",
+        "Salmonella or Campylobacter in raw or undercooked meat",
+        "Nutritional gaps if chicken replaces complete cat food"
+      ],
+      "ifEaten": "A bit of plain chicken needs no action. If your cat stole seasoned chicken, skin or bones, keep an eye on them for 24 to 48 hours and call your vet for vomiting, diarrhea, straining, lethargy or belly pain. Don't try to make your cat vomit if a bone was swallowed.",
+      "alternatives": "Turkey, rabbit or a little cooked egg are great ways to mix things up. For actual meals, stick with a complete and balanced cat food.",
+      "faq": [
+        {
+          "q": "Can cats eat raw chicken?",
+          "a": "It's best not to. Raw chicken can carry Salmonella and Campylobacter, which can make both your cat and your household sick. If you're interested in raw feeding, work with a vet so the diet is safe and balanced."
+        },
+        {
+          "q": "Can cats have chicken broth?",
+          "a": "Homemade broth with no salt, onion or garlic is fine in small amounts and can help a cat drink more. Store-bought broth and bouillon cubes usually contain salt and onion or garlic, so skip those."
+        }
+      ]
+    }
+  },
+  {
+    "id": "dinde",
+    "verdict": "oui",
+    "related": [
+      "poulet",
+      "lapin",
+      "canard",
+      "os"
+    ],
+    "fr": {
+      "short": "Oui. Cuite, nature et sans os, la dinde est une protéine maigre que ton chat peut savourer en petite quantité.",
+      "why": "La dinde apporte des protéines animales de qualité et peu de gras, surtout le blanc. C'est une viande que les chats digèrent bien, et qu'on retrouve d'ailleurs dans beaucoup d'aliments pour chat. Le problème vient de ce qui l'accompagne : peau grasse, farce, sauce, sel, ou charcuterie de dinde très salée.",
+      "amount": "Quelques petits morceaux de temps en temps, en friandise ou en complément de sa gamelle. Choisis de la viande cuite à cœur, sans peau, sans os et sans assaisonnement. Évite les tranches de blanc de dinde du rayon charcuterie.",
+      "risks": [
+        "Os cuits qui éclatent en esquilles",
+        "Farce ou sauce à l'oignon, à l'ail ou à l'échalote",
+        "Peau et jus de cuisson gras : troubles digestifs",
+        "Charcuterie de dinde trop salée et pleine d'additifs",
+        "Bactéries si la viande est crue ou mal cuite"
+      ],
+      "ifEaten": "Un peu de dinde nature ne pose aucun problème. S'il a mangé de la farce, de la sauce, de la peau ou des os, surveille vomissements, diarrhée, abattement ou constipation pendant 24 à 48 heures, et appelle le vétérinaire si ces signes apparaissent. Ne le fais pas vomir toi-même.",
+      "alternatives": "Le poulet et le lapin cuits nature sont tout aussi intéressants. Pour une friandise prête à l'emploi, choisis des friandises conçues pour chat.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger les restes de la dinde de Noël ?",
+          "a": "Oui, quelques morceaux de chair sans peau, sans os, sans farce et sans sauce. La farce contient souvent de l'oignon, de l'échalote ou de l'ail, toxiques pour lui, et la carcasse est à jeter hors de sa portée."
+        },
+        {
+          "q": "Et le blanc de dinde en tranches ?",
+          "a": "Ce n'est pas toxique, mais c'est de la charcuterie : salée, avec des conservateurs. Un petit bout exceptionnellement ne lui fera pas de mal, mais préfère de la dinde que tu as cuite toi-même."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Plain, cooked, boneless turkey is a lean protein your cat can enjoy in small amounts.",
+      "why": "Turkey provides quality animal protein with little fat, especially the breast. Cats digest it well, and it shows up in plenty of cat foods. The trouble is what tends to come with it: fatty skin, stuffing, gravy, salt, or very salty turkey deli meat.",
+      "amount": "A few small pieces now and then, as a treat or mixed into the regular food. Make sure it's cooked through, skinless, boneless and unseasoned. Skip sliced turkey from the deli counter.",
+      "risks": [
+        "Cooked bones that splinter into sharp shards",
+        "Stuffing or gravy with onion, garlic or shallots",
+        "Fatty skin and drippings: digestive upset",
+        "Deli turkey loaded with salt and additives",
+        "Bacteria in raw or undercooked meat"
+      ],
+      "ifEaten": "A little plain turkey is no problem. If your cat got into stuffing, gravy, skin or bones, watch for vomiting, diarrhea, lethargy or straining for 24 to 48 hours and call your vet if they show up. Don't try to make your cat vomit.",
+      "alternatives": "Plain cooked chicken or rabbit are just as good. For a grab-and-go option, use treats made for cats.",
+      "faq": [
+        {
+          "q": "Can cats eat Thanksgiving turkey?",
+          "a": "Yes, a few bites of meat without skin, bones, stuffing or gravy. Stuffing and gravy often contain onion or garlic, which are toxic to cats, and the carcass should go straight into a closed trash can."
+        },
+        {
+          "q": "Can cats eat turkey deli meat?",
+          "a": "It isn't toxic, but it's processed: salty, with preservatives. A tiny piece once won't hurt, but turkey you cooked yourself is a much better choice."
+        }
+      ]
+    }
+  },
+  {
+    "id": "boeuf",
+    "verdict": "oui",
+    "related": [
+      "agneau",
+      "poulet",
+      "foie",
+      "oignon"
+    ],
+    "fr": {
+      "short": "Oui. Bien cuit et sans assaisonnement, le bœuf est une très bonne source de protéines pour ton chat, en petite quantité.",
+      "why": "Le bœuf apporte des protéines de qualité, du fer, du zinc et des vitamines du groupe B, tout ce qu'un carnivore apprécie. Cuit nature, c'est une excellente friandise, surtout dans les morceaux maigres : les parties très grasses peuvent dérégler sa digestion. La viande hachée crue, elle, peut contenir des bactéries comme E. coli ou des salmonelles, et des parasites comme le toxoplasme.",
+      "amount": "Quelques petits dés ou une cuillère à soupe de viande hachée, de temps en temps. Cuis-la bien, sans matière grasse, sans sel, sans ail ni oignon. Pas de restes de plats en sauce (bolognaise, bourguignon, hachis) : ils contiennent presque toujours de l'oignon.",
+      "risks": [
+        "Viande crue : E. coli, salmonelle, toxoplasme",
+        "Morceaux gras : vomissements, diarrhée",
+        "Plats en sauce avec oignon, ail ou vin",
+        "Os cuits qui éclatent, ou gros os trop durs pour les dents",
+        "Carences si le bœuf remplace sa nourriture complète"
+      ],
+      "ifEaten": "Un peu de bœuf nature, même un peu gras, ne pose en général pas de problème. S'il a mangé un plat en sauce ou de la viande crue, surveille-le pendant 24 à 48 heures : vomissements, diarrhée, fatigue inhabituelle ou perte d'appétit sont des raisons d'appeler le vétérinaire. S'il a avalé beaucoup de sauce à l'oignon ou à l'ail, appelle-le sans attendre.",
+      "alternatives": "Le poulet, la dinde ou l'agneau maigre cuits nature font aussi de très bonnes friandises. Pour ses repas, garde une nourriture complète pour chat.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du steak haché cru ?",
+          "a": "Mieux vaut le cuire. Le steak haché cru peut porter E. coli, des salmonelles et des parasites, avec un risque aussi pour toi quand tu le manipules. Une petite bouchée volée n'est pas une urgence, mais n'en fais pas une habitude."
+        },
+        {
+          "q": "Et le bœuf bourguignon ou la bolognaise ?",
+          "a": "Non. Ces plats contiennent presque toujours de l'oignon, de l'ail ou du vin, et beaucoup de sel. Si tu veux lui faire goûter, mets de côté un petit morceau de viande cuite avant d'ajouter quoi que ce soit."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Plain, well-cooked beef is a great source of protein for your cat in small amounts.",
+      "why": "Beef provides quality protein, iron, zinc and B vitamins, all things a carnivore appreciates. Cooked plain, it makes an excellent treat, especially lean cuts, since very fatty pieces can upset digestion. Raw ground beef can carry bacteria like E. coli and Salmonella, plus parasites such as Toxoplasma.",
+      "amount": "A few small cubes or about a tablespoon of ground beef now and then. Cook it through, with no oil, salt, garlic or onion. No leftovers from saucy dishes like chili, meatloaf or spaghetti sauce: they almost always contain onion.",
+      "risks": [
+        "Raw meat: E. coli, Salmonella, Toxoplasma",
+        "Fatty cuts: vomiting or diarrhea",
+        "Sauces or seasoning with onion, garlic or wine",
+        "Cooked bones that splinter, or big bones that crack teeth",
+        "Nutritional gaps if beef replaces complete cat food"
+      ],
+      "ifEaten": "A bit of plain beef, even a little fatty, usually causes no trouble. If your cat ate a saucy dish or raw meat, watch for vomiting, diarrhea, unusual tiredness or loss of appetite over 24 to 48 hours and call your vet if you see them. If they ate a lot of onion or garlic sauce, call right away.",
+      "alternatives": "Plain cooked chicken, turkey or lean lamb make great treats too. For meals, stick with complete cat food.",
+      "faq": [
+        {
+          "q": "Can cats eat raw ground beef?",
+          "a": "It's safer cooked. Raw ground beef can carry E. coli, Salmonella and parasites, and handling it is a risk for you too. A stolen bite isn't an emergency, but don't make it a habit."
+        },
+        {
+          "q": "Can cats eat steak?",
+          "a": "Yes, a few small pieces of plain cooked steak with the fat trimmed off. Skip anything with garlic butter, pepper sauce or a marinade."
+        }
+      ]
+    }
+  },
+  {
+    "id": "porc",
+    "verdict": "oui",
+    "related": [
+      "jambon",
+      "bacon",
+      "saucisse",
+      "boeuf"
+    ],
+    "fr": {
+      "short": "Oui. Maigre, bien cuit et sans assaisonnement, le porc peut faire une friandise pour ton chat, mais jamais cru ni en charcuterie.",
+      "why": "Le porc maigre, comme le filet mignon, apporte des protéines de qualité comparables à celles des autres viandes, alors que les morceaux gras sont plus difficiles à digérer. Cru ou mal cuit, il peut transmettre des parasites comme la trichine ou le toxoplasme. Le porc cru, et surtout le sanglier, peut aussi transmettre la maladie d'Aujeszky, mortelle pour le chat. Le jambon, le bacon et les saucisses sont un autre sujet : trop salés et trop gras.",
+      "amount": "Quelques petits morceaux de porc maigre de temps en temps, cuit à cœur, sans couenne, sans gras, sans os et sans sel. Évite les rôtis à l'ail, les marinades et les sauces. Le porc doit rester un petit extra à côté de sa nourriture habituelle.",
+      "risks": [
+        "Viande crue : parasites et maladie d'Aujeszky, mortelle",
+        "Gras et couenne : vomissements, diarrhée",
+        "Marinades et rôtis à l'ail ou à l'oignon",
+        "Os cuits de côtelettes ou de travers qui éclatent",
+        "Charcuteries trop salées : jambon, bacon, saucisses"
+      ],
+      "ifEaten": "Un petit morceau de porc cuit nature ne pose pas de souci. Si c'était du porc gras, assaisonné ou avec des os, surveille-le 24 à 48 heures et appelle le vétérinaire en cas de vomissements, de diarrhée, d'abattement ou de douleur au ventre. S'il a mangé du sanglier cru ou des abats de porc crus, appelle ton vétérinaire pour en parler, même s'il semble aller bien.",
+      "alternatives": "Le poulet, la dinde et le lapin sont des viandes maigres plus simples à bien préparer. Pour une friandise rapide, choisis-en une conçue pour chat.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du porc cru ?",
+          "a": "Non. Le porc cru peut contenir des parasites, et le porc cru ou le sanglier peuvent transmettre la maladie d'Aujeszky, mortelle pour les chats et les chiens. Cuis toujours le porc à cœur."
+        },
+        {
+          "q": "Et une côte de porc ou du rôti ?",
+          "a": "La partie maigre, cuite et sans assaisonnement, oui, en petits morceaux. Retire le gras, la couenne et l'os, et ne lui donne rien de ce qui a cuit avec de l'ail, de l'oignon ou une sauce."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Lean, well-cooked, unseasoned pork can be an occasional treat for your cat, but never raw and never processed.",
+      "why": "Lean pork, like tenderloin, offers quality protein comparable to other meats, while fattier cuts are harder to digest. Raw or undercooked pork can carry parasites such as Trichinella and Toxoplasma. Raw pork, and especially wild boar or feral pig, can also transmit pseudorabies, a virus that is fatal to cats. Ham, bacon and sausage are another story: far too salty and fatty.",
+      "amount": "A few small pieces of lean pork now and then, cooked through, with no rind, fat, bones or salt. Skip garlic-rubbed roasts, marinades and sauces. Pork should stay a small extra next to regular cat food.",
+      "risks": [
+        "Raw meat: parasites and pseudorabies, which is fatal",
+        "Fat and rind: vomiting or diarrhea",
+        "Marinades and rubs with garlic or onion",
+        "Cooked chop or rib bones that splinter",
+        "Processed pork that's too salty: ham, bacon, sausage"
+      ],
+      "ifEaten": "A small bite of plain cooked pork is fine. If it was fatty, seasoned or had bones, watch your cat for 24 to 48 hours and call your vet for vomiting, diarrhea, lethargy or belly pain. If your cat ate raw wild boar, feral pig or raw pork offal, call your vet for advice even if they seem fine.",
+      "alternatives": "Chicken, turkey and rabbit are lean meats that are simpler to get right. For a quick treat, pick one made for cats.",
+      "faq": [
+        {
+          "q": "Can cats eat raw pork?",
+          "a": "No. Raw pork can carry parasites, and raw pork or wild boar can transmit pseudorabies, which is fatal to cats and dogs. Always cook pork all the way through."
+        },
+        {
+          "q": "Can cats eat pulled pork or pork chops?",
+          "a": "Plain lean chop meat, cooked and cut small, is fine. Pulled pork is usually rubbed with spices, garlic and onion or covered in sauce, so skip it."
+        }
+      ]
+    }
+  },
+  {
+    "id": "jambon",
+    "verdict": "peu",
+    "related": [
+      "saucisson",
+      "bacon",
+      "porc",
+      "sel"
+    ],
+    "fr": {
+      "short": "Un peu. Le jambon n'est pas toxique, mais il est très salé : un petit bout de jambon blanc de temps en temps, pas plus.",
+      "why": "Le jambon est de la viande de porc salée, souvent additionnée de nitrites et de phosphates pour sa conservation. Un chat a besoin de très peu de sel, et pour un animal de sa taille, une tranche représente déjà beaucoup. L'excès de sel donne soif et peut provoquer des troubles digestifs, et il est particulièrement déconseillé aux chats qui ont des problèmes rénaux ou cardiaques. Le jambon cru est encore plus salé que le jambon blanc.",
+      "amount": "Un petit morceau de jambon blanc, sans couenne ni gras, de temps en temps. Pas tous les jours, et pas du tout si ton chat a une maladie des reins, du cœur ou de l'hypertension. Laisse toujours de l'eau fraîche à sa disposition.",
+      "risks": [
+        "Excès de sel : soif intense, vomissements, diarrhée",
+        "Nitrites et additifs de conservation",
+        "Gras et couenne : troubles digestifs",
+        "Mauvais pour les chats aux reins ou au cœur fragiles",
+        "Habitude de réclamer à table"
+      ],
+      "ifEaten": "Une tranche volée n'est pas une urgence : laisse-lui de l'eau fraîche et surveille-le pendant 24 à 48 heures. Appelle le vétérinaire s'il vomit plusieurs fois, a une diarrhée importante, boit énormément, titube ou semble très fatigué, ou s'il a mangé une grosse quantité de jambon.",
+      "alternatives": "Un petit morceau de poulet ou de dinde cuit nature lui fera autant plaisir, sans le sel. Les friandises pour chat sont aussi une bonne option.",
+      "faq": [
+        {
+          "q": "Et le jambon cru ou le jambon de Bayonne ?",
+          "a": "Mieux vaut éviter. Le jambon sec est beaucoup plus salé que le jambon blanc, et souvent plus gras. Un minuscule bout ne le rendra pas malade, mais ce n'est pas une friandise à lui proposer."
+        },
+        {
+          "q": "Le jambon de dinde ou de poulet, c'est mieux ?",
+          "a": "Pas vraiment : c'est aussi de la charcuterie, salée et avec des additifs. Si tu veux lui donner de la volaille, cuis un morceau de poulet ou de dinde nature."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Ham isn't toxic, but it's very salty, so a small piece once in a while is the limit.",
+      "why": "Ham is cured pork, salted and often treated with nitrites and phosphates. Cats need very little sodium, and because they're small, a single slice is already a lot for them. Too much salt makes them thirsty and can upset their stomach, and it's especially bad for cats with kidney or heart disease. Dry-cured hams like prosciutto are even saltier.",
+      "amount": "A small piece of plain cooked ham, fat trimmed off, once in a while. Not every day, and not at all if your cat has kidney disease, heart disease or high blood pressure. Always leave fresh water out.",
+      "risks": [
+        "Too much salt: intense thirst, vomiting, diarrhea",
+        "Nitrites and other curing additives",
+        "Fat and rind: digestive upset",
+        "Bad for cats with kidney or heart problems",
+        "Glazed hams that add sugar and spices"
+      ],
+      "ifEaten": "A stolen slice isn't an emergency: give fresh water and watch your cat for 24 to 48 hours. Call your vet for repeated vomiting, heavy diarrhea, extreme thirst, wobbliness or unusual tiredness, or if they ate a large amount.",
+      "alternatives": "A bit of plain cooked chicken or turkey will please them just as much, without the salt. Cat treats are another easy option.",
+      "faq": [
+        {
+          "q": "Can cats eat Christmas ham?",
+          "a": "Better not. Glazed holiday hams add sugar and sometimes spices on top of the salt, and leftovers often sit next to onion-heavy sides. Offer a bite of plain turkey or chicken instead."
+        },
+        {
+          "q": "Can cats eat prosciutto?",
+          "a": "It's best avoided. Prosciutto is much saltier than regular ham. A tiny scrap won't make your cat sick, but it's not a treat to offer."
+        }
+      ]
+    }
+  },
+  {
+    "id": "saucisson",
+    "verdict": "non",
+    "related": [
+      "jambon",
+      "bacon",
+      "saucisse",
+      "ail"
+    ],
+    "fr": {
+      "short": "Non. Le saucisson est trop gras, trop salé et souvent parfumé à l'ail : c'est un aliment à garder pour toi.",
+      "why": "Le saucisson concentre en peu de place beaucoup de sel et de gras, bien plus que ce qu'un chat peut gérer. Il contient aussi des nitrites, du poivre, et souvent de l'ail, toxique pour les globules rouges du chat. Le gras en excès peut provoquer vomissements et diarrhée, et chez certains chats favoriser une pancréatite. Même chose pour le chorizo, la rosette ou le salami.",
+      "amount": "À éviter complètement, même en petits morceaux à l'apéro. Range-le hors de portée et ne laisse traîner ni la peau ni la ficelle, que certains chats avalent.",
+      "risks": [
+        "Sel en excès : soif intense, vomissements, tremblements",
+        "Ail, toxique pour les globules rouges",
+        "Gras : diarrhée, risque de pancréatite",
+        "Peau et ficelle qui peuvent bloquer l'intestin",
+        "Épices comme le piment du chorizo, irritantes"
+      ],
+      "ifEaten": "Une rondelle volée provoque au pire un petit dérangement digestif : laisse-lui de l'eau fraîche et surveille-le pendant quelques jours. Appelle le vétérinaire s'il vomit, a la diarrhée, boit énormément, semble faible ou si ses gencives pâlissent. S'il a mangé beaucoup de saucisson, un saucisson à l'ail ou la ficelle, appelle-le tout de suite, et ne tire jamais sur une ficelle qui dépasse de sa bouche.",
+      "alternatives": "Pour qu'il ait aussi son apéro, prépare-lui quelques dés de poulet ou de dinde cuits nature, ou une friandise pour chat.",
+      "faq": [
+        {
+          "q": "Un petit bout de saucisson, c'est vraiment dangereux ?",
+          "a": "Une rondelle ne va pas l'empoisonner, mais elle n'apporte rien de bon et beaucoup de sel. Le vrai danger vient des habitudes : en donner souvent, ou un saucisson à l'ail, peut lui faire du tort."
+        },
+        {
+          "q": "Et le chorizo ou le salami ?",
+          "a": "Même réponse, voire pire : le chorizo ajoute du piment et souvent de l'ail. Toutes les charcuteries sèches sont à garder loin de ton chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Salami is too fatty, too salty and often flavored with garlic, so keep it for yourself.",
+      "why": "Salami packs a lot of salt and fat into a small bite, far more than a cat can handle. It also contains nitrites, pepper and often garlic, which damages a cat's red blood cells. Too much fat can cause vomiting and diarrhea, and in some cats may contribute to pancreatitis. The same goes for pepperoni, chorizo and other dry sausages.",
+      "amount": "Avoid it completely, even tiny pieces off a charcuterie board. Keep it out of reach, and don't leave the casing or string lying around, since some cats swallow them.",
+      "risks": [
+        "Excess salt: intense thirst, vomiting, tremors",
+        "Garlic, which damages red blood cells",
+        "Fat: diarrhea and a risk of pancreatitis",
+        "Casing or string that can block the intestines",
+        "Spices like chili in chorizo and pepperoni, which irritate the gut"
+      ],
+      "ifEaten": "A stolen slice usually causes mild stomach upset at worst: give fresh water and watch your cat for a few days. Call your vet for vomiting, diarrhea, extreme thirst, weakness or pale gums. If they ate a lot, a garlicky salami or the string, call right away, and never pull on a string hanging from their mouth.",
+      "alternatives": "If you want your cat to join snack time, set aside a few cubes of plain cooked chicken or turkey, or a cat treat.",
+      "faq": [
+        {
+          "q": "Can cats eat pepperoni?",
+          "a": "No. Pepperoni is salty, fatty and spiced, often with garlic. One slice off a pizza isn't an emergency, but don't share it."
+        },
+        {
+          "q": "My cat ate a piece of salami. What should I do?",
+          "a": "Don't panic: one slice rarely causes more than a mild upset. Make sure water is available and call your vet if you see vomiting, diarrhea, weakness or pale gums in the next few days."
+        }
+      ]
+    }
+  },
+  {
+    "id": "bacon",
+    "verdict": "non",
+    "related": [
+      "saucisson",
+      "jambon",
+      "porc",
+      "oeuf"
+    ],
+    "fr": {
+      "short": "Non. Même cuit, le bacon est trop salé, trop gras et plein de conservateurs pour ton chat : évite-le, comme les lardons.",
+      "why": "Le bacon est de la poitrine de porc salée, souvent fumée, et traitée aux nitrites. Pour un petit animal comme le chat, c'est une grosse dose de sel et de gras d'un coup. Résultat possible : soif, vomissements, diarrhée, et chez certains chats un risque de pancréatite. L'odeur l'attire énormément, mais ça n'en fait pas une bonne idée pour autant.",
+      "amount": "Ne lui en donne pas, ni cru ni grillé, et pas non plus de lardons ou de gras de cuisson. Ne laisse pas la poêle ni le papier absorbant gras à sa portée.",
+      "risks": [
+        "Sel en excès : soif, vomissements, diarrhée",
+        "Gras : troubles digestifs, risque de pancréatite",
+        "Nitrites et additifs de fumage",
+        "Gras de cuisson et papier absorbant gras qu'il peut avaler"
+      ],
+      "ifEaten": "Un petit bout de bacon n'est pas une urgence : donne-lui de l'eau fraîche et surveille-le pendant 24 à 48 heures. Appelle le vétérinaire s'il vomit à répétition, a la diarrhée, refuse de manger, semble avoir mal au ventre ou est abattu, ou s'il a mangé une grande quantité de bacon ou de gras.",
+      "alternatives": "Pour lui faire plaisir pendant ton brunch, un peu d'œuf brouillé sans sel ni beurre ou de poulet cuit nature fera parfaitement l'affaire.",
+      "faq": [
+        {
+          "q": "Et les lardons ?",
+          "a": "Même chose : ce sont des morceaux de poitrine salée et souvent fumée. Quelques lardons tombés de la poêle ne sont pas graves, mais ce n'est pas un aliment pour lui."
+        },
+        {
+          "q": "Mon chat a mangé un morceau de bacon, que faire ?",
+          "a": "Pas de panique, un petit morceau passe en général sans problème. Laisse-lui de l'eau et surveille vomissements, diarrhée ou abattement pendant un ou deux jours."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Even cooked, bacon is too salty, too fatty and too processed for your cat, so it's best avoided.",
+      "why": "Bacon is salt-cured pork belly, often smoked and treated with nitrites. For a small animal like a cat, that's a big hit of salt and fat at once. It can lead to thirst, vomiting and diarrhea, and in some cats a risk of pancreatitis. Cats love the smell, but that doesn't make it a good idea.",
+      "amount": "Don't share it, raw or crispy, and skip bacon bits and drippings too. Keep the pan and greasy paper towels out of reach.",
+      "risks": [
+        "Excess salt: thirst, vomiting, diarrhea",
+        "Fat: digestive upset and a risk of pancreatitis",
+        "Nitrites and smoking additives",
+        "Grease and greasy paper towels a cat might swallow"
+      ],
+      "ifEaten": "A small piece of bacon isn't an emergency: offer fresh water and watch your cat for 24 to 48 hours. Call your vet for repeated vomiting, diarrhea, refusing food, belly pain or lethargy, or if they ate a lot of bacon or grease.",
+      "alternatives": "If your cat begs at breakfast, a little plain scrambled egg with no salt or butter, or some plain cooked chicken, is a much better share.",
+      "faq": [
+        {
+          "q": "Can cats eat turkey bacon?",
+          "a": "It's still processed and salty, so it's not a good treat. Plain cooked turkey is the better choice."
+        },
+        {
+          "q": "Can cats eat bacon grease?",
+          "a": "No. Pure fat can trigger vomiting and diarrhea, and bacon grease is often very salty. Don't pour it over their food."
+        }
+      ]
+    }
+  },
+  {
+    "id": "saucisse",
+    "verdict": "non",
+    "related": [
+      "saucisson",
+      "bacon",
+      "porc",
+      "oignon"
+    ],
+    "fr": {
+      "short": "Non. Les saucisses sont grasses, salées et souvent assaisonnées à l'ail ou à l'oignon : mieux vaut ne pas en donner à ton chat.",
+      "why": "Une saucisse, c'est de la viande hachée mélangée à beaucoup de gras, de sel, d'épices et souvent d'ail ou d'oignon, toxiques pour le chat. Les saucisses fumées ou industrielles ajoutent nitrites et additifs. Ce mélange peut provoquer vomissements et diarrhée et, chez certains chats, favoriser une pancréatite. Les merguez, très épicées, sont encore moins adaptées.",
+      "amount": "À éviter, qu'elle soit crue, grillée ou en conserve. Attention aux barbecues : une saucisse tombée ou laissée sur une assiette disparaît vite.",
+      "risks": [
+        "Ail ou oignon, toxiques pour les globules rouges",
+        "Sel en excès : soif, vomissements",
+        "Gras : diarrhée, risque de pancréatite",
+        "Épices et piment des merguez, irritants",
+        "Gros morceaux avalés tout rond : risque d'étouffement"
+      ],
+      "ifEaten": "Un petit morceau ne justifie pas de paniquer : laisse-lui de l'eau et surveille-le pendant quelques jours. Appelle le vétérinaire s'il vomit, a la diarrhée, refuse de manger ou semble abattu. S'il a mangé une saucisse entière, ou une saucisse à l'ail ou à l'oignon, appelle-le sans attendre : les effets de l'ail peuvent n'apparaître qu'après plusieurs jours.",
+      "alternatives": "Au barbecue, garde-lui quelques dés de poulet ou de bœuf grillé nature, sans marinade ni partie brûlée.",
+      "faq": [
+        {
+          "q": "Et les saucisses de Strasbourg ?",
+          "a": "Elles sont très salées et pleines d'additifs. Une rondelle n'est pas grave, mais ce n'est pas une friandise : préfère un morceau de viande cuite nature."
+        },
+        {
+          "q": "Mon chat peut-il manger de la chair à saucisse ?",
+          "a": "Non, ni crue ni cuite. Elle est grasse, salée, souvent assaisonnée, et crue elle ajoute un risque de bactéries et de parasites."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Sausages are fatty, salty and often seasoned with garlic or onion, so it's best not to give them to your cat.",
+      "why": "A sausage is ground meat mixed with plenty of fat, salt, spices and often garlic or onion, which are toxic to cats. Smoked and processed sausages add nitrites and other additives. That mix can cause vomiting and diarrhea, and in some cats may contribute to pancreatitis. Spicy sausages like chorizo or hot Italian sausage are even less suitable.",
+      "amount": "Avoid them, raw, grilled or canned. Watch out at barbecues: a dropped sausage or one left on a plate disappears fast.",
+      "risks": [
+        "Garlic or onion, which damage red blood cells",
+        "Excess salt: thirst, vomiting",
+        "Fat: diarrhea and a risk of pancreatitis",
+        "Chili and spices that irritate the gut",
+        "Large chunks swallowed whole: choking hazard"
+      ],
+      "ifEaten": "A small bite is no reason to panic: give water and watch your cat for a few days. Call your vet for vomiting, diarrhea, refusing food or lethargy. If they ate a whole sausage, or one with garlic or onion, call right away, since garlic damage can take several days to show.",
+      "alternatives": "At a barbecue, set aside a few small cubes of plain grilled chicken or beef, with no marinade and no charred bits.",
+      "faq": [
+        {
+          "q": "Can cats eat hot dogs?",
+          "a": "Not really. Hot dogs are salty, processed and sometimes seasoned with garlic or onion powder. A small bite won't usually cause harm, but it's not a treat to offer."
+        },
+        {
+          "q": "Can cats eat breakfast sausage?",
+          "a": "No. Breakfast sausage is fatty, salty and often seasoned with sage, pepper and sometimes onion or garlic. Plain scrambled egg is a better breakfast share."
+        }
+      ]
+    }
+  },
+  {
+    "id": "agneau",
+    "verdict": "oui",
+    "related": [
+      "boeuf",
+      "ail",
+      "os",
+      "lapin"
+    ],
+    "fr": {
+      "short": "Oui. Cuit, maigre, sans os ni assaisonnement, l'agneau est une bonne friandise pour ton chat, en petite quantité.",
+      "why": "L'agneau apporte des protéines de qualité, du fer et du zinc, et beaucoup de chats l'adorent. C'est en revanche une viande plus grasse que la volaille : retire bien le gras visible, qui peut provoquer vomissements et diarrhée. Comme toutes les viandes crues, l'agneau cru peut porter des bactéries et des parasites, notamment le toxoplasme.",
+      "amount": "Quelques petits morceaux de viande maigre de temps en temps, bien cuits, sans gras, sans os et sans sel. Le gigot est souvent piqué d'ail : ne donne que de la viande qui n'a été en contact ni avec l'ail ni avec une marinade.",
+      "risks": [
+        "Gras : vomissements, diarrhée",
+        "Gigot piqué d'ail, toxique pour le chat",
+        "Os de côtelettes cuits qui éclatent",
+        "Viande crue : toxoplasme et bactéries",
+        "Sauces, jus de cuisson et marinades salés"
+      ],
+      "ifEaten": "Un peu d'agneau cuit nature ne pose pas de problème. S'il a mangé du gras, de la viande à l'ail ou un os, surveille-le pendant quelques jours et appelle le vétérinaire en cas de vomissements, de diarrhée, d'abattement, de gencives pâles ou de douleur au ventre. Ne le fais pas vomir s'il a avalé un os.",
+      "alternatives": "Le bœuf maigre, le poulet ou la dinde cuits nature sont d'aussi bonnes friandises, souvent moins grasses.",
+      "faq": [
+        {
+          "q": "Et le gigot d'agneau ?",
+          "a": "Seulement s'il a cuit sans ail ni marinade. Dans ce cas, un petit morceau de viande maigre, sans gras, peut lui faire plaisir, mais au moindre doute, abstiens-toi."
+        },
+        {
+          "q": "Mon chat peut-il ronger un os de côtelette ?",
+          "a": "Non. Les os cuits deviennent cassants et peuvent se briser en éclats qui blessent la bouche, l'œsophage ou l'intestin. Retire la viande et jette l'os hors de sa portée."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cooked, lean, boneless and unseasoned lamb is a good treat for your cat in small amounts.",
+      "why": "Lamb provides quality protein, iron and zinc, and many cats love it. It's fattier than poultry, though, so trim the visible fat, which can cause vomiting and diarrhea. Like any raw meat, raw lamb can carry bacteria and parasites, Toxoplasma in particular.",
+      "amount": "A few small pieces of lean meat now and then, cooked through, with no fat, bones or salt. Roast lamb is often rubbed with garlic, so only share meat that hasn't touched garlic or a marinade.",
+      "risks": [
+        "Fat: vomiting or diarrhea",
+        "Garlic rubs and marinades, toxic to cats",
+        "Cooked chop bones that splinter",
+        "Raw meat: Toxoplasma and bacteria",
+        "Salty gravies and pan juices"
+      ],
+      "ifEaten": "A bit of plain cooked lamb is no problem. If your cat ate fat, garlicky meat or a bone, watch them for a few days and call your vet for vomiting, diarrhea, lethargy, pale gums or belly pain. Don't try to make your cat vomit if a bone was swallowed.",
+      "alternatives": "Lean beef, chicken or turkey, cooked plain, make equally good treats and are often leaner.",
+      "faq": [
+        {
+          "q": "Can cats eat lamb bones?",
+          "a": "No. Cooked bones turn brittle and can break into shards that injure the mouth, esophagus or intestines. Strip the meat off and throw the bone away somewhere your cat can't reach."
+        },
+        {
+          "q": "Is lamb good for cats with food allergies?",
+          "a": "Lamb was once a go-to for sensitive cats, but it's now in many cat foods, so it isn't always a new protein for them. If you suspect an allergy, your vet can set up a proper elimination diet."
+        }
+      ]
+    }
+  },
+  {
+    "id": "canard",
+    "verdict": "oui",
+    "related": [
+      "poulet",
+      "dinde",
+      "foie",
+      "lapin"
+    ],
+    "fr": {
+      "short": "Oui. Cuit, sans peau, sans os et sans assaisonnement, le canard est une friandise que ton chat peut apprécier en petite quantité.",
+      "why": "Le canard est une viande riche en protéines et en fer, qu'on retrouve d'ailleurs dans certains aliments pour chat. Sa peau et sa couche de gras sont en revanche très grasses : elles peuvent provoquer vomissements et diarrhée, voire favoriser une pancréatite chez certains chats. Les préparations comme le confit, les rillettes ou le foie gras sont trop grasses et trop salées pour lui.",
+      "amount": "Quelques petits morceaux de chair maigre de temps en temps, bien cuits, sans peau, sans gras, sans os et sans sel. Pour un magret, retire toute la couche de gras et prends une partie bien cuite. Pas de sauce à l'orange, au miel ou au poivre.",
+      "risks": [
+        "Peau et gras : vomissements, diarrhée, risque de pancréatite",
+        "Os cuits qui éclatent en esquilles",
+        "Confit, rillettes et foie gras trop gras et salés",
+        "Sauces sucrées ou à l'échalote",
+        "Viande crue ou rosée : salmonelle"
+      ],
+      "ifEaten": "Un peu de canard cuit nature ne pose pas de problème. S'il a mangé de la peau, du gras, une préparation salée ou un os, surveille-le pendant 24 à 48 heures et appelle le vétérinaire en cas de vomissements, de diarrhée, de refus de manger ou d'abattement.",
+      "alternatives": "Le poulet, la dinde et le lapin cuits nature sont plus maigres et tout aussi appréciés.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du foie gras ?",
+          "a": "Mieux vaut éviter. Le foie gras est extrêmement gras, souvent salé et parfois assaisonné, de quoi déclencher vomissements et diarrhée. Une miette léchée n'est pas grave, mais ce n'est pas une friandise de fête pour lui."
+        },
+        {
+          "q": "Et le magret de canard ?",
+          "a": "La partie maigre, bien cuite et nature, oui, en petits morceaux. Retire la peau et toute la couche de gras, et évite les morceaux rosés, moins cuits."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cooked duck with no skin, bones or seasoning is a treat your cat can enjoy in small amounts.",
+      "why": "Duck is rich in protein and iron, and it's even used in some cat foods. Its skin and fat layer are very fatty, though, and can cause vomiting and diarrhea, or may contribute to pancreatitis in some cats. Rich preparations like confit, duck fat or foie gras are too fatty and salty for a cat.",
+      "amount": "A few small pieces of lean meat now and then, cooked through, with no skin, fat, bones or salt. Skip anything with orange glaze, hoisin or other sauces.",
+      "risks": [
+        "Skin and fat: vomiting, diarrhea, risk of pancreatitis",
+        "Cooked bones that splinter",
+        "Confit and foie gras, too fatty and salty",
+        "Sweet or salty sauces like hoisin or orange glaze",
+        "Raw or rare meat: Salmonella"
+      ],
+      "ifEaten": "A little plain cooked duck is no problem. If your cat ate skin, fat, a salty preparation or a bone, watch for 24 to 48 hours and call your vet for vomiting, diarrhea, refusing food or lethargy.",
+      "alternatives": "Plain cooked chicken, turkey and rabbit are leaner and just as popular.",
+      "faq": [
+        {
+          "q": "Can cats eat duck skin?",
+          "a": "It's best not to. Duck skin is mostly fat, which can upset a cat's stomach, and it often carries salt and seasoning."
+        },
+        {
+          "q": "Is duck good for cats with allergies?",
+          "a": "Duck is sometimes used as a less common protein in diets for sensitive cats. If you suspect a food allergy, talk to your vet before switching, since a proper elimination trial needs a strict plan."
+        }
+      ]
+    }
+  },
+  {
+    "id": "lapin",
+    "verdict": "oui",
+    "related": [
+      "poulet",
+      "dinde",
+      "os",
+      "canard"
+    ],
+    "fr": {
+      "short": "Oui. Cuit, nature et sans os, le lapin est une viande maigre, très proche de ce que ton chat mangerait dans la nature.",
+      "why": "Le lapin fait partie des proies naturelles des chats : c'est une viande maigre, riche en protéines, que la plupart digèrent très bien. On le trouve aussi dans certains aliments pour chat. Ses os sont fins et, une fois cuits, ils se brisent facilement en éclats pointus. Cru, surtout s'il s'agit de lapin de chasse, il peut transmettre des bactéries et des parasites.",
+      "amount": "Quelques petits morceaux de temps en temps, cuits à cœur, sans os et sans assaisonnement. Pas de lapin à la moutarde, en civet ou aux pruneaux : sauce, vin, oignons et échalotes ne sont pas pour lui.",
+      "risks": [
+        "Petits os cuits qui éclatent en esquilles",
+        "Sauces à la moutarde, au vin ou à l'échalote",
+        "Viande crue : bactéries et parasites",
+        "Gibier : plombs de chasse et tularémie"
+      ],
+      "ifEaten": "Un peu de lapin cuit nature ne pose aucun souci. S'il a mangé du lapin en sauce ou avalé un os, surveille-le pendant 24 à 48 heures : vomissements, diarrhée, efforts pour faire ses besoins, abattement ou douleur au ventre doivent te faire appeler le vétérinaire. Ne le fais pas vomir toi-même.",
+      "alternatives": "Le poulet et la dinde cuits nature sont faciles à trouver et tout aussi adaptés. Pour ses repas, garde une nourriture complète pour chat.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du lapin cru ?",
+          "a": "Ce n'est pas recommandé. Le lapin cru peut porter des bactéries et des parasites, et le lapin de chasse peut contenir des plombs ou transmettre la tularémie. Cuis-le toujours à cœur."
+        },
+        {
+          "q": "Mon chat chasse des lapins, est-ce dangereux ?",
+          "a": "C'est naturel, mais une proie sauvage peut lui transmettre des vers et d'autres parasites, et parfois la tularémie. Demande à ton vétérinaire un rythme de vermifuge adapté à un chat chasseur, et consulte s'il semble fiévreux ou abattu après une chasse."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cooked, plain and boneless, rabbit is a lean meat that's close to what your cat would eat in the wild.",
+      "why": "Rabbit is a natural prey for cats: lean, rich in protein, and easy for most cats to digest. It's also used in some cat foods. Its bones are thin and, once cooked, break easily into sharp shards. Raw rabbit, especially wild game, can carry bacteria and parasites.",
+      "amount": "A few small pieces now and then, cooked through, boneless and unseasoned. No rabbit stew or rabbit in mustard or wine sauce: the onions, shallots and wine aren't for cats.",
+      "risks": [
+        "Small cooked bones that splinter",
+        "Sauces with mustard, wine, onion or shallots",
+        "Raw meat: bacteria and parasites",
+        "Wild game: lead shot and tularemia"
+      ],
+      "ifEaten": "A bit of plain cooked rabbit is no problem. If your cat ate rabbit in sauce or swallowed a bone, watch for 24 to 48 hours and call your vet for vomiting, diarrhea, straining, lethargy or belly pain. Don't try to make your cat vomit.",
+      "alternatives": "Plain cooked chicken and turkey are easy to find and just as suitable. For meals, stick with complete cat food.",
+      "faq": [
+        {
+          "q": "Can cats eat raw rabbit?",
+          "a": "It's not recommended. Raw rabbit can carry bacteria and parasites, and wild rabbit may contain lead shot or transmit tularemia. Always cook it through."
+        },
+        {
+          "q": "My cat hunts rabbits. Is that dangerous?",
+          "a": "It's natural, but wild prey can pass on worms and other parasites, and occasionally tularemia. Ask your vet about a deworming schedule for a hunting cat, and see them if your cat seems feverish or lethargic after a hunt."
+        }
+      ]
+    }
+  },
+  {
+    "id": "foie",
+    "verdict": "peu",
+    "related": [
+      "poulet",
+      "boeuf",
+      "canard",
+      "oeuf"
+    ],
+    "fr": {
+      "short": "Un peu. Le foie est très nourrissant, mais trop riche en vitamine A pour en donner souvent : une petite bouchée de temps en temps.",
+      "why": "Le foie est un concentré de nutriments : protéines, fer, vitamines du groupe B et surtout vitamine A. C'est justement le problème : le chat stocke l'excès de vitamine A, et du foie donné trop souvent pendant des mois peut provoquer une hypervitaminose A. Elle se manifeste par des excroissances osseuses autour des vertèbres du cou et des articulations, avec raideur, douleur et boiterie. Les aliments complets pour chat en contiennent déjà la bonne dose.",
+      "amount": "Une petite bouchée de foie cuit, une fois par semaine environ, suffit largement. Cuis-le nature, sans beurre, sans sel, sans échalote ni oignon. Évite d'en ajouter si ton chat reçoit déjà un complément vitaminé, sauf avis de ton vétérinaire.",
+      "risks": [
+        "Hypervitaminose A si donné souvent",
+        "Raideur du cou, douleurs, boiterie à long terme",
+        "Diarrhée si la portion est trop grosse",
+        "Foie cru : bactéries et parasites",
+        "Préparations au beurre, à l'échalote ou à l'oignon"
+      ],
+      "ifEaten": "Une portion de foie, même un peu grosse, ne provoque généralement pas d'hypervitaminose : elle s'installe plutôt avec des repas répétés pendant des semaines ou des mois. Au pire, attends-toi à des selles molles : surveille-le 24 à 48 heures et appelle le vétérinaire s'il vomit, a une diarrhée qui dure ou semble abattu. S'il a mangé beaucoup de foie cuisiné à l'oignon ou à l'échalote, appelle-le sans attendre.",
+      "alternatives": "Pour une friandise de tous les jours, préfère un petit morceau de poulet, de dinde ou de bœuf cuit nature.",
+      "faq": [
+        {
+          "q": "Le foie de volaille, c'est mieux que le foie de bœuf ?",
+          "a": "Les deux sont très riches en vitamine A et se donnent avec la même modération. Le foie de volaille a l'avantage d'être tendre et facile à couper en petits morceaux."
+        },
+        {
+          "q": "Mon chat peut-il manger du foie cru ?",
+          "a": "Mieux vaut le cuire : le foie cru peut porter des bactéries comme les salmonelles, et la cuisson ne fait pas disparaître la vitamine A. Cru ou cuit, la règle reste la même : rarement et en petite quantité."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Liver is very nutritious but packed with vitamin A, so give only a small bite once in a while.",
+      "why": "Liver is loaded with nutrients: protein, iron, B vitamins and, above all, vitamin A. That's the catch: cats store extra vitamin A, and liver fed too often over months can cause hypervitaminosis A. It shows up as bony growths around the neck vertebrae and joints, with stiffness, pain and limping. Complete cat foods already contain the right amount.",
+      "amount": "A small bite of cooked liver about once a week is plenty. Cook it plain, with no butter, salt, onion or garlic. Don't add it if your cat already gets a vitamin supplement, unless your vet says it's fine.",
+      "risks": [
+        "Vitamin A toxicity when fed often",
+        "Long-term neck stiffness, joint pain, limping",
+        "Diarrhea if the portion is too big",
+        "Raw liver: bacteria and parasites",
+        "Recipes with butter, onion or garlic"
+      ],
+      "ifEaten": "One serving of liver, even a big one, generally won't cause vitamin A toxicity, which builds up over weeks or months of regular feeding. At worst, expect soft stools: watch for 24 to 48 hours and call your vet for vomiting, lasting diarrhea or lethargy. If your cat ate a lot of liver cooked with onion or garlic, call right away.",
+      "alternatives": "For an everyday treat, go for a small piece of plain cooked chicken, turkey or beef.",
+      "faq": [
+        {
+          "q": "Can cats eat chicken liver?",
+          "a": "Yes, cooked and in small amounts, about a bite once a week. Like all liver, it's very high in vitamin A, so more isn't better."
+        },
+        {
+          "q": "How much liver is too much for a cat?",
+          "a": "There's no single number, since it depends on the cat and the rest of the diet. The safe approach is to keep liver an occasional small bite, not a daily topping, and to ask your vet before making it a regular part of homemade meals."
+        }
+      ]
+    }
+  },
+  {
+    "id": "os",
+    "verdict": "non",
+    "related": [
+      "poulet",
+      "lapin",
+      "agneau",
+      "croquettes-chien"
+    ],
+    "fr": {
+      "short": "Non. Les os cuits éclatent en esquilles qui peuvent blesser la bouche, l'œsophage ou l'intestin de ton chat : ne lui en donne pas.",
+      "why": "La cuisson rend les os secs et cassants : en les croquant, ton chat peut les briser en éclats pointus qui se plantent dans les gencives, la gorge ou la paroi de l'intestin. Les petits os de volaille, de lapin ou de côtelette sont les plus traîtres, et les arêtes de poisson peuvent aussi se coincer. Un morceau avalé peut boucher l'intestin ou provoquer une constipation douloureuse. Les os crus sont moins cassants, mais restent un risque : dents cassées, blocage et bactéries.",
+      "amount": "Aucun os cuit, jamais, et pas de carcasse à ronger. Jette les restes dans une poubelle fermée : les carcasses de poulet sont une tentation classique. Les os crus ne se donnent que sur avis d'un vétérinaire, et toujours sous surveillance.",
+      "risks": [
+        "Éclats qui blessent la bouche, la gorge ou l'œsophage",
+        "Perforation de l'estomac ou de l'intestin",
+        "Occlusion intestinale ou constipation sévère",
+        "Dents cassées",
+        "Étouffement, surtout avec les petits os"
+      ],
+      "ifEaten": "Ne cherche pas à le faire vomir : les éclats pourraient le blesser en remontant. Appelle ton vétérinaire pour lui demander conseil, et surveille de près pendant plusieurs jours vomissements, bave, efforts pour faire ses besoins, sang dans les selles, refus de manger ou abattement. S'il s'étouffe ou si un os semble coincé dans sa bouche, c'est une urgence : va directement chez le vétérinaire.",
+      "alternatives": "Donne-lui plutôt la viande retirée de l'os, ou des friandises et jouets à mâcher conçus pour chat s'il aime mâchouiller.",
+      "faq": [
+        {
+          "q": "Et les os crus ?",
+          "a": "Ils sont moins cassants que les os cuits, et certains propriétaires qui nourrissent leur chat au cru en donnent. Mais ils peuvent quand même casser des dents, bloquer l'intestin et transmettre des bactéries : n'en donne qu'avec l'accord de ton vétérinaire."
+        },
+        {
+          "q": "Mon chat a avalé une arête de poisson, c'est grave ?",
+          "a": "Souvent, une petite arête passe sans problème. Mais s'il bave, se frotte la bouche avec la patte, a des haut-le-cœur ou refuse de manger, elle est peut-être coincée : appelle ton vétérinaire et n'essaie pas de la retirer toi-même au fond de la gorge."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Cooked bones splinter into sharp shards that can injure your cat's mouth, esophagus or intestines, so don't give them any.",
+      "why": "Cooking makes bones dry and brittle: when your cat crunches one, it can break into sharp pieces that lodge in the gums, throat or intestinal wall. Small bones from poultry, rabbit or chops are the worst, and fish bones can get stuck too. A swallowed chunk can block the intestines or cause painful constipation. Raw bones are less brittle but still risky: broken teeth, blockages and bacteria.",
+      "amount": "No cooked bones, ever, and no carcasses to gnaw on. Throw leftovers in a closed trash can, since a chicken carcass is a classic temptation. Raw bones should only be given on a vet's advice, and always under supervision.",
+      "risks": [
+        "Shards that cut the mouth, throat or esophagus",
+        "Perforation of the stomach or intestines",
+        "Intestinal blockage or severe constipation",
+        "Broken teeth",
+        "Choking, especially on small bones"
+      ],
+      "ifEaten": "Don't try to make your cat vomit: sharp pieces can do more damage coming back up. Call your vet for advice, and watch closely for several days for vomiting, drooling, straining, blood in the stool, refusing food or lethargy. If your cat is choking or a bone seems stuck in the mouth, it's an emergency: go straight to the vet.",
+      "alternatives": "Give the meat stripped off the bone instead, or chews and toys made for cats if your cat likes to gnaw.",
+      "faq": [
+        {
+          "q": "Can cats eat raw chicken bones?",
+          "a": "Raw bones are less brittle than cooked ones, and some raw-feeding owners use them. They can still crack teeth, cause blockages and carry Salmonella, so only offer them with your vet's go-ahead."
+        },
+        {
+          "q": "My cat ate a chicken bone. What should I do?",
+          "a": "Don't induce vomiting. Call your vet for advice and watch for vomiting, drooling, straining, blood in the stool, lethargy or loss of appetite over the next few days."
+        }
+      ]
+    }
+  },
+  {
+    "id": "saumon",
+    "verdict": "oui",
+    "related": [
+      "saumon-fume",
+      "thon",
+      "sardines",
+      "poisson-cru"
+    ],
+    "fr": {
+      "short": "Oui. Cuit, sans arêtes et sans assaisonnement, le saumon est une bonne source de protéines et d'oméga-3 pour ton chat.",
+      "why": "Le saumon apporte des protéines de qualité et des acides gras oméga-3, intéressants pour la peau et le pelage. C'est aussi un poisson gras : en trop grande quantité, il peut donner la diarrhée, et il ne remplace pas un repas complet. Cru, il peut transmettre des parasites et des bactéries. Le saumon fumé, lui, est beaucoup trop salé.",
+      "amount": "Une à deux petites bouchées, une ou deux fois par semaine au plus. Cuis-le à la vapeur, au four ou à l'eau, sans sel, sans beurre, sans citron ni sauce, et retire soigneusement les arêtes.",
+      "risks": [
+        "Arêtes qui peuvent se coincer dans la gorge",
+        "Diarrhée si la portion est trop grosse",
+        "Saumon cru : parasites et bactéries",
+        "Saumon fumé ou mariné, beaucoup trop salé",
+        "Sauces au beurre, à la crème ou à l'échalote"
+      ],
+      "ifEaten": "Un peu de saumon cuit nature ne pose pas de problème. S'il a mangé une grosse part, du saumon en sauce ou avec des arêtes, surveille-le pendant 24 à 48 heures et appelle le vétérinaire en cas de vomissements répétés, de diarrhée, de bave ou de refus de manger.",
+      "alternatives": "Pour varier, une demi-sardine à l'eau sans sel ajouté ou un peu de poulet cuit nature lui feront aussi très plaisir.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du saumon cru ?",
+          "a": "Mieux vaut éviter. Le saumon cru peut porter des parasites et des bactéries, et la congélation ne règle pas tout. Cuit, il est bien plus sûr."
+        },
+        {
+          "q": "Et la peau du saumon ?",
+          "a": "Un petit bout de peau cuite, nature et sans écailles, n'est pas dangereux, mais elle est grasse. Évite la peau grillée et salée, et n'en fais pas une habitude."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cooked, boneless, unseasoned salmon is a good source of protein and omega-3s for your cat.",
+      "why": "Salmon provides quality protein and omega-3 fatty acids, which are good for skin and coat. It's also an oily fish: too much can cause diarrhea, and it doesn't replace a complete meal. Raw salmon can carry parasites and bacteria, and smoked salmon is far too salty.",
+      "amount": "A bite or two, once or twice a week at most. Steam, bake or poach it with no salt, butter, lemon or sauce, and carefully remove every bone.",
+      "risks": [
+        "Bones that can get stuck in the throat",
+        "Diarrhea if the portion is too big",
+        "Raw salmon: parasites and bacteria",
+        "Smoked or cured salmon, far too salty",
+        "Butter, cream or garlic sauces"
+      ],
+      "ifEaten": "A little plain cooked salmon is no problem. If your cat ate a large portion, salmon in sauce or pieces with bones, watch for 24 to 48 hours and call your vet for repeated vomiting, diarrhea, drooling or refusing food.",
+      "alternatives": "For variety, half a sardine packed in water with no added salt or a bit of plain cooked chicken goes over just as well.",
+      "faq": [
+        {
+          "q": "Can cats eat raw salmon?",
+          "a": "It's best not to. Raw salmon can carry parasites and bacteria, and freezing doesn't solve everything. Cooked is much safer."
+        },
+        {
+          "q": "Can cats eat canned salmon?",
+          "a": "Yes, in small amounts, if it's packed in water with no added salt. Drain it, mash any soft canned bones, and skip seasoned versions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "saumon-fume",
+    "verdict": "non",
+    "related": [
+      "saumon",
+      "poisson-cru",
+      "sel",
+      "sushi"
+    ],
+    "fr": {
+      "short": "Non. Le saumon fumé est beaucoup trop salé pour ton chat, et il n'est pas cuit : propose-lui plutôt du saumon cuit nature.",
+      "why": "Le saumon fumé est salé pour se conserver, et il contient bien plus de sel qu'un chat ne devrait en avaler. Fumé à froid, il n'est pas cuit : il peut abriter des bactéries comme la listeria. L'excès de sel donne soif, peut provoquer vomissements et diarrhée, et il est à proscrire chez les chats qui ont des problèmes rénaux ou cardiaques. Le gravlax et les poissons marinés posent le même problème.",
+      "amount": "À éviter, même pour les fêtes. Garde les tranches et les emballages hors de sa portée : l'odeur est très tentante.",
+      "risks": [
+        "Sel en excès : soif intense, vomissements, diarrhée",
+        "Listeria et autres bactéries, car il n'est pas cuit",
+        "Dangereux pour les chats aux reins ou au cœur fragiles",
+        "Garnitures : oignon, crème, câpres, citron"
+      ],
+      "ifEaten": "Une tranche volée n'est généralement pas grave : laisse-lui de l'eau fraîche en quantité et surveille-le pendant 24 à 48 heures. Appelle le vétérinaire s'il vomit à répétition, a la diarrhée, boit énormément, titube, tremble ou semble très abattu, ou s'il a mangé plusieurs tranches.",
+      "alternatives": "Mets de côté un petit morceau de saumon cuit à la vapeur ou au four, sans sel ni sauce : il l'adorera tout autant.",
+      "faq": [
+        {
+          "q": "Juste une petite tranche à Noël, ça ne peut pas faire de mal ?",
+          "a": "Une bouchée ne va pas l'empoisonner, mais c'est une dose de sel inutile, et ça lui donne de mauvaises habitudes. Prépare-lui plutôt une petite portion de saumon cuit nature, il ne verra pas la différence."
+        },
+        {
+          "q": "Mon chat peut-il manger de la truite fumée ?",
+          "a": "Non, même problème : les poissons fumés sont très salés. Une truite ou un saumon cuits nature sont de bien meilleures options."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Smoked salmon is far too salty for your cat and isn't cooked, so offer plain cooked salmon instead.",
+      "why": "Smoked salmon is cured with salt and contains far more sodium than a cat should eat. Cold-smoked salmon isn't cooked, so it can harbor bacteria like Listeria. Excess salt makes cats very thirsty and can cause vomiting and diarrhea, and it's a real problem for cats with kidney or heart disease. Lox and gravlax have the same issues.",
+      "amount": "Avoid it, even as a holiday treat. Keep slices and packaging out of reach, since the smell is very tempting.",
+      "risks": [
+        "Excess salt: intense thirst, vomiting, diarrhea",
+        "Listeria and other bacteria, since it isn't cooked",
+        "Dangerous for cats with kidney or heart disease",
+        "Toppings like cream cheese, onion, capers or lemon"
+      ],
+      "ifEaten": "A stolen slice usually isn't serious: give plenty of fresh water and watch your cat for 24 to 48 hours. Call your vet for repeated vomiting, diarrhea, extreme thirst, wobbliness, tremors or marked lethargy, or if they ate several slices.",
+      "alternatives": "Set aside a small piece of steamed or baked salmon with no salt or sauce: your cat will love it just as much.",
+      "faq": [
+        {
+          "q": "Can cats eat lox?",
+          "a": "No. Lox is salt-cured and very salty, like smoked salmon. A bite won't usually cause harm, but plain cooked salmon is the way to share."
+        },
+        {
+          "q": "Is a small piece of smoked salmon dangerous?",
+          "a": "One small piece isn't an emergency for a healthy cat, but it's a pointless dose of salt. Keep it off the menu, especially for cats with kidney or heart issues."
+        }
+      ]
+    }
+  },
+  {
+    "id": "thon",
+    "verdict": "peu",
+    "related": [
+      "sardines",
+      "saumon",
+      "maquereau",
+      "croquettes-chien"
+    ],
+    "fr": {
+      "short": "Un peu. Un peu de thon au naturel de temps en temps, ça va, mais pas tous les jours : trop de mercure et un vrai risque de dépendance.",
+      "why": "Le thon est un grand poisson prédateur qui accumule du mercure au fil de sa vie, et un chat qui en mange beaucoup y est plus exposé. Une alimentation trop riche en thon peut aussi entraîner une carence en vitamine E, car ses graisses insaturées en augmentent les besoins. Son goût puissant pose un autre souci : certains chats deviennent accros et boudent ensuite leur nourriture. Le thon pour humains n'est pas un aliment complet, contrairement aux pâtées pour chat au thon, formulées pour être équilibrées.",
+      "amount": "Une cuillère à café de thon au naturel, idéalement sans sel ajouté, une fois par semaine au plus. Égoutte-le bien et évite le thon à l'huile, à la tomate ou en saumure. Le thon frais doit être cuit.",
+      "risks": [
+        "Accumulation de mercure si donné souvent",
+        "Carence en vitamine E avec un régime riche en thon",
+        "Dépendance : il peut bouder sa nourriture habituelle",
+        "Thon à l'huile ou salé : diarrhée, excès de sel",
+        "Thon cru : parasites et bactéries"
+      ],
+      "ifEaten": "Une boîte de thon chipée sur le plan de travail n'est pas une urgence : le mercure pose problème quand le thon est donné souvent, pas en une fois. Surveille-le pendant 24 à 48 heures et appelle le vétérinaire s'il vomit à répétition ou a une diarrhée importante. Si c'était du thon à l'huile, attends-toi à des selles molles.",
+      "alternatives": "Pour varier, alterne avec une petite bouchée de poulet ou de saumon cuit nature, ou une demi-sardine à l'eau sans sel ajouté.",
+      "faq": [
+        {
+          "q": "Un chaton peut-il manger du thon ?",
+          "a": "Mieux vaut rester prudent. Un chaton a besoin d'une alimentation spéciale croissance, et prendre l'habitude du thon tôt peut en faire un chat difficile. Une miette de temps en temps ne lui fera pas de mal, mais rien de plus."
+        },
+        {
+          "q": "Je peux lui donner le jus du thon ?",
+          "a": "Le jus d'une boîte de thon au naturel, sans sel ajouté, peut se donner en petite quantité pour l'inciter à boire. Évite l'huile et la saumure, trop grasses ou trop salées."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A bit of tuna packed in water is fine now and then, but not every day: too much mercury and a real risk of addiction.",
+      "why": "Tuna is a large predatory fish that builds up mercury over its life, so cats that eat a lot of it are more exposed. A tuna-heavy diet can also lead to vitamin E deficiency, because its unsaturated fats raise the need for that vitamin. Its strong taste is another issue: some cats get hooked and start snubbing their regular food. Tuna for people isn't a complete food, unlike tuna cat foods formulated to be balanced.",
+      "amount": "About a teaspoon of tuna packed in water, ideally with no added salt, once a week at most. Drain it well and skip tuna in oil or brine. Fresh tuna should be cooked.",
+      "risks": [
+        "Mercury buildup if fed often",
+        "Vitamin E deficiency on a tuna-heavy diet",
+        "Addiction: your cat may refuse regular food",
+        "Tuna in oil or brine: diarrhea, excess salt",
+        "Raw tuna: parasites and bacteria"
+      ],
+      "ifEaten": "A can of tuna swiped from the counter isn't an emergency: mercury is a problem with frequent feeding, not a single meal. Watch for 24 to 48 hours and call your vet for repeated vomiting or heavy diarrhea. If it was tuna in oil, expect soft stools.",
+      "alternatives": "Mix it up with a bite of plain cooked chicken or salmon, or half a sardine packed in water with no added salt.",
+      "faq": [
+        {
+          "q": "Can kittens eat tuna?",
+          "a": "It's best to be cautious. Kittens need food made for growth, and getting hooked on tuna early can turn them into picky eaters. A tiny taste now and then won't hurt, but nothing more."
+        },
+        {
+          "q": "Can cats drink tuna water?",
+          "a": "The water from tuna packed in water with no added salt is fine in small amounts and can encourage drinking. Skip the oil and brine, which are too fatty or salty."
+        }
+      ]
+    }
+  },
+  {
+    "id": "sardines",
+    "verdict": "peu",
+    "related": [
+      "maquereau",
+      "thon",
+      "saumon",
+      "huile-olive"
+    ],
+    "fr": {
+      "short": "Un peu. Une sardine à l'eau sans sel ajouté est une bonne friandise de temps en temps, mais évite l'huile, la tomate et le sel.",
+      "why": "La sardine est riche en protéines et en oméga-3, et ses arêtes, ramollies par la mise en conserve, apportent du calcium. Mais c'est un poisson gras et calorique : en trop grande quantité, il fait grossir et donne la diarrhée. Les sardines à l'huile sont encore plus grasses, et celles à la tomate ou aux épices contiennent du sel et parfois de l'ail ou de l'oignon. Fraîches, elles doivent être cuites.",
+      "amount": "Une demi-sardine en conserve, à l'eau et sans sel ajouté, une fois par semaine environ. Égoutte-la et écrase-la dans sa gamelle. Fraîche, cuis-la à la vapeur ou à l'eau, sans sel, et retire l'arête centrale.",
+      "risks": [
+        "Diarrhée et prise de poids si trop fréquent",
+        "Sardines à l'huile : trop grasses",
+        "Sauce tomate ou épicée : sel, ail, oignon",
+        "Sardines salées : excès de sel",
+        "Sardine fraîche crue : parasites et bactéries"
+      ],
+      "ifEaten": "S'il a mangé une sardine entière, même à l'huile, attends-toi au pire à des selles molles : surveille-le pendant 24 à 48 heures. Appelle le vétérinaire s'il vomit à répétition, a une diarrhée importante ou semble abattu, ou s'il a avalé une boîte entière de sardines en sauce.",
+      "alternatives": "Un peu de saumon ou de poulet cuit nature, ou une friandise pour chat au poisson, sont aussi de bonnes options.",
+      "faq": [
+        {
+          "q": "Et les sardines à l'huile ?",
+          "a": "Bien égouttées, une petite bouchée ne pose pas de souci, mais l'huile ajoute beaucoup de gras et de calories. Si tu as le choix, prends les sardines à l'eau, sans sel ajouté."
+        },
+        {
+          "q": "Mon chat peut-il manger des sardines tous les jours ?",
+          "a": "Non. Même à l'eau, c'est un poisson gras et calorique qui ne couvre pas ses besoins. Une fois par semaine, en friandise, c'est bien suffisant."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A sardine packed in water with no added salt is a good occasional treat, but skip oil, tomato sauce and salt.",
+      "why": "Sardines are rich in protein and omega-3s, and their bones, softened by canning, add calcium. But they're oily and high in calories: too many can cause weight gain and diarrhea. Sardines in oil are even fattier, and those in tomato or spicy sauce contain salt and sometimes garlic or onion. Fresh sardines must be cooked.",
+      "amount": "Half a canned sardine, packed in water with no added salt, about once a week. Drain it and mash it into the food. If it's fresh, steam or poach it with no salt and remove the backbone.",
+      "risks": [
+        "Diarrhea and weight gain if fed often",
+        "Sardines in oil: too fatty",
+        "Tomato or spicy sauces: salt, garlic, onion",
+        "Salted sardines: too much sodium",
+        "Raw fresh sardines: parasites and bacteria"
+      ],
+      "ifEaten": "If your cat ate a whole sardine, even in oil, the worst is usually soft stools: watch for 24 to 48 hours. Call your vet for repeated vomiting, heavy diarrhea or lethargy, or if they ate a whole can of sardines in sauce.",
+      "alternatives": "A bit of plain cooked salmon or chicken, or a fish-flavored cat treat, works well too.",
+      "faq": [
+        {
+          "q": "Can cats eat sardines in olive oil?",
+          "a": "Drained, a small bite is fine, but the oil adds a lot of fat and calories. If you have the choice, pick sardines packed in water with no added salt."
+        },
+        {
+          "q": "Can cats eat sardines every day?",
+          "a": "No. Even in water, they're oily, high in calories and don't cover a cat's needs. Once a week as a treat is plenty."
+        }
+      ]
+    }
+  },
+  {
+    "id": "maquereau",
+    "verdict": "peu",
+    "related": [
+      "sardines",
+      "thon",
+      "saumon"
+    ],
+    "fr": {
+      "short": "Un peu. Cuit nature ou en conserve au naturel, le maquereau peut faire une friandise occasionnelle, mais pas au vin blanc ni fumé.",
+      "why": "Le maquereau est un poisson gras, riche en protéines et en oméga-3, mais aussi très calorique : trop souvent, il fait grossir et peut donner la diarrhée. On le trouve surtout en conserve au vin blanc, à la moutarde ou à la tomate, ou fumé, des préparations trop salées ou assaisonnées pour un chat. Le maquereau cru peut contenir des parasites comme l'anisakis.",
+      "amount": "Une petite bouchée de maquereau cuit à la vapeur ou au four, sans sel et sans arêtes, une fois par semaine environ. En conserve, ne prends que du maquereau au naturel, sans sel ajouté, bien égoutté.",
+      "risks": [
+        "Maquereau au vin blanc ou à la moutarde : sel, vin, épices",
+        "Maquereau fumé, très salé",
+        "Diarrhée et prise de poids si trop fréquent",
+        "Arêtes du poisson frais",
+        "Maquereau cru : parasites comme l'anisakis"
+      ],
+      "ifEaten": "Une petite quantité, même en sauce, n'est en général pas grave : surveille-le pendant 24 à 48 heures. Appelle le vétérinaire s'il vomit à répétition, a une diarrhée importante, boit énormément ou semble abattu, ou s'il a mangé une boîte entière.",
+      "alternatives": "Une demi-sardine à l'eau sans sel ajouté ou un peu de saumon cuit nature sont plus faciles à trouver sous une forme adaptée.",
+      "faq": [
+        {
+          "q": "Et les maquereaux au vin blanc ?",
+          "a": "Mieux vaut éviter : la marinade contient du vin, du sel, des épices et parfois des oignons. Une miette n'est pas grave, mais ne lui en donne pas volontairement."
+        },
+        {
+          "q": "Le maquereau fumé, c'est possible ?",
+          "a": "Non, il est beaucoup trop salé. Garde-lui plutôt un petit morceau de maquereau frais cuit nature."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Plain cooked mackerel, or mackerel canned in water, can be an occasional treat, but not smoked or in sauce.",
+      "why": "Mackerel is an oily fish, rich in protein and omega-3s, but also high in calories: too often, it can cause weight gain and diarrhea. It's mostly sold smoked, salted or canned in tomato, mustard or wine sauces, which are too salty or seasoned for a cat. Raw mackerel can carry parasites such as Anisakis. Atlantic mackerel is low in mercury, but king mackerel is high, so skip that one.",
+      "amount": "A small bite of mackerel, steamed or baked with no salt and no bones, about once a week. If canned, choose mackerel packed in water with no added salt, and drain it.",
+      "risks": [
+        "Mackerel in sauce: salt, wine, spices, sometimes onion",
+        "Smoked mackerel, very salty",
+        "Diarrhea and weight gain if fed often",
+        "Bones in fresh fish",
+        "Raw mackerel: parasites like Anisakis"
+      ],
+      "ifEaten": "A small amount, even in sauce, usually isn't serious: watch for 24 to 48 hours. Call your vet for repeated vomiting, heavy diarrhea, extreme thirst or lethargy, or if your cat ate a whole can.",
+      "alternatives": "Half a sardine packed in water with no added salt, or a bit of plain cooked salmon, is easier to find in a cat-friendly form.",
+      "faq": [
+        {
+          "q": "Can cats eat smoked mackerel?",
+          "a": "No, it's far too salty. Offer a small piece of plain cooked fresh mackerel instead."
+        },
+        {
+          "q": "Can cats eat canned mackerel?",
+          "a": "Yes, occasionally, if it's packed in water with no added salt, drained and given in a small amount. Skip mackerel in oil, tomato sauce or mustard."
+        }
+      ]
+    }
+  },
+  {
+    "id": "crevettes",
+    "verdict": "oui",
+    "related": [
+      "moules",
+      "surimi",
+      "saumon",
+      "sushi"
+    ],
+    "fr": {
+      "short": "Oui. Cuites, décortiquées et nature, les crevettes sont une friandise que ton chat peut apprécier de temps en temps.",
+      "why": "La crevette est riche en protéines et pauvre en gras, et la plupart des chats en raffolent. Il faut seulement retirer la carapace, la tête et la queue, dures et irritantes, qui peuvent faire s'étouffer. Les crevettes vendues déjà cuites sont souvent cuites dans de l'eau salée, et les crevettes crues peuvent porter des bactéries. Comme pour tous les fruits de mer, certains chats les tolèrent mal.",
+      "amount": "Une ou deux crevettes décortiquées, coupées en morceaux, de temps en temps. L'idéal est de les cuire toi-même à l'eau, sans sel. Pas de crevettes en sauce, à l'ail, en beignet ou avec de la mayonnaise.",
+      "risks": [
+        "Carapace, tête et queue : étouffement, irritation",
+        "Crevettes du commerce souvent salées",
+        "Crevettes crues : bactéries",
+        "Sauces à l'ail, beurre, mayonnaise",
+        "Intolérance possible : vomissements, démangeaisons"
+      ],
+      "ifEaten": "Quelques crevettes nature ne posent pas de problème. S'il en a mangé beaucoup, avec la carapace, ou des crevettes à l'ail, surveille-le pendant 24 à 48 heures et appelle le vétérinaire en cas de vomissements, de diarrhée, de toux, de bave ou d'abattement.",
+      "alternatives": "Un peu de poisson blanc ou de saumon cuit nature fait aussi une très bonne friandise de la mer.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger la carapace ou la tête des crevettes ?",
+          "a": "Mieux vaut pas. La carapace et la tête sont dures, peuvent irriter la gorge et l'intestin ou le faire s'étouffer. Décortique toujours les crevettes avant de lui en donner."
+        },
+        {
+          "q": "Et les crevettes grises ou roses déjà cuites ?",
+          "a": "Elles sont en général cuites dans une eau salée, parfois avec des conservateurs. Une ou deux décortiquées de temps en temps, ça passe, mais des crevettes cuites par toi sans sel restent le meilleur choix."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cooked, peeled and plain, shrimp is a treat your cat can enjoy once in a while.",
+      "why": "Shrimp is high in protein and low in fat, and most cats love it. Just remove the shell, head and tail, which are hard, can irritate the gut and are a choking hazard. Store-bought cooked shrimp is often boiled in salted water, and raw shrimp can carry bacteria. As with all seafood, some cats don't tolerate it well.",
+      "amount": "One or two peeled shrimp, cut into pieces, now and then. Ideally cook them yourself in unsalted water. No shrimp in sauce, garlic butter, batter or cocktail sauce.",
+      "risks": [
+        "Shell, head and tail: choking and gut irritation",
+        "Store-bought cooked shrimp is often salted",
+        "Raw shrimp: bacteria",
+        "Garlic butter, cocktail sauce or batter",
+        "Possible intolerance: vomiting, itching"
+      ],
+      "ifEaten": "A few plain shrimp are no problem. If your cat ate a lot, shells included, or garlicky shrimp, watch for 24 to 48 hours and call your vet for vomiting, diarrhea, coughing, drooling or lethargy.",
+      "alternatives": "A bit of plain cooked white fish or salmon makes another great seafood treat.",
+      "faq": [
+        {
+          "q": "Can cats eat shrimp shells or tails?",
+          "a": "It's best not to. Shells and tails are hard, can irritate the throat and gut, and are a choking hazard. Always peel shrimp before sharing."
+        },
+        {
+          "q": "Can cats eat raw shrimp?",
+          "a": "Not a good idea. Raw shrimp can carry bacteria like Vibrio and Salmonella. Cook it plain first."
+        }
+      ]
+    }
+  },
+  {
+    "id": "moules",
+    "verdict": "peu",
+    "related": [
+      "crevettes",
+      "echalote",
+      "ail",
+      "poisson-cru"
+    ],
+    "fr": {
+      "short": "Un peu. Une ou deux moules cuites nature, sorties de la coquille, ça passe, mais jamais crues ni en moules marinières.",
+      "why": "La chair de moule apporte des protéines et des minéraux, et elle n'est pas toxique pour le chat. Le problème, ce sont les préparations : les moules marinières cuisent avec de l'échalote, de l'ail, du vin et du beurre, et les moules à la crème ne valent pas mieux. Crues, les moules peuvent contenir des bactéries, des virus ou des toxines d'algues. Enfin, la coquille est coupante et peut le faire s'étouffer.",
+      "amount": "Une ou deux moules cuites à part dans de l'eau claire, sans sel ni aromates, sorties de leur coquille, de temps en temps. Ne lui donne pas le jus de cuisson des moules marinières.",
+      "risks": [
+        "Échalote, ail et vin des moules marinières",
+        "Moules crues : bactéries, virus, toxines d'algues",
+        "Coquille coupante : étouffement, blessures",
+        "Moules en sauce ou en conserve : sel et gras",
+        "Intolérance aux fruits de mer : vomissements"
+      ],
+      "ifEaten": "Une ou deux moules nature ne posent pas de problème. S'il a mangé des moules marinières ou leur jus, surveille-le de près pendant plusieurs jours, car les effets de l'échalote et de l'ail peuvent être retardés, et appelle le vétérinaire s'il vomit, a la diarrhée, semble faible, a les gencives pâles ou refuse de manger. S'il en a mangé une bonne quantité, appelle-le sans attendre.",
+      "alternatives": "Une ou deux crevettes cuites décortiquées ou un peu de poisson cuit nature sont plus simples à préparer pour lui.",
+      "faq": [
+        {
+          "q": "Et les moules marinières ?",
+          "a": "Non. Elles cuisent avec de l'échalote, de l'ail et du vin, et le jus en est chargé. Si tu veux partager, cuis à part une ou deux moules dans de l'eau claire, sans rien d'autre."
+        },
+        {
+          "q": "Mon chat peut-il manger des huîtres ?",
+          "a": "Pas crues : comme tous les coquillages crus, elles peuvent porter des bactéries et des virus. De manière générale, les coquillages ne sont pas des friandises idéales pour un chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. One or two plain cooked mussels, out of the shell, are fine, but never raw and never in a garlic or wine sauce.",
+      "why": "Mussel meat provides protein and minerals and isn't toxic to cats. The problem is how it's usually served: steamed in wine with garlic, shallots and butter, or in a creamy sauce. Raw mussels can carry bacteria, viruses or algae toxins. And the shells are sharp and a choking hazard.",
+      "amount": "One or two mussels cooked separately in plain water, with no salt or aromatics, out of the shell, now and then. Don't share the broth from seasoned mussels.",
+      "risks": [
+        "Garlic, shallots and wine in classic mussel recipes",
+        "Raw mussels: bacteria, viruses, algae toxins",
+        "Sharp shells: choking and injuries",
+        "Canned or sauced mussels: salt and fat",
+        "Seafood intolerance: vomiting"
+      ],
+      "ifEaten": "One or two plain mussels are no problem. If your cat ate mussels cooked with garlic or shallots, or lapped up the broth, watch closely for several days, since the effects can be delayed, and call your vet for vomiting, diarrhea, weakness, pale gums or refusing food. If they ate a good amount, call right away.",
+      "alternatives": "A cooked, peeled shrimp or a bit of plain cooked fish is easier to prepare for your cat.",
+      "faq": [
+        {
+          "q": "Can cats eat green-lipped mussels?",
+          "a": "Green-lipped mussel is used in some joint supplements for pets. That's different from sharing seafood from your plate: ask your vet before starting any supplement."
+        },
+        {
+          "q": "Can cats eat clams or oysters?",
+          "a": "Not raw, since raw shellfish can carry bacteria and viruses. A small piece of plain cooked clam is unlikely to cause harm, but shellfish aren't an ideal treat for cats."
+        }
+      ]
+    }
+  },
+  {
+    "id": "surimi",
+    "verdict": "peu",
+    "related": [
+      "crevettes",
+      "sushi",
+      "thon",
+      "sel"
+    ],
+    "fr": {
+      "short": "Un peu. Le surimi n'est pas toxique, mais c'est un produit transformé, salé et pauvre en vrai poisson : un petit bout de temps en temps.",
+      "why": "Le surimi est une pâte de poisson blanc mélangée à de l'amidon, du blanc d'œuf, de l'huile, du sucre, du sel, des arômes et souvent des additifs. Il contient donc moins de protéines qu'un vrai morceau de poisson, et bien plus de sel et de glucides que ce dont un chat a besoin. Rien de dangereux en petite quantité, mais rien d'utile non plus. Il contient parfois un peu de crustacés, ce qui compte si ton chat les tolère mal.",
+      "amount": "Un petit morceau de bâtonnet, de temps en temps, pas plus. Retire bien le film plastique, et ne lui en donne pas s'il a une maladie rénale ou cardiaque.",
+      "risks": [
+        "Sel en excès : soif, vomissements",
+        "Amidon et sucre inutiles pour un carnivore",
+        "Additifs et arômes",
+        "Film plastique avalé : risque de blocage",
+        "Intolérance possible aux crustacés ajoutés"
+      ],
+      "ifEaten": "Un ou deux bâtonnets ne posent généralement pas de problème : laisse-lui de l'eau et surveille-le pendant 24 à 48 heures. Appelle le vétérinaire s'il vomit à répétition ou a une diarrhée importante, ou s'il a avalé l'emballage et qu'il vomit, refuse de manger ou ne fait plus ses besoins.",
+      "alternatives": "Un peu de poisson blanc cuit à la vapeur, de saumon ou une crevette décortiquée nature sont de bien meilleures friandises de la mer.",
+      "faq": [
+        {
+          "q": "Le surimi, c'est du crabe ?",
+          "a": "Non, malgré son aspect. C'est surtout du poisson blanc transformé avec de l'amidon, du sel et des arômes, parfois avec un peu d'extrait de crabe. Du vrai crabe cuit, décortiqué et nature, est une meilleure option en petite quantité."
+        },
+        {
+          "q": "Mon chat adore le surimi, je peux lui en donner tous les jours ?",
+          "a": "Non. Le surimi est trop salé et trop transformé pour en faire une habitude. Garde-le pour une petite exception, ou remplace-le par du poisson cuit nature."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Imitation crab isn't toxic, but it's processed, salty and low in real fish, so only a small piece now and then.",
+      "why": "Imitation crab is made from white fish paste mixed with starch, egg white, oil, sugar, salt, flavorings and often additives. That means less protein than a real piece of fish, and far more salt and carbs than a cat needs. It's not dangerous in small amounts, but it's not useful either. Some versions contain crab extract, which matters if your cat reacts to shellfish.",
+      "amount": "A small piece of a stick once in a while, no more. Remove the plastic wrapper, and skip it entirely if your cat has kidney or heart disease.",
+      "risks": [
+        "Excess salt: thirst, vomiting",
+        "Starch and sugar a carnivore doesn't need",
+        "Additives and flavorings",
+        "Swallowed plastic wrapper: blockage risk",
+        "Possible reaction to added shellfish"
+      ],
+      "ifEaten": "A stick or two usually causes no trouble: give water and watch for 24 to 48 hours. Call your vet for repeated vomiting or heavy diarrhea, or if your cat swallowed the wrapper and then vomits, stops eating or isn't passing stool.",
+      "alternatives": "A bit of steamed white fish, salmon or a plain peeled shrimp makes a much better seafood treat.",
+      "faq": [
+        {
+          "q": "Is imitation crab real crab?",
+          "a": "No. It's mostly processed white fish with starch, salt and flavorings, sometimes with a little crab extract. Real crab, cooked, shelled and plain, is a better option in small amounts."
+        },
+        {
+          "q": "Can cats eat a California roll?",
+          "a": "No. Besides the imitation crab, California rolls contain avocado, seasoned rice and sometimes mayo, and they're usually dipped in salty soy sauce. Keep them for yourself."
+        }
+      ]
+    }
+  },
+  {
+    "id": "poisson-cru",
+    "verdict": "non",
+    "related": [
+      "sushi",
+      "saumon",
+      "thon",
+      "oeuf-cru"
+    ],
+    "fr": {
+      "short": "Non. Le poisson cru peut transmettre des parasites et des bactéries, et certains détruisent la vitamine B1 : cuis-le avant d'en donner à ton chat.",
+      "why": "Certains poissons crus, comme la carpe ou le hareng, contiennent une enzyme, la thiaminase, qui détruit la vitamine B1. Donnés souvent, ils peuvent provoquer une carence grave, avec perte d'appétit, troubles de l'équilibre, cou fléchi vers le bas, voire convulsions. Le poisson cru peut aussi porter des parasites comme l'anisakis et des bactéries comme la listeria ou les salmonelles. La cuisson règle ces problèmes, la congélation seule non.",
+      "amount": "Ne lui donne pas de poisson cru, ni sushi, ni sashimi, ni tartare. Cuis le poisson à cœur, à la vapeur ou au four, sans sel, et retire toutes les arêtes.",
+      "risks": [
+        "Carence en vitamine B1 : perte d'appétit, troubles nerveux",
+        "Parasites comme l'anisakis",
+        "Bactéries : listeria, salmonelle",
+        "Arêtes qui se coincent dans la gorge",
+        "Sushis : riz vinaigré, sauce soja salée, wasabi"
+      ],
+      "ifEaten": "Une bouchée de poisson cru n'est en général pas grave : la carence en vitamine B1 vient de repas répétés pendant des semaines. Surveille-le pendant 24 à 48 heures et appelle le vétérinaire en cas de vomissements, de diarrhée ou d'abattement. Si ton chat mange du poisson cru régulièrement et perd l'appétit, titube ou fléchit le cou vers le bas, consulte en urgence.",
+      "alternatives": "Le saumon, le cabillaud ou les crevettes cuits nature sont des friandises sûres. Une pâtée pour chat au poisson est aussi une bonne option.",
+      "faq": [
+        {
+          "q": "Le poisson cru surgelé, c'est plus sûr ?",
+          "a": "En partie seulement. La congélation tue certains parasites, mais pas toutes les bactéries, et elle ne détruit pas la thiaminase. Seule la cuisson règle tous ces problèmes."
+        },
+        {
+          "q": "Mon chat peut-il manger des sushis ?",
+          "a": "Non. En plus du poisson cru, les sushis contiennent du riz vinaigré et sucré, et on les sert avec de la sauce soja très salée et du wasabi. Garde-lui plutôt un petit morceau de poisson cuit nature."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Raw fish can carry parasites and bacteria, and some kinds destroy vitamin B1, so cook fish before sharing it with your cat.",
+      "why": "Some raw fish, like carp or herring, contain an enzyme called thiaminase that destroys vitamin B1 (thiamine). Fed regularly, they can cause a serious deficiency, with loss of appetite, wobbliness, a neck that bends down toward the chest, and even seizures. Raw fish can also carry parasites like Anisakis and bacteria like Listeria or Salmonella. Cooking takes care of all of this; freezing alone doesn't.",
+      "amount": "Don't feed raw fish, sushi, sashimi or poke. Cook fish all the way through, steamed or baked, with no salt, and remove every bone.",
+      "risks": [
+        "Vitamin B1 deficiency: loss of appetite, neurological signs",
+        "Parasites like Anisakis",
+        "Bacteria: Listeria, Salmonella",
+        "Bones that get stuck in the throat",
+        "Sushi extras: seasoned rice, salty soy sauce, wasabi"
+      ],
+      "ifEaten": "A bite of raw fish usually isn't serious: vitamin B1 deficiency comes from repeated meals over weeks. Watch for 24 to 48 hours and call your vet for vomiting, diarrhea or lethargy. If your cat has been eating raw fish regularly and loses appetite, wobbles or bends their neck down, get to a vet urgently.",
+      "alternatives": "Plain cooked salmon, cod or shrimp are safe treats. Fish-based cat food is another good option.",
+      "faq": [
+        {
+          "q": "Can cats eat sushi?",
+          "a": "No. Besides the raw fish, sushi comes with seasoned rice, salty soy sauce and wasabi. Save your cat a small piece of plain cooked fish instead."
+        },
+        {
+          "q": "Does freezing make raw fish safe for cats?",
+          "a": "Only partly. Freezing kills some parasites but not all bacteria, and it doesn't destroy thiaminase. Only cooking takes care of all three."
+        }
+      ]
+    }
+  },
+  {
+    "id": "croquettes-chien",
+    "verdict": "peu",
+    "related": [
+      "poulet",
+      "oeuf",
+      "dinde",
+      "thon"
+    ],
+    "fr": {
+      "short": "Un peu. Quelques croquettes pour chien par erreur, ce n'est pas grave, mais elles ne conviennent pas à ton chat sur la durée.",
+      "why": "Les croquettes pour chien ne sont pas toxiques, mais elles sont formulées pour un omnivore. Elles ne garantissent pas assez de taurine, un acide aminé que le chat ne fabrique pas en quantité suffisante, et dont le manque peut abîmer son cœur et ses yeux. Elles sont aussi en général moins riches en protéines, et pas forcément pourvues de la vitamine A, de l'acide arachidonique et de la niacine sous la forme dont le chat a besoin. Sur des semaines ou des mois, ce déséquilibre peut le rendre malade.",
+      "amount": "Pas en ration. Quelques croquettes volées dans la gamelle du chien ne posent aucun problème. Si tu es à court de nourriture pour chat, un repas de dépannage n'est pas grave, mais rachète-lui vite sa nourriture.",
+      "risks": [
+        "Carence en taurine : maladie du cœur, troubles de la vue",
+        "Apport en protéines insuffisant pour un chat",
+        "Manque de vitamine A, d'acide arachidonique et de niacine",
+        "Prise de poids s'il mange dans les deux gamelles",
+        "Troubles digestifs lors d'un changement brutal"
+      ],
+      "ifEaten": "Quelques croquettes ou un repas de croquettes pour chien ne posent pas de problème : au pire, un peu de diarrhée ou de vomissements à cause du changement. Surveille-le pendant 24 à 48 heures et appelle le vétérinaire si les troubles durent. S'il en mange régulièrement depuis des semaines, parles-en à ton vétérinaire.",
+      "alternatives": "Donne à ton chat une nourriture complète pour chat, et nourris tes animaux dans des pièces séparées ou à des hauteurs différentes pour que chacun garde sa gamelle.",
+      "faq": [
+        {
+          "q": "Que se passe-t-il si mon chat mange les croquettes du chien tous les jours ?",
+          "a": "Sur la durée, il risque des carences, surtout en taurine, qui peuvent abîmer son cœur et ses yeux. Sépare les gamelles, par exemple en nourrissant le chat en hauteur, et demande conseil à ton vétérinaire si cela dure depuis longtemps."
+        },
+        {
+          "q": "Et la pâtée pour chien ?",
+          "a": "Même chose : pas toxique, mais pas adaptée. Une bouchée volée ne pose aucun souci, mais elle ne doit pas remplacer sa nourriture pour chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A few bites of dog food by mistake are harmless, but it can't replace cat food over time.",
+      "why": "Dog food isn't toxic, but it's made for an omnivore. It doesn't guarantee enough taurine, an amino acid cats can't make enough of on their own, and a lack of it can damage the heart and eyes. Dog food also tends to have less protein, and may lack vitamin A, arachidonic acid and niacin in the forms cats need. Over weeks or months, that imbalance can make a cat sick.",
+      "amount": "Not as a diet. A few kibbles stolen from the dog's bowl are no problem. If you run out of cat food, one stopgap meal won't hurt, but get proper cat food as soon as you can.",
+      "risks": [
+        "Taurine deficiency: heart disease and vision problems",
+        "Not enough protein for a cat",
+        "Lacks vitamin A, arachidonic acid and niacin cats need",
+        "Weight gain from eating from both bowls",
+        "Digestive upset from a sudden food change"
+      ],
+      "ifEaten": "A few kibbles or one meal of dog food is no problem: at worst, a little diarrhea or vomiting from the change. Watch for 24 to 48 hours and call your vet if it lasts. If your cat has been eating it regularly for weeks, talk to your vet.",
+      "alternatives": "Feed your cat a complete cat food, and feed your pets in separate rooms or at different heights so each sticks to their own bowl.",
+      "faq": [
+        {
+          "q": "What happens if my cat eats dog food every day?",
+          "a": "Over time, your cat risks deficiencies, especially taurine, which can damage the heart and eyes. Separate the bowls, for example by feeding the cat up high, and check with your vet if it's been going on for a while."
+        },
+        {
+          "q": "Can I feed my cat dog food in an emergency?",
+          "a": "One meal won't hurt if you're out of cat food. Plain cooked chicken is a better stopgap, but get complete cat food as soon as possible."
+        }
+      ]
+    }
+  }
+]

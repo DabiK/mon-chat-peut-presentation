@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "pizza",
+    "verdict": "non",
+    "related": ["lasagnes", "fromage", "ail", "pate-crue"],
+    "fr": {
+      "short": "Non. La pizza cumule ce qu'il faut éviter pour un chat : sauce à l'ail et à l'oignon, fromage gras, charcuterie salée et pâte sans intérêt pour lui.",
+      "why": "La sauce tomate des pizzas contient presque toujours de l'ail, de l'oignon ou des herbes en poudre, et ces alliums abîment les globules rouges du chat. Le fromage fondu, le jambon, le chorizo ou le pepperoni apportent beaucoup de gras et de sel, ce qui peut déclencher des troubles digestifs, voire une pancréatite. La pâte cuite n'est pas toxique, mais ce sont des glucides dont un carnivore n'a aucun besoin.",
+      "amount": "Aucune part de pizza n'est recommandée, même petite. Garde les restes et les cartons hors de sa portée, car l'odeur du fromage attire beaucoup de chats.",
+      "risks": [
+        "Anémie due à l'ail et à l'oignon, parfois plusieurs jours après",
+        "Vomissements et diarrhée",
+        "Pancréatite à cause du gras",
+        "Excès de sel : soif, troubles digestifs"
+      ],
+      "ifEaten": "Contacte ton vétérinaire sans attendre les symptômes, surtout s'il a mangé de la garniture ou de la sauce : les effets de l'ail et de l'oignon peuvent apparaître plusieurs jours plus tard. Dis-lui quelle quantité il a avalée et ce qu'il y avait dessus, et ne le fais pas vomir toi-même. Un simple bout de croûte est bien moins préoccupant, mais surveille-le quand même 48 heures.",
+      "alternatives": "Pour partager un moment à table, donne-lui un petit morceau de poulet ou de bœuf cuit nature, sans sel ni sauce. Une friandise pour chat fera aussi très bien l'affaire.",
+      "faq": [
+        {"q": "Et la croûte de pizza ?", "a": "La croûte seule n'est pas toxique, mais elle est salée, parfois badigeonnée d'huile à l'ail, et n'apporte rien à ton chat. Un petit bout chipé par accident n'est pas grave ; ne lui en donne pas pour autant."},
+        {"q": "Mon chat a léché du fromage de pizza, c'est grave ?", "a": "Un peu de fromage fondu léché n'est en général pas dangereux, même si c'est gras et peut lui donner la diarrhée. Le vrai risque vient de la sauce et des garnitures assaisonnées à l'ail ou à l'oignon."}
+      ]
+    },
+    "en": {
+      "short": "No. Pizza packs in everything a cat should avoid: garlic and onion in the sauce, fatty cheese, salty cured meats, and dough your cat doesn't need.",
+      "why": "Pizza sauce almost always contains garlic, onion or seasoning powders, and these alliums damage a cat's red blood cells. Melted cheese, ham, pepperoni and sausage add lots of fat and salt, which can upset the stomach and even trigger pancreatitis. The baked crust isn't toxic, but it's just carbs a carnivore has no use for.",
+      "amount": "No amount of pizza is recommended, not even a small bite. Keep leftovers and boxes out of reach, since the smell of cheese draws many cats in.",
+      "risks": [
+        "Anemia from garlic and onion, sometimes days later",
+        "Vomiting and diarrhea",
+        "Pancreatitis from the fat",
+        "Too much salt: thirst and stomach upset"
+      ],
+      "ifEaten": "Call your vet without waiting for symptoms, especially if your cat ate toppings or sauce: garlic and onion damage can show up several days later. Tell them how much was eaten and what was on it, and don't try to make your cat vomit. A bare bit of crust is much less of a concern, but keep an eye on your cat for 48 hours.",
+      "alternatives": "If your cat wants to join in at dinner, offer a small piece of plain cooked chicken or beef, with no salt or sauce. A cat treat works just as well.",
+      "faq": [
+        {"q": "Can cats eat pizza crust?", "a": "Plain crust isn't toxic, but it's salty, sometimes brushed with garlic oil, and gives your cat nothing useful. A nibble by accident is no big deal, just don't make it a habit."},
+        {"q": "Can cats eat pizza cheese?", "a": "A lick of melted cheese is usually harmless, though it's fatty and can cause diarrhea. The real danger is the sauce and toppings seasoned with garlic or onion."}
+      ]
+    }
+  },
+  {
+    "id": "lasagnes",
+    "verdict": "non",
+    "related": ["pizza", "boeuf", "fromage", "oignon"],
+    "fr": {
+      "short": "Non. Les lasagnes associent sauce à l'oignon et à l'ail, fromage, béchamel et viande assaisonnée : un plat trop riche et dangereux pour un chat.",
+      "why": "La sauce bolognaise est presque toujours préparée avec de l'oignon et de l'ail, qui abîment les globules rouges du chat, même cuits. La béchamel (lait, beurre, farine) et le fromage gratiné sont riches en lactose et en graisses, ce qui provoque souvent diarrhée et vomissements. Ajoute le sel et parfois la muscade, et tu obtiens un plat qui n'a rien à faire dans sa gamelle.",
+      "amount": "Aucune quantité n'est conseillée. Ne laisse pas un plat de lasagnes refroidir sur le plan de travail sans surveillance.",
+      "risks": [
+        "Anémie liée à l'oignon et à l'ail",
+        "Diarrhée à cause du lactose de la béchamel",
+        "Vomissements, pancréatite liée au gras",
+        "Trop de sel pour son petit gabarit"
+      ],
+      "ifEaten": "Appelle ton vétérinaire sans attendre les symptômes, surtout s'il a mangé de la sauce : l'anémie due à l'oignon peut apparaître plusieurs jours plus tard. Précise la quantité et les ingrédients, et ne le fais pas vomir toi-même.",
+      "alternatives": "Un peu de bœuf haché cuit à part, sans sel ni oignon, lui fera bien plus plaisir. Tu peux en mettre de côté avant de préparer ta sauce.",
+      "faq": [
+        {"q": "Mon chat peut-il manger la viande des lasagnes ?", "a": "Non, car elle a mijoté dans la sauce avec l'oignon et l'ail, qui ne partent pas en la rinçant. Si tu veux partager, prélève un peu de viande hachée cuite nature avant de l'assaisonner."},
+        {"q": "Et les lasagnes végétariennes ?", "a": "Elles posent les mêmes problèmes : oignon, ail, fromage et béchamel. Les légumes eux-mêmes ne sont pas en cause, c'est la préparation qui l'est."}
+      ]
+    },
+    "en": {
+      "short": "No. Lasagna layers onion and garlic sauce, lots of cheese and seasoned meat: a dish that's too rich for a cat and potentially harmful.",
+      "why": "Meat sauce is almost always made with onion and garlic, which damage a cat's red blood cells even when cooked. The layers of ricotta, mozzarella or béchamel are high in fat and lactose, which often lead to vomiting and diarrhea. Add salt and herbs, and it's a dish that doesn't belong in a cat's bowl.",
+      "amount": "No amount is recommended. Don't leave a pan of lasagna cooling on the counter unattended.",
+      "risks": [
+        "Anemia from onion and garlic",
+        "Diarrhea from the lactose in cheese and sauce",
+        "Vomiting, or pancreatitis from the fat",
+        "Far too much salt for a small body"
+      ],
+      "ifEaten": "Call your vet without waiting for symptoms, especially if your cat ate the sauce: onion-related anemia can take several days to appear. Tell them how much was eaten and what was in it, and don't try to make your cat vomit.",
+      "alternatives": "A little ground beef cooked separately, with no salt or onion, will make your cat much happier. Just set some aside before you season the sauce.",
+      "faq": [
+        {"q": "Can cats eat the meat from lasagna?", "a": "No, because it has simmered in the sauce with onion and garlic, and rinsing won't remove them. If you want to share, set aside some plain cooked ground meat before seasoning it."},
+        {"q": "What about lasagna noodles?", "a": "Plain cooked pasta isn't toxic, but noodles taken from a lasagna are coated in sauce and cheese. Your cat gains nothing from them, so skip it."}
+      ]
+    }
+  },
+  {
+    "id": "sushi",
+    "verdict": "non",
+    "related": ["poisson-cru", "saumon", "riz", "surimi"],
+    "fr": {
+      "short": "Non. Les sushis associent poisson cru, riz vinaigré et sauce soja : trop de risques de parasites, de bactéries et de sel pour un chat.",
+      "why": "Le poisson cru peut transmettre des parasites et des bactéries, et certains poissons contiennent une enzyme, la thiaminase, qui détruit la vitamine B1 indispensable au chat. Le riz à sushi est sucré, salé et vinaigré, la sauce soja est extrêmement salée, et le wasabi ou le gingembre mariné irritent sa bouche et son estomac. Certains makis contiennent aussi de l'avocat, du surimi ou de la mayonnaise épicée.",
+      "amount": "Ne lui donne ni sushi ni sashimi. S'il te fait les yeux doux, un petit morceau de poisson bien cuit, nature et sans arêtes, est la bonne réponse.",
+      "risks": [
+        "Parasites et bactéries du poisson cru",
+        "Carence en vitamine B1 si le cru devient une habitude",
+        "Excès de sel avec la sauce soja",
+        "Irritation de la bouche avec le wasabi",
+        "Vomissements et diarrhée"
+      ],
+      "ifEaten": "S'il a avalé plusieurs pièces, de la sauce soja ou du wasabi, appelle ton vétérinaire sans attendre les symptômes et ne le fais pas vomir toi-même. Pour un petit morceau de poisson cru chipé une fois, le risque est faible : surveille vomissements, diarrhée ou fatigue pendant 48 heures.",
+      "alternatives": "Fais cuire à part un petit morceau de saumon ou de thon, sans sel ni assaisonnement, et donne-le sans arêtes. Une crevette cuite décortiquée plaît aussi beaucoup.",
+      "faq": [
+        {"q": "Mon chat peut-il manger du saumon cru de sushi ?", "a": "Mieux vaut pas. Même de qualité sushi, le poisson cru garde un risque de parasites et de bactéries, et en manger souvent peut créer une carence en vitamine B1. Cuit, le saumon devient une très bonne friandise."},
+        {"q": "Et le riz des sushis ?", "a": "Il est préparé avec du sucre, du sel et du vinaigre, donc ce n'est pas l'idéal. Si tu veux lui donner du riz, prends du riz blanc cuit à l'eau, sans rien."}
+      ]
+    },
+    "en": {
+      "short": "No. Sushi combines raw fish, seasoned rice and soy sauce: too much risk of parasites, bacteria and salt for a cat.",
+      "why": "Raw fish can carry parasites and bacteria, and some fish contain thiaminase, an enzyme that destroys vitamin B1, which cats can't do without. Sushi rice is seasoned with sugar, salt and vinegar, soy sauce is extremely salty, and wasabi or pickled ginger irritate the mouth and stomach. Some rolls also contain avocado, imitation crab or spicy mayo.",
+      "amount": "Don't give your cat sushi or sashimi. If they're begging, a small piece of thoroughly cooked plain fish, with no bones, is the right answer.",
+      "risks": [
+        "Parasites and bacteria from raw fish",
+        "Vitamin B1 deficiency if raw fish becomes a habit",
+        "Salt overload from soy sauce",
+        "Mouth irritation from wasabi",
+        "Vomiting and diarrhea"
+      ],
+      "ifEaten": "If your cat ate several pieces, soy sauce or wasabi, call your vet without waiting for symptoms and don't try to make them vomit. A single piece of raw fish stolen once is low risk: watch for vomiting, diarrhea or lethargy for 48 hours.",
+      "alternatives": "Cook a small piece of salmon or tuna separately, with no salt or seasoning, and serve it boneless. Cooked, peeled shrimp is another favorite.",
+      "faq": [
+        {"q": "Can cats eat sushi-grade salmon?", "a": "It's better not to. Sushi grade isn't an official safety standard, raw fish can still carry parasites or bacteria, and eating it often can lead to a vitamin B1 deficiency. Cooked salmon is a great treat instead."},
+        {"q": "Can cats have soy sauce?", "a": "No. Soy sauce is extremely salty, and a cat's small body handles salt poorly. A lick isn't an emergency, but a larger amount can cause serious salt poisoning."}
+      ]
+    }
+  },
+  {
+    "id": "kebab",
+    "verdict": "non",
+    "related": ["burger", "agneau", "ail", "frites"],
+    "fr": {
+      "short": "Non. Le kebab cumule viande très assaisonnée, sauce blanche à l'ail, oignons, sel et gras : rien de tout ça n'est adapté à un chat.",
+      "why": "La viande de kebab est marinée avec du sel, des épices et souvent de l'ail ou de l'oignon en poudre, toxiques pour les globules rouges du chat. La sauce blanche, la samouraï ou la harissa ajoutent de l'ail, du piment et du gras, et les crudités contiennent souvent des oignons. Tout ce gras peut provoquer des troubles digestifs et une pancréatite.",
+      "amount": "Aucune quantité n'est conseillée, même un lambeau de viande. Même sans sauce, la viande reste assaisonnée.",
+      "risks": [
+        "Anémie liée à l'ail et à l'oignon",
+        "Vomissements et diarrhée",
+        "Pancréatite à cause du gras",
+        "Soif excessive liée au sel"
+      ],
+      "ifEaten": "Appelle ton vétérinaire sans attendre les symptômes, surtout s'il a mangé de la sauce ou des oignons : l'anémie peut se déclarer plusieurs jours après. Indique ce qu'il a mangé et en quelle quantité, et ne le fais pas vomir toi-même.",
+      "alternatives": "Si tu veux lui faire goûter de la viande, fais cuire un peu de poulet ou d'agneau nature, sans sel ni épices. C'est bien meilleur pour lui.",
+      "faq": [
+        {"q": "Mon chat peut-il manger la viande du kebab sans la sauce ?", "a": "Pas vraiment. La viande est marinée et cuite avec du sel, des épices et souvent de l'ail ou de l'oignon, donc enlever la sauce ne suffit pas. Préfère un morceau de viande que tu as cuit toi-même, nature."},
+        {"q": "Et les frites du kebab ?", "a": "Non plus : elles sont frites, salées et souvent trempées dans la sauce. Le gras et le sel ne lui apportent que des risques de troubles digestifs."}
+      ]
+    },
+    "en": {
+      "short": "No. Kebab combines heavily seasoned meat, garlic sauce, onions, salt and fat: none of it suits a cat.",
+      "why": "Kebab meat is marinated with salt, spices and often garlic or onion powder, which damage a cat's red blood cells. Garlic sauce, hot sauce and the raw onions in the salad add even more alliums, chili and fat. All that fat can upset the stomach and even trigger pancreatitis.",
+      "amount": "No amount is recommended, not even a strip of meat. Even without the sauce, the meat is still seasoned.",
+      "risks": [
+        "Anemia from garlic and onion",
+        "Vomiting and diarrhea",
+        "Pancreatitis from the fat",
+        "Excessive thirst from the salt"
+      ],
+      "ifEaten": "Call your vet without waiting for symptoms, especially if your cat ate sauce or onions: anemia can develop several days later. Tell them what was eaten and how much, and don't try to make your cat vomit.",
+      "alternatives": "If you want to share some meat, cook a little plain chicken or lamb with no salt or spices. It's much better for your cat.",
+      "faq": [
+        {"q": "Can cats eat kebab meat without the sauce?", "a": "Not really. The meat is marinated and cooked with salt, spices and often garlic or onion, so scraping off the sauce isn't enough. A piece of meat you cooked yourself, plain, is the safe choice."},
+        {"q": "Can cats eat gyro or shawarma meat?", "a": "Same answer: these are seasoned and marinated just like kebab, often with garlic and onion. Keep them for yourself."}
+      ]
+    }
+  },
+  {
+    "id": "burger",
+    "verdict": "non",
+    "related": ["kebab", "boeuf", "frites", "fromage"],
+    "fr": {
+      "short": "Non. Entre le pain, le fromage, les sauces, l'oignon et la viande salée, un burger n'est pas adapté à un chat, même en petite quantité.",
+      "why": "Les burgers contiennent souvent de l'oignon cru ou frit, et les sauces comme le ketchup ou la sauce burger renferment fréquemment de l'oignon ou de l'ail en poudre, toxiques pour le chat. Le steak est salé et poivré, parfois mélangé à de l'oignon, et le fromage fondu et le bacon ajoutent du gras et du sel. Le pain brioché, lui, n'apporte que du sucre et des glucides.",
+      "amount": "Ne lui donne pas de burger. Si tu prépares tes steaks toi-même, mets de côté un petit morceau cuit sans sel ni assaisonnement : là, c'est une vraie friandise.",
+      "risks": [
+        "Anémie si oignon ou ail dans le steak ou les sauces",
+        "Vomissements et diarrhée",
+        "Pancréatite à cause du gras",
+        "Excès de sel"
+      ],
+      "ifEaten": "Contacte ton vétérinaire sans attendre les symptômes s'il a mangé des oignons, de la sauce ou une bonne partie du burger. Dis-lui ce qu'il y avait dedans et ne le fais pas vomir toi-même. Pour un petit bout de pain ou de steak sans sauce, surveille-le simplement pendant 48 heures.",
+      "alternatives": "Un peu de bœuf haché bien cuit, nature et sans sel, lui offre le même plaisir sans les risques. Le poulet cuit nature marche aussi très bien.",
+      "faq": [
+        {"q": "Mon chat peut-il manger du steak haché ?", "a": "Oui, s'il est bien cuit et nature, sans sel, poivre ni oignon. C'est l'assaisonnement et les accompagnements du burger qui posent problème, pas le bœuf lui-même."},
+        {"q": "Et un burger de fast-food ?", "a": "Encore moins : la viande est salée, les sauces contiennent souvent de l'oignon ou de l'ail, et le tout est très gras. Garde-le pour toi."}
+      ]
+    },
+    "en": {
+      "short": "No. Between the bun, cheese, sauces, onion and salted patty, a burger isn't suitable for a cat, even in small amounts.",
+      "why": "Burgers often come with raw or fried onion, and sauces like ketchup or burger sauce frequently contain onion or garlic powder, both toxic to cats. The patty is salted and peppered, sometimes mixed with onion, while melted cheese and bacon pile on fat and salt. The bun just adds sugar and carbs.",
+      "amount": "Don't give your cat a burger. If you make patties at home, set aside a small piece cooked with no salt or seasoning: that's a real treat.",
+      "risks": [
+        "Anemia if onion or garlic is in the patty or sauces",
+        "Vomiting and diarrhea",
+        "Pancreatitis from the fat",
+        "Too much salt"
+      ],
+      "ifEaten": "Call your vet without waiting for symptoms if your cat ate onions, sauce or a good part of the burger. Tell them what was in it, and don't try to make your cat vomit. For a small bite of bun or plain patty, just watch your cat for 48 hours.",
+      "alternatives": "A bit of plain, well-cooked ground beef with no salt gives the same pleasure without the risks. Plain cooked chicken works great too.",
+      "faq": [
+        {"q": "Can cats eat hamburger meat?", "a": "Yes, if it's fully cooked and plain, with no salt, pepper or onion. It's the seasoning and toppings that cause problems, not the beef itself."},
+        {"q": "Can cats eat raw hamburger meat?", "a": "It's not recommended. Raw ground beef can carry bacteria like salmonella or E. coli, which can make both your cat and your household sick. Cook it through first."}
+      ]
+    }
+  },
+  {
+    "id": "quiche",
+    "verdict": "non",
+    "related": ["omelette", "bacon", "creme-fraiche", "pizza"],
+    "fr": {
+      "short": "Non. La quiche, avec ses lardons, sa crème, son fromage et sa pâte au beurre, est bien trop grasse et salée pour un chat.",
+      "why": "La quiche lorraine contient des lardons très salés et gras, de la crème fraîche et souvent du fromage, une combinaison qui peut provoquer diarrhée, vomissements et, chez certains chats, une pancréatite. La pâte brisée ou feuilletée ajoute encore du beurre. Beaucoup de recettes contiennent aussi de l'oignon, du poireau ou de la muscade, à éviter absolument.",
+      "amount": "Aucune part n'est recommandée. Si tu veux partager l'œuf, fais-lui plutôt un œuf brouillé nature à part.",
+      "risks": [
+        "Diarrhée et vomissements",
+        "Pancréatite à cause du gras",
+        "Excès de sel avec les lardons",
+        "Anémie si la quiche contient oignon ou poireau"
+      ],
+      "ifEaten": "Si ta quiche contenait de l'oignon, du poireau ou de l'ail, ou s'il en a mangé une bonne part, appelle ton vétérinaire sans attendre les symptômes et ne le fais pas vomir toi-même. Pour une petite bouchée de quiche lorraine, surveille vomissements et diarrhée pendant 24 à 48 heures.",
+      "alternatives": "Un œuf cuit nature, dur ou brouillé sans sel ni beurre, lui apporte de bonnes protéines. Un peu de dinde cuite nature est aussi une bonne idée.",
+      "faq": [
+        {"q": "Mon chat peut-il manger une quiche aux poireaux ?", "a": "Non, le poireau fait partie des alliums, comme l'oignon et l'ail, et reste toxique même cuit. C'est l'une des quiches les plus à risque pour lui."},
+        {"q": "Et la pâte de la quiche ?", "a": "Elle n'est pas toxique, mais elle est pleine de beurre et n'apporte rien à un chat. Un petit bout n'est pas grave, ce n'est simplement pas une friandise adaptée."}
+      ]
+    },
+    "en": {
+      "short": "No. With bacon, cream, cheese and a buttery crust, quiche is far too fatty and salty for a cat.",
+      "why": "Quiche Lorraine is made with salty, fatty bacon, heavy cream and often cheese, a mix that can cause vomiting, diarrhea and, in some cats, pancreatitis. The pastry crust adds even more butter. Many recipes also include onion, leek or nutmeg, which your cat should never have.",
+      "amount": "No slice is recommended. If you want to share the egg, make your cat a plain scrambled egg on the side.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Pancreatitis from the fat",
+        "Too much salt from the bacon",
+        "Anemia if the quiche contains onion or leek"
+      ],
+      "ifEaten": "If the quiche had onion, leek or garlic in it, or your cat ate a good part of a slice, call your vet without waiting for symptoms and don't try to make your cat vomit. For a small bite of plain quiche Lorraine, watch for vomiting and diarrhea for 24 to 48 hours.",
+      "alternatives": "A plain cooked egg, hard-boiled or scrambled with no salt or butter, gives your cat good protein. A little plain cooked turkey is another good option.",
+      "faq": [
+        {"q": "Can cats eat the egg filling from quiche?", "a": "Not really, because it's mixed with cream, cheese, salt and sometimes onion. A plain egg cooked on its own is the safe way to share."},
+        {"q": "Can cats eat spinach quiche?", "a": "It's still not a good idea: the cream, cheese and crust are the main problem, and many spinach quiches include onion or garlic. Spinach itself is best avoided for cats with urinary issues."}
+      ]
+    }
+  },
+  {
+    "id": "mafe",
+    "verdict": "non",
+    "related": ["cacahuetes", "beurre-cacahuete", "thieboudienne", "oignon"],
+    "fr": {
+      "short": "Non. Le mafé associe pâte d'arachide très grasse, oignon, ail et épices : une sauce qui peut rendre ton chat malade, même en petite quantité.",
+      "why": "La sauce du mafé repose sur la pâte d'arachide, très riche en graisses, ce qui peut provoquer vomissements, diarrhée, voire une pancréatite. Elle est presque toujours préparée avec de l'oignon et de l'ail, toxiques pour les globules rouges du chat, et souvent avec du piment, du sel et des cubes de bouillon. La viande ayant mijoté dedans, elle est imprégnée de tout ça.",
+      "amount": "Aucune quantité n'est conseillée, ni de sauce ni de viande. Garde la marmite couverte et hors de sa portée.",
+      "risks": [
+        "Anémie due à l'oignon et à l'ail",
+        "Vomissements et diarrhée",
+        "Pancréatite à cause du gras de l'arachide",
+        "Irritation digestive si le plat est pimenté"
+      ],
+      "ifEaten": "Appelle ton vétérinaire sans attendre les symptômes : l'anémie liée à l'oignon et à l'ail peut apparaître plusieurs jours après. Dis-lui combien il en a mangé et ce que contenait la sauce, et ne le fais pas vomir toi-même.",
+      "alternatives": "Avant d'ajouter la sauce, mets de côté un petit morceau de viande cuite nature, sans sel ni épices, et donne-le-lui sans os. Il profitera du repas en toute sécurité.",
+      "faq": [
+        {"q": "Mon chat peut-il manger la viande du mafé ?", "a": "Non, une fois mijotée dans la sauce, elle est imprégnée d'oignon, d'ail, de sel et d'épices. Si tu veux partager, prélève la viande avant de l'ajouter à la sauce."},
+        {"q": "Et le riz servi avec le mafé ?", "a": "Le riz blanc cuit à l'eau, sans sauce, est sans danger en petite quantité. Le problème, c'est quand il a été arrosé de sauce."}
+      ]
+    },
+    "en": {
+      "short": "No. Mafé combines very fatty peanut paste with onion, garlic and spices: a sauce that can make your cat sick, even in small amounts.",
+      "why": "Mafé sauce is built on peanut paste, which is very high in fat and can cause vomiting, diarrhea or even pancreatitis. It's almost always made with onion and garlic, which damage a cat's red blood cells, and often with chili, salt and bouillon cubes. Since the meat simmers in that sauce, it soaks all of it up.",
+      "amount": "No amount is recommended, sauce or meat. Keep the pot covered and out of reach.",
+      "risks": [
+        "Anemia from onion and garlic",
+        "Vomiting and diarrhea",
+        "Pancreatitis from the peanut fat",
+        "Stomach irritation if the dish is spicy"
+      ],
+      "ifEaten": "Call your vet without waiting for symptoms: anemia from onion and garlic can show up several days later. Tell them how much your cat ate and what was in the sauce, and don't try to make your cat vomit.",
+      "alternatives": "Before adding the sauce, set aside a small piece of plain cooked meat with no salt or spices, and serve it boneless. Your cat gets to join the meal safely.",
+      "faq": [
+        {"q": "Can cats eat peanut stew?", "a": "No. Like mafé, most peanut stews contain onion, garlic, salt and spices, plus a lot of fat from the peanuts. Keep it off your cat's menu."},
+        {"q": "Can cats eat the rice served with mafé?", "a": "Plain white rice cooked in water, with no sauce, is safe in small amounts. The problem is rice that's been covered in sauce."}
+      ]
+    }
+  },
+  {
+    "id": "thieboudienne",
+    "verdict": "non",
+    "related": ["mafe", "riz", "piment", "oignon"],
+    "fr": {
+      "short": "Non. Le thiéboudienne est préparé avec oignon, ail, piment, sel et bouillon, et le poisson contient des arêtes : un plat à ne pas partager avec ton chat.",
+      "why": "Le riz et le poisson cuisent dans une sauce tomate à l'oignon, souvent relevée de bouillon cube, de piment et de poisson séché très salé. Le poisson est aussi farci d'un mélange de persil, d'ail, d'oignon et de piment. L'oignon et l'ail sont toxiques pour les globules rouges du chat, et les arêtes peuvent blesser sa bouche ou son intestin.",
+      "amount": "Aucune quantité n'est conseillée. Si tu veux lui faire plaisir, réserve un petit morceau de poisson avant de l'assaisonner, cuis-le nature et retire toutes les arêtes.",
+      "risks": [
+        "Anémie due à l'oignon et à l'ail",
+        "Arêtes : blessures de la bouche ou de l'intestin",
+        "Excès de sel avec le bouillon et le poisson séché",
+        "Irritation digestive à cause du piment"
+      ],
+      "ifEaten": "Appelle ton vétérinaire sans attendre les symptômes, en lui disant ce qu'il a mangé et en quelle quantité : les effets de l'oignon et de l'ail peuvent apparaître plusieurs jours plus tard. Ne le fais pas vomir toi-même, surtout s'il a pu avaler des arêtes.",
+      "alternatives": "Un petit morceau de poisson blanc ou de thon cuit nature, sans arêtes, et un peu de riz blanc cuit à l'eau lui font un repas sûr. Mets-les de côté avant d'assaisonner.",
+      "faq": [
+        {"q": "Mon chat peut-il manger le poisson du thiéboudienne ?", "a": "Pas tel qu'il est servi : il est farci, assaisonné et a cuit dans la sauce à l'oignon. Un morceau mis de côté avant l'assaisonnement, cuit nature et sans arêtes, est en revanche une bonne friandise."},
+        {"q": "Et le riz au poisson ?", "a": "Le riz du thiéboudienne a cuit dans le bouillon et la sauce, donc il contient oignon, sel et épices. Seul un riz blanc cuit à l'eau, sans rien, lui convient."}
+      ]
+    },
+    "en": {
+      "short": "No. Thieboudienne is cooked with onion, garlic, chili, salt and bouillon, and the fish has bones: it's not a dish to share with your cat.",
+      "why": "The rice and fish cook in an onion and tomato sauce, often boosted with bouillon cubes, chili and very salty dried fish. The fish itself is usually stuffed with a mix of parsley, garlic, onion and chili. Onion and garlic damage a cat's red blood cells, and fish bones can injure the mouth or gut.",
+      "amount": "No amount is recommended. If you want to treat your cat, set aside a small piece of unseasoned fish, cook it plain and remove every bone.",
+      "risks": [
+        "Anemia from onion and garlic",
+        "Fish bones injuring the mouth or gut",
+        "Too much salt from bouillon and dried fish",
+        "Stomach irritation from chili"
+      ],
+      "ifEaten": "Call your vet without waiting for symptoms, and tell them what your cat ate and how much: onion and garlic effects can appear several days later. Don't try to make your cat vomit, especially if bones may have been swallowed.",
+      "alternatives": "A small piece of plain cooked white fish or tuna, boneless, with a little plain boiled rice, makes a safe meal. Set them aside before seasoning.",
+      "faq": [
+        {"q": "Can cats eat the fish from thieboudienne?", "a": "Not as served: it's stuffed, seasoned and cooked in the onion sauce. A piece set aside before seasoning, cooked plain and boneless, is a good treat though."},
+        {"q": "Can cats eat jollof rice?", "a": "No, for the same reasons: jollof rice is cooked with onion, garlic, tomato, chili and bouillon. Plain white rice cooked in water is the only rice your cat should have."}
+      ]
+    }
+  },
+  {
+    "id": "couscous",
+    "verdict": "non",
+    "related": ["semoule", "piment", "saucisse", "agneau"],
+    "fr": {
+      "short": "Non. Le couscous, avec son bouillon à l'oignon, ses épices, sa harissa et ses merguez, n'est pas fait pour un chat ; seule la semoule nature passe.",
+      "why": "Le bouillon du couscous est préparé avec de l'oignon, souvent de l'ail, et des épices comme le ras el hanout ou le cumin, et la semoule s'en imprègne. Les merguez sont grasses, salées, pimentées et assaisonnées à l'ail, et la harissa est un concentré de piment. L'oignon et l'ail abîment les globules rouges du chat, et le gras et le piment irritent son système digestif.",
+      "amount": "Aucune assiette de couscous n'est recommandée. Une cuillère de semoule cuite à l'eau, sans sel ni beurre, n'est pas dangereuse de temps en temps, mais elle ne lui apporte presque rien.",
+      "risks": [
+        "Anémie due à l'oignon et à l'ail du bouillon",
+        "Brûlures et douleurs digestives avec la harissa",
+        "Vomissements, diarrhée, pancréatite avec les merguez",
+        "Excès de sel"
+      ],
+      "ifEaten": "Appelle ton vétérinaire sans attendre les symptômes, surtout s'il a mangé du bouillon, des merguez ou des légumes cuits dedans : l'anémie peut se déclarer plusieurs jours plus tard. Dis-lui ce qu'il a avalé, et ne le fais pas vomir toi-même.",
+      "alternatives": "Un peu de poulet ou d'agneau cuit à part, nature et sans os, est une bien meilleure idée. Tu peux le prélever avant de le mettre dans le bouillon.",
+      "faq": [
+        {"q": "Mon chat peut-il manger de la semoule ?", "a": "Oui, un peu de semoule cuite à l'eau, sans sel, beurre ni bouillon, n'est pas dangereuse. Elle reste inutile pour un carnivore, donc en petite quantité et rarement."},
+        {"q": "Et les légumes du couscous ?", "a": "Carottes, courgettes et potiron sont sans danger nature, mais ceux du couscous ont cuit dans le bouillon à l'oignon et aux épices. Mieux vaut lui en préparer quelques morceaux cuits à l'eau."}
+      ]
+    },
+    "en": {
+      "short": "No. A couscous dish, with its onion and garlic broth, spices and spicy sausage, isn't safe for cats; only a spoonful of plain cooked grain is OK.",
+      "why": "Traditional couscous is served with a broth made with onion, often garlic, and spices like cumin or ras el hanout, and the grains soak it all up. It often comes with merguez, a fatty, salty and spicy sausage seasoned with garlic, and harissa, a hot chili paste. Onion and garlic damage a cat's red blood cells, while fat and chili irritate the digestive system.",
+      "amount": "Don't give your cat a couscous dish. A spoonful of couscous cooked in plain water, with no salt, butter or broth, is fine once in a while, but it adds almost nothing to their diet.",
+      "risks": [
+        "Anemia from onion and garlic in the broth",
+        "Burning and stomach pain from harissa",
+        "Vomiting, diarrhea or pancreatitis from fatty sausage",
+        "Too much salt"
+      ],
+      "ifEaten": "Call your vet without waiting for symptoms, especially if your cat ate the broth, sausage or vegetables cooked in it: anemia can develop several days later. Tell them what was eaten, and don't try to make your cat vomit.",
+      "alternatives": "A bit of plain cooked chicken or lamb, boneless, is a far better idea. Set it aside before it goes into the broth.",
+      "faq": [
+        {"q": "Can cats eat plain couscous?", "a": "Yes, a small amount of couscous cooked in water, with no salt, butter or broth, is safe. It's just filler for a carnivore, so keep it small and occasional."},
+        {"q": "Is boxed or flavored couscous OK for cats?", "a": "No. Flavored couscous mixes usually contain salt, onion or garlic powder and other seasonings. Stick to plain couscous if you share any at all."}
+      ]
+    }
+  },
+  {
+    "id": "puree",
+    "verdict": "peu",
+    "related": ["pomme-de-terre", "beurre", "lait", "patate-douce"],
+    "fr": {
+      "short": "Un peu. Une cuillère de purée maison sans sel, beurre ni lait passe sans problème ; la purée classique, salée et riche en lait et en beurre, est à éviter.",
+      "why": "La pomme de terre cuite n'est pas toxique pour le chat, mais elle n'apporte presque rien à un carnivore. Le problème vient de la recette : le lait contient du lactose qu'il digère mal, le beurre et la crème sont très gras, et le sel n'est pas bon pour lui. Les purées en flocons ou toutes prêtes contiennent souvent du sel et parfois de l'oignon, de l'ail ou de la muscade.",
+      "amount": "Au maximum une cuillère à café de pomme de terre écrasée, cuite à l'eau, sans rien d'autre, de temps en temps. Elle doit rester une exception, pas un accompagnement de ses repas.",
+      "risks": [
+        "Diarrhée à cause du lait et du beurre",
+        "Vomissements si la purée est très grasse",
+        "Prise de poids si c'est fréquent",
+        "Anémie si la purée contient de l'ail ou de l'oignon"
+      ],
+      "ifEaten": "Une petite quantité de purée classique n'est généralement pas grave : surveille diarrhée ou vomissements pendant 24 à 48 heures. Appelle ton vétérinaire si des symptômes apparaissent ou durent, s'il en a mangé beaucoup, ou si ta purée contenait de l'ail ou de l'oignon.",
+      "alternatives": "Une cuillère à café de citrouille cuite nature apporte des fibres utiles à son transit. Pour lui faire vraiment plaisir, un peu de poulet cuit nature reste imbattable.",
+      "faq": [
+        {"q": "La purée en flocons est-elle dangereuse pour mon chat ?", "a": "Elle n'est pas faite pour lui : elle contient souvent du sel, du lait en poudre et parfois des arômes à l'oignon ou à l'ail. Lis bien la liste d'ingrédients, et dans le doute, ne lui en donne pas."},
+        {"q": "Et la purée de patate douce ?", "a": "Cuite et écrasée nature, la patate douce passe aussi en petite quantité. Comme la pomme de terre, elle doit rester une exception, sans beurre, lait ni sel."}
+      ]
+    },
+    "en": {
+      "short": "A little. A spoonful of plain mashed potato, with no salt, butter or milk, is fine; classic buttery, salted mashed potatoes are best avoided.",
+      "why": "Cooked potato isn't toxic to cats, but it gives a carnivore almost nothing. The trouble is the recipe: milk contains lactose cats digest poorly, butter and cream are very fatty, and salt isn't good for them. Instant or store-bought mashed potatoes often contain salt and sometimes onion, garlic or nutmeg.",
+      "amount": "At most a teaspoon of potato boiled and mashed with nothing added, once in a while. Keep it an exception, not a side dish.",
+      "risks": [
+        "Diarrhea from the milk and butter",
+        "Vomiting if it's very rich",
+        "Weight gain if given often",
+        "Anemia if it contains garlic or onion"
+      ],
+      "ifEaten": "A small amount of regular mashed potatoes usually isn't serious: watch for diarrhea or vomiting for 24 to 48 hours. Call your vet if symptoms appear or last, if your cat ate a lot, or if the mash contained garlic or onion.",
+      "alternatives": "A teaspoon of plain cooked pumpkin brings fiber that helps digestion. For a real treat, plain cooked chicken is hard to beat.",
+      "faq": [
+        {"q": "Can cats eat garlic mashed potatoes?", "a": "No. Garlic is toxic to cats even when cooked and mixed into a dish. If your cat ate some, call your vet, especially if it was more than a lick."},
+        {"q": "Can cats eat instant mashed potatoes?", "a": "It's best not to. Instant mixes often contain salt, milk powder and sometimes onion or garlic flavoring, so check the label and skip it when in doubt."}
+      ]
+    }
+  },
+  {
+    "id": "omelette",
+    "verdict": "oui",
+    "related": ["oeuf", "oeuf-cru", "quiche", "fromage"],
+    "fr": {
+      "short": "Oui. Une omelette nature, bien cuite, sans sel, beurre ni garniture, est une bonne source de protéines pour ton chat, en petite quantité.",
+      "why": "L'œuf cuit apporte des protéines de qualité et des acides aminés utiles au chat, et la cuisson élimine le risque de salmonelle et l'effet du blanc cru sur la biotine. Ce qui pose problème, c'est la garniture : oignon, ciboulette, ail, fines herbes, fromage, jambon ou lardons. Le beurre, l'huile et le sel ajoutés ne lui conviennent pas non plus.",
+      "amount": "Quelques petits morceaux d'omelette nature, une ou deux fois par semaine au maximum, en friandise. Cuis-la dans une poêle antiadhésive sans matière grasse, ou avec une goutte d'huile, et laisse-la refroidir.",
+      "risks": [
+        "Troubles digestifs si l'omelette est grasse",
+        "Anémie si elle contient oignon, ciboulette ou ail",
+        "Prise de poids si elle remplace ses repas",
+        "Œuf peu cuit : risque de salmonelle"
+      ],
+      "ifEaten": "Un morceau d'omelette nature ne pose aucun problème. S'il a mangé une omelette aux oignons, à la ciboulette ou à l'ail, appelle ton vétérinaire ; pour une omelette au fromage ou au jambon, surveille vomissements et diarrhée pendant 24 à 48 heures.",
+      "alternatives": "Un œuf dur écrasé, sans sel, est encore plus simple à préparer. Un peu de poulet cuit nature est aussi une valeur sûre.",
+      "faq": [
+        {"q": "Mon chat peut-il manger une omelette au fromage ?", "a": "Une petite bouchée n'est pas grave, mais le fromage ajoute du gras, du sel et un peu de lactose. Garde l'omelette nature pour lui."},
+        {"q": "L'omelette baveuse, c'est bon pour lui ?", "a": "Non, préfère-la bien cuite. Un œuf pas assez cuit garde un risque de salmonelle, et le blanc cru gêne l'absorption de la biotine."}
+      ]
+    },
+    "en": {
+      "short": "Yes. A plain, fully cooked omelette with no salt, butter or fillings is a good source of protein for your cat, in small amounts.",
+      "why": "Cooked egg provides quality protein and amino acids cats can use, and cooking removes the salmonella risk and the effect of raw egg white on biotin. The problem is what goes in it: onion, chives, garlic, herbs, cheese, ham or bacon. Added butter, oil and salt don't suit your cat either.",
+      "amount": "A few small pieces of plain omelette, once or twice a week at most, as a treat. Cook it in a nonstick pan with no fat or just a drop of oil, and let it cool.",
+      "risks": [
+        "Stomach upset if the omelette is greasy",
+        "Anemia if it contains onion, chives or garlic",
+        "Weight gain if it replaces meals",
+        "Runny egg: salmonella risk"
+      ],
+      "ifEaten": "A piece of plain omelette is no problem at all. If your cat ate an omelette with onion, chives or garlic, call your vet; for one with cheese or ham, watch for vomiting and diarrhea for 24 to 48 hours.",
+      "alternatives": "A mashed hard-boiled egg with no salt is even easier. A little plain cooked chicken is always a safe bet too.",
+      "faq": [
+        {"q": "Can cats eat scrambled eggs?", "a": "Yes, scrambled eggs are fine if they're cooked through and made without salt, butter, milk or cheese. Offer a spoonful as an occasional treat."},
+        {"q": "Can cats eat a cheese omelette?", "a": "A small bite won't hurt, but cheese adds fat, salt and some lactose. Keep the omelette plain for your cat."}
+      ]
+    }
+  },
+  {
+    "id": "gingembre",
+    "verdict": "peu",
+    "related": ["cannelle", "curry", "piment", "biscuits"],
+    "fr": {
+      "short": "Un peu. Le gingembre n'est pas toxique pour le chat, mais il est piquant et peut irriter son estomac : une trace passe, ce n'est pas une friandise.",
+      "why": "Le gingembre contient des composés piquants, comme le gingérol, qui peuvent irriter la bouche et le tube digestif d'un chat. Il n'est pas considéré comme toxique, et on l'évoque parfois contre les nausées, mais les données chez le chat sont limitées. Les produits au gingembre posent davantage de problèmes : pain d'épices, gingembre confit, gingembre mariné ou boissons sont sucrés, salés ou très épicés.",
+      "amount": "Il n'y a aucune raison de lui en donner. S'il en lèche un peu ou en avale une miette, ce n'est pas grave ; ne lui donne jamais de complément au gingembre sans l'avis de ton vétérinaire.",
+      "risks": [
+        "Irritation de la bouche, salivation",
+        "Vomissements ou diarrhée en plus grande quantité",
+        "Inconfort digestif",
+        "Sucre et épices dans les produits au gingembre"
+      ],
+      "ifEaten": "Un petit morceau de gingembre n'est généralement pas grave : surveille salivation, vomissements ou diarrhée pendant 24 à 48 heures. Appelle ton vétérinaire si ces signes apparaissent, s'il en a mangé beaucoup ou s'il a avalé un complément ou une préparation au gingembre.",
+      "alternatives": "Si tu cherches une plante qu'il peut mâchonner sans souci, opte pour l'herbe à chat. En cas de nausées, parles-en à ton vétérinaire plutôt que de tenter un remède maison.",
+      "faq": [
+        {"q": "Le gingembre aide-t-il un chat qui vomit ?", "a": "On l'évoque parfois contre les nausées, mais rien ne prouve clairement son efficacité ni la bonne dose chez le chat. Un chat qui vomit doit voir son vétérinaire, qui dispose de traitements adaptés."},
+        {"q": "Et le pain d'épices ?", "a": "Non : il est très sucré et contient un mélange d'épices, dont parfois de la muscade. Ce n'est pas une friandise pour chat, même si une miette n'est pas grave."}
+      ]
+    },
+    "en": {
+      "short": "A little. Ginger isn't toxic to cats, but it's spicy and can upset their stomach: a trace is fine, but it's not a treat.",
+      "why": "Ginger contains pungent compounds such as gingerol that can irritate a cat's mouth and digestive tract. It isn't considered toxic, and it's sometimes mentioned for nausea, but evidence in cats is limited. Ginger products are the bigger problem: gingerbread, candied ginger, pickled ginger and ginger ale are sugary, salty or heavily spiced.",
+      "amount": "There's no reason to give your cat ginger. A lick or a crumb is nothing to worry about; never give ginger supplements without asking your vet.",
+      "risks": [
+        "Mouth irritation and drooling",
+        "Vomiting or diarrhea in larger amounts",
+        "Digestive discomfort",
+        "Sugar and spices in ginger products"
+      ],
+      "ifEaten": "A small piece of ginger usually isn't serious: watch for drooling, vomiting or diarrhea for 24 to 48 hours. Call your vet if these signs appear, if your cat ate a lot, or if they swallowed a ginger supplement or product.",
+      "alternatives": "If you want a plant your cat can chew safely, go for catnip or cat grass. For nausea, ask your vet rather than trying a home remedy.",
+      "faq": [
+        {"q": "Is ginger good for cats with nausea?", "a": "It's sometimes suggested, but there's no solid evidence on whether it works or what dose is safe for cats. A cat that's vomiting should see a vet, who has proper treatments."},
+        {"q": "Can cats eat gingerbread?", "a": "No. Gingerbread is very sugary and contains a mix of spices, sometimes including nutmeg. It's not a cat treat, though a crumb won't hurt."}
+      ]
+    }
+  },
+  {
+    "id": "persil",
+    "verdict": "peu",
+    "related": ["basilic", "menthe", "ciboulette", "herbe-a-chat"],
+    "fr": {
+      "short": "Un peu. Quelques brins de persil ne sont pas dangereux pour ton chat, mais en grande quantité il peut rendre sa peau sensible au soleil.",
+      "why": "Le persil contient des furocoumarines, des composés qui, en grande quantité, peuvent provoquer une photosensibilisation : la peau réagit au soleil, avec rougeurs ou irritations. C'est pour cette raison qu'il figure sur certaines listes de plantes toxiques pour les chats. Un brin mâchonné de temps en temps est en revanche sans conséquence, et il n'apporte rien de spécial à son alimentation.",
+      "amount": "Un ou deux petits brins hachés de temps en temps, frais et bien lavés, c'est le maximum. N'en fais pas une habitude et ne lui donne jamais de persil assaisonné ou mélangé à de l'ail.",
+      "risks": [
+        "Photosensibilisation : rougeurs, irritation de la peau au soleil",
+        "Troubles digestifs en grande quantité",
+        "Persillade avec de l'ail : toxique",
+        "Confusion avec la ciguë si cueilli à l'état sauvage"
+      ],
+      "ifEaten": "Quelques brins de persil ne posent pas de problème. S'il en a mangé une grosse quantité, surveille vomissements, diarrhée et rougeurs sur les zones peu poilues comme les oreilles et le nez dans les 48 heures et les jours suivants, et appelle ton vétérinaire si ces signes apparaissent.",
+      "alternatives": "Pour une verdure à mâchonner sans souci, l'herbe à chat ou un pot de jeunes pousses de blé ou d'avoine sont parfaits. Le basilic est aussi considéré comme non toxique.",
+      "faq": [
+        {"q": "Le persil est-il bon pour l'haleine de mon chat ?", "a": "C'est une idée répandue, mais le persil ne règle pas la mauvaise haleine d'un chat, qui vient souvent du tartre ou d'un problème dentaire. Mieux vaut faire contrôler sa bouche par ton vétérinaire."},
+        {"q": "Mon chat mange mon persil en pot, c'est grave ?", "a": "Quelques bouchées de temps en temps ne sont pas graves. S'il le dévore tous les jours, mets le pot hors de portée et propose-lui de l'herbe à chat à la place."}
+      ]
+    },
+    "en": {
+      "short": "A little. A few sprigs of parsley won't harm your cat, but large amounts can make their skin sensitive to sunlight.",
+      "why": "Parsley contains furanocoumarins, compounds that in large amounts can cause photosensitization: the skin reacts to sunlight with redness or irritation. That's why it appears on some lists of plants toxic to cats. A nibbled sprig now and then is harmless, though it doesn't add anything special to your cat's diet.",
+      "amount": "One or two small chopped sprigs now and then, fresh and well washed, is plenty. Don't make it a habit, and never give parsley that's seasoned or mixed with garlic.",
+      "risks": [
+        "Photosensitization: skin redness or irritation in the sun",
+        "Stomach upset in large amounts",
+        "Parsley mixed with garlic: toxic",
+        "Mix-ups with poison hemlock when foraged"
+      ],
+      "ifEaten": "A few sprigs of parsley are no problem. If your cat ate a large amount, watch for vomiting, diarrhea and redness on thinly furred areas like the ears and nose over the next 48 hours and the following days, and call your vet if those signs appear.",
+      "alternatives": "For safe greens to chew, catnip or a pot of cat grass (wheat or oat sprouts) are perfect. Basil is also considered non-toxic to cats.",
+      "faq": [
+        {"q": "Does parsley help with cat bad breath?", "a": "It's a common idea, but parsley won't fix a cat's bad breath, which usually comes from tartar or dental disease. Have your vet check their mouth instead."},
+        {"q": "Is parsley in cat food safe?", "a": "Yes, the small amounts of dried parsley found in some cat foods are not a concern. The risk comes from large amounts of the fresh plant."}
+      ]
+    }
+  },
+  {
+    "id": "menthe",
+    "verdict": "peu",
+    "related": ["herbe-a-chat", "basilic", "chewing-gum", "persil"],
+    "fr": {
+      "short": "Un peu. Une feuille de menthe mâchonnée n'est généralement pas grave, mais la plante irrite l'estomac et l'huile essentielle de menthe est toxique.",
+      "why": "La menthe contient des huiles essentielles, dont le menthol, qui irritent le tube digestif du chat : en manger beaucoup peut provoquer vomissements et diarrhée. Elle figure pour cette raison sur certaines listes de plantes toxiques, même si une feuille isolée pose rarement problème. Le vrai danger, ce sont les produits concentrés : le foie du chat élimine mal de nombreux composés des huiles essentielles, et les bonbons ou chewing-gums à la menthe peuvent contenir du xylitol.",
+      "amount": "Inutile de lui en proposer. S'il grignote une feuille de ta menthe de temps en temps, ce n'est pas grave, mais place le pot hors de portée s'il y revient souvent.",
+      "risks": [
+        "Vomissements et diarrhée s'il en mange beaucoup",
+        "Huile essentielle : salivation, tremblements, atteinte du foie",
+        "Bonbons et chewing-gums à la menthe : xylitol, étouffement",
+        "Irritation de la bouche"
+      ],
+      "ifEaten": "Une ou deux feuilles de menthe ne posent en général pas de problème : surveille vomissements ou diarrhée pendant 24 à 48 heures. S'il a léché de l'huile essentielle, avalé un bonbon ou un chewing-gum à la menthe, ou mangé une grande quantité de plante, appelle ton vétérinaire sans attendre.",
+      "alternatives": "Offre-lui plutôt de l'herbe à chat (la cataire), une cousine de la menthe qu'il peut mâchonner et renifler sans risque. Les pousses de céréales en pot sont aussi idéales.",
+      "faq": [
+        {"q": "L'herbe à chat, c'est de la menthe ?", "a": "La cataire est une plante de la même famille, mais ce n'est pas la menthe de cuisine. Elle est sans danger pour les chats, alors que la menthe peut irriter leur estomac."},
+        {"q": "Puis-je diffuser de l'huile essentielle de menthe avec un chat ?", "a": "Mieux vaut éviter. Les chats sont très sensibles aux huiles essentielles, qu'ils les respirent ou les lèchent sur leur pelage, et la menthe poivrée en fait partie. Demande conseil à ton vétérinaire avant d'utiliser un diffuseur."}
+      ]
+    },
+    "en": {
+      "short": "A little. A nibbled mint leaf usually isn't serious, but the plant can upset a cat's stomach and peppermint oil is toxic to cats.",
+      "why": "Mint contains essential oils, including menthol, that irritate a cat's digestive tract: eating a lot of it can cause vomiting and diarrhea. That's why it appears on some lists of plants toxic to cats, even though a single leaf rarely causes trouble. The real danger is concentrated products: a cat's liver handles many essential oil compounds poorly, and mint candy or gum may contain xylitol.",
+      "amount": "There's no need to offer it. If your cat nibbles your mint plant now and then, it's not a big deal, but move the pot out of reach if they keep going back.",
+      "risks": [
+        "Vomiting and diarrhea if a lot is eaten",
+        "Essential oil: drooling, tremors, liver damage",
+        "Mint candy and gum: xylitol and choking",
+        "Mouth irritation"
+      ],
+      "ifEaten": "A leaf or two of mint usually causes no problem: watch for vomiting or diarrhea for 24 to 48 hours. If your cat licked essential oil, swallowed a mint candy or gum, or ate a large amount of the plant, call your vet right away.",
+      "alternatives": "Offer catnip instead: it's a cousin of mint your cat can chew and sniff safely. A pot of cat grass is ideal too.",
+      "faq": [
+        {"q": "Is catnip a type of mint?", "a": "Catnip belongs to the mint family, but it's not the mint you cook with. Catnip is safe for cats, while garden mint can upset their stomach."},
+        {"q": "Is peppermint oil safe to diffuse around cats?", "a": "It's best to avoid it. Cats are very sensitive to essential oils, whether they breathe them in or lick them off their fur, and peppermint is one of them. Ask your vet before using any diffuser."}
+      ]
+    }
+  },
+  {
+    "id": "basilic",
+    "verdict": "oui",
+    "related": ["persil", "menthe", "herbe-a-chat", "ail"],
+    "fr": {
+      "short": "Oui. Le basilic n'est pas toxique pour le chat : quelques feuilles fraîches mâchonnées sont sans danger, mais le pesto, avec son ail, est à éviter.",
+      "why": "Le basilic est classé parmi les plantes non toxiques pour les chats par les références vétérinaires, et beaucoup de chats aiment en grignoter. Il n'a pas d'intérêt nutritionnel particulier pour un carnivore, et en manger beaucoup peut simplement donner des troubles digestifs. Ce qui pose problème, ce sont les préparations : le pesto contient de l'ail, du fromage et de l'huile, et l'huile essentielle de basilic est bien trop concentrée pour un chat.",
+      "amount": "Une ou deux feuilles fraîches, bien lavées, de temps en temps. S'il grignote ton pot, laisse-le faire raisonnablement, tant que la plante n'a pas été traitée avec des pesticides.",
+      "risks": [
+        "Petits troubles digestifs s'il en mange beaucoup",
+        "Pesto : ail toxique, fromage et huile",
+        "Huile essentielle de basilic : trop concentrée",
+        "Pesticides sur les plants du commerce"
+      ],
+      "ifEaten": "Quelques feuilles de basilic ne posent aucun problème. S'il a mangé beaucoup de plante, surveille vomissements ou diarrhée pendant 24 à 48 heures ; s'il a mangé du pesto, appelle ton vétérinaire à cause de l'ail.",
+      "alternatives": "L'herbe à chat et les pousses de céréales en pot sont aussi faites pour être mâchonnées. Si tu veux un pot de basilic qu'il peut grignoter, choisis-le non traité.",
+      "faq": [
+        {"q": "Mon chat peut-il manger du pesto ?", "a": "Non, le pesto contient de l'ail, toxique pour les globules rouges du chat, plus du fromage et beaucoup d'huile. Le basilic seul, oui ; le pesto, non."},
+        {"q": "Mon chat grignote mon basilic, est-ce grave ?", "a": "Non, le basilic n'est pas toxique, et beaucoup de chats aiment mâchonner les herbes aromatiques. Vérifie simplement que la plante n'a pas été traitée, et propose-lui de l'herbe à chat pour épargner ton pot."}
+      ]
+    },
+    "en": {
+      "short": "Yes. Basil isn't toxic to cats: a few fresh leaves are safe to nibble, but pesto, which contains garlic, is off limits.",
+      "why": "Basil is listed as non-toxic to cats by veterinary references, and many cats enjoy nibbling it. It has no particular nutritional value for a carnivore, and eating a lot can simply upset the stomach. Preparations are the problem: pesto contains garlic, cheese and oil, and basil essential oil is far too concentrated for a cat.",
+      "amount": "One or two fresh, washed leaves now and then. If your cat nibbles your plant, that's fine within reason, as long as it wasn't treated with pesticides.",
+      "risks": [
+        "Mild stomach upset if a lot is eaten",
+        "Pesto: toxic garlic, plus cheese and oil",
+        "Basil essential oil: too concentrated",
+        "Pesticides on store-bought plants"
+      ],
+      "ifEaten": "A few basil leaves are no problem at all. If your cat ate a lot of the plant, watch for vomiting or diarrhea for 24 to 48 hours; if they ate pesto, call your vet because of the garlic.",
+      "alternatives": "Catnip and cat grass are made to be chewed too. If you want a basil plant your cat can nibble, choose an untreated one.",
+      "faq": [
+        {"q": "Is basil safe for cats to chew on?", "a": "Yes, basil is non-toxic to cats, so chewing a few leaves of the plant is fine. Just make sure it hasn't been sprayed with pesticides."},
+        {"q": "Can cats eat pesto?", "a": "No. Pesto contains garlic, which damages a cat's red blood cells, plus cheese and lots of oil. Basil on its own is fine; pesto isn't."}
+      ]
+    }
+  },
+  {
+    "id": "cannelle",
+    "verdict": "peu",
+    "related": ["gingembre", "gateau", "biscuits"],
+    "fr": {
+      "short": "Un peu. Une pincée de cannelle n'est pas toxique pour ton chat, mais la poudre irrite sa bouche et ses voies respiratoires, et l'huile essentielle est dangereuse.",
+      "why": "La cannelle n'est pas considérée comme toxique pour les chats en petite quantité. En revanche, la poudre peut irriter la bouche et, si elle est inhalée, provoquer toux et gêne respiratoire, et une grande quantité peut causer vomissements et diarrhée. L'huile essentielle de cannelle est très concentrée et irritante, et le foie du chat élimine mal ce type de composés.",
+      "amount": "Il n'y a pas de raison de lui en donner. Si une pincée tombe dans sa gamelle, ce n'est pas grave, mais range le pot et ne diffuse pas d'huile essentielle de cannelle chez toi.",
+      "risks": [
+        "Irritation de la bouche et des lèvres",
+        "Toux, éternuements si la poudre est inhalée",
+        "Vomissements, diarrhée en grande quantité",
+        "Huile essentielle : irritation et intoxication"
+      ],
+      "ifEaten": "Une pincée ou un peu de pâtisserie à la cannelle n'est généralement pas grave : surveille vomissements, diarrhée ou toux pendant 24 à 48 heures. Appelle ton vétérinaire s'il a avalé une cuillerée de poudre, léché de l'huile essentielle, ou s'il a du mal à respirer.",
+      "alternatives": "Pour lui faire plaisir, une friandise pour chat ou un petit morceau de poulet cuit nature sont bien plus adaptés. Côté odeurs, l'herbe à chat a beaucoup plus de succès.",
+      "faq": [
+        {"q": "Mon chat peut-il manger une brioche ou un gâteau à la cannelle ?", "a": "Ce n'est pas la cannelle qui pose le plus de problème, mais le sucre, le beurre et parfois les raisins secs ou la muscade. Ne lui en donne pas ; une miette par accident n'est pas grave."},
+        {"q": "Les bougies ou diffuseurs à la cannelle sont-ils dangereux ?", "a": "Les diffuseurs d'huile essentielle sont à éviter avec un chat, car il respire les gouttelettes et peut les lécher sur son pelage. Une bougie parfumée de temps en temps dans une pièce aérée est moins risquée, mais garde-la hors de sa portée."}
+      ]
+    },
+    "en": {
+      "short": "A little. A pinch of cinnamon isn't toxic to cats, but the powder irritates the mouth and airways, and cinnamon oil is dangerous.",
+      "why": "Cinnamon isn't considered toxic to cats in small amounts. The powder can irritate the mouth, cause coughing and breathing trouble if inhaled, and large amounts can lead to vomiting and diarrhea. Cinnamon essential oil is highly concentrated and irritating, and a cat's liver handles these kinds of compounds poorly.",
+      "amount": "There's no reason to give it. A pinch that lands in the bowl is no big deal, but keep the jar put away and don't diffuse cinnamon oil at home.",
+      "risks": [
+        "Mouth and lip irritation",
+        "Coughing or sneezing if the powder is inhaled",
+        "Vomiting and diarrhea in large amounts",
+        "Essential oil: irritation and poisoning"
+      ],
+      "ifEaten": "A pinch or a bite of cinnamon pastry usually isn't serious: watch for vomiting, diarrhea or coughing for 24 to 48 hours. Call your vet if your cat swallowed a spoonful of powder, licked essential oil, or has trouble breathing.",
+      "alternatives": "For a treat, a cat treat or a small piece of plain cooked chicken is far better. If your cat loves scents, catnip is a much bigger hit.",
+      "faq": [
+        {"q": "Can cats eat cinnamon rolls?", "a": "Cinnamon isn't the main problem: the sugar, butter and icing are, and some recipes include raisins or nutmeg. Don't share them; a crumb by accident is fine."},
+        {"q": "Is a cinnamon candle or diffuser safe for cats?", "a": "Essential oil diffusers are best avoided with cats, since they inhale the droplets and can lick them off their fur. An occasional scented candle in a ventilated room is lower risk, but keep it out of reach."}
+      ]
+    }
+  },
+  {
+    "id": "curry",
+    "verdict": "non",
+    "related": ["piment", "oignon", "ail", "noix-de-coco"],
+    "fr": {
+      "short": "Non. Le curry, en poudre comme en plat, contient souvent de l'ail, de l'oignon et du piment : trop épicé et potentiellement toxique pour ton chat.",
+      "why": "Le curry en poudre est un mélange d'épices (curcuma, cumin, coriandre, fenugrec, piment) qui contient souvent de l'ail ou de l'oignon en poudre, toxiques pour les globules rouges du chat. Les plats au curry ajoutent de l'oignon, de l'ail, du lait de coco ou de la crème, et du sel. Le piment et les épices irritent sa bouche et son tube digestif.",
+      "amount": "Aucune quantité n'est conseillée, ni de poudre ni de plat. Garde ton assiette et tes pots d'épices hors de sa portée.",
+      "risks": [
+        "Anémie si le curry contient ail ou oignon",
+        "Brûlure de la bouche, salivation",
+        "Vomissements et diarrhée",
+        "Pancréatite avec les sauces grasses au lait de coco ou à la crème"
+      ],
+      "ifEaten": "Appelle ton vétérinaire sans attendre les symptômes, surtout si le plat contenait de l'oignon ou de l'ail : l'anémie peut apparaître plusieurs jours après. Garde l'emballage du mélange d'épices ou la liste des ingrédients pour le lui montrer, et ne le fais pas vomir toi-même.",
+      "alternatives": "Avant de mettre la sauce, réserve-lui un petit morceau de poulet cuit nature. C'est tout ce qu'il lui faut.",
+      "faq": [
+        {"q": "Le curcuma est-il dangereux pour mon chat ?", "a": "Le curcuma seul n'est pas considéré comme toxique, mais il n'a pas d'intérêt prouvé dans son alimentation et peut irriter son estomac. Ne lui donne pas de complément au curcuma sans l'avis de ton vétérinaire."},
+        {"q": "Mon chat a léché de la sauce curry, que faire ?", "a": "Un coup de langue n'est généralement pas grave, mais la sauce contient souvent de l'oignon et de l'ail. Surveille-le, et appelle ton vétérinaire s'il en a avalé plus qu'un peu ou s'il vomit, semble fatigué ou a les gencives pâles."}
+      ]
+    },
+    "en": {
+      "short": "No. Curry, as a powder or a dish, often contains garlic, onion and chili: too spicy and potentially toxic for your cat.",
+      "why": "Curry powder is a blend of spices like turmeric, cumin, coriander, fenugreek and chili, and it often includes garlic or onion powder, which damage a cat's red blood cells. Curry dishes add onion, garlic, coconut milk or cream, and salt. Chili and strong spices irritate the mouth and digestive tract.",
+      "amount": "No amount is recommended, powder or dish. Keep your plate and spice jars out of reach.",
+      "risks": [
+        "Anemia if the curry contains garlic or onion",
+        "Burning mouth and drooling",
+        "Vomiting and diarrhea",
+        "Pancreatitis from rich coconut milk or cream sauces"
+      ],
+      "ifEaten": "Call your vet without waiting for symptoms, especially if the dish had onion or garlic: anemia can appear several days later. Keep the spice blend packaging or the ingredient list to show them, and don't try to make your cat vomit.",
+      "alternatives": "Before adding the sauce, set aside a small piece of plain cooked chicken for your cat. That's all they need.",
+      "faq": [
+        {"q": "Is turmeric safe for cats?", "a": "Turmeric on its own isn't considered toxic, but it has no proven benefit in a cat's diet and can upset the stomach. Don't give turmeric supplements without your vet's advice."},
+        {"q": "My cat licked curry sauce. What should I do?", "a": "A single lick usually isn't serious, but curry sauce often contains onion and garlic. Keep an eye on your cat, and call your vet if they ate more than a little or start vomiting, seem tired or have pale gums."}
+      ]
+    }
+  },
+  {
+    "id": "piment",
+    "verdict": "non",
+    "related": ["curry", "poivron", "sel", "couscous"],
+    "fr": {
+      "short": "Non. Le piment contient de la capsaïcine, qui brûle la bouche et irrite l'estomac de ton chat : il n'en tire aucun bénéfice, seulement de la douleur.",
+      "why": "La capsaïcine, responsable du piquant, irrite fortement les muqueuses : bouche, yeux, estomac et intestin. Chez le chat, elle peut provoquer salivation abondante, vomissements, diarrhée et douleurs abdominales. Les plats pimentés contiennent en plus souvent de l'ail, de l'oignon et du sel, et mieux vaut aussi garder les plants de piment hors de sa portée.",
+      "amount": "Aucune quantité n'est conseillée. Fais attention aux sauces piquantes, aux chips épicées et aux plats pimentés laissés sur la table.",
+      "risks": [
+        "Brûlure de la bouche et salivation abondante",
+        "Vomissements et diarrhée",
+        "Douleurs abdominales",
+        "Irritation des yeux s'il se frotte avec la patte"
+      ],
+      "ifEaten": "S'il a avalé un morceau de piment ou une sauce pimentée, appelle ton vétérinaire sans attendre, surtout si le plat contenait aussi de l'ail ou de l'oignon. Ne le fais pas vomir toi-même ; propose-lui de l'eau fraîche, et s'il a les yeux irrités, rince-les doucement à l'eau claire.",
+      "alternatives": "Inutile de relever son repas : un peu de poisson ou de poulet cuit nature, sans assaisonnement, lui fera bien plus plaisir.",
+      "faq": [
+        {"q": "Peut-on utiliser du piment pour éloigner le chat des plantes ?", "a": "C'est déconseillé : il peut s'en mettre sur les pattes ou le museau, puis dans les yeux ou la bouche en faisant sa toilette. Préfère placer les plantes hors de portée ou lui proposer un pot d'herbe à chat à côté."},
+        {"q": "Le poivron est-il aussi dangereux ?", "a": "Non, le poivron doux ne contient pas ou très peu de capsaïcine. Cuit et nature, il peut être donné en petits morceaux de temps en temps."}
+      ]
+    },
+    "en": {
+      "short": "No. Chili peppers contain capsaicin, which burns a cat's mouth and irritates the stomach: your cat gets no benefit, only pain.",
+      "why": "Capsaicin, the compound that makes chili hot, strongly irritates the mouth, eyes, stomach and gut. In cats it can cause heavy drooling, vomiting, diarrhea and belly pain. Spicy dishes also often contain garlic, onion and salt, and it's wise to keep chili plants out of reach as well.",
+      "amount": "No amount is recommended. Watch out for hot sauce, spicy chips and chili dishes left on the table.",
+      "risks": [
+        "Burning mouth and heavy drooling",
+        "Vomiting and diarrhea",
+        "Belly pain",
+        "Eye irritation if they rub their face with a paw"
+      ],
+      "ifEaten": "If your cat swallowed a piece of chili or spicy sauce, call your vet right away, especially if the dish also had garlic or onion. Don't try to make your cat vomit; offer fresh water, and if the eyes are irritated, gently rinse them with clean water.",
+      "alternatives": "There's no need to spice up your cat's food: a bit of plain cooked fish or chicken will please them far more.",
+      "faq": [
+        {"q": "Can I use cayenne pepper to keep cats out of plants?", "a": "It's not a good idea: cats can get it on their paws or face, then into their eyes and mouth while grooming. Move plants out of reach or offer a pot of cat grass nearby instead."},
+        {"q": "Are bell peppers safe for cats?", "a": "Bell peppers contain little to no capsaicin, so they're a different story. Cooked and plain, small pieces are fine once in a while."}
+      ]
+    }
+  },
+  {
+    "id": "sel",
+    "verdict": "non",
+    "related": ["chips", "jambon", "saucisson", "saumon-fume"],
+    "fr": {
+      "short": "Non. Ton chat n'a pas besoin de sel en plus : sa nourriture lui en apporte assez, et une grande quantité peut provoquer une intoxication grave.",
+      "why": "Le sodium est indispensable au chat, mais une alimentation complète pour chat lui en apporte déjà la quantité nécessaire. Un excès de sel provoque d'abord soif intense et troubles digestifs, et une grosse quantité peut entraîner une hypernatrémie, qui touche le système nerveux (tremblements, convulsions). Les sources cachées sont nombreuses : charcuterie, chips, fromage, bouillon cube, eau de cuisson salée, pâte à sel ou lampes de sel.",
+      "amount": "N'ajoute jamais de sel à sa nourriture, et évite de lui donner des aliments salés. Range le sel, les bouillons cubes et les objets en pâte à sel hors de sa portée.",
+      "risks": [
+        "Soif intense et urines abondantes",
+        "Vomissements et diarrhée",
+        "Tremblements, désorientation, convulsions en cas d'excès important",
+        "Risque accru s'il a une maladie rénale ou cardiaque"
+      ],
+      "ifEaten": "S'il a avalé du gros sel, de la pâte à sel, beaucoup d'eau salée ou un aliment très salé, appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes. Laisse-lui de l'eau fraîche à disposition sans le forcer à boire, et ne le fais pas vomir toi-même, surtout pas avec de l'eau salée.",
+      "alternatives": "Pour lui faire plaisir, choisis des friandises sans sel ajouté : un peu de poulet, de dinde ou de poisson cuit nature. S'il boit peu, une pâtée ou une fontaine à eau aideront bien mieux qu'un aliment salé.",
+      "faq": [
+        {"q": "Mon chat lèche ma lampe de sel, est-ce dangereux ?", "a": "Oui, ça peut l'être : des cas d'intoxication ont été rapportés chez des chats qui léchaient régulièrement une lampe de sel. Place-la hors de sa portée, et appelle ton vétérinaire s'il boit énormément, vomit ou semble désorienté."},
+        {"q": "Le sel de déneigement est-il dangereux pour mon chat ?", "a": "Oui, il irrite les coussinets, et ton chat peut en avaler en se léchant les pattes. Après une sortie sur un trottoir salé, essuie-lui les pattes avec un linge humide."}
+      ]
+    },
+    "en": {
+      "short": "No. Your cat doesn't need extra salt: their food already provides enough, and a large amount can cause serious poisoning.",
+      "why": "Sodium is essential for cats, but complete cat food already provides what they need. Too much salt first causes intense thirst and stomach upset, and a large amount can lead to hypernatremia, which affects the nervous system (tremors, seizures). Hidden sources are everywhere: deli meats, chips, cheese, bouillon cubes, salted cooking water, salt dough ornaments and salt lamps.",
+      "amount": "Never add salt to your cat's food, and avoid giving salty foods. Keep salt, bouillon cubes and salt dough crafts out of reach.",
+      "risks": [
+        "Intense thirst and frequent urination",
+        "Vomiting and diarrhea",
+        "Tremors, disorientation or seizures with large amounts",
+        "Higher risk for cats with kidney or heart disease"
+      ],
+      "ifEaten": "If your cat swallowed rock salt, salt dough, a lot of salt water or a very salty food, call your vet or an animal poison control center right away, without waiting for symptoms. Leave fresh water available but don't force your cat to drink, and never try to make them vomit, especially not with salt water.",
+      "alternatives": "For treats, choose options with no added salt: a bit of plain cooked chicken, turkey or fish. If your cat drinks too little, wet food or a water fountain helps far more than salty food.",
+      "faq": [
+        {"q": "Is it dangerous if my cat licks a salt lamp?", "a": "It can be: cases of salt poisoning have been reported in cats that regularly licked salt lamps. Keep the lamp out of reach, and call your vet if your cat drinks a lot, vomits or seems disoriented."},
+        {"q": "Is ice melt salt dangerous for cats?", "a": "Yes, it irritates the paw pads, and cats can swallow it while licking their paws. After walks on salted sidewalks, wipe their paws with a damp cloth, and choose a pet-safe ice melt for your own steps."}
+      ]
+    }
+  },
+  {
+    "id": "herbe-a-chat",
+    "verdict": "oui",
+    "related": ["menthe", "basilic", "persil", "lys"],
+    "fr": {
+      "short": "Oui. L'herbe à chat, qu'il s'agisse de la cataire ou des jeunes pousses de céréales vendues en pot, est sans danger : il peut la mâchonner et la renifler.",
+      "why": "En français, on appelle herbe à chat deux plantes différentes, toutes deux sans danger. La cataire (Nepeta cataria) contient de la népétalactone, qui déclenche chez beaucoup de chats une euphorie passagère : roulades, frottements, ronronnements, puis une phase de calme ; tous n'y sont pas sensibles, car c'est en partie héréditaire. Les jeunes pousses de blé, d'orge ou d'avoine vendues en pot offrent, elles, des fibres que beaucoup de chats adorent mâchonner.",
+      "amount": "Il peut en mâchonner librement, avec modération : quelques bouchées par jour suffisent. Pour la cataire séchée, une pincée sur un jouet ou un griffoir quelques fois par semaine garde l'effet intact.",
+      "risks": [
+        "Vomissements s'il en mange beaucoup d'un coup",
+        "Diarrhée passagère en cas d'excès",
+        "Excitation ou petite agressivité chez certains chats",
+        "Moisissures sur les pousses trop arrosées"
+      ],
+      "ifEaten": "Même une grosse quantité d'herbe à chat n'est pas toxique : au pire, il vomira ou aura une diarrhée passagère. Surveille-le 24 à 48 heures, et appelle ton vétérinaire si les vomissements se répètent ou s'il mange de l'herbe de façon compulsive.",
+      "alternatives": "Pour varier, la valériane ou le bois de matatabi (vigne argentée) produisent un effet proche chez certains chats insensibles à la cataire. Le chlorophytum est aussi une plante d'intérieur sans danger qu'il peut grignoter.",
+      "faq": [
+        {"q": "Mon chat peut-il manger de l'herbe à chat tous les jours ?", "a": "Oui, ce n'est pas dangereux. Pour la cataire, espacer un peu les séances évite qu'il s'y habitue et garde l'effet plus marqué ; les pousses de céréales, elles, peuvent rester à disposition."},
+        {"q": "Pourquoi mon chat ne réagit pas à l'herbe à chat ?", "a": "La sensibilité à la cataire est en partie génétique, et une partie des chats n'y réagit pas du tout. Les chatons, eux, n'y réagissent souvent pas avant l'âge de quelques mois."}
+      ]
+    },
+    "en": {
+      "short": "Yes. Catnip is safe for cats: they can sniff it, chew it and roll in it, and the worst that happens from eating a lot is a mild upset stomach.",
+      "why": "Catnip contains nepetalactone, a compound that triggers a short burst of euphoria in many cats: rolling, rubbing, purring, then a calm phase. Not every cat responds, since sensitivity is partly inherited, and kittens rarely react before they're a few months old. It isn't addictive and isn't considered toxic.",
+      "amount": "Your cat can chew fresh catnip in moderation; a few nibbles a day is plenty. For dried catnip, a pinch on a toy or scratcher a few times a week keeps the effect strong.",
+      "risks": [
+        "Vomiting if a lot is eaten at once",
+        "Mild, short-lived diarrhea",
+        "Overexcitement or brief swatting in some cats",
+        "Mold on overwatered pots"
+      ],
+      "ifEaten": "Even a large amount of catnip isn't toxic: at worst, your cat may vomit or have mild diarrhea. Watch them for 24 to 48 hours, and call your vet if vomiting keeps happening.",
+      "alternatives": "Silver vine (matatabi) or valerian root can trigger a similar reaction in some cats that ignore catnip. Cat grass and spider plants are also safe for nibbling.",
+      "faq": [
+        {"q": "Can cats eat catnip every day?", "a": "Yes, it's not harmful. Spacing out sessions helps keep the effect strong, since cats can become less responsive with constant exposure."},
+        {"q": "Is cat grass the same as catnip?", "a": "No. Cat grass is usually young wheat, oat or barley sprouts that cats like to chew, while catnip is a mint-family herb that triggers that playful reaction. Both are safe."}
+      ]
+    }
+  },
+  {
+    "id": "lys",
+    "verdict": "non",
+    "related": ["muguet", "tulipe", "poinsettia", "herbe-a-chat"],
+    "fr": {
+      "short": "Non. Le lys est extrêmement toxique pour le chat : une feuille mâchonnée, du pollen léché sur le pelage ou l'eau du vase peuvent provoquer une insuffisance rénale aiguë.",
+      "why": "Les vrais lys (genre Lilium, comme le lys de Pâques, le lys tigré, le lys asiatique ou oriental) et les hémérocalles (Hemerocallis) contiennent une toxine encore mal identifiée qui détruit les reins du chat. Toutes les parties sont dangereuses : fleurs, feuilles, tiges, pollen, bulbes et même l'eau du vase. Les premiers signes (vomissements, bave, perte d'appétit, abattement) apparaissent en quelques heures, peuvent sembler s'atténuer, puis l'insuffisance rénale s'installe en un à trois jours.",
+      "amount": "Aucune quantité n'est sûre, même quelques grains de pollen. Le plus simple est de ne pas avoir de lys ni d'hémérocalles chez toi ni dans un jardin auquel ton chat a accès, et de refuser les bouquets qui en contiennent.",
+      "risks": [
+        "Insuffisance rénale aiguë, potentiellement mortelle",
+        "Vomissements, salivation dans les premières heures",
+        "Perte d'appétit, abattement",
+        "Urines anormales (abondantes puis rares)"
+      ],
+      "ifEaten": "C'est une urgence : emmène ton chat chez le vétérinaire ou contacte un centre antipoison vétérinaire tout de suite, même s'il semble aller bien. Le pronostic est bien meilleur quand le traitement commence dans les premières heures, avant l'apparition des signes rénaux. Emporte la plante ou une photo, et ne le fais pas vomir toi-même.",
+      "alternatives": "Pour fleurir ta maison, choisis des fleurs considérées comme non toxiques pour les chats, comme les roses, les orchidées phalaenopsis ou les gerberas. Côté plantes vertes, le chlorophytum ou le palmier d'intérieur (Chamaedorea) sont sûrs.",
+      "faq": [
+        {"q": "Le pollen de lys est-il dangereux pour mon chat ?", "a": "Oui, très. Il suffit que ton chat frôle la fleur et lèche le pollen tombé sur son pelage pour s'intoxiquer. Si c'est arrivé, appelle ton vétérinaire sans attendre ; tu peux essuyer le pollen avec un linge humide pour qu'il n'en lèche pas davantage."},
+        {"q": "Le spathiphyllum (lys de la paix) est-il aussi dangereux ?", "a": "Non, malgré son surnom, ce n'est pas un vrai lys et il ne cause pas d'insuffisance rénale. Il contient des cristaux d'oxalate de calcium qui irritent la bouche (bave, grattage du museau), donc mieux vaut quand même le garder hors de portée."}
+      ]
+    },
+    "en": {
+      "short": "No. Lilies are extremely toxic to cats: a chewed leaf, pollen licked off the fur or a sip of vase water can cause acute kidney failure.",
+      "why": "True lilies (Lilium, such as Easter, tiger, Asiatic and Oriental lilies) and daylilies (Hemerocallis) contain a toxin, still not fully identified, that destroys a cat's kidneys. Every part is dangerous: flowers, leaves, stems, pollen, bulbs and even the water in the vase. Early signs like vomiting, drooling, loss of appetite and lethargy appear within hours, may seem to ease, and then kidney failure can develop within one to three days.",
+      "amount": "No amount is safe, not even a few grains of pollen. The safest choice is to keep lilies and daylilies out of your home and out of any garden your cat can reach, and to turn down bouquets that include them.",
+      "risks": [
+        "Acute kidney failure, which can be fatal",
+        "Vomiting and drooling in the first hours",
+        "Loss of appetite and lethargy",
+        "Abnormal urination (too much, then too little)"
+      ],
+      "ifEaten": "This is an emergency: take your cat to the vet or call an animal poison control center right away, even if they seem fine. The outlook is much better when treatment starts in the first hours, before kidney signs appear. Bring the plant or a photo, and don't try to make your cat vomit.",
+      "alternatives": "For flowers at home, pick ones considered non-toxic to cats, like roses, phalaenopsis orchids or gerbera daisies. For houseplants, spider plants and parlor palms are safe choices.",
+      "faq": [
+        {"q": "Is lily pollen dangerous to cats?", "a": "Yes, very. A cat only needs to brush against the flower and lick the pollen off its fur to be poisoned. If that happens, call your vet right away; you can wipe the pollen off with a damp cloth so they don't lick more."},
+        {"q": "Are peace lilies and calla lilies toxic to cats?", "a": "They aren't true lilies and don't cause kidney failure. They contain calcium oxalate crystals that irritate the mouth and cause drooling or pawing at the face, so they're still best kept out of reach."}
+      ]
+    }
+  },
+  {
+    "id": "muguet",
+    "verdict": "non",
+    "related": ["lys", "tulipe", "gui"],
+    "fr": {
+      "short": "Non. Le muguet est très toxique pour le chat : ses glycosides cardiaques peuvent provoquer vomissements, troubles du rythme cardiaque et malaise grave.",
+      "why": "Le muguet (Convallaria majalis) contient des glycosides cardiotoniques, des substances qui agissent directement sur le cœur. Chez le chat, ils peuvent provoquer vomissements, diarrhée, ralentissement ou irrégularité du rythme cardiaque, chute de tension et, dans les cas graves, convulsions. Toutes les parties de la plante sont toxiques, fleurs, feuilles, baies rouges et racines, et l'eau du vase est aussi considérée comme dangereuse.",
+      "amount": "Aucune quantité n'est sûre. Évite d'avoir du muguet chez toi, et si tu en reçois le 1er mai, place-le dans une pièce où ton chat n'entre jamais et jette l'eau du vase hors de sa portée.",
+      "risks": [
+        "Troubles du rythme cardiaque, parfois mortels",
+        "Vomissements et diarrhée",
+        "Faiblesse, chute de tension",
+        "Désorientation, convulsions dans les cas graves"
+      ],
+      "ifEaten": "Contacte ton vétérinaire ou un centre antipoison vétérinaire immédiatement, sans attendre les symptômes, même s'il n'a mâchonné qu'une feuille ou bu l'eau du vase. Emporte la plante ou une photo, et ne le fais pas vomir toi-même.",
+      "alternatives": "Pour offrir ou décorer au printemps, préfère des fleurs considérées comme non toxiques pour les chats, comme les roses ou les orchidées. Un pot d'herbe à chat lui donnera de la verdure à mâchonner sans danger.",
+      "faq": [
+        {"q": "Peut-on avoir du muguet le 1er mai quand on a un chat ?", "a": "Le plus sûr est de s'en passer. Si tu en reçois, garde-le dans une pièce fermée où ton chat ne va pas, change l'eau hors de sa portée et ramasse les fleurs fanées."},
+        {"q": "L'eau du vase de muguet est-elle dangereuse ?", "a": "Oui, par précaution elle est considérée comme toxique, car les substances de la plante peuvent s'y diffuser. Si ton chat en a bu, appelle ton vétérinaire sans attendre."}
+      ]
+    },
+    "en": {
+      "short": "No. Lily of the valley is highly toxic to cats: its cardiac glycosides can cause vomiting, an abnormal heart rhythm and collapse.",
+      "why": "Lily of the valley (Convallaria majalis) contains cardiac glycosides, substances that act directly on the heart. In cats they can cause vomiting, diarrhea, a slow or irregular heartbeat, a drop in blood pressure and, in severe cases, seizures. Every part of the plant is toxic, including the flowers, leaves, red berries and roots, and the vase water is considered dangerous too.",
+      "amount": "No amount is safe. Keep it out of your home, and if you receive some, put it in a room your cat never enters and dispose of the vase water out of reach.",
+      "risks": [
+        "Heart rhythm problems, which can be fatal",
+        "Vomiting and diarrhea",
+        "Weakness and low blood pressure",
+        "Disorientation or seizures in severe cases"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center immediately, without waiting for symptoms, even if your cat only chewed a leaf or drank vase water. Bring the plant or a photo, and don't try to make your cat vomit.",
+      "alternatives": "For spring bouquets, choose flowers considered non-toxic to cats, like roses or orchids. A pot of cat grass gives your cat something green to chew safely.",
+      "faq": [
+        {"q": "Is lily of the valley a true lily?", "a": "No. Despite the name, it isn't a true lily and doesn't cause kidney failure; it affects the heart instead. It's still an emergency, so treat any nibble seriously."},
+        {"q": "Is lily of the valley vase water toxic to cats?", "a": "It's considered toxic as a precaution, since compounds from the plant can leach into the water. If your cat drank some, call your vet right away."}
+      ]
+    }
+  },
+  {
+    "id": "gui",
+    "verdict": "non",
+    "related": ["houx", "poinsettia", "lys"],
+    "fr": {
+      "short": "Non. Le gui est toxique pour le chat : ses baies et ses feuilles provoquent surtout vomissements et diarrhée, et en grande quantité des troubles plus graves.",
+      "why": "Le gui contient plusieurs substances toxiques, notamment des lectines et des viscotoxines dans le gui européen (Viscum album). Le plus souvent, une petite quantité provoque des troubles digestifs : vomissements, diarrhée, bave. Une ingestion plus importante peut entraîner faiblesse, ralentissement du cœur, chute de tension ou troubles neurologiques, même si ces cas sont rares.",
+      "amount": "Aucune quantité n'est sûre. Accroche ton gui hors de sa portée, loin des meubles où il peut grimper, et ramasse les baies et feuilles qui tombent.",
+      "risks": [
+        "Vomissements, diarrhée, salivation",
+        "Douleurs abdominales",
+        "Ralentissement du cœur, chute de tension en cas de forte ingestion",
+        "Faiblesse, démarche instable"
+      ],
+      "ifEaten": "Contacte ton vétérinaire ou un centre antipoison vétérinaire sans attendre les symptômes, en précisant combien de baies ou de feuilles il a pu avaler. Garde un brin de la plante pour le montrer, et ne le fais pas vomir toi-même.",
+      "alternatives": "Pour décorer, préfère du gui artificiel bien accroché (attention aux fausses baies, qui peuvent être avalées) ou des décorations en tissu ou en bois.",
+      "faq": [
+        {"q": "Le gui artificiel est-il dangereux pour mon chat ?", "a": "Il n'est pas toxique, mais les petites baies en plastique peuvent être avalées et provoquer un étouffement ou une obstruction. Accroche-le hors de portée, comme le vrai."},
+        {"q": "Les baies de gui sont-elles plus dangereuses que les feuilles ?", "a": "Les baies sont souvent ce que le chat attrape en premier, mais les feuilles et les tiges sont aussi toxiques. Quelle que soit la partie mâchonnée, appelle ton vétérinaire."}
+      ]
+    },
+    "en": {
+      "short": "No. Mistletoe is toxic to cats: the berries and leaves mainly cause vomiting and diarrhea, and larger amounts can cause more serious problems.",
+      "why": "Mistletoe contains several toxic substances, including lectins and viscotoxins in European mistletoe and phoratoxins in American mistletoe. A small amount most often causes digestive upset: vomiting, diarrhea and drooling. Eating more can lead to weakness, a slow heart rate, low blood pressure or neurological signs, though such cases are rare.",
+      "amount": "No amount is safe. Hang mistletoe well out of reach, away from furniture your cat can climb, and pick up any fallen berries and leaves.",
+      "risks": [
+        "Vomiting, diarrhea and drooling",
+        "Belly pain",
+        "Slow heart rate and low blood pressure with large amounts",
+        "Weakness and wobbly walking"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center without waiting for symptoms, and say how many berries or leaves your cat may have eaten. Keep a sprig of the plant to show them, and don't try to make your cat vomit.",
+      "alternatives": "For holiday decor, choose artificial mistletoe hung securely (watch out for fake berries, which can be swallowed) or fabric and wooden decorations.",
+      "faq": [
+        {"q": "Is fake mistletoe safe for cats?", "a": "It isn't toxic, but the small plastic berries can be swallowed and cause choking or a blockage. Hang it out of reach, just like the real thing."},
+        {"q": "What Christmas plants are toxic to cats?", "a": "Lilies, often found in holiday bouquets, are the most dangerous; mistletoe, holly and amaryllis are also toxic. Poinsettias are only mildly irritating despite their reputation, but it's best to keep all of them out of reach."}
+      ]
+    }
+  },
+  {
+    "id": "houx",
+    "verdict": "non",
+    "related": ["gui", "poinsettia", "lys"],
+    "fr": {
+      "short": "Non. Le houx est toxique pour le chat : ses baies et ses feuilles provoquent vomissements et diarrhée, et ses feuilles piquantes blessent la bouche.",
+      "why": "Le houx contient des saponines et d'autres composés irritants pour le tube digestif, surtout concentrés dans les baies rouges. Mâchonné, il provoque le plus souvent bave, vomissements, diarrhée et abattement. Ses feuilles épineuses peuvent aussi blesser la bouche et la langue, ce qui limite heureusement souvent les quantités avalées.",
+      "amount": "Aucune quantité n'est sûre. Garde les branches de houx hors de sa portée, et ramasse les baies tombées des décorations.",
+      "risks": [
+        "Vomissements et diarrhée",
+        "Salivation abondante, secouements de tête",
+        "Blessures de la bouche par les feuilles piquantes",
+        "Abattement, perte d'appétit"
+      ],
+      "ifEaten": "Contacte ton vétérinaire ou un centre antipoison vétérinaire sans attendre les symptômes, surtout s'il a avalé des baies. Garde un brin de la plante pour l'identifier, et ne le fais pas vomir toi-même.",
+      "alternatives": "Pour décorer, préfère du houx artificiel sans petites baies détachables, ou des décorations en bois ou en tissu. Un pot d'herbe à chat lui offrira de la verdure sans danger.",
+      "faq": [
+        {"q": "Les baies de houx sont-elles mortelles pour un chat ?", "a": "L'intoxication par le houx est le plus souvent digestive et rarement mortelle, mais elle peut être sévère si le chat avale beaucoup de baies. Dans tous les cas, appelle ton vétérinaire pour savoir quoi faire."},
+        {"q": "Le houx artificiel est-il sans risque ?", "a": "Il n'est pas toxique, mais les petites baies en plastique peuvent être avalées et provoquer un étouffement ou une obstruction. Choisis des modèles sans petits éléments détachables."}
+      ]
+    },
+    "en": {
+      "short": "No. Holly is toxic to cats: the berries and leaves cause vomiting and diarrhea, and the spiny leaves can injure the mouth.",
+      "why": "Holly contains saponins and other compounds that irritate the digestive tract, mostly concentrated in the red berries. When chewed, it most often causes drooling, vomiting, diarrhea and lethargy. The spiny leaves can also injure the mouth and tongue, which luckily tends to limit how much a cat eats.",
+      "amount": "No amount is safe. Keep holly branches out of reach, and pick up berries that fall from decorations.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Heavy drooling and head shaking",
+        "Mouth injuries from the spiny leaves",
+        "Lethargy and loss of appetite"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center without waiting for symptoms, especially if your cat swallowed berries. Keep a sprig to identify the plant, and don't try to make your cat vomit.",
+      "alternatives": "For decorating, go for artificial holly without small detachable berries, or wooden and fabric decorations. A pot of cat grass gives your cat safe greenery.",
+      "faq": [
+        {"q": "Are holly berries deadly to cats?", "a": "Holly poisoning is usually limited to digestive upset and is rarely fatal, but it can be severe if a cat eats a lot of berries. Either way, call your vet to find out what to do."},
+        {"q": "Is fake holly safe for cats?", "a": "It isn't toxic, but small plastic berries can be swallowed and cause choking or a blockage. Choose versions without small parts that come off."}
+      ]
+    }
+  },
+  {
+    "id": "poinsettia",
+    "verdict": "peu",
+    "related": ["gui", "houx", "aloe-vera", "lys"],
+    "fr": {
+      "short": "Un peu. Le poinsettia est irritant pour le chat, mais bien moins toxique que sa réputation : il provoque surtout de la bave et des vomissements légers.",
+      "why": "La sève laiteuse du poinsettia (Euphorbia pulcherrima) contient des substances irritantes pour la bouche, l'estomac et la peau. Mâchonné, il provoque le plus souvent salivation, vomissements ou diarrhée légers, qui passent en général sans traitement. Sa réputation de plante mortelle est exagérée, mais ce n'est pas une raison pour laisser ton chat le grignoter.",
+      "amount": "Il ne doit pas en manger du tout, mais tu peux en garder un hors de sa portée, sur une étagère haute ou dans une pièce où il ne va pas. Ramasse les feuilles tombées.",
+      "risks": [
+        "Salivation, bave",
+        "Vomissements ou diarrhée légers",
+        "Irritation de la bouche",
+        "Rougeurs ou démangeaisons si la sève touche la peau ou les yeux"
+      ],
+      "ifEaten": "Quelques bouchées de poinsettia provoquent en général des troubles légers qui passent seuls : propose-lui de l'eau fraîche et surveille-le 24 à 48 heures. Appelle ton vétérinaire si les vomissements se répètent, s'il refuse de boire ou de manger, ou s'il en a mangé une grande quantité.",
+      "alternatives": "Pour une touche festive à Noël, le cactus de Noël (Schlumbergera) est considéré comme non toxique pour les chats. Les fleurs artificielles sont aussi une bonne option.",
+      "faq": [
+        {"q": "Le poinsettia est-il mortel pour un chat ?", "a": "Non, c'est une idée reçue tenace. Il est irritant et peut le faire vomir, mais les intoxications graves sont très rares. Mieux vaut quand même le garder hors de sa portée."},
+        {"q": "Mon chat a mangé une feuille de poinsettia, que faire ?", "a": "Pas de panique : propose-lui de l'eau, retire les restes de feuilles de sa portée et surveille-le. Si les vomissements ou la diarrhée durent plus d'une journée, ou s'il semble abattu, appelle ton vétérinaire."}
+      ]
+    },
+    "en": {
+      "short": "A little. Poinsettias irritate cats, but they're far less toxic than their reputation: they mostly cause drooling and mild vomiting.",
+      "why": "The milky sap of the poinsettia (Euphorbia pulcherrima) contains substances that irritate the mouth, stomach and skin. Chewing it most often causes drooling and mild vomiting or diarrhea, which usually pass without treatment. Its reputation as a deadly plant is overblown, but that's no reason to let your cat snack on it.",
+      "amount": "Your cat shouldn't eat any, but you can keep one out of reach, on a high shelf or in a room your cat doesn't use. Pick up fallen leaves.",
+      "risks": [
+        "Drooling",
+        "Mild vomiting or diarrhea",
+        "Mouth irritation",
+        "Redness or itching if the sap touches skin or eyes"
+      ],
+      "ifEaten": "A few bites of poinsettia usually cause mild signs that go away on their own: offer fresh water and watch your cat for 24 to 48 hours. Call your vet if vomiting keeps happening, if your cat won't eat or drink, or if they ate a large amount.",
+      "alternatives": "For a festive touch, Christmas cactus (Schlumbergera) is considered non-toxic to cats. Artificial flowers are another good option.",
+      "faq": [
+        {"q": "Are poinsettias deadly to cats?", "a": "No, that's a stubborn myth. They're irritating and can cause vomiting, but serious poisonings are very rare. It's still best to keep them out of reach."},
+        {"q": "My cat ate a poinsettia leaf. What should I do?", "a": "Don't panic: offer water, remove any leftover leaves and keep an eye on your cat. If vomiting or diarrhea lasts more than a day, or your cat seems lethargic, call your vet."}
+      ]
+    }
+  },
+  {
+    "id": "aloe-vera",
+    "verdict": "non",
+    "related": ["poinsettia", "lys", "herbe-a-chat", "tulipe"],
+    "fr": {
+      "short": "Non. L'aloe vera est toxique pour le chat : le latex jaune sous la peau de ses feuilles provoque vomissements, diarrhée et abattement s'il mâchonne la plante.",
+      "why": "Juste sous l'écorce des feuilles, l'aloe vera contient un latex jaune riche en anthraquinones (comme l'aloïne) et en saponines, des substances fortement laxatives et irritantes. Mâchonné, il provoque vomissements, diarrhée, abattement et, plus rarement, des tremblements ou un changement de couleur des urines. Le gel transparent de l'intérieur est moins problématique, mais il est difficile de le séparer parfaitement du latex.",
+      "amount": "Aucune quantité n'est conseillée. Place ta plante hors de sa portée, et n'applique pas de gel d'aloe sur une zone qu'il peut lécher sans l'avis de ton vétérinaire.",
+      "risks": [
+        "Vomissements",
+        "Diarrhée parfois importante",
+        "Abattement, perte d'appétit",
+        "Plus rarement, tremblements ou urines de couleur anormale"
+      ],
+      "ifEaten": "Contacte ton vétérinaire ou un centre antipoison vétérinaire sans attendre les symptômes, en précisant quelle quantité il a mâchonnée. Emporte la plante ou l'emballage du produit, et ne le fais pas vomir toi-même.",
+      "alternatives": "Pour une plante d'intérieur facile et sans danger, choisis un chlorophytum, un palmier d'intérieur (Chamaedorea) ou une succulente non toxique comme l'haworthia. Et propose-lui un pot d'herbe à chat à mâchonner.",
+      "faq": [
+        {"q": "Le gel d'aloe vera est-il dangereux pour mon chat ?", "a": "Le gel pur est moins irritant que le latex, mais les gels du commerce contiennent souvent des additifs, et ton chat léchera ce que tu appliques. N'en mets pas sur sa peau sans l'avis de ton vétérinaire."},
+        {"q": "Puis-je garder un aloe vera chez moi avec un chat ?", "a": "Oui, si la plante est vraiment hors de sa portée, par exemple dans une pièce où il ne va pas. S'il grimpe partout, mieux vaut la remplacer par une plante sans danger."}
+      ]
+    },
+    "en": {
+      "short": "No. Aloe vera is toxic to cats: the yellow latex just under the skin of the leaves causes vomiting, diarrhea and lethargy if they chew the plant.",
+      "why": "Just beneath the leaf skin, aloe vera holds a yellow latex rich in anthraquinones (such as aloin) and saponins, which are strongly laxative and irritating. Chewing it can cause vomiting, diarrhea and lethargy, and more rarely tremors or a change in urine color. The clear inner gel is less of a problem, but it's hard to separate it completely from the latex.",
+      "amount": "No amount is recommended. Keep the plant out of reach, and don't apply aloe gel anywhere your cat can lick without asking your vet.",
+      "risks": [
+        "Vomiting",
+        "Diarrhea, sometimes severe",
+        "Lethargy and loss of appetite",
+        "More rarely, tremors or abnormal urine color"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center without waiting for symptoms, and tell them how much your cat chewed. Bring the plant or the product packaging, and don't try to make your cat vomit.",
+      "alternatives": "For an easy, cat-safe houseplant, choose a spider plant, a parlor palm or a non-toxic succulent like haworthia. And offer a pot of cat grass to chew.",
+      "faq": [
+        {"q": "Is aloe vera gel safe for cats?", "a": "Pure gel is less irritating than the latex, but store-bought gels often contain additives, and your cat will lick whatever you apply. Don't put it on their skin without your vet's okay."},
+        {"q": "Can I keep an aloe plant if I have a cat?", "a": "Yes, if it's truly out of reach, for example in a room your cat doesn't enter. If your cat climbs everywhere, swap it for a cat-safe plant."}
+      ]
+    }
+  },
+  {
+    "id": "tulipe",
+    "verdict": "non",
+    "related": ["lys", "muguet", "herbe-a-chat"],
+    "fr": {
+      "short": "Non. La tulipe est toxique pour le chat, surtout son bulbe : la mâchonner provoque bave, vomissements et diarrhée.",
+      "why": "La tulipe contient des tulipalines, des substances irritantes présentes dans toute la plante mais très concentrées dans le bulbe. Une feuille ou une fleur mâchonnée provoque surtout salivation, vomissements et diarrhée. Un bulbe avalé peut causer des troubles plus marqués, avec abattement et, dans de rares cas, une accélération du cœur ou une gêne respiratoire.",
+      "amount": "Aucune quantité n'est sûre. Garde les bouquets hors de sa portée, jette l'eau du vase là où il ne peut pas la boire, et stocke les bulbes dans un endroit fermé.",
+      "risks": [
+        "Salivation abondante",
+        "Vomissements et diarrhée",
+        "Abattement, perte d'appétit",
+        "Bulbe : accélération du cœur, gêne respiratoire (rare)"
+      ],
+      "ifEaten": "Contacte ton vétérinaire ou un centre antipoison vétérinaire sans attendre les symptômes, surtout s'il a mangé un bulbe. Emporte la plante ou une photo, et ne le fais pas vomir toi-même.",
+      "alternatives": "Pour un bouquet de printemps, préfère des fleurs considérées comme non toxiques pour les chats, comme les roses, les gerberas ou les orchidées phalaenopsis. Un pot d'herbe à chat le détournera aussi de tes fleurs.",
+      "faq": [
+        {"q": "Le bulbe de tulipe est-il plus dangereux que la fleur ?", "a": "Oui, c'est la partie la plus toxique, car les substances irritantes y sont très concentrées. Fais attention en plantant tes bulbes à l'automne si ton chat t'accompagne au jardin."},
+        {"q": "La tulipe est-elle aussi dangereuse que le lys ?", "a": "Non, la tulipe provoque surtout des troubles digestifs, alors que le lys peut détruire les reins. Mais elle reste toxique, donc appelle quand même ton vétérinaire s'il en a mangé."}
+      ]
+    },
+    "en": {
+      "short": "No. Tulips are toxic to cats, especially the bulbs: chewing them causes drooling, vomiting and diarrhea.",
+      "why": "Tulips contain tulipalins, irritating compounds found throughout the plant but most concentrated in the bulb. A chewed leaf or flower mostly causes drooling, vomiting and diarrhea. Eating a bulb can cause stronger effects, with lethargy and, in rare cases, a faster heart rate or breathing changes.",
+      "amount": "No amount is safe. Keep bouquets out of reach, dump vase water where your cat can't drink it, and store bulbs in a closed place.",
+      "risks": [
+        "Heavy drooling",
+        "Vomiting and diarrhea",
+        "Lethargy and loss of appetite",
+        "Bulbs: faster heart rate, breathing changes (rare)"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center without waiting for symptoms, especially if your cat ate a bulb. Bring the plant or a photo, and don't try to make your cat vomit.",
+      "alternatives": "For spring bouquets, choose flowers considered non-toxic to cats, like roses, gerbera daisies or phalaenopsis orchids. A pot of cat grass can also lure your cat away from your flowers.",
+      "faq": [
+        {"q": "Are tulip bulbs more dangerous than the flowers?", "a": "Yes, the bulb is the most toxic part, since the irritating compounds are concentrated there. Be careful when planting bulbs in the fall if your cat joins you in the garden."},
+        {"q": "Are tulips as dangerous as lilies?", "a": "No. Tulips mainly cause digestive upset, while true lilies can destroy the kidneys. Tulips are still toxic, though, so call your vet if your cat ate some."}
+      ]
+    }
+  }
+]
