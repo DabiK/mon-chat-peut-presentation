@@ -24,6 +24,19 @@ Direction visuelle « Le carnet de Vivi » : les couleurs sont prises sur Vivi (
 
 Cloudflare sert les pages sans l'extension (`/privacy-policy`, `/en/privacy-policy`) ; les anciennes adresses en `.html` redirigent vers les nouvelles.
 
+### Pages aliment (référencement)
+
+Une page par aliment et par langue, pour remonter sur les recherches du type « mon chat peut-il manger des chips » / « can cats eat chips » :
+
+- `/mon-chat-peut-il-manger/<aliment>` en français, `/en/can-cats-eat/<food>` en anglais, et un index de chaque côté (`/mon-chat-peut-il-manger/`, `/en/can-cats-eat/`) avec recherche et filtre par verdict ;
+- `src/foods/list.json` : la liste des aliments (identifiant, famille, nom, formule et adresse dans chaque langue, question affichée en titre) ;
+- `src/foods/content/*.json` : le contenu de chaque fiche, en français et en anglais (verdict `oui` / `peu` / `non`, réponse courte, pourquoi, quantité, risques, que faire s'il en a mangé, alternatives, deux questions fréquentes, aliments proches) ;
+- `src/food.html`, `src/foods-index.html` et `src/food.css` : les gabarits et le style.
+
+`build.py` génère les pages, leurs données structurées (FAQ, fil d'Ariane), les liens entre aliments proches, les liens depuis le test de la landing vers la fiche de l'aliment, et ajoute toutes les adresses au sitemap avec leur traduction. Il signale un aliment de la démo dont le verdict diffère de sa fiche.
+
+La liste vient des recherches réelles des utilisateurs (collection Firestore `replyCache` du projet `mon-chat-peut-reborn`), des 60 aliments de la démo et des recherches courantes. Les verdicts et les textes ont été réécrits à partir du consensus vétérinaire, pas repris du cache. Pour ajouter un aliment : une entrée dans `list.json`, son contenu dans un fichier de `src/foods/content/`, puis `python3 build.py`.
+
 ## Déployer
 
 Le site est un Cloudflare Worker sans code, qui sert les fichiers de `dist/` (`wrangler.toml`), sur le compte Cloudflare devcompte44@gmail.com.

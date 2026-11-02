@@ -52,7 +52,7 @@
       <a href="#test">{{nav_test}}</a>
       <a href="#app">{{nav_app}}</a>
       <a href="#journee">{{nav_day}}</a>
-      <a href="#faq">{{nav_faq}}</a>
+      <a href="{{foods_href}}">{{nav_foods}}</a>
     </nav>
     <a class="lang" href="{{lang_href}}" hreflang="{{lang_other}}" lang="{{lang_other}}" aria-label="{{lang_label}}">{{lang_code}}</a>
     <a class="btn" href="{{store_href}}" rel="noopener">{{download}}</a>
@@ -87,6 +87,7 @@
           </span>
           <p class="reason" id="reason">{{reason_init}}</p>
         </div>
+        <a class="see-card mobile-only" id="r-link" href="{{init_link}}">{{food_see_card}} →</a>
         <p class="sr-only" id="sr-verdict" role="status" aria-live="polite"></p>
 
         <div class="picks">
@@ -124,6 +125,7 @@
               <dt>{{fiche_why}}</dt>
               <dd id="f-why">{{why_init}}</dd>
             </dl>
+            <a class="see-card" id="f-link" href="{{init_link}}">{{food_see_card}} →</a>
           </div>
         </div>
       </div>

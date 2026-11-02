@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "chips",
+    "verdict": "non",
+    "related": ["popcorn", "frites", "sel", "pomme-de-terre"],
+    "fr": {
+      "short": "Non. Les chips sont trop salées et trop grasses pour un chat, et certaines sont aromatisées à l'oignon ou à l'ail, toxiques pour lui.",
+      "why": "Les chips concentrent du sel et de la graisse de friture, deux choses que l'organisme d'un chat gère mal. Trop de sel lui donne soif et peut, en grande quantité, provoquer une intoxication au sel. Les chips aromatisées (barbecue, oignon, fromage) contiennent souvent de la poudre d'oignon ou d'ail, qui abîme ses globules rouges. Et une chips n'apporte rien à un carnivore.",
+      "amount": "Aucune quantité n'est conseillée. Range le paquet et le bol de l'apéro hors de sa portée : les chats curieux adorent fouiller les sachets qui crissent.",
+      "risks": [
+        "Soif intense et vomissements à cause du sel",
+        "Diarrhée ou douleurs digestives liées au gras",
+        "Anémie si les chips contiennent de l'oignon ou de l'ail en poudre",
+        "Intoxication au sel s'il en mange beaucoup : tremblements, convulsions",
+        "Prise de poids si ça devient une habitude"
+      ],
+      "ifEaten": "Une ou deux chips nature, pas de panique : laisse-lui de l'eau fraîche et surveille-le 24 à 48 h (vomissements, diarrhée, abattement). S'il a mangé une bonne partie du paquet, ou des chips à l'oignon ou à l'ail, appelle ton vétérinaire sans attendre, avec l'emballage sous la main.",
+      "alternatives": "Pour le croustillant, une friandise sèche pour chat fait le même effet. Un petit morceau de poulet cuit nature lui fera encore plus plaisir.",
+      "faq": [
+        {
+          "q": "Mon chat a mangé une chips, c'est grave ?",
+          "a": "En général non : une chips nature isolée ne provoque pas d'intoxication. Vérifie qu'il boit, surveille son ventre et son comportement, et appelle le vétérinaire si elle était aromatisée à l'oignon ou à l'ail, ou s'il en a mangé beaucoup."
+        },
+        {
+          "q": "Et les chips sans sel ?",
+          "a": "Elles évitent le problème du sel, mais restent très grasses et sans intérêt pour un carnivore. Ce n'est pas une bonne friandise, même nature."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Chips are too salty and fatty for cats, and flavored ones often contain onion or garlic powder, which is toxic to them.",
+      "why": "Potato chips pack a lot of salt and frying fat, two things a cat's body handles poorly. Too much salt makes a cat very thirsty and, in large amounts, can lead to salt poisoning. Flavored chips (barbecue, sour cream and onion, cheese) often contain onion or garlic powder, which damages red blood cells. And a chip offers nothing a carnivore needs.",
+      "amount": "No amount is recommended. Keep the bag and the snack bowl out of reach, since curious cats love digging into rustling packets.",
+      "risks": [
+        "Intense thirst and vomiting from the salt",
+        "Diarrhea or stomach pain from the fat",
+        "Anemia if the chips are seasoned with onion or garlic powder",
+        "Salt poisoning if a lot is eaten: tremors, seizures",
+        "Weight gain if it becomes a habit"
+      ],
+      "ifEaten": "One or two plain chips are usually nothing to panic about: make sure fresh water is available and watch your cat for 24 to 48 hours for vomiting, diarrhea or lethargy. If your cat ate a good part of the bag, or onion or garlic flavored chips, call your vet right away and keep the packaging handy.",
+      "alternatives": "For crunch, a dry cat treat does the job. A small piece of plain cooked chicken will please your cat even more.",
+      "faq": [
+        {
+          "q": "My cat ate a potato chip, should I worry?",
+          "a": "Usually not: a single plain chip won't poison a cat. Keep an eye on its appetite and behavior, and call your vet if the chip was onion or garlic flavored or if your cat ate a lot."
+        },
+        {
+          "q": "Can cats eat tortilla chips?",
+          "a": "No. They're just as salty and fatty, often seasoned with onion or garlic, and the hard pieces aren't easy for a cat to swallow."
+        }
+      ]
+    }
+  },
+  {
+    "id": "popcorn",
+    "verdict": "peu",
+    "related": ["mais", "chips", "beurre", "sel"],
+    "fr": {
+      "short": "Un peu. Un ou deux grains de popcorn nature, sans sel ni beurre, ne sont pas dangereux, mais le popcorn salé, sucré ou au caramel est à éviter.",
+      "why": "Le popcorn, c'est du maïs soufflé : nature, il n'est pas toxique pour le chat. Le problème, c'est ce qu'on met dessus : sel, beurre, caramel, arômes. Les grains non éclatés et les petites peaux peuvent aussi rester coincés entre les dents ou dans la gorge. Et comme le maïs, il n'apporte presque rien à un carnivore.",
+      "amount": "Un ou deux grains bien éclatés, nature, préparés sans matière grasse ni sel, et seulement de temps en temps. Retire toujours les grains non éclatés.",
+      "risks": [
+        "Étouffement avec un grain non éclaté ou une peau coincée",
+        "Vomissements ou diarrhée avec le beurre et l'huile",
+        "Excès de sel avec le popcorn salé",
+        "Sucre inutile dans le popcorn au caramel"
+      ],
+      "ifEaten": "Quelques grains, même salés ou sucrés, ne sont généralement pas graves. Surveille-le 24 à 48 h : vomissements, diarrhée, toux ou gêne pour avaler. Appelle ton vétérinaire si ces signes apparaissent ou s'il a vidé une bonne partie du saladier.",
+      "alternatives": "Si c'est le côté jeu qui lui plaît, lance-lui une boulette de papier ou une friandise pour chat. Pour grignoter, un petit morceau de poulet cuit nature est bien meilleur.",
+      "faq": [
+        {
+          "q": "Pourquoi mon chat adore-t-il le popcorn ?",
+          "a": "Souvent pour l'odeur du beurre et le plaisir de chasser un petit objet léger qui roule. Ce n'est pas le maïs qui l'attire : un chat n'en a pas besoin."
+        },
+        {
+          "q": "Et le popcorn au micro-ondes ?",
+          "a": "Il est souvent très gras, salé et aromatisé : mieux vaut ne pas lui en donner. Si tu veux partager, garde à part quelques grains éclatés sans matière grasse ni sel."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. One or two pieces of plain, air-popped popcorn won't hurt your cat, but salted, buttered or caramel popcorn should be avoided.",
+      "why": "Popcorn is just puffed corn, and plain it isn't toxic to cats. The trouble is what goes on top: salt, butter, caramel and flavorings. Unpopped kernels and hulls can also get stuck in the teeth or throat. Like corn, it gives a carnivore almost nothing.",
+      "amount": "One or two fully popped, plain pieces made without oil, butter or salt, only once in a while. Always remove unpopped kernels.",
+      "risks": [
+        "Choking on an unpopped kernel or a stuck hull",
+        "Vomiting or diarrhea from butter and oil",
+        "Too much salt with salted popcorn",
+        "Useless sugar in caramel or kettle corn"
+      ],
+      "ifEaten": "A few pieces, even salted or sweet ones, are usually not a problem. Watch your cat for 24 to 48 hours for vomiting, diarrhea, coughing or trouble swallowing, and call your vet if these signs appear or if a big part of the bowl is gone.",
+      "alternatives": "If it's the game your cat loves, toss a paper ball or a cat treat instead. For a snack, a small piece of plain cooked chicken is a much better choice.",
+      "faq": [
+        {
+          "q": "Can cats eat buttered popcorn?",
+          "a": "It's best not to. Butter and salt can upset your cat's stomach, and movie theater or microwave popcorn is usually loaded with both."
+        },
+        {
+          "q": "Can cats eat popcorn kernels?",
+          "a": "No. Unpopped kernels are hard, can cause choking and can't really be digested. Only fully popped, plain pieces, and just a couple."
+        }
+      ]
+    }
+  },
+  {
+    "id": "frites",
+    "verdict": "non",
+    "related": ["pomme-de-terre", "chips", "sel", "burger"],
+    "fr": {
+      "short": "Non. Les frites sont trop grasses et trop salées pour un chat : une frite volée n'est pas grave, mais ce n'est pas un aliment à lui donner.",
+      "why": "Les frites sont cuites dans un bain d'huile et souvent bien salées. Ce gras peut provoquer vomissements et diarrhée, et les aliments très gras sont déconseillés à cause du risque de pancréatite chez certains chats. Le sel, lui, n'a rien à faire dans sa gamelle. La pomme de terre cuite à l'eau passe en petite quantité, mais frite, elle n'a plus aucun intérêt.",
+      "amount": "Aucune quantité n'est conseillée. Quand tu manges des frites, garde ton assiette hors de sa portée, sauces comprises.",
+      "risks": [
+        "Vomissements et diarrhée à cause de l'huile de friture",
+        "Soif excessive liée au sel",
+        "Risque de pancréatite avec les aliments très gras",
+        "Danger avec les sauces ou assaisonnements à l'ail ou à l'oignon",
+        "Prise de poids si ça se répète"
+      ],
+      "ifEaten": "Une ou deux frites, en général, rien de grave. Laisse-lui de l'eau fraîche et surveille-le 24 à 48 h (vomissements, diarrhée, ventre douloureux, abattement). Appelle ton vétérinaire si ces signes apparaissent, s'il en a mangé beaucoup ou si elles étaient assaisonnées à l'ail ou à l'oignon.",
+      "alternatives": "Pour partager quelque chose, un petit morceau de pomme de terre cuite à l'eau, nature, ou mieux, un bout de poulet cuit sans assaisonnement.",
+      "faq": [
+        {
+          "q": "Mon chat a volé une frite, c'est grave ?",
+          "a": "Non, une frite isolée ne l'intoxiquera pas. Surveille simplement son transit, et évite que ça devienne une habitude."
+        },
+        {
+          "q": "Et les frites sans sel ou au four ?",
+          "a": "C'est un peu mieux, mais ça reste gras et sans intérêt pour un carnivore. Si tu veux lui donner de la pomme de terre, sers-la cuite à l'eau, nature et en petite quantité."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. French fries are too fatty and salty for cats: one stolen fry is no big deal, but they're not something to feed your cat.",
+      "why": "Fries are cooked in a bath of oil and usually well salted. That fat can cause vomiting and diarrhea, and very fatty foods are best avoided because of the risk of pancreatitis in some cats. The salt only adds to the problem. Plain boiled potato is fine in small amounts, but deep-fried, it has nothing left to offer.",
+      "amount": "No amount is recommended. When you eat fries, keep your plate, and the dipping sauces, out of your cat's reach.",
+      "risks": [
+        "Vomiting and diarrhea from the frying oil",
+        "Excessive thirst from the salt",
+        "Risk of pancreatitis with very fatty foods",
+        "Danger from garlic or onion seasonings and sauces",
+        "Weight gain if it happens often"
+      ],
+      "ifEaten": "One or two fries are usually nothing serious. Leave fresh water out and watch your cat for 24 to 48 hours for vomiting, diarrhea, a painful belly or lethargy. Call your vet if those signs appear, if your cat ate a lot, or if the fries were seasoned with garlic or onion.",
+      "alternatives": "If you want to share, a small piece of plain boiled potato works, or better yet, a bite of unseasoned cooked chicken.",
+      "faq": [
+        {
+          "q": "My cat ate a french fry, should I be worried?",
+          "a": "Not usually: a single fry won't poison your cat. Just keep an eye on its digestion and don't let it become a habit."
+        },
+        {
+          "q": "Can cats eat unsalted or baked fries?",
+          "a": "They're a bit better, but still fatty and useless for a carnivore. If you want to share potato, serve it boiled, plain and in a tiny amount."
+        }
+      ]
+    }
+  },
+  {
+    "id": "biscuits",
+    "verdict": "non",
+    "related": ["chocolat", "gateau", "raisins-secs", "pain"],
+    "fr": {
+      "short": "Non. Les biscuits sont pleins de sucre et de gras, et beaucoup contiennent du chocolat, des raisins secs ou du xylitol, dangereux pour un chat.",
+      "why": "Un biscuit, c'est surtout de la farine, du sucre et du beurre : rien dont un carnivore a besoin, et ton chat ne sent même pas le goût sucré. Le vrai danger vient des ingrédients ajoutés : chocolat (théobromine), raisins secs, certaines noix, ou xylitol dans les versions sans sucre. Les biscuits apéritifs, eux, sont salés et souvent assaisonnés à l'oignon ou à l'ail.",
+      "amount": "Aucune quantité n'est conseillée, même pour un biscuit nature. Garde les paquets fermés et hors de sa portée, surtout ceux au chocolat.",
+      "risks": [
+        "Intoxication si le biscuit contient du chocolat",
+        "Raisins secs : risque rénal décrit chez le chien, à éviter par précaution",
+        "Vomissements et diarrhée liés au sucre et au gras",
+        "Xylitol dans les biscuits sans sucre",
+        "Prise de poids si ça devient une habitude"
+      ],
+      "ifEaten": "Si le biscuit contenait du chocolat, des raisins secs ou du xylitol, appelle tout de suite ton vétérinaire ou un centre antipoison, sans attendre les symptômes. Garde l'emballage pour la liste des ingrédients, et ne le fais pas vomir toi-même. Pour un petit bout de biscuit nature, surveille-le simplement 24 à 48 h.",
+      "alternatives": "Les friandises croquantes pour chat sont faites pour ça. Tu peux aussi lui proposer un petit morceau de poulet ou de dinde cuit nature.",
+      "faq": [
+        {
+          "q": "Mon chat a mangé un biscuit au chocolat, que faire ?",
+          "a": "Appelle ton vétérinaire ou un centre antipoison avec l'emballage : il évaluera le risque selon la quantité de chocolat et le poids de ton chat. N'attends pas les symptômes, ils peuvent apparaître plusieurs heures après."
+        },
+        {
+          "q": "Et les biscuits pour chat ?",
+          "a": "Ceux vendus pour les chats sont conçus pour eux et ne posent pas de problème, tant que tu respectes les quantités indiquées. Les biscuits pour humains, eux, restent à éviter."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Cookies are full of sugar and fat, and many contain chocolate, raisins or xylitol, which can be dangerous for cats.",
+      "why": "A cookie is mostly flour, sugar and butter, nothing a carnivore needs, and cats can't even taste sweetness. The real danger is in the extras: chocolate (theobromine), raisins, some nuts, or xylitol in sugar-free versions. Even a plain cookie can upset a cat's stomach.",
+      "amount": "No amount is recommended, even for plain cookies. Keep packages closed and out of reach, especially chocolate ones.",
+      "risks": [
+        "Chocolate poisoning with chocolate or chocolate chip cookies",
+        "Raisins: kidney damage seen in dogs, avoided as a precaution",
+        "Vomiting and diarrhea from sugar and fat",
+        "Xylitol in sugar-free cookies",
+        "Weight gain if it becomes a habit"
+      ],
+      "ifEaten": "If the cookie contained chocolate, raisins or xylitol, call your vet or an animal poison control center right away, without waiting for symptoms. Keep the packaging for the ingredient list, and don't try to make your cat vomit. For a small bite of plain cookie, just watch your cat for 24 to 48 hours.",
+      "alternatives": "Crunchy cat treats are made for this. You can also offer a small piece of plain cooked chicken or turkey.",
+      "faq": [
+        {
+          "q": "My cat ate a chocolate chip cookie, what should I do?",
+          "a": "Call your vet or an animal poison control center with the packaging: they'll assess the risk based on how much chocolate was eaten and your cat's weight. Don't wait for symptoms, which can take hours to show."
+        },
+        {
+          "q": "Can cats eat crackers?",
+          "a": "Not really. Crackers are salty, sometimes seasoned with onion or garlic, and offer nothing a cat needs. A crumb won't hurt, but don't make them a treat."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gateau",
+    "verdict": "non",
+    "related": ["chocolat", "biscuits", "creme-fraiche", "alcool"],
+    "fr": {
+      "short": "Non. Le gâteau est trop sucré et trop gras pour un chat, et il contient souvent du chocolat, de la crème, de l'alcool ou des raisins secs.",
+      "why": "Sucre, beurre, farine, crème : un gâteau n'a rien pour un carnivore, et ton chat ne perçoit même pas le goût sucré. S'il s'intéresse à ta part, c'est surtout pour le gras de la crème ou du beurre. Le vrai risque, ce sont les ingrédients cachés : chocolat, alcool (baba, tiramisu, forêt-noire), raisins secs, noix, ou xylitol dans les recettes sans sucre. La crème et le glaçage ajoutent du lactose et encore plus de gras.",
+      "amount": "Aucune quantité n'est conseillée. Pendant les fêtes et les anniversaires, ne laisse pas de parts sans surveillance sur la table ou le plan de travail.",
+      "risks": [
+        "Intoxication avec un gâteau au chocolat",
+        "Intoxication à l'alcool avec les desserts arrosés",
+        "Vomissements et diarrhée (sucre, gras, lactose)",
+        "Xylitol dans les gâteaux sans sucre",
+        "Raisins secs : risque rénal décrit chez le chien, à éviter par précaution"
+      ],
+      "ifEaten": "Si le gâteau contenait du chocolat, de l'alcool, des raisins secs ou du xylitol, appelle tout de suite ton vétérinaire ou un centre antipoison, sans attendre les symptômes. Garde la recette ou l'emballage, et ne le fais pas vomir toi-même. Pour une léchée de génoise nature, surveille-le simplement 24 à 48 h.",
+      "alternatives": "Pour un anniversaire, prépare-lui un mini gâteau avec sa pâtée ou du poulet cuit écrasé, moulé dans un petit bol. Une friandise pour chat fait aussi très bien l'affaire.",
+      "faq": [
+        {
+          "q": "Mon chat a léché la crème de mon gâteau, c'est grave ?",
+          "a": "Une petite léchée de crème nature n'est en général pas grave, au pire un peu de diarrhée. Si la crème était au chocolat, au café ou à l'alcool, appelle ton vétérinaire."
+        },
+        {
+          "q": "Comment faire un gâteau d'anniversaire pour mon chat ?",
+          "a": "Tasse un peu de sa pâtée ou du poulet cuit nature émietté dans un petit moule, démoule et décore avec quelques croquettes. Pas de farine, pas de sucre, et pas de bougie allumée à sa portée."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Cake is too sugary and fatty for cats, and it often contains chocolate, cream, alcohol or raisins that can make them sick.",
+      "why": "Sugar, butter, flour and frosting: cake has nothing for a carnivore, and cats can't even taste sweetness. If your cat is after your slice, it's usually for the fat in the cream or butter. The real risk is hidden ingredients: chocolate, alcohol (rum cake, tiramisu), raisins, nuts or xylitol in sugar-free recipes. Cream and frosting add lactose and even more fat.",
+      "amount": "No amount is recommended. During holidays and birthdays, don't leave slices unattended on the table or counter.",
+      "risks": [
+        "Chocolate poisoning with chocolate cake",
+        "Alcohol poisoning with boozy desserts",
+        "Vomiting and diarrhea from sugar, fat and lactose",
+        "Xylitol in sugar-free cakes",
+        "Raisins: kidney damage seen in dogs, avoided as a precaution"
+      ],
+      "ifEaten": "If the cake contained chocolate, alcohol, raisins or xylitol, call your vet or an animal poison control center right away, without waiting for symptoms. Keep the recipe or packaging, and don't try to make your cat vomit. For a lick of plain sponge cake, just watch your cat for 24 to 48 hours.",
+      "alternatives": "For a birthday, make a mini cake from wet food or mashed plain cooked chicken pressed into a small bowl. A cat treat works just as well.",
+      "faq": [
+        {
+          "q": "Can cats eat frosting?",
+          "a": "No. Frosting is sugar and fat, often with butter or cream cheese, and sometimes chocolate. A tiny lick of plain frosting usually just risks an upset stomach, but don't offer it."
+        },
+        {
+          "q": "How can I make a cat-safe birthday cake?",
+          "a": "Press some wet food or shredded plain cooked chicken into a small mold, turn it out and top it with a few kibbles. No flour, no sugar, and keep lit candles away."
+        }
+      ]
+    }
+  },
+  {
+    "id": "chocolat",
+    "verdict": "non",
+    "related": ["chocolat-blanc", "nutella", "cafe", "gateau"],
+    "fr": {
+      "short": "Non. Le chocolat est toxique pour le chat : la théobromine et la caféine qu'il contient peuvent provoquer vomissements, tremblements et troubles cardiaques.",
+      "why": "Le chocolat contient de la théobromine et de la caféine, deux stimulants que le chat élimine très lentement. Ils s'accumulent dans son organisme et agissent sur son cœur et son système nerveux. Plus le chocolat est noir, plus il en contient : le cacao en poudre et le chocolat pâtissier sont les plus dangereux, le chocolat au lait l'est moins mais reste toxique. Pour un animal de quelques kilos, une petite quantité peut déjà poser problème.",
+      "amount": "Aucune quantité n'est sans danger. Range le chocolat, le cacao, les gâteaux et les pâtes à tartiner au chocolat dans un placard fermé, et ne laisse pas traîner de tablette entamée.",
+      "risks": [
+        "Vomissements et diarrhée",
+        "Agitation, hyperactivité et soif excessive",
+        "Cœur qui s'emballe ou rythme cardiaque irrégulier",
+        "Tremblements et convulsions",
+        "Symptômes parfois décalés de plusieurs heures"
+      ],
+      "ifEaten": "Appelle tout de suite ton vétérinaire ou un centre antipoison vétérinaire, sans attendre les symptômes : il évaluera le risque selon le type de chocolat, la quantité et le poids de ton chat. Garde l'emballage pour lui donner ces informations. Ne le fais pas vomir toi-même.",
+      "alternatives": "Pour lui faire plaisir, mise sur une friandise pour chat, un petit morceau de poulet cuit nature ou un peu d'herbe à chat.",
+      "faq": [
+        {
+          "q": "Mon chat a léché du chocolat, c'est grave ?",
+          "a": "Une simple léchée de chocolat au lait est rarement grave, mais seul un vétérinaire peut en juger selon la quantité et le type de chocolat. Appelle-le pour avoir son avis, et surveille ton chat de près pendant les heures qui suivent."
+        },
+        {
+          "q": "Combien de temps après apparaissent les symptômes ?",
+          "a": "Souvent quelques heures après l'ingestion, et ils peuvent durer longtemps, car le chat élimine ces substances lentement. C'est pour ça qu'il ne faut pas attendre qu'il aille mal pour appeler."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Chocolate is toxic to cats: its theobromine and caffeine can cause vomiting, tremors and heart problems, even in small amounts.",
+      "why": "Chocolate contains theobromine and caffeine, two stimulants that cats clear very slowly. They build up in the body and act on the heart and nervous system. The darker the chocolate, the more it contains: cocoa powder and baking chocolate are the most dangerous, and milk chocolate is less potent but still toxic. For an animal that weighs a few pounds, a small amount can already be a problem.",
+      "amount": "No amount is safe. Keep chocolate, cocoa, brownies and chocolate spreads in a closed cupboard, and don't leave an open bar lying around.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Restlessness, hyperactivity and excessive thirst",
+        "Racing heart or irregular heartbeat",
+        "Tremors and seizures",
+        "Symptoms that can show up hours later"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, without waiting for symptoms: they'll assess the risk based on the type of chocolate, how much was eaten and your cat's weight. Keep the wrapper to give them that information. Don't try to make your cat vomit yourself.",
+      "alternatives": "To treat your cat, go for a cat treat, a small piece of plain cooked chicken or a bit of catnip.",
+      "faq": [
+        {
+          "q": "Is milk chocolate less dangerous than dark chocolate?",
+          "a": "Yes, it contains less theobromine, but it's still toxic, and it adds fat and sugar. Dark chocolate, baking chocolate and cocoa powder are the most dangerous."
+        },
+        {
+          "q": "How long after eating chocolate will my cat show symptoms?",
+          "a": "Often within a few hours, and they can last a long time because cats clear these substances slowly. That's why you shouldn't wait for signs before calling your vet."
+        }
+      ]
+    }
+  },
+  {
+    "id": "chocolat-blanc",
+    "verdict": "non",
+    "related": ["chocolat", "lait", "nutella", "glace"],
+    "fr": {
+      "short": "Non. Le chocolat blanc contient très peu de théobromine, mais il est très gras, sucré et lacté : il peut rendre ton chat malade et reste à éviter.",
+      "why": "Le chocolat blanc est fait de beurre de cacao, de sucre et de lait, sans la poudre de cacao. Il ne contient donc que des traces de théobromine, bien moins que le chocolat au lait ou noir. Mais c'est un concentré de gras et de sucre, avec du lactose que la plupart des chats adultes digèrent mal. Résultat possible : vomissements, diarrhée et, chez certains chats, un risque de pancréatite.",
+      "amount": "Aucune quantité n'est conseillée. Range-le comme les autres chocolats, d'autant qu'il est souvent mélangé à du chocolat noir ou au lait dans les bonbons, biscuits et gâteaux.",
+      "risks": [
+        "Vomissements et diarrhée",
+        "Douleurs digestives liées au gras et au lactose",
+        "Risque de pancréatite avec un aliment aussi gras",
+        "Intoxication s'il est mélangé à du chocolat noir ou au lait"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison pour savoir s'il faut agir, surtout s'il en a mangé une bonne quantité ou si c'était mélangé à du chocolat noir ou au lait. Garde l'emballage et ne le fais pas vomir toi-même. Pour une simple léchée, surveille-le 24 à 48 h (vomissements, diarrhée, abattement).",
+      "alternatives": "Si ton chat est attiré par le côté crémeux, propose-lui un peu de lait spécial chat sans lactose ou une friandise crémeuse pour chat.",
+      "faq": [
+        {
+          "q": "Le chocolat blanc est-il toxique pour les chats ?",
+          "a": "Il contient si peu de théobromine qu'il est beaucoup moins dangereux que le chocolat noir. Mais son gras, son sucre et son lait peuvent quand même le rendre malade : ce n'est pas une alternative sûre."
+        },
+        {
+          "q": "Mon chat a léché du chocolat blanc, c'est grave ?",
+          "a": "Une petite léchée provoque au pire un dérangement digestif. Surveille-le, et appelle le vétérinaire s'il vomit, a la diarrhée, semble abattu ou en a mangé beaucoup."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. White chocolate has very little theobromine, but it's very fatty, sugary and milky: it can still make your cat sick and should be avoided.",
+      "why": "White chocolate is made of cocoa butter, sugar and milk, without the cocoa solids. It only contains traces of theobromine, far less than milk or dark chocolate. But it's a concentrate of fat and sugar, plus lactose that most adult cats digest poorly. That can mean vomiting, diarrhea and, in some cats, a risk of pancreatitis.",
+      "amount": "No amount is recommended. Store it like other chocolate, especially since it's often mixed with dark or milk chocolate in candies, cookies and cakes.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Stomach pain from the fat and lactose",
+        "Risk of pancreatitis with such a fatty food",
+        "Poisoning if it's mixed with dark or milk chocolate"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center to find out whether anything needs to be done, especially if your cat ate a fair amount or if it was mixed with dark or milk chocolate. Keep the packaging and don't try to make your cat vomit. For a single lick, watch for vomiting, diarrhea or lethargy over the next 24 to 48 hours.",
+      "alternatives": "If your cat loves creamy things, offer a little lactose-free cat milk or a lickable cat treat.",
+      "faq": [
+        {
+          "q": "Is white chocolate toxic to cats?",
+          "a": "It contains so little theobromine that it's much less dangerous than dark chocolate. But its fat, sugar and milk can still make a cat sick, so it's not a safe alternative."
+        },
+        {
+          "q": "My cat licked white chocolate, is it serious?",
+          "a": "A small lick usually causes, at worst, an upset stomach. Keep an eye on your cat and call your vet if it vomits, has diarrhea, seems lethargic or ate a lot."
+        }
+      ]
+    }
+  },
+  {
+    "id": "bonbons",
+    "verdict": "non",
+    "related": ["chewing-gum", "sucre", "chocolat", "glace"],
+    "fr": {
+      "short": "Non. Les bonbons n'apportent que du sucre à ton chat, peuvent l'étouffer, et les versions sans sucre contiennent parfois du xylitol.",
+      "why": "Un bonbon, c'est du sucre, des arômes et des colorants : rien d'utile pour un carnivore, qui ne sent même pas le goût sucré. Les bonbons durs et les sucettes peuvent l'étouffer, et un emballage avalé peut bloquer l'intestin. Les bonbons sans sucre contiennent souvent du xylitol, très toxique pour le chien ; chez le chat, les données sont plus limitées, mais on ne prend pas le risque. Et les bonbons au chocolat ajoutent la théobromine.",
+      "amount": "Aucune quantité n'est conseillée. Garde les bonbons et leurs papiers hors de sa portée, en particulier à Halloween et à Noël, quand les bols traînent partout.",
+      "risks": [
+        "Étouffement avec un bonbon dur ou une sucette",
+        "Blocage intestinal si l'emballage est avalé",
+        "Xylitol dans les bonbons sans sucre",
+        "Intoxication avec les bonbons au chocolat",
+        "Vomissements et diarrhée liés au sucre"
+      ],
+      "ifEaten": "Si le bonbon était sans sucre ou au chocolat, ou s'il a avalé l'emballage ou le bâton, appelle tout de suite ton vétérinaire, sans attendre les symptômes. Garde le paquet pour la liste des ingrédients et ne le fais pas vomir toi-même. Pour un petit bonbon sucré classique, surveille-le 24 à 48 h.",
+      "alternatives": "Les friandises pour chat sont faites pour lui faire plaisir. Une petite lamelle de poulet cuit nature ou un jouet à l'herbe à chat marchent très bien aussi.",
+      "faq": [
+        {
+          "q": "Mon chat a avalé un papier de bonbon, que faire ?",
+          "a": "Surveille de près son appétit, ses selles et d'éventuels vomissements. Un emballage peut bloquer l'intestin : s'il vomit, ne mange plus ou semble avoir mal au ventre, appelle ton vétérinaire rapidement."
+        },
+        {
+          "q": "Et les bonbons sans sucre ?",
+          "a": "Ce sont les plus risqués : beaucoup contiennent du xylitol ou d'autres édulcorants. Le xylitol est très toxique pour le chien, et par précaution on le considère comme dangereux pour le chat aussi."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Candy gives cats nothing but sugar, can be a choking hazard, and sugar-free candy may contain xylitol.",
+      "why": "Candy is sugar, flavorings and dyes, nothing useful for a carnivore that can't even taste sweetness. Hard candy and lollipops can cause choking, and a swallowed wrapper can block the intestines. Sugar-free candy often contains xylitol, which is highly toxic to dogs; data in cats is more limited, but it's not worth the risk. Chocolate candy adds theobromine on top.",
+      "amount": "No amount is recommended. Keep candy and wrappers out of reach, especially around Halloween and the holidays, when bowls are everywhere.",
+      "risks": [
+        "Choking on hard candy or a lollipop",
+        "Intestinal blockage if a wrapper is swallowed",
+        "Xylitol in sugar-free candy",
+        "Poisoning with chocolate candy",
+        "Vomiting and diarrhea from the sugar"
+      ],
+      "ifEaten": "If the candy was sugar-free or chocolate, or if your cat swallowed the wrapper or stick, call your vet right away, without waiting for symptoms. Keep the package for the ingredient list and don't try to make your cat vomit. For one small regular candy, watch your cat for 24 to 48 hours.",
+      "alternatives": "Cat treats are made to spoil your cat. A thin strip of plain cooked chicken or a catnip toy will also go down well.",
+      "faq": [
+        {
+          "q": "Can cats eat marshmallows?",
+          "a": "They're not toxic in themselves, but they're pure sugar, sticky and a choking risk, and sugar-free ones may contain xylitol. Best kept away."
+        },
+        {
+          "q": "My cat swallowed a candy wrapper, what should I do?",
+          "a": "Watch its appetite, stools and any vomiting closely. A wrapper can block the gut: if your cat vomits, stops eating or seems to have belly pain, call your vet promptly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "chewing-gum",
+    "verdict": "non",
+    "related": ["bonbons", "beurre-cacahuete", "sucre", "menthe"],
+    "fr": {
+      "short": "Non. Le chewing-gum peut étouffer ton chat ou bloquer son intestin, et beaucoup contiennent du xylitol : garde-le toujours hors de sa portée.",
+      "why": "La gomme ne se digère pas : avalée, elle peut rester coincée dans la gorge ou former un bouchon dans l'intestin. La plupart des chewing-gums sans sucre contiennent du xylitol, un édulcorant qui fait chuter la glycémie et abîme le foie chez le chien. Chez le chat, les données sont plus limitées, mais par précaution on le considère comme dangereux.",
+      "amount": "Aucune quantité n'est sans danger. Ne laisse pas traîner de paquets ouverts, ni de chewing-gums mâchés dans une poubelle ouverte ou au fond d'un sac.",
+      "risks": [
+        "Étouffement ou gorge obstruée",
+        "Blocage intestinal : vomissements, ventre douloureux",
+        "Xylitol : risque d'hypoglycémie et d'atteinte du foie",
+        "Gomme collée dans les poils ou entre les coussinets"
+      ],
+      "ifEaten": "Appelle tout de suite ton vétérinaire ou un centre antipoison, surtout si le chewing-gum était sans sucre, sans attendre les symptômes. Garde le paquet pour vérifier la présence de xylitol. Ne le fais pas vomir toi-même.",
+      "alternatives": "S'il aime mâchouiller, propose-lui de l'herbe à chat fraîche ou un jouet à mâcher pour chat.",
+      "faq": [
+        {
+          "q": "Le xylitol est-il toxique pour les chats ?",
+          "a": "Il est très toxique pour le chien. Chez le chat, les données sont plus limitées, mais par précaution les vétérinaires conseillent de l'éviter totalement. On le trouve dans les chewing-gums et bonbons sans sucre, certains dentifrices et certains beurres de cacahuète."
+        },
+        {
+          "q": "Comment enlever un chewing-gum collé dans ses poils ?",
+          "a": "Durcis-le avec un glaçon, puis coupe doucement la touffe avec des ciseaux à bouts ronds, loin de la peau. Pas de solvant ni de produit ménager : s'il est collé près de la peau ou entre les coussinets, demande à ton vétérinaire."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Chewing gum can choke your cat or block its intestines, and many gums contain xylitol: always keep it out of reach.",
+      "why": "Gum base can't be digested: swallowed, it can get stuck in the throat or form a blockage in the gut. Most sugar-free gums contain xylitol, a sweetener that crashes blood sugar and damages the liver in dogs. In cats the data is more limited, but as a precaution it's treated as dangerous.",
+      "amount": "No amount is safe. Don't leave open packs lying around, or chewed gum in an open trash can or at the bottom of a bag.",
+      "risks": [
+        "Choking or a blocked throat",
+        "Intestinal blockage: vomiting, painful belly",
+        "Xylitol: risk of low blood sugar and liver damage",
+        "Gum stuck in the fur or between the paw pads"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, especially if the gum was sugar-free, without waiting for symptoms. Keep the pack to check for xylitol. Don't try to make your cat vomit yourself.",
+      "alternatives": "If your cat loves to chew, offer fresh cat grass or a chew toy made for cats.",
+      "faq": [
+        {
+          "q": "Is xylitol toxic to cats?",
+          "a": "It's highly toxic to dogs. In cats the data is more limited, but vets advise avoiding it completely as a precaution. It's found in sugar-free gum and candy, some toothpastes and some peanut butters."
+        },
+        {
+          "q": "How do I get gum out of my cat's fur?",
+          "a": "Harden it with an ice cube, then gently trim the tuft with blunt-tip scissors, away from the skin. No solvents or household cleaners: if it's close to the skin or between the paw pads, ask your vet."
+        }
+      ]
+    }
+  },
+  {
+    "id": "miel",
+    "verdict": "peu",
+    "related": ["sucre", "confiture", "compote", "banane"],
+    "fr": {
+      "short": "Un peu. Le miel n'est pas toxique, mais c'est presque du sucre pur : une petite léchée de temps en temps ne pose pas de problème, sans plus.",
+      "why": "Le miel est composé surtout de sucres, dont un chat n'a pas besoin : carnivore strict, il tire son énergie des protéines et des graisses, et il ne perçoit même pas le goût sucré. En petite quantité, il n'est pas dangereux. Mais donné souvent, il favorise la prise de poids, et le surpoids augmente le risque de diabète chez le chat. Il n'a pas de vertu santé démontrée chez lui.",
+      "amount": "Une petite léchée au bout du doigt, de façon exceptionnelle. Jamais pour un chat diabétique ou en surpoids, sauf avis de ton vétérinaire.",
+      "risks": [
+        "Diarrhée ou vomissements s'il en mange trop",
+        "Prise de poids s'il en a souvent",
+        "Déséquilibre de la glycémie chez un chat diabétique"
+      ],
+      "ifEaten": "Une petite quantité n'est en général pas un problème. Surveille-le 24 à 48 h : vomissements, diarrhée, abattement. Appelle ton vétérinaire si ces signes apparaissent, s'il a vidé une bonne partie du pot, ou sans attendre s'il est diabétique.",
+      "alternatives": "Pour une récompense, une friandise pour chat ou un petit morceau de poulet cuit nature lui feront bien plus plaisir que du sucre, qu'il ne goûte pas.",
+      "faq": [
+        {
+          "q": "Le miel est-il bon pour la toux de mon chat ?",
+          "a": "Rien ne montre qu'il soigne la toux chez le chat. Une toux qui dure mérite une visite chez le vétérinaire plutôt qu'un remède maison."
+        },
+        {
+          "q": "Le miel peut-il aider en cas d'hypoglycémie ?",
+          "a": "Chez un chat diabétique sous insuline, le vétérinaire peut conseiller de frotter un peu de miel ou de sirop sur ses gencives en cas d'hypoglycémie, puis de l'appeler aussitôt. C'est un geste d'urgence à valider avec lui à l'avance, pas une friandise."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Honey isn't toxic to cats, but it's almost pure sugar: a tiny lick now and then is fine, nothing more.",
+      "why": "Honey is mostly sugar, which cats don't need: as obligate carnivores, they get their energy from protein and fat, and they can't even taste sweetness. In small amounts, it isn't dangerous. But given often, it leads to weight gain, and extra weight raises the risk of diabetes in cats. It has no proven health benefit for them.",
+      "amount": "A tiny lick off your fingertip, only once in a while. Never for a diabetic or overweight cat unless your vet says so.",
+      "risks": [
+        "Diarrhea or vomiting if too much is eaten",
+        "Weight gain if given often",
+        "Blood sugar swings in a diabetic cat"
+      ],
+      "ifEaten": "A small amount is usually not a problem. Watch your cat for 24 to 48 hours for vomiting, diarrhea or lethargy, and call your vet if they appear, if a good part of the jar is gone, or right away if your cat is diabetic.",
+      "alternatives": "As a reward, a cat treat or a small piece of plain cooked chicken will mean far more to your cat than sugar it can't taste.",
+      "faq": [
+        {
+          "q": "Can I give my cat honey for a cough?",
+          "a": "There's no evidence that honey treats coughs in cats. A cough that lasts deserves a vet visit rather than a home remedy."
+        },
+        {
+          "q": "Can honey help a diabetic cat with low blood sugar?",
+          "a": "For a cat on insulin, your vet may advise rubbing a little honey or syrup on the gums during a low blood sugar episode, then calling right away. It's an emergency step to agree on with your vet ahead of time, not a treat."
+        }
+      ]
+    }
+  },
+  {
+    "id": "sucre",
+    "verdict": "peu",
+    "related": ["miel", "bonbons", "confiture", "soda"],
+    "fr": {
+      "short": "Un peu. Quelques grains de sucre ne sont pas dangereux, mais le sucre ne sert à rien à ton chat, qui ne perçoit même pas le goût sucré.",
+      "why": "Le chat est un carnivore strict : il tire son énergie des protéines et des graisses, pas des sucres. Il lui manque même un récepteur fonctionnel du goût sucré, donc le sucre ne lui fait aucun plaisir. En petite quantité, ce n'est pas toxique. Mais répété, le sucre favorise la prise de poids, et le surpoids est un facteur de risque du diabète chez le chat.",
+      "amount": "Pas besoin de lui en donner. S'il lèche quelques grains tombés sur la table, ce n'est pas grave ; évite simplement qu'il ait accès au sucrier ou aux aliments très sucrés.",
+      "risks": [
+        "Diarrhée ou vomissements en cas de grosse quantité",
+        "Prise de poids si ça devient une habitude",
+        "Risque de diabète accru avec le surpoids",
+        "Xylitol et autres édulcorants dans les produits sans sucre"
+      ],
+      "ifEaten": "Quelques grains, aucun souci. S'il en a mangé une bonne quantité, surveille-le 24 à 48 h (vomissements, diarrhée, abattement) et appelle ton vétérinaire si ces signes apparaissent. S'il s'agissait d'un édulcorant comme le xylitol, appelle-le sans attendre.",
+      "alternatives": "Pour lui faire plaisir, une friandise pour chat, un petit morceau de poulet cuit nature ou un peu d'herbe à chat. Et toujours de l'eau fraîche à disposition.",
+      "faq": [
+        {
+          "q": "Mon chat a léché du sucre, c'est grave ?",
+          "a": "Non, quelques grains de sucre ne présentent pas de danger. Évite juste qu'il en prenne l'habitude, et vérifie qu'il ne s'agissait pas d'un édulcorant."
+        },
+        {
+          "q": "Pourquoi mon chat s'intéresse-t-il aux desserts s'il ne sent pas le sucré ?",
+          "a": "Ce qui l'attire, c'est le gras : beurre, crème, lait. C'est pour ça que les desserts l'intéressent autant, alors qu'ils ne lui conviennent pas."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A few grains of sugar won't hurt your cat, but sugar does nothing for cats, which can't even taste sweetness.",
+      "why": "Cats are obligate carnivores: they get their energy from protein and fat, not sugar. They even lack a working sweet taste receptor, so sugar gives them no pleasure. In small amounts it isn't toxic. But over time, sugar contributes to weight gain, and obesity is a risk factor for diabetes in cats.",
+      "amount": "There's no need to give any. If your cat licks a few grains off the table, that's fine; just keep the sugar bowl and very sweet foods out of reach.",
+      "risks": [
+        "Diarrhea or vomiting after a large amount",
+        "Weight gain if it becomes a habit",
+        "Higher diabetes risk with obesity",
+        "Xylitol and other sweeteners in sugar-free products"
+      ],
+      "ifEaten": "A few grains are no concern. If your cat ate a fair amount, watch it for 24 to 48 hours for vomiting, diarrhea or lethargy, and call your vet if those signs appear. If it was a sweetener like xylitol, call right away.",
+      "alternatives": "To treat your cat, try a cat treat, a small piece of plain cooked chicken or a bit of catnip. And always keep fresh water available.",
+      "faq": [
+        {
+          "q": "Can cats taste sweet things?",
+          "a": "No. Cats lack a working sweet taste receptor, so sugar doesn't taste good to them. When they go for desserts, it's the fat in butter, cream or milk that attracts them."
+        },
+        {
+          "q": "Are artificial sweeteners safe for cats?",
+          "a": "They're not something to share. Xylitol is highly toxic to dogs and, with limited data in cats, is treated as dangerous for them too. Other sweeteners bring no benefit, so keep sugar-free products out of reach."
+        }
+      ]
+    }
+  },
+  {
+    "id": "confiture",
+    "verdict": "peu",
+    "related": ["sucre", "miel", "raisin", "fraise"],
+    "fr": {
+      "short": "Un peu. Une petite léchée de confiture classique n'est pas dangereuse, mais c'est surtout du sucre, et certaines confitures sont à éviter complètement.",
+      "why": "La confiture, c'est souvent plus de la moitié de sucre, inutile pour un carnivore qui ne sent pas le goût sucré. Les versions allégées ou sans sucre peuvent contenir des édulcorants comme le xylitol, à éviter. La gelée de raisin et la marmelade d'agrumes posent problème à cause du fruit lui-même : raisin et agrumes sont déconseillés aux chats. Les confitures de fruits rouges, comme la fraise, ne sont pas toxiques.",
+      "amount": "Une léchée au coin de ta tartine, exceptionnellement, et seulement une confiture classique (fraise, framboise). Jamais de confiture allégée ou sans sucre, de raisin ou d'agrumes.",
+      "risks": [
+        "Diarrhée ou vomissements s'il en mange trop",
+        "Xylitol possible dans les confitures sans sucre",
+        "Gelée de raisin : à éviter par précaution",
+        "Irritation digestive avec la marmelade d'agrumes",
+        "Prise de poids si ça se répète"
+      ],
+      "ifEaten": "Une petite quantité de confiture classique n'est en général pas un problème : surveille-le 24 à 48 h (vomissements, diarrhée, abattement). Appelle ton vétérinaire si ces signes apparaissent, s'il en a mangé beaucoup, ou sans attendre si c'était une confiture sans sucre ou à base de raisin.",
+      "alternatives": "Si tu veux partager un fruit, quelques petits morceaux de fraise fraîche suffisent. Sinon, une friandise pour chat lui fera plus plaisir.",
+      "faq": [
+        {
+          "q": "Mon chat a léché ma tartine de confiture, c'est grave ?",
+          "a": "Non, si c'était une confiture classique, une léchée ne lui fera rien. Vérifie simplement qu'elle n'était pas sans sucre ou au raisin."
+        },
+        {
+          "q": "Et la confiture sans sucre ?",
+          "a": "C'est la plus risquée : elle contient souvent des édulcorants, parfois du xylitol. Garde-la hors de sa portée."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A tiny lick of regular jam isn't dangerous, but it's mostly sugar, and some jams should be avoided entirely.",
+      "why": "Jam is often more than half sugar, which is useless for a carnivore that can't taste sweetness. Light or sugar-free versions may contain sweeteners like xylitol, which should be avoided. Grape jelly and citrus marmalade are a problem because of the fruit itself: grapes and citrus aren't recommended for cats. Berry jams like strawberry aren't toxic.",
+      "amount": "A lick from the corner of your toast, once in a while, and only regular jam (strawberry, raspberry). Never sugar-free, grape or citrus.",
+      "risks": [
+        "Diarrhea or vomiting if too much is eaten",
+        "Possible xylitol in sugar-free jam",
+        "Grape jelly: avoided as a precaution",
+        "Digestive irritation from citrus marmalade",
+        "Weight gain if it happens often"
+      ],
+      "ifEaten": "A small amount of regular jam is usually not a problem: watch your cat for 24 to 48 hours for vomiting, diarrhea or lethargy. Call your vet if those signs appear, if your cat ate a lot, or right away if the jam was sugar-free or made from grapes.",
+      "alternatives": "If you want to share fruit, a few small pieces of fresh strawberry are enough. Otherwise, a cat treat will please your cat more.",
+      "faq": [
+        {
+          "q": "Can cats eat grape jelly?",
+          "a": "Better not. Grapes have been linked to kidney damage in dogs and the risk for cats isn't well understood, so grape products are avoided as a precaution."
+        },
+        {
+          "q": "Can cats eat strawberry jam?",
+          "a": "A tiny lick of regular strawberry jam won't harm your cat, but it's mostly sugar. A small piece of fresh strawberry is a better way to share."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nutella",
+    "verdict": "non",
+    "related": ["chocolat", "noisettes", "crepes", "pain"],
+    "fr": {
+      "short": "Non. Le Nutella contient du cacao, toxique pour le chat, et beaucoup de sucre, de gras et de noisettes : ne lui en donne pas, même à lécher.",
+      "why": "Le Nutella contient du cacao, donc de la théobromine et un peu de caféine, que le chat élimine très lentement. Il en contient moins que le chocolat noir, mais assez pour poser problème à un petit animal selon la quantité. Le reste, c'est surtout du sucre, de l'huile et des noisettes, très gras et difficiles à digérer, plus du lait en poudre.",
+      "amount": "Aucune quantité n'est conseillée. Ne laisse pas traîner le pot ouvert, les couteaux ou cuillères à lécher, ni les crêpes et tartines garnies.",
+      "risks": [
+        "Vomissements et diarrhée",
+        "Agitation et cœur qui s'emballe à cause de la théobromine",
+        "Tremblements si la quantité est importante",
+        "Douleurs digestives liées au gras et aux noisettes"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison sans attendre les symptômes : il évaluera le risque selon la quantité et le poids de ton chat. Garde le pot pour lui donner la composition. Ne le fais pas vomir toi-même.",
+      "alternatives": "Pour la gourmandise, une friandise crémeuse pour chat fera son bonheur sans risque.",
+      "faq": [
+        {
+          "q": "Mon chat a léché la cuillère de Nutella, c'est grave ?",
+          "a": "Une léchée apporte peu de théobromine, mais appelle ton vétérinaire pour avoir son avis, surtout si ton chat est petit ou en a mangé plus. Surveille-le de près dans les heures qui suivent."
+        },
+        {
+          "q": "Le Nutella est-il moins dangereux que le chocolat noir ?",
+          "a": "Oui, il contient beaucoup moins de cacao. Mais il reste déconseillé : il contient quand même de la théobromine, et son sucre et son gras peuvent déjà le rendre malade."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Nutella contains cocoa, which is toxic to cats, plus lots of sugar, fat and hazelnuts: don't give your cat any, not even a lick.",
+      "why": "Nutella contains cocoa, meaning theobromine and a little caffeine, which cats clear very slowly. It has less than dark chocolate, but enough to cause problems in a small animal depending on how much is eaten. The rest is mostly sugar, oil and hazelnuts, which are very fatty and hard to digest, plus milk powder.",
+      "amount": "No amount is recommended. Don't leave the open jar, knives or spoons to lick, or spread-covered crepes and toast lying around.",
+      "risks": [
+        "Vomiting and diarrhea",
+        "Restlessness and racing heart from the theobromine",
+        "Tremors if a larger amount is eaten",
+        "Stomach pain from the fat and hazelnuts"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center without waiting for symptoms: they'll assess the risk based on how much was eaten and your cat's weight. Keep the jar so you can give them the ingredients. Don't try to make your cat vomit yourself.",
+      "alternatives": "For something indulgent, a lickable cat treat will make your cat happy with no risk.",
+      "faq": [
+        {
+          "q": "My cat licked a Nutella spoon, is that serious?",
+          "a": "One lick doesn't contain much theobromine, but call your vet for advice, especially if your cat is small or ate more. Watch it closely over the next few hours."
+        },
+        {
+          "q": "Is Nutella less dangerous than dark chocolate?",
+          "a": "Yes, it contains much less cocoa. But it's still not safe: it does contain theobromine, and the sugar and fat alone can make your cat sick."
+        }
+      ]
+    }
+  },
+  {
+    "id": "glace",
+    "verdict": "non",
+    "related": ["lait", "chocolat", "yaourt", "creme-fraiche"],
+    "fr": {
+      "short": "Non. La glace mélange lactose, sucre et gras, ce que le chat digère mal, et certains parfums contiennent du chocolat, du café ou du xylitol.",
+      "why": "La plupart des chats adultes ne digèrent plus bien le lactose, et la glace en contient beaucoup, avec de la crème et du sucre. Résultat fréquent : ballonnements, vomissements ou diarrhée. Certains parfums ajoutent des ingrédients toxiques : chocolat, café, rhum-raisin, ou xylitol dans les glaces sans sucre. Les sorbets, sans lait, restent du sucre, et ceux aux agrumes sont à éviter.",
+      "amount": "Aucune quantité n'est conseillée. Une petite léchée de glace à la vanille n'est pas une urgence, mais ce n'est pas une friandise à lui offrir.",
+      "risks": [
+        "Diarrhée et ballonnements liés au lactose",
+        "Vomissements",
+        "Intoxication avec les parfums chocolat, café ou alcool",
+        "Xylitol dans les glaces sans sucre",
+        "Prise de poids si ça devient une habitude"
+      ],
+      "ifEaten": "Si la glace contenait du chocolat, du café, de l'alcool ou du xylitol, appelle tout de suite ton vétérinaire ou un centre antipoison, sans attendre les symptômes. Garde l'emballage et ne le fais pas vomir toi-même. Pour une léchée de glace vanille, surveille-le simplement 24 à 48 h.",
+      "alternatives": "En été, propose-lui un peu de lait spécial chat sans lactose, ou des glaçons faits avec l'eau de cuisson d'un blanc de poulet, sans sel ni oignon.",
+      "faq": [
+        {
+          "q": "Et la glace à la vanille ?",
+          "a": "C'est la moins risquée, mais elle reste pleine de lactose, de sucre et de gras. Une léchée n'est pas grave, une coupelle peut lui donner la diarrhée."
+        },
+        {
+          "q": "Existe-t-il de la glace pour chat ?",
+          "a": "On trouve des friandises glacées pour chat, sans lactose. Tu peux aussi congeler un peu de lait pour chat, ou de bouillon maison sans sel ni oignon, en petits glaçons."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Ice cream combines lactose, sugar and fat, which cats digest poorly, and some flavors contain chocolate, coffee or xylitol.",
+      "why": "Most adult cats can no longer digest lactose well, and ice cream contains plenty of it, along with cream and sugar. The usual result is bloating, vomiting or diarrhea. Some flavors add toxic ingredients: chocolate, coffee, rum raisin, or xylitol in sugar-free versions. Sorbet has no milk but is still sugar, and citrus sorbets are best avoided.",
+      "amount": "No amount is recommended. A small lick of vanilla isn't an emergency, but it's not a treat to offer.",
+      "risks": [
+        "Diarrhea and bloating from lactose",
+        "Vomiting",
+        "Poisoning with chocolate, coffee or alcohol flavors",
+        "Xylitol in sugar-free ice cream",
+        "Weight gain if it becomes a habit"
+      ],
+      "ifEaten": "If the ice cream contained chocolate, coffee, alcohol or xylitol, call your vet or an animal poison control center right away, without waiting for symptoms. Keep the packaging and don't try to make your cat vomit. For a lick of vanilla, just watch your cat for 24 to 48 hours.",
+      "alternatives": "On hot days, offer a little lactose-free cat milk, or ice cubes made with the water from boiling a plain chicken breast, with no salt or onion.",
+      "faq": [
+        {
+          "q": "Can cats eat vanilla ice cream?",
+          "a": "It's the least risky flavor, but it's still full of lactose, sugar and fat. A lick won't do much harm; a bowlful can give your cat diarrhea."
+        },
+        {
+          "q": "Can cats eat frozen yogurt or sorbet?",
+          "a": "Frozen yogurt still has lactose and sugar, and sorbet is basically frozen sugar, sometimes with citrus. Neither is a good treat; frozen lactose-free cat milk is a better idea."
+        }
+      ]
+    }
+  },
+  {
+    "id": "crepes",
+    "verdict": "peu",
+    "related": ["nutella", "oeuf", "lait", "confiture"],
+    "fr": {
+      "short": "Un peu. Une petite bouchée de crêpe nature n'est pas dangereuse, mais sans garniture : pas de Nutella, de confiture, de sucre ni d'alcool.",
+      "why": "Une crêpe nature, c'est de la farine, des œufs, du lait, un peu de sucre et de beurre : pas toxique, mais inutile pour un carnivore. Le lait et le beurre peuvent déranger un chat sensible au lactose. Le vrai danger, c'est la garniture : chocolat ou pâte à tartiner, confiture sans sucre, crêpes flambées, ou pâte parfumée au rhum ou à la bière.",
+      "amount": "Un petit morceau de crêpe nature, sans sucre ajouté ni garniture, de façon exceptionnelle. Ça doit rester une bouchée, pas un repas.",
+      "risks": [
+        "Diarrhée ou vomissements liés au lait et au beurre",
+        "Intoxication avec une garniture au chocolat",
+        "Alcool dans les crêpes flambées ou la pâte au rhum",
+        "Xylitol dans les garnitures sans sucre",
+        "Prise de poids si ça devient une habitude"
+      ],
+      "ifEaten": "Un morceau de crêpe nature n'est en général pas un problème : surveille-le 24 à 48 h (vomissements, diarrhée, abattement) et appelle ton vétérinaire si ces signes apparaissent. S'il a mangé une crêpe au chocolat, au Nutella ou à l'alcool, appelle-le tout de suite.",
+      "alternatives": "Pendant que tu fais les crêpes, donne-lui plutôt un petit bout d'œuf cuit sans sel ou une friandise pour chat.",
+      "faq": [
+        {
+          "q": "Et la pâte à crêpes crue ?",
+          "a": "Non : elle contient des œufs crus, avec un risque de salmonelle, et parfois du rhum ou de la bière. Ne le laisse pas lécher le saladier."
+        },
+        {
+          "q": "Et une galette jambon-fromage ?",
+          "a": "C'est trop salé et trop gras pour lui. Un tout petit bout de jambon ou de fromage peut passer de temps en temps, mais pas une part de galette."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A small bite of plain crepe isn't dangerous for cats, as long as it has no filling: no Nutella, jam, sugar or alcohol.",
+      "why": "A plain crepe is flour, eggs, milk and a bit of sugar and butter: not toxic, but useless for a carnivore. The milk and butter can upset a lactose-sensitive cat. The real danger is the filling: chocolate or chocolate spread, sugar-free jam, flambéed crepes, or batter flavored with rum or beer.",
+      "amount": "A small piece of plain crepe, without added sugar or filling, once in a while. Keep it to a bite, not a meal.",
+      "risks": [
+        "Diarrhea or vomiting from the milk and butter",
+        "Poisoning with a chocolate filling",
+        "Alcohol in flambéed crepes or rum batter",
+        "Xylitol in sugar-free fillings",
+        "Weight gain if it becomes a habit"
+      ],
+      "ifEaten": "A bite of plain crepe is usually not a problem: watch your cat for 24 to 48 hours for vomiting, diarrhea or lethargy, and call your vet if they appear. If your cat ate a chocolate, Nutella or boozy crepe, call right away.",
+      "alternatives": "While you cook, give your cat a small piece of plain cooked egg or a cat treat instead.",
+      "faq": [
+        {
+          "q": "Can cats eat pancakes?",
+          "a": "Plain pancakes are like crepes: a small bite isn't toxic, but they're useless for a cat. Skip the syrup, butter, chocolate chips and any sugar-free toppings."
+        },
+        {
+          "q": "Can cats eat Nutella crepes?",
+          "a": "No. Nutella contains cocoa, which is toxic to cats. If your cat ate some, call your vet for advice."
+        }
+      ]
+    }
+  },
+  {
+    "id": "compote",
+    "verdict": "peu",
+    "related": ["pomme", "poire", "banane", "sucre"],
+    "fr": {
+      "short": "Un peu. Une cuillère à café de compote de pomme sans sucre ajouté passe de temps en temps, mais la compote sucrée ou aromatisée est à éviter.",
+      "why": "La compote de pomme, c'est de la pomme cuite, épluchée et sans pépins : pas toxique pour le chat. Mais elle est naturellement sucrée, et les versions classiques ont du sucre ajouté, inutile pour un carnivore qui ne le goûte pas. Évite les compotes allégées avec édulcorants et les mélanges contenant du raisin ou des agrumes. Elle n'apporte presque rien à ton chat.",
+      "amount": "Une cuillère à café au maximum, nature et sans sucre ajouté, de façon occasionnelle. Pas en dessert quotidien.",
+      "risks": [
+        "Diarrhée s'il en mange trop",
+        "Sucre inutile dans les compotes sucrées",
+        "Édulcorants possibles dans les versions allégées",
+        "Prise de poids si ça devient une habitude"
+      ],
+      "ifEaten": "Une petite quantité n'est en général pas un problème. Surveille-le 24 à 48 h (vomissements, diarrhée, abattement) et appelle ton vétérinaire si ces signes apparaissent, s'il en a mangé une grosse quantité, ou sans attendre si la compote contenait des édulcorants ou du raisin.",
+      "alternatives": "Pour un fruit, quelques petits morceaux de pomme fraîche épluchée et sans pépins conviennent. Pour le transit, une cuillère de citrouille cuite nature est plus adaptée.",
+      "faq": [
+        {
+          "q": "La compote sans sucre ajouté, c'est mieux ?",
+          "a": "Oui, c'est la seule à envisager, en petite quantité. Vérifie quand même la liste des ingrédients : pas d'édulcorant, juste des fruits."
+        },
+        {
+          "q": "La compote aide-t-elle un chat constipé ?",
+          "a": "Ce n'est pas le remède le plus adapté. La citrouille cuite nature est plus souvent conseillée, et une constipation qui dure mérite un avis vétérinaire."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A teaspoon of unsweetened applesauce now and then is fine for most cats, but sweetened or flavored applesauce is best avoided.",
+      "why": "Applesauce is cooked, peeled apple without seeds, and it isn't toxic to cats. But it's naturally sweet, and regular versions have added sugar, which is useless for a carnivore that can't taste it. Avoid light versions with sweeteners and fruit blends that include grapes or citrus. It gives your cat almost nothing nutritionally.",
+      "amount": "A teaspoon at most, plain and unsweetened, only occasionally. Not a daily dessert.",
+      "risks": [
+        "Diarrhea if too much is eaten",
+        "Useless sugar in sweetened applesauce",
+        "Possible sweeteners in light versions",
+        "Weight gain if it becomes a habit"
+      ],
+      "ifEaten": "A small amount is usually not a problem. Watch your cat for 24 to 48 hours for vomiting, diarrhea or lethargy, and call your vet if they appear, if your cat ate a large amount, or right away if the applesauce contained sweeteners or grapes.",
+      "alternatives": "For fruit, a few small pieces of fresh apple, peeled and seedless, work well. For digestion, a spoonful of plain cooked pumpkin is a better fit.",
+      "faq": [
+        {
+          "q": "Can cats eat cinnamon applesauce?",
+          "a": "It's better to stick to plain. Flavored applesauce is usually sweetened too, and spices have no place in a cat's diet."
+        },
+        {
+          "q": "Is unsweetened applesauce OK for cats?",
+          "a": "Yes, in small amounts: it's the only kind worth considering. Check the label anyway and pick one with only fruit, no sweeteners."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafe",
+    "verdict": "non",
+    "related": ["the", "boisson-energisante", "chocolat", "soda"],
+    "fr": {
+      "short": "Non. Le café contient de la caféine, toxique pour le chat : même une petite quantité peut l'agiter, emballer son cœur et provoquer des tremblements.",
+      "why": "La caféine est un stimulant de la même famille que la théobromine du chocolat, et le chat y est très sensible. Elle accélère le cœur, excite le système nerveux et peut provoquer vomissements, tremblements, voire convulsions. Le marc, le café moulu, les grains et les capsules sont bien plus concentrés qu'une tasse : ce sont les plus dangereux. Et le café au lait ajoute du lactose.",
+      "amount": "Aucune quantité n'est sans danger. Ne laisse pas de tasse sans surveillance, et range capsules, dosettes, grains et marc hors de sa portée, poubelle comprise.",
+      "risks": [
+        "Agitation, hyperactivité, halètement",
+        "Cœur qui s'emballe ou rythme irrégulier",
+        "Vomissements",
+        "Tremblements et convulsions",
+        "Danger accru avec le marc, les grains ou une capsule"
+      ],
+      "ifEaten": "S'il a bu plus que quelques gouttes, ou mangé du marc, du café moulu, des grains ou une capsule, appelle tout de suite ton vétérinaire ou un centre antipoison, sans attendre les symptômes. Garde l'emballage et ne le fais pas vomir toi-même. Pour une simple léchée dans ta tasse, surveille-le de près pendant 24 h.",
+      "alternatives": "La seule boisson dont ton chat a besoin, c'est de l'eau fraîche. Une fontaine à eau peut l'inciter à boire davantage.",
+      "faq": [
+        {
+          "q": "Mon chat a léché mon café, c'est grave ?",
+          "a": "Une ou deux léchées ne provoquent généralement pas d'intoxication grave. Surveille-le quelques heures : s'il est agité, halète, vomit ou tremble, appelle ton vétérinaire."
+        },
+        {
+          "q": "Et le café décaféiné ?",
+          "a": "Il contient encore un peu de caféine, et souvent du lait ou du sucre. C'est moins risqué qu'un café normal, mais ce n'est pas une boisson pour chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Coffee contains caffeine, which is toxic to cats: even a small amount can make them restless, speed up their heart and cause tremors.",
+      "why": "Caffeine is a stimulant from the same family as the theobromine in chocolate, and cats are very sensitive to it. It speeds up the heart, overstimulates the nervous system and can cause vomiting, tremors or even seizures. Grounds, ground coffee, beans and pods are far more concentrated than a cup, so they're the most dangerous. Coffee with milk adds lactose too.",
+      "amount": "No amount is safe. Don't leave cups unattended, and keep pods, beans, grounds and used filters out of reach, trash can included.",
+      "risks": [
+        "Restlessness, hyperactivity, panting",
+        "Racing or irregular heartbeat",
+        "Vomiting",
+        "Tremors and seizures",
+        "Higher danger with grounds, beans or a coffee pod"
+      ],
+      "ifEaten": "If your cat drank more than a few drops, or ate grounds, ground coffee, beans or a pod, call your vet or an animal poison control center right away, without waiting for symptoms. Keep the packaging and don't try to make your cat vomit. For a single lick from your cup, watch your cat closely for 24 hours.",
+      "alternatives": "The only drink your cat needs is fresh water. A water fountain can encourage it to drink more.",
+      "faq": [
+        {
+          "q": "Can cats drink decaf coffee?",
+          "a": "No. Decaf still contains a little caffeine, and often milk or sugar. It's less risky than regular coffee, but it's not a drink for cats."
+        },
+        {
+          "q": "My cat ate coffee grounds, what should I do?",
+          "a": "Call your vet or an animal poison control center right away. Grounds are much more concentrated than brewed coffee, so even a small amount can be serious for a cat."
+        }
+      ]
+    }
+  },
+  {
+    "id": "the",
+    "verdict": "non",
+    "related": ["cafe", "boisson-energisante", "lait", "menthe"],
+    "fr": {
+      "short": "Non. Le thé contient de la caféine, toxique pour le chat, que ce soit du thé noir, vert ou du matcha : ne le laisse pas boire dans ta tasse.",
+      "why": "Comme le café, le thé contient de la caféine (la théine, c'est la même molécule), plus un peu de théobromine et de théophylline, des stimulants que le chat supporte très mal. Ils agissent sur son cœur et son système nerveux. Le matcha et les sachets de thé sont plus concentrés qu'une tasse infusée. Le thé au lait ajoute du lactose, et le thé glacé du sucre.",
+      "amount": "Aucune quantité n'est conseillée. Ne laisse pas de tasse à sa portée, et jette les sachets usagés dans une poubelle fermée.",
+      "risks": [
+        "Agitation, hyperactivité",
+        "Cœur qui s'emballe",
+        "Vomissements et diarrhée",
+        "Tremblements, voire convulsions à forte dose",
+        "Sachet avalé : caféine plus concentrée et risque de blocage"
+      ],
+      "ifEaten": "S'il a bu une bonne quantité de thé, mâchouillé un sachet ou avalé du matcha, appelle tout de suite ton vétérinaire ou un centre antipoison, sans attendre les symptômes. Garde l'emballage et ne le fais pas vomir toi-même. Pour une léchée dans ta tasse, surveille-le de près pendant 24 h.",
+      "alternatives": "De l'eau fraîche, changée tous les jours, reste la meilleure boisson pour ton chat. Beaucoup de chats préfèrent une eau qui coule, comme celle d'une fontaine.",
+      "faq": [
+        {
+          "q": "Et les tisanes, comme la camomille ?",
+          "a": "Pas sans avis vétérinaire : même sans caféine, certaines plantes, comme la camomille, figurent sur les listes de plantes toxiques pour le chat. L'eau fraîche reste la seule boisson dont il a besoin."
+        },
+        {
+          "q": "Mon chat a bu dans ma tasse de thé, c'est grave ?",
+          "a": "Quelques lapées de thé infusé sont rarement graves, mais surveille-le : agitation, vomissements, cœur rapide. Si ces signes apparaissent ou s'il a beaucoup bu, appelle ton vétérinaire."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Tea contains caffeine, which is toxic to cats, whether it's black, green or matcha: don't let your cat drink from your cup.",
+      "why": "Like coffee, tea contains caffeine, plus small amounts of theobromine and theophylline, stimulants that cats handle very poorly. They act on the heart and nervous system. Matcha and tea bags are more concentrated than a brewed cup. Tea with milk adds lactose, and sweet iced tea adds sugar.",
+      "amount": "No amount is recommended. Keep cups out of reach and throw used tea bags in a closed trash can.",
+      "risks": [
+        "Restlessness and hyperactivity",
+        "Racing heart",
+        "Vomiting and diarrhea",
+        "Tremors, even seizures at high doses",
+        "Swallowed tea bag: more concentrated caffeine, plus a blockage risk"
+      ],
+      "ifEaten": "If your cat drank a good amount of tea, chewed a tea bag or ate matcha powder, call your vet or an animal poison control center right away, without waiting for symptoms. Keep the packaging and don't try to make your cat vomit. For a lick from your cup, watch your cat closely for 24 hours.",
+      "alternatives": "Fresh water, changed every day, is still the best drink for your cat. Many cats prefer running water, like from a fountain.",
+      "faq": [
+        {
+          "q": "Can cats drink chamomile tea?",
+          "a": "Not without your vet's advice. Even without caffeine, some herbs, chamomile included, appear on lists of plants toxic to cats. Fresh water is the only drink a cat needs."
+        },
+        {
+          "q": "Can cats drink green tea?",
+          "a": "No. Green tea contains caffeine just like black tea, and matcha is even more concentrated. Green tea extracts and supplements aren't for cats either."
+        }
+      ]
+    }
+  },
+  {
+    "id": "alcool",
+    "verdict": "non",
+    "related": ["pate-crue", "cafe", "raisin", "boisson-energisante"],
+    "fr": {
+      "short": "Non. L'alcool est toxique pour le chat : même une petite quantité de vin, de bière ou d'alcool fort peut provoquer une intoxication grave.",
+      "why": "L'alcool passe très vite dans le sang, et pour un animal de quelques kilos, une petite quantité représente déjà une dose importante. Il déprime le système nerveux, fait chuter la température, la glycémie et la tension, et peut ralentir la respiration jusqu'au coma. Attention aussi aux sources cachées : desserts arrosés, liqueurs à la crème qui attirent les chats, et pâte à pain crue, qui produit de l'alcool en fermentant.",
+      "amount": "Aucune quantité n'est sans danger. Ne laisse pas de verres, de bouteilles ou de canettes ouvertes à sa portée, surtout pendant les soirées.",
+      "risks": [
+        "Démarche titubante, désorientation",
+        "Vomissements",
+        "Baisse de la température et de la glycémie",
+        "Respiration ralentie, perte de connaissance",
+        "Coma, voire décès en cas de forte dose"
+      ],
+      "ifEaten": "Appelle tout de suite ton vétérinaire ou un centre antipoison, sans attendre les symptômes : l'intoxication peut s'aggraver vite. Note ce qu'il a bu et en quelle quantité, et garde la bouteille. Ne le fais pas vomir toi-même.",
+      "alternatives": "Pendant l'apéro, garde de l'eau fraîche à sa disposition et, pour qu'il participe, cache une friandise pour chat dans un jouet distributeur.",
+      "faq": [
+        {
+          "q": "Mon chat a léché un peu de vin ou de bière, c'est grave ?",
+          "a": "Une goutte léchée sur le doigt ne provoque généralement pas d'intoxication sérieuse, mais au-delà, la dose peut vite devenir dangereuse pour un chat. Appelle ton vétérinaire pour avoir son avis, et surveille son équilibre, sa respiration et sa vigilance."
+        },
+        {
+          "q": "Et les desserts à l'alcool, comme le tiramisu ?",
+          "a": "À éviter complètement : ils contiennent de l'alcool, et le tiramisu ajoute du café et du cacao, eux aussi toxiques pour le chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Alcohol is toxic to cats: even a small amount of wine, beer or liquor can cause serious poisoning.",
+      "why": "Alcohol enters the bloodstream very quickly, and for an animal that weighs a few pounds, a small amount is already a large dose. It depresses the nervous system, drops body temperature, blood sugar and blood pressure, and can slow breathing to the point of coma. Watch out for hidden sources too: boozy desserts, cream liqueurs that attract cats, and raw bread dough, which produces alcohol as it ferments.",
+      "amount": "No amount is safe. Don't leave glasses, bottles or open cans within reach, especially during parties.",
+      "risks": [
+        "Wobbly walking and disorientation",
+        "Vomiting",
+        "Drop in body temperature and blood sugar",
+        "Slowed breathing, loss of consciousness",
+        "Coma, or even death with a large dose"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, without waiting for symptoms: alcohol poisoning can get worse quickly. Note what your cat drank and how much, and keep the bottle. Don't try to make your cat vomit.",
+      "alternatives": "During parties, keep fresh water available and, to include your cat, hide a cat treat in a puzzle feeder.",
+      "faq": [
+        {
+          "q": "Can cats drink beer?",
+          "a": "No. Beer contains alcohol, and for a cat even a few laps can be too much. Keep glasses and cans out of reach."
+        },
+        {
+          "q": "My cat licked a drop of wine, what should I do?",
+          "a": "A single drop licked off a finger usually won't cause serious poisoning, but more than that can quickly become dangerous. Call your vet for advice and watch your cat's balance, breathing and alertness."
+        }
+      ]
+    }
+  },
+  {
+    "id": "jus-orange",
+    "verdict": "non",
+    "related": ["orange", "citron", "mandarine", "soda"],
+    "fr": {
+      "short": "Non. Le jus d'orange est acide et sucré, et les agrumes irritent le système digestif du chat : il n'en a aucun besoin, l'eau lui suffit.",
+      "why": "Les agrumes contiennent de l'acide citrique et des huiles essentielles qui irritent l'estomac et l'intestin du chat. Le jus contient moins d'huiles que l'écorce, mais il reste acide et très sucré, ce qui peut provoquer vomissements et diarrhée. Le chat n'a pas besoin de sa vitamine C : il la fabrique lui-même. La plupart des chats détestent d'ailleurs l'odeur des agrumes.",
+      "amount": "Aucune quantité n'est conseillée. Ne laisse pas de verre de jus à sa portée, ni d'écorces d'orange dans une poubelle ouverte.",
+      "risks": [
+        "Vomissements",
+        "Diarrhée",
+        "Irritation de la bouche et de l'estomac",
+        "Sucre inutile, prise de poids si ça se répète"
+      ],
+      "ifEaten": "Quelques lapées de jus d'orange provoquent au pire un dérangement digestif passager : laisse-lui de l'eau fraîche et surveille-le 24 à 48 h. Appelle ton vétérinaire s'il vomit ou a la diarrhée de façon répétée, s'il en a bu beaucoup ou s'il a mâché des écorces.",
+      "alternatives": "De l'eau fraîche, tout simplement. Pour l'aider à boire plus, tu peux ajouter un peu d'eau à sa pâtée ou installer une fontaine.",
+      "faq": [
+        {
+          "q": "Mon chat a léché du jus d'orange, c'est grave ?",
+          "a": "En général non : une petite quantité peut juste lui irriter l'estomac. Surveille ses selles et d'éventuels vomissements, et appelle le vétérinaire si ça dure."
+        },
+        {
+          "q": "Le jus d'orange apporte-t-il de la vitamine C à mon chat ?",
+          "a": "Il n'en a pas besoin : contrairement à nous, le chat fabrique lui-même sa vitamine C. Le jus ne lui apporterait que du sucre et de l'acidité."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Orange juice is acidic and sugary, and citrus irritates a cat's digestive system: your cat doesn't need it, water is enough.",
+      "why": "Citrus fruits contain citric acid and essential oils that irritate a cat's stomach and gut. Juice has less of these oils than the peel, but it's still acidic and very sugary, which can cause vomiting and diarrhea. Cats don't need the vitamin C either: their bodies make their own. Most cats actually hate the smell of citrus.",
+      "amount": "No amount is recommended. Don't leave a glass of juice within reach, or orange peels in an open trash can.",
+      "risks": [
+        "Vomiting",
+        "Diarrhea",
+        "Irritation of the mouth and stomach",
+        "Useless sugar, weight gain if it happens often"
+      ],
+      "ifEaten": "A few laps of orange juice usually cause, at worst, a passing tummy upset: leave fresh water out and watch your cat for 24 to 48 hours. Call your vet if vomiting or diarrhea keeps coming back, if your cat drank a lot, or if it chewed on peels.",
+      "alternatives": "Fresh water, plain and simple. To help your cat drink more, add a little water to its wet food or set up a fountain.",
+      "faq": [
+        {
+          "q": "Do cats need vitamin C from orange juice?",
+          "a": "No. Unlike humans, cats make their own vitamin C. Juice would only give them sugar and acidity."
+        },
+        {
+          "q": "Can cats drink apple juice?",
+          "a": "It isn't irritating like citrus, but it's mostly sugar and useless for a cat. A lick is harmless; it's just not a drink to offer."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soda",
+    "verdict": "non",
+    "related": ["cafe", "sucre", "boisson-energisante", "jus-orange"],
+    "fr": {
+      "short": "Non. Les sodas sont pleins de sucre ou d'édulcorants, et les colas contiennent de la caféine, toxique pour le chat : l'eau est sa seule boisson.",
+      "why": "Les sodas au cola, et certains autres, contiennent de la caféine, un stimulant auquel le chat est très sensible. Tous contiennent beaucoup de sucre ou des édulcorants, inutiles pour un carnivore qui ne sent pas le goût sucré, et des acides qui irritent l'estomac. Les bulles peuvent en plus le ballonner. Même sans caféine, un soda n'a rien à lui apporter.",
+      "amount": "Aucune quantité n'est conseillée. Ne laisse pas de verre ni de canette ouverte à sa portée : les chats curieux lapent volontiers dans les verres laissés sur la table.",
+      "risks": [
+        "Agitation et cœur rapide avec les sodas caféinés",
+        "Vomissements et diarrhée",
+        "Ballonnements liés aux bulles",
+        "Sucre inutile, prise de poids si ça se répète"
+      ],
+      "ifEaten": "Quelques lapées ne provoquent généralement pas d'intoxication grave : surveille-le 24 h, en particulier agitation, vomissements ou tremblements. S'il a bu une bonne quantité, surtout d'un soda caféiné ou sans sucre, appelle ton vétérinaire sans attendre, avec la canette ou la bouteille sous la main.",
+      "alternatives": "De l'eau fraîche, changée chaque jour. Si ton chat boit peu, une fontaine ou de la pâtée l'aideront à s'hydrater.",
+      "faq": [
+        {
+          "q": "Mon chat a léché du cola, c'est grave ?",
+          "a": "Une ou deux léchées apportent très peu de caféine et sont rarement graves. Surveille-le quelques heures, et appelle le vétérinaire s'il devient agité, vomit ou tremble."
+        },
+        {
+          "q": "Et les sodas sans caféine ou light ?",
+          "a": "Pas mieux : ils restent acides et gazeux, avec du sucre ou des édulcorants qui n'ont rien à faire dans son alimentation. Ne lui en donne pas."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Soda is loaded with sugar or sweeteners, and colas contain caffeine, which is toxic to cats: water is the only drink your cat needs.",
+      "why": "Colas, and some other sodas, contain caffeine, a stimulant cats are very sensitive to. All sodas contain lots of sugar or sweeteners, useless for a carnivore that can't taste sweetness, plus acids that irritate the stomach. The bubbles can also cause bloating. Even caffeine-free, a soda has nothing to offer a cat.",
+      "amount": "No amount is recommended. Don't leave glasses or open cans within reach: curious cats readily lap from drinks left on the table.",
+      "risks": [
+        "Restlessness and racing heart with caffeinated sodas",
+        "Vomiting and diarrhea",
+        "Bloating from the bubbles",
+        "Useless sugar, weight gain if it happens often"
+      ],
+      "ifEaten": "A few laps usually won't cause serious poisoning: watch your cat for 24 hours, especially for restlessness, vomiting or tremors. If your cat drank a fair amount, especially of a caffeinated or sugar-free soda, call your vet right away and keep the can or bottle handy.",
+      "alternatives": "Fresh water, changed every day. If your cat doesn't drink much, a fountain or wet food can help keep it hydrated.",
+      "faq": [
+        {
+          "q": "Can cats drink diet soda?",
+          "a": "No. Diet soda is still acidic and fizzy, often caffeinated, and its sweeteners have no place in a cat's diet."
+        },
+        {
+          "q": "Can cats drink sparkling water?",
+          "a": "Plain sparkling water isn't toxic, but the bubbles can be uncomfortable and most cats aren't interested. Plain still water is all your cat needs."
+        }
+      ]
+    }
+  },
+  {
+    "id": "boisson-energisante",
+    "verdict": "non",
+    "related": ["cafe", "the", "soda", "chocolat"],
+    "fr": {
+      "short": "Non. Les boissons énergisantes sont très riches en caféine, toxique pour le chat : même une petite quantité peut provoquer une intoxication grave.",
+      "why": "Une boisson énergisante concentre beaucoup de caféine, souvent renforcée par du guarana, une autre source de caféine. Pour un animal de quelques kilos, quelques lapées peuvent déjà suffire à emballer son cœur et son système nerveux. S'y ajoutent beaucoup de sucre ou des édulcorants. La taurine qu'elles contiennent ne compense rien : le chat la trouve déjà dans son alimentation.",
+      "amount": "Aucune quantité n'est sans danger. Ne laisse jamais de canette ouverte à sa portée, même presque vide.",
+      "risks": [
+        "Agitation intense, halètement",
+        "Cœur très rapide ou rythme irrégulier",
+        "Vomissements",
+        "Tremblements et convulsions",
+        "Hausse de la température corporelle"
+      ],
+      "ifEaten": "Appelle tout de suite ton vétérinaire ou un centre antipoison, sans attendre les symptômes : ces boissons sont bien plus concentrées en caféine qu'un soda. Garde la canette pour indiquer la composition et estimer la quantité bue. Ne le fais pas vomir toi-même.",
+      "alternatives": "De l'eau fraîche reste la seule boisson dont ton chat a besoin. Pour le dynamiser, rien ne vaut une séance de jeu avec une canne à plumes.",
+      "faq": [
+        {
+          "q": "Il y a de la taurine dedans, ce n'est pas bon pour le chat ?",
+          "a": "La taurine est indispensable au chat, mais il la trouve dans sa nourriture pour chat et dans la viande. Dans une boisson énergisante, c'est la caféine qui compte, et elle est dangereuse pour lui."
+        },
+        {
+          "q": "Mon chat a léché une canette de boisson énergisante, que faire ?",
+          "a": "Appelle ton vétérinaire pour avoir son avis, même s'il semble aller bien : la caféine y est très concentrée. Surveille agitation, halètement, vomissements et tremblements dans les heures qui suivent."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Energy drinks are packed with caffeine, which is toxic to cats: even a small amount can cause serious poisoning.",
+      "why": "An energy drink packs a lot of caffeine, often boosted with guarana, another source of caffeine. For an animal that weighs a few pounds, a few laps can be enough to overstimulate the heart and nervous system. Add plenty of sugar or sweeteners on top. The taurine they contain doesn't make up for anything: cats already get it from their food.",
+      "amount": "No amount is safe. Never leave an open can within reach, even an almost empty one.",
+      "risks": [
+        "Severe restlessness, panting",
+        "Very fast or irregular heartbeat",
+        "Vomiting",
+        "Tremors and seizures",
+        "Rising body temperature"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, without waiting for symptoms: these drinks are far more concentrated in caffeine than soda. Keep the can to show the ingredients and estimate how much was drunk. Don't try to make your cat vomit.",
+      "alternatives": "Fresh water is the only drink your cat needs. For an energy boost, nothing beats a play session with a feather wand.",
+      "faq": [
+        {
+          "q": "Energy drinks contain taurine, isn't that good for cats?",
+          "a": "Taurine is essential for cats, but they get it from cat food and meat. In an energy drink, what matters is the caffeine, and that's dangerous for them."
+        },
+        {
+          "q": "My cat licked an energy drink can, what should I do?",
+          "a": "Call your vet for advice, even if your cat seems fine: the caffeine is very concentrated. Watch for restlessness, panting, vomiting and tremors over the next few hours."
+        }
+      ]
+    }
+  },
+  {
+    "id": "lait-vegetal",
+    "verdict": "peu",
+    "related": ["lait", "amandes", "noix-de-coco", "yaourt"],
+    "fr": {
+      "short": "Un peu. Quelques lapées de lait végétal nature, sans sucre ni arôme, ne sont pas dangereuses, mais il n'apporte rien à ton chat.",
+      "why": "Les laits végétaux (avoine, soja, riz, amande) ne contiennent pas de lactose, ce qui les rend mieux tolérés que le lait de vache. Mais ils sont pauvres en ce dont un carnivore a besoin, et beaucoup contiennent du sucre, des arômes ou des huiles ajoutées. Le lait de coco, très gras, peut donner la diarrhée, et les versions chocolatées contiennent du cacao, toxique pour le chat.",
+      "amount": "Quelques lapées de temps en temps, d'un lait nature sans sucre ajouté, sans arôme ni édulcorant. Il ne remplace ni l'eau, ni un repas, ni le lait maternisé d'un chaton.",
+      "risks": [
+        "Diarrhée ou ballonnements",
+        "Sucre ajouté dans les versions classiques ou aromatisées",
+        "Cacao toxique dans les laits végétaux chocolatés",
+        "Lait de coco très gras : selles molles",
+        "Édulcorants possibles dans les versions sans sucre"
+      ],
+      "ifEaten": "Quelques lapées d'un lait végétal nature ne posent en général pas de problème. Surveille-le 24 à 48 h (diarrhée, vomissements) et appelle ton vétérinaire si ces signes apparaissent, s'il en a bu beaucoup, ou sans attendre si le lait était chocolaté.",
+      "alternatives": "Si ton chat aime le lait, choisis un lait spécial chat sans lactose. Sinon, de l'eau fraîche suffit parfaitement.",
+      "faq": [
+        {
+          "q": "Le lait d'avoine ou de soja, c'est mieux que le lait de vache ?",
+          "a": "Sans lactose, ils sont mieux tolérés, mais ils n'apportent rien à ton chat. Un lait spécial chat reste le meilleur choix pour lui faire plaisir."
+        },
+        {
+          "q": "Je peux donner du lait végétal à un chaton ?",
+          "a": "Non. Un chaton a besoin du lait de sa mère ou d'un lait maternisé pour chaton, vendu chez le vétérinaire ou en animalerie. Un lait végétal ne couvre pas du tout ses besoins."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A few laps of plain, unsweetened plant-based milk won't hurt your cat, but it gives cats nothing they need.",
+      "why": "Plant-based milks (oat, soy, rice, almond) contain no lactose, so they're better tolerated than cow's milk. But they're low in what a carnivore needs, and many contain added sugar, flavorings or oils. Coconut milk is very fatty and can cause diarrhea, and chocolate versions contain cocoa, which is toxic to cats.",
+      "amount": "A few laps once in a while, of a plain milk with no added sugar, flavoring or sweetener. It doesn't replace water, a meal, or a kitten's milk replacer.",
+      "risks": [
+        "Diarrhea or bloating",
+        "Added sugar in regular or flavored versions",
+        "Toxic cocoa in chocolate plant milks",
+        "Coconut milk is very fatty: loose stools",
+        "Possible sweeteners in sugar-free versions"
+      ],
+      "ifEaten": "A few laps of plain plant milk are usually not a problem. Watch your cat for 24 to 48 hours for diarrhea or vomiting, and call your vet if these appear, if your cat drank a lot, or right away if the milk was chocolate-flavored.",
+      "alternatives": "If your cat loves milk, choose a lactose-free cat milk. Otherwise, fresh water is all it needs.",
+      "faq": [
+        {
+          "q": "Can cats drink almond milk?",
+          "a": "Plain, unsweetened almond milk isn't toxic in small amounts, but it's useless for a cat and can upset its stomach. Skip sweetened, flavored and chocolate versions."
+        },
+        {
+          "q": "Can I give plant-based milk to a kitten?",
+          "a": "No. A kitten needs its mother's milk or a kitten milk replacer from your vet or a pet store. Plant-based milk doesn't come close to meeting its needs."
+        }
+      ]
+    }
+  }
+]

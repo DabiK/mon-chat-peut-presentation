@@ -1,0 +1,2552 @@
+[
+ {
+  "id": "pomme",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Pomme",
+   "phrase": "de la pomme",
+   "slug": "pomme",
+   "question": "Mon chat peut-il manger de la pomme ?"
+  },
+  "en": {
+   "name": "Apple",
+   "phrase": "apples",
+   "slug": "apples",
+   "question": "Can cats eat apples?"
+  }
+ },
+ {
+  "id": "poire",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Poire",
+   "phrase": "de la poire",
+   "slug": "poire",
+   "question": "Mon chat peut-il manger de la poire ?"
+  },
+  "en": {
+   "name": "Pear",
+   "phrase": "pears",
+   "slug": "pears",
+   "question": "Can cats eat pears?"
+  }
+ },
+ {
+  "id": "banane",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Banane",
+   "phrase": "de la banane",
+   "slug": "banane",
+   "question": "Mon chat peut-il manger de la banane ?"
+  },
+  "en": {
+   "name": "Banana",
+   "phrase": "bananas",
+   "slug": "bananas",
+   "question": "Can cats eat bananas?"
+  }
+ },
+ {
+  "id": "fraise",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Fraise",
+   "phrase": "des fraises",
+   "slug": "fraise",
+   "question": "Mon chat peut-il manger des fraises ?"
+  },
+  "en": {
+   "name": "Strawberry",
+   "phrase": "strawberries",
+   "slug": "strawberries",
+   "question": "Can cats eat strawberries?"
+  }
+ },
+ {
+  "id": "framboise",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Framboise",
+   "phrase": "des framboises",
+   "slug": "framboise",
+   "question": "Mon chat peut-il manger des framboises ?"
+  },
+  "en": {
+   "name": "Raspberry",
+   "phrase": "raspberries",
+   "slug": "raspberries",
+   "question": "Can cats eat raspberries?"
+  }
+ },
+ {
+  "id": "myrtille",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Myrtille",
+   "phrase": "des myrtilles",
+   "slug": "myrtille",
+   "question": "Mon chat peut-il manger des myrtilles ?"
+  },
+  "en": {
+   "name": "Blueberry",
+   "phrase": "blueberries",
+   "slug": "blueberries",
+   "question": "Can cats eat blueberries?"
+  }
+ },
+ {
+  "id": "melon",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Melon",
+   "phrase": "du melon",
+   "slug": "melon",
+   "question": "Mon chat peut-il manger du melon ?"
+  },
+  "en": {
+   "name": "Melon",
+   "phrase": "melon",
+   "slug": "melon",
+   "question": "Can cats eat melon?"
+  }
+ },
+ {
+  "id": "pasteque",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Pastèque",
+   "phrase": "de la pastèque",
+   "slug": "pasteque",
+   "question": "Mon chat peut-il manger de la pastèque ?"
+  },
+  "en": {
+   "name": "Watermelon",
+   "phrase": "watermelon",
+   "slug": "watermelon",
+   "question": "Can cats eat watermelon?"
+  }
+ },
+ {
+  "id": "raisin",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Raisin",
+   "phrase": "du raisin",
+   "slug": "raisin",
+   "question": "Mon chat peut-il manger du raisin ?"
+  },
+  "en": {
+   "name": "Grapes",
+   "phrase": "grapes",
+   "slug": "grapes",
+   "question": "Can cats eat grapes?"
+  }
+ },
+ {
+  "id": "raisins-secs",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Raisins secs",
+   "phrase": "des raisins secs",
+   "slug": "raisins-secs",
+   "question": "Mon chat peut-il manger des raisins secs ?"
+  },
+  "en": {
+   "name": "Raisins",
+   "phrase": "raisins",
+   "slug": "raisins",
+   "question": "Can cats eat raisins?"
+  }
+ },
+ {
+  "id": "orange",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Orange",
+   "phrase": "de l'orange",
+   "slug": "orange",
+   "question": "Mon chat peut-il manger de l'orange ?"
+  },
+  "en": {
+   "name": "Orange",
+   "phrase": "oranges",
+   "slug": "oranges",
+   "question": "Can cats eat oranges?"
+  }
+ },
+ {
+  "id": "citron",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Citron",
+   "phrase": "du citron",
+   "slug": "citron",
+   "question": "Mon chat peut-il manger du citron ?"
+  },
+  "en": {
+   "name": "Lemon",
+   "phrase": "lemons",
+   "slug": "lemons",
+   "question": "Can cats eat lemons?"
+  }
+ },
+ {
+  "id": "mandarine",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Mandarine",
+   "phrase": "de la mandarine",
+   "slug": "mandarine",
+   "question": "Mon chat peut-il manger de la mandarine ?"
+  },
+  "en": {
+   "name": "Mandarin",
+   "phrase": "mandarins",
+   "slug": "mandarins",
+   "question": "Can cats eat mandarins?"
+  }
+ },
+ {
+  "id": "kiwi",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Kiwi",
+   "phrase": "du kiwi",
+   "slug": "kiwi",
+   "question": "Mon chat peut-il manger du kiwi ?"
+  },
+  "en": {
+   "name": "Kiwi",
+   "phrase": "kiwi",
+   "slug": "kiwi",
+   "question": "Can cats eat kiwi?"
+  }
+ },
+ {
+  "id": "ananas",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Ananas",
+   "phrase": "de l'ananas",
+   "slug": "ananas",
+   "question": "Mon chat peut-il manger de l'ananas ?"
+  },
+  "en": {
+   "name": "Pineapple",
+   "phrase": "pineapple",
+   "slug": "pineapple",
+   "question": "Can cats eat pineapple?"
+  }
+ },
+ {
+  "id": "mangue",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Mangue",
+   "phrase": "de la mangue",
+   "slug": "mangue",
+   "question": "Mon chat peut-il manger de la mangue ?"
+  },
+  "en": {
+   "name": "Mango",
+   "phrase": "mango",
+   "slug": "mango",
+   "question": "Can cats eat mango?"
+  }
+ },
+ {
+  "id": "peche",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Pêche",
+   "phrase": "de la pêche",
+   "slug": "peche",
+   "question": "Mon chat peut-il manger de la pêche ?"
+  },
+  "en": {
+   "name": "Peach",
+   "phrase": "peaches",
+   "slug": "peaches",
+   "question": "Can cats eat peaches?"
+  }
+ },
+ {
+  "id": "abricot",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Abricot",
+   "phrase": "de l'abricot",
+   "slug": "abricot",
+   "question": "Mon chat peut-il manger de l'abricot ?"
+  },
+  "en": {
+   "name": "Apricot",
+   "phrase": "apricots",
+   "slug": "apricots",
+   "question": "Can cats eat apricots?"
+  }
+ },
+ {
+  "id": "cerise",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Cerise",
+   "phrase": "des cerises",
+   "slug": "cerise",
+   "question": "Mon chat peut-il manger des cerises ?"
+  },
+  "en": {
+   "name": "Cherry",
+   "phrase": "cherries",
+   "slug": "cherries",
+   "question": "Can cats eat cherries?"
+  }
+ },
+ {
+  "id": "prune",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Prune",
+   "phrase": "des prunes",
+   "slug": "prune",
+   "question": "Mon chat peut-il manger des prunes ?"
+  },
+  "en": {
+   "name": "Plum",
+   "phrase": "plums",
+   "slug": "plums",
+   "question": "Can cats eat plums?"
+  }
+ },
+ {
+  "id": "datte",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Datte",
+   "phrase": "des dattes",
+   "slug": "datte",
+   "question": "Mon chat peut-il manger des dattes ?"
+  },
+  "en": {
+   "name": "Date",
+   "phrase": "dates",
+   "slug": "dates",
+   "question": "Can cats eat dates?"
+  }
+ },
+ {
+  "id": "figue",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Figue",
+   "phrase": "des figues",
+   "slug": "figue",
+   "question": "Mon chat peut-il manger des figues ?"
+  },
+  "en": {
+   "name": "Fig",
+   "phrase": "figs",
+   "slug": "figs",
+   "question": "Can cats eat figs?"
+  }
+ },
+ {
+  "id": "noix-de-coco",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Noix de coco",
+   "phrase": "de la noix de coco",
+   "slug": "noix-de-coco",
+   "question": "Mon chat peut-il manger de la noix de coco ?"
+  },
+  "en": {
+   "name": "Coconut",
+   "phrase": "coconut",
+   "slug": "coconut",
+   "question": "Can cats eat coconut?"
+  }
+ },
+ {
+  "id": "avocat",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Avocat",
+   "phrase": "de l'avocat",
+   "slug": "avocat",
+   "question": "Mon chat peut-il manger de l'avocat ?"
+  },
+  "en": {
+   "name": "Avocado",
+   "phrase": "avocado",
+   "slug": "avocado",
+   "question": "Can cats eat avocado?"
+  }
+ },
+ {
+  "id": "olive",
+  "cat": "fruits",
+  "batch": 1,
+  "fr": {
+   "name": "Olive",
+   "phrase": "des olives",
+   "slug": "olive",
+   "question": "Mon chat peut-il manger des olives ?"
+  },
+  "en": {
+   "name": "Olive",
+   "phrase": "olives",
+   "slug": "olives",
+   "question": "Can cats eat olives?"
+  }
+ },
+ {
+  "id": "tomate",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Tomate",
+   "phrase": "de la tomate",
+   "slug": "tomate",
+   "question": "Mon chat peut-il manger de la tomate ?"
+  },
+  "en": {
+   "name": "Tomato",
+   "phrase": "tomatoes",
+   "slug": "tomatoes",
+   "question": "Can cats eat tomatoes?"
+  }
+ },
+ {
+  "id": "concombre",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Concombre",
+   "phrase": "du concombre",
+   "slug": "concombre",
+   "question": "Mon chat peut-il manger du concombre ?"
+  },
+  "en": {
+   "name": "Cucumber",
+   "phrase": "cucumber",
+   "slug": "cucumber",
+   "question": "Can cats eat cucumber?"
+  }
+ },
+ {
+  "id": "courgette",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Courgette",
+   "phrase": "de la courgette",
+   "slug": "courgette",
+   "question": "Mon chat peut-il manger de la courgette ?"
+  },
+  "en": {
+   "name": "Zucchini",
+   "phrase": "zucchini",
+   "slug": "zucchini",
+   "question": "Can cats eat zucchini?"
+  }
+ },
+ {
+  "id": "carotte",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Carotte",
+   "phrase": "de la carotte",
+   "slug": "carotte",
+   "question": "Mon chat peut-il manger de la carotte ?"
+  },
+  "en": {
+   "name": "Carrot",
+   "phrase": "carrots",
+   "slug": "carrots",
+   "question": "Can cats eat carrots?"
+  }
+ },
+ {
+  "id": "haricots-verts",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Haricots verts",
+   "phrase": "des haricots verts",
+   "slug": "haricots-verts",
+   "question": "Mon chat peut-il manger des haricots verts ?"
+  },
+  "en": {
+   "name": "Green beans",
+   "phrase": "green beans",
+   "slug": "green-beans",
+   "question": "Can cats eat green beans?"
+  }
+ },
+ {
+  "id": "petits-pois",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Petits pois",
+   "phrase": "des petits pois",
+   "slug": "petits-pois",
+   "question": "Mon chat peut-il manger des petits pois ?"
+  },
+  "en": {
+   "name": "Peas",
+   "phrase": "peas",
+   "slug": "peas",
+   "question": "Can cats eat peas?"
+  }
+ },
+ {
+  "id": "brocoli",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Brocoli",
+   "phrase": "du brocoli",
+   "slug": "brocoli",
+   "question": "Mon chat peut-il manger du brocoli ?"
+  },
+  "en": {
+   "name": "Broccoli",
+   "phrase": "broccoli",
+   "slug": "broccoli",
+   "question": "Can cats eat broccoli?"
+  }
+ },
+ {
+  "id": "chou-fleur",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Chou-fleur",
+   "phrase": "du chou-fleur",
+   "slug": "chou-fleur",
+   "question": "Mon chat peut-il manger du chou-fleur ?"
+  },
+  "en": {
+   "name": "Cauliflower",
+   "phrase": "cauliflower",
+   "slug": "cauliflower",
+   "question": "Can cats eat cauliflower?"
+  }
+ },
+ {
+  "id": "chou",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Chou",
+   "phrase": "du chou",
+   "slug": "chou",
+   "question": "Mon chat peut-il manger du chou ?"
+  },
+  "en": {
+   "name": "Cabbage",
+   "phrase": "cabbage",
+   "slug": "cabbage",
+   "question": "Can cats eat cabbage?"
+  }
+ },
+ {
+  "id": "epinards",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Épinards",
+   "phrase": "des épinards",
+   "slug": "epinards",
+   "question": "Mon chat peut-il manger des épinards ?"
+  },
+  "en": {
+   "name": "Spinach",
+   "phrase": "spinach",
+   "slug": "spinach",
+   "question": "Can cats eat spinach?"
+  }
+ },
+ {
+  "id": "salade",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Salade",
+   "phrase": "de la salade",
+   "slug": "salade",
+   "question": "Mon chat peut-il manger de la salade ?"
+  },
+  "en": {
+   "name": "Lettuce",
+   "phrase": "lettuce",
+   "slug": "lettuce",
+   "question": "Can cats eat lettuce?"
+  }
+ },
+ {
+  "id": "poivron",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Poivron",
+   "phrase": "du poivron",
+   "slug": "poivron",
+   "question": "Mon chat peut-il manger du poivron ?"
+  },
+  "en": {
+   "name": "Bell pepper",
+   "phrase": "bell peppers",
+   "slug": "bell-peppers",
+   "question": "Can cats eat bell peppers?"
+  }
+ },
+ {
+  "id": "aubergine",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Aubergine",
+   "phrase": "de l'aubergine",
+   "slug": "aubergine",
+   "question": "Mon chat peut-il manger de l'aubergine ?"
+  },
+  "en": {
+   "name": "Eggplant",
+   "phrase": "eggplant",
+   "slug": "eggplant",
+   "question": "Can cats eat eggplant?"
+  }
+ },
+ {
+  "id": "champignons",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Champignons",
+   "phrase": "des champignons",
+   "slug": "champignons",
+   "question": "Mon chat peut-il manger des champignons ?"
+  },
+  "en": {
+   "name": "Mushrooms",
+   "phrase": "mushrooms",
+   "slug": "mushrooms",
+   "question": "Can cats eat mushrooms?"
+  }
+ },
+ {
+  "id": "mais",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Maïs",
+   "phrase": "du maïs",
+   "slug": "mais",
+   "question": "Mon chat peut-il manger du maïs ?"
+  },
+  "en": {
+   "name": "Corn",
+   "phrase": "corn",
+   "slug": "corn",
+   "question": "Can cats eat corn?"
+  }
+ },
+ {
+  "id": "citrouille",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Citrouille",
+   "phrase": "de la citrouille",
+   "slug": "citrouille",
+   "question": "Mon chat peut-il manger de la citrouille ?"
+  },
+  "en": {
+   "name": "Pumpkin",
+   "phrase": "pumpkin",
+   "slug": "pumpkin",
+   "question": "Can cats eat pumpkin?"
+  }
+ },
+ {
+  "id": "patate-douce",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Patate douce",
+   "phrase": "de la patate douce",
+   "slug": "patate-douce",
+   "question": "Mon chat peut-il manger de la patate douce ?"
+  },
+  "en": {
+   "name": "Sweet potato",
+   "phrase": "sweet potatoes",
+   "slug": "sweet-potatoes",
+   "question": "Can cats eat sweet potatoes?"
+  }
+ },
+ {
+  "id": "pomme-de-terre",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Pomme de terre",
+   "phrase": "de la pomme de terre",
+   "slug": "pomme-de-terre",
+   "question": "Mon chat peut-il manger de la pomme de terre ?"
+  },
+  "en": {
+   "name": "Potato",
+   "phrase": "potatoes",
+   "slug": "potatoes",
+   "question": "Can cats eat potatoes?"
+  }
+ },
+ {
+  "id": "betterave",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Betterave",
+   "phrase": "de la betterave",
+   "slug": "betterave",
+   "question": "Mon chat peut-il manger de la betterave ?"
+  },
+  "en": {
+   "name": "Beetroot",
+   "phrase": "beets",
+   "slug": "beets",
+   "question": "Can cats eat beets?"
+  }
+ },
+ {
+  "id": "celeri",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Céleri",
+   "phrase": "du céleri",
+   "slug": "celeri",
+   "question": "Mon chat peut-il manger du céleri ?"
+  },
+  "en": {
+   "name": "Celery",
+   "phrase": "celery",
+   "slug": "celery",
+   "question": "Can cats eat celery?"
+  }
+ },
+ {
+  "id": "asperge",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Asperge",
+   "phrase": "des asperges",
+   "slug": "asperge",
+   "question": "Mon chat peut-il manger des asperges ?"
+  },
+  "en": {
+   "name": "Asparagus",
+   "phrase": "asparagus",
+   "slug": "asparagus",
+   "question": "Can cats eat asparagus?"
+  }
+ },
+ {
+  "id": "oignon",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Oignon",
+   "phrase": "de l'oignon",
+   "slug": "oignon",
+   "question": "Mon chat peut-il manger de l'oignon ?"
+  },
+  "en": {
+   "name": "Onion",
+   "phrase": "onions",
+   "slug": "onions",
+   "question": "Can cats eat onions?"
+  }
+ },
+ {
+  "id": "ail",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Ail",
+   "phrase": "de l'ail",
+   "slug": "ail",
+   "question": "Mon chat peut-il manger de l'ail ?"
+  },
+  "en": {
+   "name": "Garlic",
+   "phrase": "garlic",
+   "slug": "garlic",
+   "question": "Can cats eat garlic?"
+  }
+ },
+ {
+  "id": "poireau",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Poireau",
+   "phrase": "du poireau",
+   "slug": "poireau",
+   "question": "Mon chat peut-il manger du poireau ?"
+  },
+  "en": {
+   "name": "Leek",
+   "phrase": "leeks",
+   "slug": "leeks",
+   "question": "Can cats eat leeks?"
+  }
+ },
+ {
+  "id": "echalote",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Échalote",
+   "phrase": "de l'échalote",
+   "slug": "echalote",
+   "question": "Mon chat peut-il manger de l'échalote ?"
+  },
+  "en": {
+   "name": "Shallot",
+   "phrase": "shallots",
+   "slug": "shallots",
+   "question": "Can cats eat shallots?"
+  }
+ },
+ {
+  "id": "ciboulette",
+  "cat": "legumes",
+  "batch": 2,
+  "fr": {
+   "name": "Ciboulette",
+   "phrase": "de la ciboulette",
+   "slug": "ciboulette",
+   "question": "Mon chat peut-il manger de la ciboulette ?"
+  },
+  "en": {
+   "name": "Chives",
+   "phrase": "chives",
+   "slug": "chives",
+   "question": "Can cats eat chives?"
+  }
+ },
+ {
+  "id": "poulet",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Poulet",
+   "phrase": "du poulet",
+   "slug": "poulet",
+   "question": "Mon chat peut-il manger du poulet ?"
+  },
+  "en": {
+   "name": "Chicken",
+   "phrase": "chicken",
+   "slug": "chicken",
+   "question": "Can cats eat chicken?"
+  }
+ },
+ {
+  "id": "dinde",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Dinde",
+   "phrase": "de la dinde",
+   "slug": "dinde",
+   "question": "Mon chat peut-il manger de la dinde ?"
+  },
+  "en": {
+   "name": "Turkey",
+   "phrase": "turkey",
+   "slug": "turkey",
+   "question": "Can cats eat turkey?"
+  }
+ },
+ {
+  "id": "boeuf",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Bœuf",
+   "phrase": "du bœuf",
+   "slug": "boeuf",
+   "question": "Mon chat peut-il manger du bœuf ?"
+  },
+  "en": {
+   "name": "Beef",
+   "phrase": "beef",
+   "slug": "beef",
+   "question": "Can cats eat beef?"
+  }
+ },
+ {
+  "id": "porc",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Porc",
+   "phrase": "du porc",
+   "slug": "porc",
+   "question": "Mon chat peut-il manger du porc ?"
+  },
+  "en": {
+   "name": "Pork",
+   "phrase": "pork",
+   "slug": "pork",
+   "question": "Can cats eat pork?"
+  }
+ },
+ {
+  "id": "jambon",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Jambon",
+   "phrase": "du jambon",
+   "slug": "jambon",
+   "question": "Mon chat peut-il manger du jambon ?"
+  },
+  "en": {
+   "name": "Ham",
+   "phrase": "ham",
+   "slug": "ham",
+   "question": "Can cats eat ham?"
+  }
+ },
+ {
+  "id": "saucisson",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Saucisson",
+   "phrase": "du saucisson",
+   "slug": "saucisson",
+   "question": "Mon chat peut-il manger du saucisson ?"
+  },
+  "en": {
+   "name": "Salami",
+   "phrase": "salami",
+   "slug": "salami",
+   "question": "Can cats eat salami?"
+  }
+ },
+ {
+  "id": "bacon",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Bacon",
+   "phrase": "du bacon",
+   "slug": "bacon",
+   "question": "Mon chat peut-il manger du bacon ?"
+  },
+  "en": {
+   "name": "Bacon",
+   "phrase": "bacon",
+   "slug": "bacon",
+   "question": "Can cats eat bacon?"
+  }
+ },
+ {
+  "id": "saucisse",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Saucisse",
+   "phrase": "des saucisses",
+   "slug": "saucisse",
+   "question": "Mon chat peut-il manger des saucisses ?"
+  },
+  "en": {
+   "name": "Sausage",
+   "phrase": "sausages",
+   "slug": "sausages",
+   "question": "Can cats eat sausages?"
+  }
+ },
+ {
+  "id": "agneau",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Agneau",
+   "phrase": "de l'agneau",
+   "slug": "agneau",
+   "question": "Mon chat peut-il manger de l'agneau ?"
+  },
+  "en": {
+   "name": "Lamb",
+   "phrase": "lamb",
+   "slug": "lamb",
+   "question": "Can cats eat lamb?"
+  }
+ },
+ {
+  "id": "canard",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Canard",
+   "phrase": "du canard",
+   "slug": "canard",
+   "question": "Mon chat peut-il manger du canard ?"
+  },
+  "en": {
+   "name": "Duck",
+   "phrase": "duck",
+   "slug": "duck",
+   "question": "Can cats eat duck?"
+  }
+ },
+ {
+  "id": "lapin",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Lapin",
+   "phrase": "du lapin",
+   "slug": "lapin",
+   "question": "Mon chat peut-il manger du lapin ?"
+  },
+  "en": {
+   "name": "Rabbit",
+   "phrase": "rabbit",
+   "slug": "rabbit",
+   "question": "Can cats eat rabbit?"
+  }
+ },
+ {
+  "id": "foie",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Foie",
+   "phrase": "du foie",
+   "slug": "foie",
+   "question": "Mon chat peut-il manger du foie ?"
+  },
+  "en": {
+   "name": "Liver",
+   "phrase": "liver",
+   "slug": "liver",
+   "question": "Can cats eat liver?"
+  }
+ },
+ {
+  "id": "os",
+  "cat": "viandes",
+  "batch": 3,
+  "fr": {
+   "name": "Os",
+   "phrase": "des os",
+   "slug": "os",
+   "question": "Mon chat peut-il manger des os ?"
+  },
+  "en": {
+   "name": "Bones",
+   "phrase": "bones",
+   "slug": "bones",
+   "question": "Can cats eat bones?"
+  }
+ },
+ {
+  "id": "saumon",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Saumon",
+   "phrase": "du saumon",
+   "slug": "saumon",
+   "question": "Mon chat peut-il manger du saumon ?"
+  },
+  "en": {
+   "name": "Salmon",
+   "phrase": "salmon",
+   "slug": "salmon",
+   "question": "Can cats eat salmon?"
+  }
+ },
+ {
+  "id": "saumon-fume",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Saumon fumé",
+   "phrase": "du saumon fumé",
+   "slug": "saumon-fume",
+   "question": "Mon chat peut-il manger du saumon fumé ?"
+  },
+  "en": {
+   "name": "Smoked salmon",
+   "phrase": "smoked salmon",
+   "slug": "smoked-salmon",
+   "question": "Can cats eat smoked salmon?"
+  }
+ },
+ {
+  "id": "thon",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Thon",
+   "phrase": "du thon",
+   "slug": "thon",
+   "question": "Mon chat peut-il manger du thon ?"
+  },
+  "en": {
+   "name": "Tuna",
+   "phrase": "tuna",
+   "slug": "tuna",
+   "question": "Can cats eat tuna?"
+  }
+ },
+ {
+  "id": "sardines",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Sardines",
+   "phrase": "des sardines",
+   "slug": "sardines",
+   "question": "Mon chat peut-il manger des sardines ?"
+  },
+  "en": {
+   "name": "Sardines",
+   "phrase": "sardines",
+   "slug": "sardines",
+   "question": "Can cats eat sardines?"
+  }
+ },
+ {
+  "id": "maquereau",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Maquereau",
+   "phrase": "du maquereau",
+   "slug": "maquereau",
+   "question": "Mon chat peut-il manger du maquereau ?"
+  },
+  "en": {
+   "name": "Mackerel",
+   "phrase": "mackerel",
+   "slug": "mackerel",
+   "question": "Can cats eat mackerel?"
+  }
+ },
+ {
+  "id": "crevettes",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Crevettes",
+   "phrase": "des crevettes",
+   "slug": "crevettes",
+   "question": "Mon chat peut-il manger des crevettes ?"
+  },
+  "en": {
+   "name": "Shrimp",
+   "phrase": "shrimp",
+   "slug": "shrimp",
+   "question": "Can cats eat shrimp?"
+  }
+ },
+ {
+  "id": "moules",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Moules",
+   "phrase": "des moules",
+   "slug": "moules",
+   "question": "Mon chat peut-il manger des moules ?"
+  },
+  "en": {
+   "name": "Mussels",
+   "phrase": "mussels",
+   "slug": "mussels",
+   "question": "Can cats eat mussels?"
+  }
+ },
+ {
+  "id": "surimi",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Surimi",
+   "phrase": "du surimi",
+   "slug": "surimi",
+   "question": "Mon chat peut-il manger du surimi ?"
+  },
+  "en": {
+   "name": "Imitation crab",
+   "phrase": "imitation crab",
+   "slug": "imitation-crab",
+   "question": "Can cats eat imitation crab?"
+  }
+ },
+ {
+  "id": "poisson-cru",
+  "cat": "poissons",
+  "batch": 3,
+  "fr": {
+   "name": "Poisson cru",
+   "phrase": "du poisson cru",
+   "slug": "poisson-cru",
+   "question": "Mon chat peut-il manger du poisson cru ?"
+  },
+  "en": {
+   "name": "Raw fish",
+   "phrase": "raw fish",
+   "slug": "raw-fish",
+   "question": "Can cats eat raw fish?"
+  }
+ },
+ {
+  "id": "croquettes-chien",
+  "cat": "autres",
+  "batch": 3,
+  "fr": {
+   "name": "Croquettes pour chien",
+   "phrase": "des croquettes pour chien",
+   "slug": "croquettes-chien",
+   "question": "Mon chat peut-il manger des croquettes pour chien ?"
+  },
+  "en": {
+   "name": "Dog food",
+   "phrase": "dog food",
+   "slug": "dog-food",
+   "question": "Can cats eat dog food?"
+  }
+ },
+ {
+  "id": "lait",
+  "cat": "laitiers",
+  "batch": 4,
+  "fr": {
+   "name": "Lait",
+   "phrase": "du lait",
+   "slug": "lait",
+   "question": "Mon chat peut-il boire du lait ?"
+  },
+  "en": {
+   "name": "Milk",
+   "phrase": "milk",
+   "slug": "milk",
+   "question": "Can cats drink milk?"
+  }
+ },
+ {
+  "id": "fromage",
+  "cat": "laitiers",
+  "batch": 4,
+  "fr": {
+   "name": "Fromage",
+   "phrase": "du fromage",
+   "slug": "fromage",
+   "question": "Mon chat peut-il manger du fromage ?"
+  },
+  "en": {
+   "name": "Cheese",
+   "phrase": "cheese",
+   "slug": "cheese",
+   "question": "Can cats eat cheese?"
+  }
+ },
+ {
+  "id": "fromage-blanc",
+  "cat": "laitiers",
+  "batch": 4,
+  "fr": {
+   "name": "Fromage blanc",
+   "phrase": "du fromage blanc",
+   "slug": "fromage-blanc",
+   "question": "Mon chat peut-il manger du fromage blanc ?"
+  },
+  "en": {
+   "name": "Cottage cheese",
+   "phrase": "cottage cheese",
+   "slug": "cottage-cheese",
+   "question": "Can cats eat cottage cheese?"
+  }
+ },
+ {
+  "id": "yaourt",
+  "cat": "laitiers",
+  "batch": 4,
+  "fr": {
+   "name": "Yaourt",
+   "phrase": "du yaourt",
+   "slug": "yaourt",
+   "question": "Mon chat peut-il manger du yaourt ?"
+  },
+  "en": {
+   "name": "Yogurt",
+   "phrase": "yogurt",
+   "slug": "yogurt",
+   "question": "Can cats eat yogurt?"
+  }
+ },
+ {
+  "id": "creme-fraiche",
+  "cat": "laitiers",
+  "batch": 4,
+  "fr": {
+   "name": "Crème fraîche",
+   "phrase": "de la crème fraîche",
+   "slug": "creme-fraiche",
+   "question": "Mon chat peut-il manger de la crème fraîche ?"
+  },
+  "en": {
+   "name": "Cream",
+   "phrase": "cream",
+   "slug": "cream",
+   "question": "Can cats eat cream?"
+  }
+ },
+ {
+  "id": "beurre",
+  "cat": "laitiers",
+  "batch": 4,
+  "fr": {
+   "name": "Beurre",
+   "phrase": "du beurre",
+   "slug": "beurre",
+   "question": "Mon chat peut-il manger du beurre ?"
+  },
+  "en": {
+   "name": "Butter",
+   "phrase": "butter",
+   "slug": "butter",
+   "question": "Can cats eat butter?"
+  }
+ },
+ {
+  "id": "oeuf",
+  "cat": "laitiers",
+  "batch": 4,
+  "fr": {
+   "name": "Œuf",
+   "phrase": "des œufs",
+   "slug": "oeuf",
+   "question": "Mon chat peut-il manger des œufs ?"
+  },
+  "en": {
+   "name": "Eggs",
+   "phrase": "eggs",
+   "slug": "eggs",
+   "question": "Can cats eat eggs?"
+  }
+ },
+ {
+  "id": "oeuf-cru",
+  "cat": "laitiers",
+  "batch": 4,
+  "fr": {
+   "name": "Œuf cru",
+   "phrase": "des œufs crus",
+   "slug": "oeuf-cru",
+   "question": "Mon chat peut-il manger des œufs crus ?"
+  },
+  "en": {
+   "name": "Raw eggs",
+   "phrase": "raw eggs",
+   "slug": "raw-eggs",
+   "question": "Can cats eat raw eggs?"
+  }
+ },
+ {
+  "id": "riz",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Riz",
+   "phrase": "du riz",
+   "slug": "riz",
+   "question": "Mon chat peut-il manger du riz ?"
+  },
+  "en": {
+   "name": "Rice",
+   "phrase": "rice",
+   "slug": "rice",
+   "question": "Can cats eat rice?"
+  }
+ },
+ {
+  "id": "pates",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Pâtes",
+   "phrase": "des pâtes",
+   "slug": "pates",
+   "question": "Mon chat peut-il manger des pâtes ?"
+  },
+  "en": {
+   "name": "Pasta",
+   "phrase": "pasta",
+   "slug": "pasta",
+   "question": "Can cats eat pasta?"
+  }
+ },
+ {
+  "id": "pain",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Pain",
+   "phrase": "du pain",
+   "slug": "pain",
+   "question": "Mon chat peut-il manger du pain ?"
+  },
+  "en": {
+   "name": "Bread",
+   "phrase": "bread",
+   "slug": "bread",
+   "question": "Can cats eat bread?"
+  }
+ },
+ {
+  "id": "cereales",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Céréales",
+   "phrase": "des céréales",
+   "slug": "cereales",
+   "question": "Mon chat peut-il manger des céréales ?"
+  },
+  "en": {
+   "name": "Cereal",
+   "phrase": "cereal",
+   "slug": "cereal",
+   "question": "Can cats eat cereal?"
+  }
+ },
+ {
+  "id": "flocons-avoine",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Flocons d'avoine",
+   "phrase": "des flocons d'avoine",
+   "slug": "flocons-avoine",
+   "question": "Mon chat peut-il manger des flocons d'avoine ?"
+  },
+  "en": {
+   "name": "Oatmeal",
+   "phrase": "oatmeal",
+   "slug": "oatmeal",
+   "question": "Can cats eat oatmeal?"
+  }
+ },
+ {
+  "id": "quinoa",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Quinoa",
+   "phrase": "du quinoa",
+   "slug": "quinoa",
+   "question": "Mon chat peut-il manger du quinoa ?"
+  },
+  "en": {
+   "name": "Quinoa",
+   "phrase": "quinoa",
+   "slug": "quinoa",
+   "question": "Can cats eat quinoa?"
+  }
+ },
+ {
+  "id": "semoule",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Semoule",
+   "phrase": "de la semoule",
+   "slug": "semoule",
+   "question": "Mon chat peut-il manger de la semoule ?"
+  },
+  "en": {
+   "name": "Semolina",
+   "phrase": "semolina",
+   "slug": "semolina",
+   "question": "Can cats eat semolina?"
+  }
+ },
+ {
+  "id": "lentilles",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Lentilles",
+   "phrase": "des lentilles",
+   "slug": "lentilles",
+   "question": "Mon chat peut-il manger des lentilles ?"
+  },
+  "en": {
+   "name": "Lentils",
+   "phrase": "lentils",
+   "slug": "lentils",
+   "question": "Can cats eat lentils?"
+  }
+ },
+ {
+  "id": "pois-chiches",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Pois chiches",
+   "phrase": "des pois chiches",
+   "slug": "pois-chiches",
+   "question": "Mon chat peut-il manger des pois chiches ?"
+  },
+  "en": {
+   "name": "Chickpeas",
+   "phrase": "chickpeas",
+   "slug": "chickpeas",
+   "question": "Can cats eat chickpeas?"
+  }
+ },
+ {
+  "id": "pate-crue",
+  "cat": "feculents",
+  "batch": 4,
+  "fr": {
+   "name": "Pâte crue",
+   "phrase": "de la pâte crue",
+   "slug": "pate-crue",
+   "question": "Mon chat peut-il manger de la pâte crue ?"
+  },
+  "en": {
+   "name": "Raw dough",
+   "phrase": "raw dough",
+   "slug": "raw-dough",
+   "question": "Can cats eat raw dough?"
+  }
+ },
+ {
+  "id": "cacahuetes",
+  "cat": "noix",
+  "batch": 4,
+  "fr": {
+   "name": "Cacahuètes",
+   "phrase": "des cacahuètes",
+   "slug": "cacahuetes",
+   "question": "Mon chat peut-il manger des cacahuètes ?"
+  },
+  "en": {
+   "name": "Peanuts",
+   "phrase": "peanuts",
+   "slug": "peanuts",
+   "question": "Can cats eat peanuts?"
+  }
+ },
+ {
+  "id": "beurre-cacahuete",
+  "cat": "noix",
+  "batch": 4,
+  "fr": {
+   "name": "Beurre de cacahuète",
+   "phrase": "du beurre de cacahuète",
+   "slug": "beurre-cacahuete",
+   "question": "Mon chat peut-il manger du beurre de cacahuète ?"
+  },
+  "en": {
+   "name": "Peanut butter",
+   "phrase": "peanut butter",
+   "slug": "peanut-butter",
+   "question": "Can cats eat peanut butter?"
+  }
+ },
+ {
+  "id": "noix",
+  "cat": "noix",
+  "batch": 4,
+  "fr": {
+   "name": "Noix",
+   "phrase": "des noix",
+   "slug": "noix",
+   "question": "Mon chat peut-il manger des noix ?"
+  },
+  "en": {
+   "name": "Walnuts",
+   "phrase": "walnuts",
+   "slug": "walnuts",
+   "question": "Can cats eat walnuts?"
+  }
+ },
+ {
+  "id": "amandes",
+  "cat": "noix",
+  "batch": 4,
+  "fr": {
+   "name": "Amandes",
+   "phrase": "des amandes",
+   "slug": "amandes",
+   "question": "Mon chat peut-il manger des amandes ?"
+  },
+  "en": {
+   "name": "Almonds",
+   "phrase": "almonds",
+   "slug": "almonds",
+   "question": "Can cats eat almonds?"
+  }
+ },
+ {
+  "id": "noisettes",
+  "cat": "noix",
+  "batch": 4,
+  "fr": {
+   "name": "Noisettes",
+   "phrase": "des noisettes",
+   "slug": "noisettes",
+   "question": "Mon chat peut-il manger des noisettes ?"
+  },
+  "en": {
+   "name": "Hazelnuts",
+   "phrase": "hazelnuts",
+   "slug": "hazelnuts",
+   "question": "Can cats eat hazelnuts?"
+  }
+ },
+ {
+  "id": "pistaches",
+  "cat": "noix",
+  "batch": 4,
+  "fr": {
+   "name": "Pistaches",
+   "phrase": "des pistaches",
+   "slug": "pistaches",
+   "question": "Mon chat peut-il manger des pistaches ?"
+  },
+  "en": {
+   "name": "Pistachios",
+   "phrase": "pistachios",
+   "slug": "pistachios",
+   "question": "Can cats eat pistachios?"
+  }
+ },
+ {
+  "id": "noix-de-cajou",
+  "cat": "noix",
+  "batch": 4,
+  "fr": {
+   "name": "Noix de cajou",
+   "phrase": "des noix de cajou",
+   "slug": "noix-de-cajou",
+   "question": "Mon chat peut-il manger des noix de cajou ?"
+  },
+  "en": {
+   "name": "Cashews",
+   "phrase": "cashews",
+   "slug": "cashews",
+   "question": "Can cats eat cashews?"
+  }
+ },
+ {
+  "id": "huile-olive",
+  "cat": "noix",
+  "batch": 4,
+  "fr": {
+   "name": "Huile d'olive",
+   "phrase": "de l'huile d'olive",
+   "slug": "huile-olive",
+   "question": "Mon chat peut-il manger de l'huile d'olive ?"
+  },
+  "en": {
+   "name": "Olive oil",
+   "phrase": "olive oil",
+   "slug": "olive-oil",
+   "question": "Can cats eat olive oil?"
+  }
+ },
+ {
+  "id": "chips",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Chips",
+   "phrase": "des chips",
+   "slug": "chips",
+   "question": "Mon chat peut-il manger des chips ?"
+  },
+  "en": {
+   "name": "Chips",
+   "phrase": "chips",
+   "slug": "chips",
+   "question": "Can cats eat chips?"
+  }
+ },
+ {
+  "id": "popcorn",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Popcorn",
+   "phrase": "du popcorn",
+   "slug": "popcorn",
+   "question": "Mon chat peut-il manger du popcorn ?"
+  },
+  "en": {
+   "name": "Popcorn",
+   "phrase": "popcorn",
+   "slug": "popcorn",
+   "question": "Can cats eat popcorn?"
+  }
+ },
+ {
+  "id": "frites",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Frites",
+   "phrase": "des frites",
+   "slug": "frites",
+   "question": "Mon chat peut-il manger des frites ?"
+  },
+  "en": {
+   "name": "French fries",
+   "phrase": "french fries",
+   "slug": "french-fries",
+   "question": "Can cats eat french fries?"
+  }
+ },
+ {
+  "id": "biscuits",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Biscuits",
+   "phrase": "des biscuits",
+   "slug": "biscuits",
+   "question": "Mon chat peut-il manger des biscuits ?"
+  },
+  "en": {
+   "name": "Cookies",
+   "phrase": "cookies",
+   "slug": "cookies",
+   "question": "Can cats eat cookies?"
+  }
+ },
+ {
+  "id": "gateau",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Gâteau",
+   "phrase": "du gâteau",
+   "slug": "gateau",
+   "question": "Mon chat peut-il manger du gâteau ?"
+  },
+  "en": {
+   "name": "Cake",
+   "phrase": "cake",
+   "slug": "cake",
+   "question": "Can cats eat cake?"
+  }
+ },
+ {
+  "id": "chocolat",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Chocolat",
+   "phrase": "du chocolat",
+   "slug": "chocolat",
+   "question": "Mon chat peut-il manger du chocolat ?"
+  },
+  "en": {
+   "name": "Chocolate",
+   "phrase": "chocolate",
+   "slug": "chocolate",
+   "question": "Can cats eat chocolate?"
+  }
+ },
+ {
+  "id": "chocolat-blanc",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Chocolat blanc",
+   "phrase": "du chocolat blanc",
+   "slug": "chocolat-blanc",
+   "question": "Mon chat peut-il manger du chocolat blanc ?"
+  },
+  "en": {
+   "name": "White chocolate",
+   "phrase": "white chocolate",
+   "slug": "white-chocolate",
+   "question": "Can cats eat white chocolate?"
+  }
+ },
+ {
+  "id": "bonbons",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Bonbons",
+   "phrase": "des bonbons",
+   "slug": "bonbons",
+   "question": "Mon chat peut-il manger des bonbons ?"
+  },
+  "en": {
+   "name": "Candy",
+   "phrase": "candy",
+   "slug": "candy",
+   "question": "Can cats eat candy?"
+  }
+ },
+ {
+  "id": "chewing-gum",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Chewing-gum",
+   "phrase": "du chewing-gum",
+   "slug": "chewing-gum",
+   "question": "Mon chat peut-il manger du chewing-gum ?"
+  },
+  "en": {
+   "name": "Chewing gum",
+   "phrase": "chewing gum",
+   "slug": "chewing-gum",
+   "question": "Can cats eat chewing gum?"
+  }
+ },
+ {
+  "id": "miel",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Miel",
+   "phrase": "du miel",
+   "slug": "miel",
+   "question": "Mon chat peut-il manger du miel ?"
+  },
+  "en": {
+   "name": "Honey",
+   "phrase": "honey",
+   "slug": "honey",
+   "question": "Can cats eat honey?"
+  }
+ },
+ {
+  "id": "sucre",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Sucre",
+   "phrase": "du sucre",
+   "slug": "sucre",
+   "question": "Mon chat peut-il manger du sucre ?"
+  },
+  "en": {
+   "name": "Sugar",
+   "phrase": "sugar",
+   "slug": "sugar",
+   "question": "Can cats eat sugar?"
+  }
+ },
+ {
+  "id": "confiture",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Confiture",
+   "phrase": "de la confiture",
+   "slug": "confiture",
+   "question": "Mon chat peut-il manger de la confiture ?"
+  },
+  "en": {
+   "name": "Jam",
+   "phrase": "jam",
+   "slug": "jam",
+   "question": "Can cats eat jam?"
+  }
+ },
+ {
+  "id": "nutella",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Nutella",
+   "phrase": "du Nutella",
+   "slug": "nutella",
+   "question": "Mon chat peut-il manger du Nutella ?"
+  },
+  "en": {
+   "name": "Nutella",
+   "phrase": "Nutella",
+   "slug": "nutella",
+   "question": "Can cats eat Nutella?"
+  }
+ },
+ {
+  "id": "glace",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Glace",
+   "phrase": "de la glace",
+   "slug": "glace",
+   "question": "Mon chat peut-il manger de la glace ?"
+  },
+  "en": {
+   "name": "Ice cream",
+   "phrase": "ice cream",
+   "slug": "ice-cream",
+   "question": "Can cats eat ice cream?"
+  }
+ },
+ {
+  "id": "crepes",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Crêpes",
+   "phrase": "des crêpes",
+   "slug": "crepes",
+   "question": "Mon chat peut-il manger des crêpes ?"
+  },
+  "en": {
+   "name": "Crepes",
+   "phrase": "crepes",
+   "slug": "crepes",
+   "question": "Can cats eat crepes?"
+  }
+ },
+ {
+  "id": "compote",
+  "cat": "snacks",
+  "batch": 5,
+  "fr": {
+   "name": "Compote",
+   "phrase": "de la compote",
+   "slug": "compote",
+   "question": "Mon chat peut-il manger de la compote ?"
+  },
+  "en": {
+   "name": "Applesauce",
+   "phrase": "applesauce",
+   "slug": "applesauce",
+   "question": "Can cats eat applesauce?"
+  }
+ },
+ {
+  "id": "cafe",
+  "cat": "boissons",
+  "batch": 5,
+  "fr": {
+   "name": "Café",
+   "phrase": "du café",
+   "slug": "cafe",
+   "question": "Mon chat peut-il boire du café ?"
+  },
+  "en": {
+   "name": "Coffee",
+   "phrase": "coffee",
+   "slug": "coffee",
+   "question": "Can cats drink coffee?"
+  }
+ },
+ {
+  "id": "the",
+  "cat": "boissons",
+  "batch": 5,
+  "fr": {
+   "name": "Thé",
+   "phrase": "du thé",
+   "slug": "the",
+   "question": "Mon chat peut-il boire du thé ?"
+  },
+  "en": {
+   "name": "Tea",
+   "phrase": "tea",
+   "slug": "tea",
+   "question": "Can cats drink tea?"
+  }
+ },
+ {
+  "id": "alcool",
+  "cat": "boissons",
+  "batch": 5,
+  "fr": {
+   "name": "Alcool",
+   "phrase": "de l'alcool",
+   "slug": "alcool",
+   "question": "Mon chat peut-il boire de l'alcool ?"
+  },
+  "en": {
+   "name": "Alcohol",
+   "phrase": "alcohol",
+   "slug": "alcohol",
+   "question": "Can cats drink alcohol?"
+  }
+ },
+ {
+  "id": "jus-orange",
+  "cat": "boissons",
+  "batch": 5,
+  "fr": {
+   "name": "Jus d'orange",
+   "phrase": "du jus d'orange",
+   "slug": "jus-orange",
+   "question": "Mon chat peut-il boire du jus d'orange ?"
+  },
+  "en": {
+   "name": "Orange juice",
+   "phrase": "orange juice",
+   "slug": "orange-juice",
+   "question": "Can cats drink orange juice?"
+  }
+ },
+ {
+  "id": "soda",
+  "cat": "boissons",
+  "batch": 5,
+  "fr": {
+   "name": "Soda",
+   "phrase": "du soda",
+   "slug": "soda",
+   "question": "Mon chat peut-il boire du soda ?"
+  },
+  "en": {
+   "name": "Soda",
+   "phrase": "soda",
+   "slug": "soda",
+   "question": "Can cats drink soda?"
+  }
+ },
+ {
+  "id": "boisson-energisante",
+  "cat": "boissons",
+  "batch": 5,
+  "fr": {
+   "name": "Boisson énergisante",
+   "phrase": "une boisson énergisante",
+   "slug": "boisson-energisante",
+   "question": "Mon chat peut-il boire une boisson énergisante ?"
+  },
+  "en": {
+   "name": "Energy drinks",
+   "phrase": "energy drinks",
+   "slug": "energy-drinks",
+   "question": "Can cats drink energy drinks?"
+  }
+ },
+ {
+  "id": "lait-vegetal",
+  "cat": "boissons",
+  "batch": 5,
+  "fr": {
+   "name": "Lait végétal",
+   "phrase": "du lait végétal",
+   "slug": "lait-vegetal",
+   "question": "Mon chat peut-il boire du lait végétal ?"
+  },
+  "en": {
+   "name": "Plant-based milk",
+   "phrase": "plant-based milk",
+   "slug": "plant-based-milk",
+   "question": "Can cats drink plant-based milk?"
+  }
+ },
+ {
+  "id": "pizza",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Pizza",
+   "phrase": "de la pizza",
+   "slug": "pizza",
+   "question": "Mon chat peut-il manger de la pizza ?"
+  },
+  "en": {
+   "name": "Pizza",
+   "phrase": "pizza",
+   "slug": "pizza",
+   "question": "Can cats eat pizza?"
+  }
+ },
+ {
+  "id": "lasagnes",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Lasagnes",
+   "phrase": "des lasagnes",
+   "slug": "lasagnes",
+   "question": "Mon chat peut-il manger des lasagnes ?"
+  },
+  "en": {
+   "name": "Lasagna",
+   "phrase": "lasagna",
+   "slug": "lasagna",
+   "question": "Can cats eat lasagna?"
+  }
+ },
+ {
+  "id": "sushi",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Sushi",
+   "phrase": "des sushis",
+   "slug": "sushi",
+   "question": "Mon chat peut-il manger des sushis ?"
+  },
+  "en": {
+   "name": "Sushi",
+   "phrase": "sushi",
+   "slug": "sushi",
+   "question": "Can cats eat sushi?"
+  }
+ },
+ {
+  "id": "kebab",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Kebab",
+   "phrase": "du kebab",
+   "slug": "kebab",
+   "question": "Mon chat peut-il manger du kebab ?"
+  },
+  "en": {
+   "name": "Kebab",
+   "phrase": "kebab",
+   "slug": "kebab",
+   "question": "Can cats eat kebab?"
+  }
+ },
+ {
+  "id": "burger",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Burger",
+   "phrase": "un burger",
+   "slug": "burger",
+   "question": "Mon chat peut-il manger un burger ?"
+  },
+  "en": {
+   "name": "Burgers",
+   "phrase": "burgers",
+   "slug": "burgers",
+   "question": "Can cats eat burgers?"
+  }
+ },
+ {
+  "id": "quiche",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Quiche",
+   "phrase": "de la quiche",
+   "slug": "quiche",
+   "question": "Mon chat peut-il manger de la quiche ?"
+  },
+  "en": {
+   "name": "Quiche",
+   "phrase": "quiche",
+   "slug": "quiche",
+   "question": "Can cats eat quiche?"
+  }
+ },
+ {
+  "id": "mafe",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Mafé",
+   "phrase": "du mafé",
+   "slug": "mafe",
+   "question": "Mon chat peut-il manger du mafé ?"
+  },
+  "en": {
+   "name": "Mafé",
+   "phrase": "mafé",
+   "slug": "mafe",
+   "question": "Can cats eat mafé?"
+  }
+ },
+ {
+  "id": "thieboudienne",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Thiéboudienne",
+   "phrase": "du thiéboudienne",
+   "slug": "thieboudienne",
+   "question": "Mon chat peut-il manger du thiéboudienne ?"
+  },
+  "en": {
+   "name": "Thieboudienne",
+   "phrase": "thieboudienne",
+   "slug": "thieboudienne",
+   "question": "Can cats eat thieboudienne?"
+  }
+ },
+ {
+  "id": "couscous",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Couscous",
+   "phrase": "du couscous",
+   "slug": "couscous",
+   "question": "Mon chat peut-il manger du couscous ?"
+  },
+  "en": {
+   "name": "Couscous",
+   "phrase": "couscous",
+   "slug": "couscous",
+   "question": "Can cats eat couscous?"
+  }
+ },
+ {
+  "id": "puree",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Purée",
+   "phrase": "de la purée",
+   "slug": "puree",
+   "question": "Mon chat peut-il manger de la purée ?"
+  },
+  "en": {
+   "name": "Mashed potatoes",
+   "phrase": "mashed potatoes",
+   "slug": "mashed-potatoes",
+   "question": "Can cats eat mashed potatoes?"
+  }
+ },
+ {
+  "id": "omelette",
+  "cat": "plats",
+  "batch": 6,
+  "fr": {
+   "name": "Omelette",
+   "phrase": "de l'omelette",
+   "slug": "omelette",
+   "question": "Mon chat peut-il manger de l'omelette ?"
+  },
+  "en": {
+   "name": "Omelette",
+   "phrase": "omelette",
+   "slug": "omelette",
+   "question": "Can cats eat omelette?"
+  }
+ },
+ {
+  "id": "gingembre",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Gingembre",
+   "phrase": "du gingembre",
+   "slug": "gingembre",
+   "question": "Mon chat peut-il manger du gingembre ?"
+  },
+  "en": {
+   "name": "Ginger",
+   "phrase": "ginger",
+   "slug": "ginger",
+   "question": "Can cats eat ginger?"
+  }
+ },
+ {
+  "id": "persil",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Persil",
+   "phrase": "du persil",
+   "slug": "persil",
+   "question": "Mon chat peut-il manger du persil ?"
+  },
+  "en": {
+   "name": "Parsley",
+   "phrase": "parsley",
+   "slug": "parsley",
+   "question": "Can cats eat parsley?"
+  }
+ },
+ {
+  "id": "menthe",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Menthe",
+   "phrase": "de la menthe",
+   "slug": "menthe",
+   "question": "Mon chat peut-il manger de la menthe ?"
+  },
+  "en": {
+   "name": "Mint",
+   "phrase": "mint",
+   "slug": "mint",
+   "question": "Can cats eat mint?"
+  }
+ },
+ {
+  "id": "basilic",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Basilic",
+   "phrase": "du basilic",
+   "slug": "basilic",
+   "question": "Mon chat peut-il manger du basilic ?"
+  },
+  "en": {
+   "name": "Basil",
+   "phrase": "basil",
+   "slug": "basil",
+   "question": "Can cats eat basil?"
+  }
+ },
+ {
+  "id": "cannelle",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Cannelle",
+   "phrase": "de la cannelle",
+   "slug": "cannelle",
+   "question": "Mon chat peut-il manger de la cannelle ?"
+  },
+  "en": {
+   "name": "Cinnamon",
+   "phrase": "cinnamon",
+   "slug": "cinnamon",
+   "question": "Can cats eat cinnamon?"
+  }
+ },
+ {
+  "id": "curry",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Curry",
+   "phrase": "du curry",
+   "slug": "curry",
+   "question": "Mon chat peut-il manger du curry ?"
+  },
+  "en": {
+   "name": "Curry",
+   "phrase": "curry",
+   "slug": "curry",
+   "question": "Can cats eat curry?"
+  }
+ },
+ {
+  "id": "piment",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Piment",
+   "phrase": "du piment",
+   "slug": "piment",
+   "question": "Mon chat peut-il manger du piment ?"
+  },
+  "en": {
+   "name": "Chili pepper",
+   "phrase": "chili peppers",
+   "slug": "chili-peppers",
+   "question": "Can cats eat chili peppers?"
+  }
+ },
+ {
+  "id": "sel",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Sel",
+   "phrase": "du sel",
+   "slug": "sel",
+   "question": "Mon chat peut-il manger du sel ?"
+  },
+  "en": {
+   "name": "Salt",
+   "phrase": "salt",
+   "slug": "salt",
+   "question": "Can cats eat salt?"
+  }
+ },
+ {
+  "id": "herbe-a-chat",
+  "cat": "herbes",
+  "batch": 6,
+  "fr": {
+   "name": "Herbe à chat",
+   "phrase": "de l'herbe à chat",
+   "slug": "herbe-a-chat",
+   "question": "Mon chat peut-il manger de l'herbe à chat ?"
+  },
+  "en": {
+   "name": "Catnip",
+   "phrase": "catnip",
+   "slug": "catnip",
+   "question": "Can cats eat catnip?"
+  }
+ },
+ {
+  "id": "lys",
+  "cat": "plantes",
+  "batch": 6,
+  "fr": {
+   "name": "Lys",
+   "phrase": "du lys",
+   "slug": "lys",
+   "question": "Le lys est-il sans danger pour mon chat ?"
+  },
+  "en": {
+   "name": "Lilies",
+   "phrase": "lilies",
+   "slug": "lilies",
+   "question": "Are lilies safe for cats?"
+  }
+ },
+ {
+  "id": "muguet",
+  "cat": "plantes",
+  "batch": 6,
+  "fr": {
+   "name": "Muguet",
+   "phrase": "du muguet",
+   "slug": "muguet",
+   "question": "Le muguet est-il sans danger pour mon chat ?"
+  },
+  "en": {
+   "name": "Lily of the valley",
+   "phrase": "lily of the valley",
+   "slug": "lily-of-the-valley",
+   "question": "Is lily of the valley safe for cats?"
+  }
+ },
+ {
+  "id": "gui",
+  "cat": "plantes",
+  "batch": 6,
+  "fr": {
+   "name": "Gui",
+   "phrase": "du gui",
+   "slug": "gui",
+   "question": "Le gui est-il sans danger pour mon chat ?"
+  },
+  "en": {
+   "name": "Mistletoe",
+   "phrase": "mistletoe",
+   "slug": "mistletoe",
+   "question": "Is mistletoe safe for cats?"
+  }
+ },
+ {
+  "id": "houx",
+  "cat": "plantes",
+  "batch": 6,
+  "fr": {
+   "name": "Houx",
+   "phrase": "du houx",
+   "slug": "houx",
+   "question": "Le houx est-il sans danger pour mon chat ?"
+  },
+  "en": {
+   "name": "Holly",
+   "phrase": "holly",
+   "slug": "holly",
+   "question": "Is holly safe for cats?"
+  }
+ },
+ {
+  "id": "poinsettia",
+  "cat": "plantes",
+  "batch": 6,
+  "fr": {
+   "name": "Poinsettia",
+   "phrase": "du poinsettia",
+   "slug": "poinsettia",
+   "question": "Le poinsettia est-il sans danger pour mon chat ?"
+  },
+  "en": {
+   "name": "Poinsettia",
+   "phrase": "poinsettia",
+   "slug": "poinsettia",
+   "question": "Is poinsettia safe for cats?"
+  }
+ },
+ {
+  "id": "aloe-vera",
+  "cat": "plantes",
+  "batch": 6,
+  "fr": {
+   "name": "Aloe vera",
+   "phrase": "de l'aloe vera",
+   "slug": "aloe-vera",
+   "question": "L'aloe vera est-il sans danger pour mon chat ?"
+  },
+  "en": {
+   "name": "Aloe vera",
+   "phrase": "aloe vera",
+   "slug": "aloe-vera",
+   "question": "Is aloe vera safe for cats?"
+  }
+ },
+ {
+  "id": "tulipe",
+  "cat": "plantes",
+  "batch": 6,
+  "fr": {
+   "name": "Tulipe",
+   "phrase": "des tulipes",
+   "slug": "tulipe",
+   "question": "La tulipe est-elle sans danger pour mon chat ?"
+  },
+  "en": {
+   "name": "Tulips",
+   "phrase": "tulips",
+   "slug": "tulips",
+   "question": "Are tulips safe for cats?"
+  }
+ }
+]

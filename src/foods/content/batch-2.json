@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "tomate",
+    "verdict": "peu",
+    "related": [
+      "pomme-de-terre",
+      "aubergine",
+      "poivron",
+      "concombre"
+    ],
+    "fr": {
+      "short": "Un peu. La chair d'une tomate bien mûre passe en petite quantité, mais les feuilles, les tiges et les tomates vertes contiennent de la solanine, toxique pour le chat.",
+      "why": "La tomate fait partie des solanacées, comme la pomme de terre et l'aubergine. Les parties vertes de la plante (feuilles, tiges, fruits pas mûrs) contiennent de la solanine et de la tomatine, des alcaloïdes qui irritent le tube digestif et peuvent agir sur le système nerveux. En mûrissant, le fruit en perd presque tout : la chair rouge n'est donc pas toxique, mais elle reste acide et n'apporte rien d'utile à un carnivore.",
+      "amount": "Un ou deux petits dés de tomate bien rouge, lavée et sans le pédoncule, de temps en temps. Nature uniquement : pas de sauce tomate, de ketchup ni de coulis, souvent salés, sucrés ou préparés avec de l'ail et de l'oignon.",
+      "risks": [
+        "Vomissements ou diarrhée après des parties vertes ou une tomate pas mûre",
+        "Bave, abattement ou faiblesse si la plante a été mâchonnée",
+        "Ralentissement du cœur après une grande quantité de plante",
+        "Ail ou oignon cachés dans les sauces tomate",
+        "Irritation de l'estomac due à l'acidité"
+      ],
+      "ifEaten": "Un morceau de tomate mûre n'est généralement pas un problème. S'il a mâchonné des feuilles, des tiges ou une tomate verte, surveille-le 24 à 48 h et appelle ton vétérinaire s'il vomit, bave, semble abattu ou s'il en a mangé une grande quantité. Si c'était une sauce à l'ail ou à l'oignon, appelle-le directement.",
+      "alternatives": "Si ton chat aime croquer quelque chose de frais, le concombre ou la courgette sont plus simples : aucune partie toxique à surveiller. Et rien ne vaut un petit morceau de poulet cuit nature.",
+      "faq": [
+        {
+          "q": "Et la tomate cerise ?",
+          "a": "Même règle : une tomate cerise bien mûre, coupée en quatre, ne pose pas de problème en petite quantité. Retire la petite tige verte, et coupe-la pour qu'il ne l'avale pas d'un coup."
+        },
+        {
+          "q": "Mon chat a mangé une feuille de mon plant de tomates, c'est grave ?",
+          "a": "Une feuille mâchonnée provoque surtout des troubles digestifs passagers. Surveille-le, et appelle ton vétérinaire s'il vomit à répétition, bave beaucoup ou semble abattu. Place ensuite le plant hors de sa portée."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. The flesh of a ripe tomato is fine in small amounts, but the leaves, stems and green tomatoes contain solanine, which is toxic to cats.",
+      "why": "Tomatoes belong to the nightshade family, along with potatoes and eggplant. The green parts of the plant, including leaves, stems and unripe fruit, contain glycoalkaloids called solanine and tomatine, which irritate the gut and can affect the nervous system. As the fruit ripens, those compounds mostly disappear, so ripe red flesh isn't toxic, but it's acidic and offers nothing a carnivore needs.",
+      "amount": "One or two small cubes of ripe, washed tomato with the stem removed, once in a while. Plain only: no pasta sauce, ketchup or salsa, which are often salty, sugary or made with garlic and onion.",
+      "risks": [
+        "Vomiting or diarrhea after eating green parts or unripe tomatoes",
+        "Drooling, lethargy or weakness if the plant was chewed",
+        "Slow heart rate after eating a large amount of the plant",
+        "Garlic or onion hidden in tomato sauces",
+        "Stomach irritation from the acidity"
+      ],
+      "ifEaten": "A bite of ripe tomato is usually nothing to worry about. If your cat chewed leaves, stems or a green tomato, watch for vomiting, drooling or unusual tiredness over the next 24 to 48 hours, and call your vet if they appear or if a lot was eaten. If it was a sauce made with garlic or onion, call your vet right away.",
+      "alternatives": "If your cat enjoys something fresh and crunchy, cucumber or zucchini are simpler, with no toxic parts to worry about. A bite of plain cooked chicken beats both.",
+      "faq": [
+        {
+          "q": "Can cats eat cherry tomatoes?",
+          "a": "The same rule applies: a ripe cherry tomato cut into quarters is fine in small amounts. Pull off the green stem and cut it up so it can't be swallowed whole."
+        },
+        {
+          "q": "Are tomato plants toxic to cats?",
+          "a": "Yes. The leaves and stems contain solanine and can cause drooling, vomiting, diarrhea and lethargy if chewed. Keep tomato plants out of reach, especially indoors or on a balcony."
+        }
+      ]
+    }
+  },
+  {
+    "id": "concombre",
+    "verdict": "oui",
+    "related": [
+      "courgette",
+      "salade",
+      "celeri",
+      "pasteque"
+    ],
+    "fr": {
+      "short": "Oui. Le concombre n'est pas toxique pour le chat : peu calorique et plein d'eau, il peut être donné en petits morceaux, lavé et nature.",
+      "why": "Le concombre est composé d'environ 95 % d'eau, avec très peu de calories et un peu de fibres. Il ne contient aucune substance connue pour être toxique chez le chat. Il n'apporte en revanche presque rien de ce dont un carnivore a besoin : c'est un en-cas rafraîchissant, pas un aliment.",
+      "amount": "Deux ou trois petits dés de temps en temps suffisent. Lave-le bien ou épluche-le, retire les graines si ton chat a l'estomac sensible, et coupe-le petit pour qu'il l'avale sans peine.",
+      "risks": [
+        "Selles molles ou diarrhée s'il en mange trop",
+        "Morceaux trop gros, difficiles à avaler",
+        "Résidus de pesticides sur une peau mal lavée",
+        "Cornichons et tzatziki : trop salés, vinaigrés ou aillés"
+      ],
+      "ifEaten": "Pas d'inquiétude : un peu de concombre ne lui fera pas de mal. S'il en a mangé beaucoup, il peut avoir des selles molles pendant un jour ou deux ; appelle ton vétérinaire si la diarrhée dure plus de 48 h. Si c'était du tzatziki ou une salade à l'ail ou à l'oignon, appelle-le directement.",
+      "alternatives": "La courgette et la salade sont d'autres options douces et pleines d'eau. Pour vraiment l'hydrater, la pâtée et une fontaine à eau font bien mieux.",
+      "faq": [
+        {
+          "q": "Pourquoi les chats ont-ils peur des concombres ?",
+          "a": "Les vidéos virales montrent surtout un chat surpris par un objet apparu derrière lui pendant qu'il mangeait. Ce n'est pas le concombre en soi, et lui faire cette blague peut vraiment le stresser."
+        },
+        {
+          "q": "Et les cornichons ?",
+          "a": "Non. Les cornichons baignent dans le vinaigre et le sel, souvent avec de l'ail ou des petits oignons. Garde-les pour toi."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cucumber isn't toxic to cats: low in calories and full of water, it's safe in small pieces, washed and plain.",
+      "why": "Cucumber is about 95% water, with very few calories and a little fiber. It contains nothing known to be toxic to cats. It also gives a carnivore almost nothing it needs, so think of it as a refreshing snack rather than food.",
+      "amount": "Two or three small cubes now and then is plenty. Wash or peel it, scoop out the seeds if your cat has a sensitive stomach, and cut it small so it's easy to swallow.",
+      "risks": [
+        "Soft stools or diarrhea if your cat eats too much",
+        "Large chunks that are hard to swallow",
+        "Pesticide residue on unwashed skin",
+        "Pickles and tzatziki, which are salty, vinegary or garlicky"
+      ],
+      "ifEaten": "Don't worry: a bit of cucumber won't hurt your cat. A larger amount may cause soft stools for a day or two; call your vet if diarrhea lasts more than 48 hours. If it was tzatziki or a salad with garlic or onion, call your vet right away.",
+      "alternatives": "Zucchini and lettuce are other mild, watery options. To really keep your cat hydrated, wet food and a water fountain do far more.",
+      "faq": [
+        {
+          "q": "Why are cats scared of cucumbers?",
+          "a": "The viral videos mostly show a cat startled by an object that appeared behind it while it was eating. It isn't about the cucumber itself, and pranking your cat this way can genuinely stress it out."
+        },
+        {
+          "q": "Can cats eat pickles?",
+          "a": "No. Pickles are soaked in salt and vinegar and are often flavored with garlic. Keep them for yourself."
+        }
+      ]
+    }
+  },
+  {
+    "id": "courgette",
+    "verdict": "oui",
+    "related": [
+      "concombre",
+      "citrouille",
+      "carotte",
+      "aubergine"
+    ],
+    "fr": {
+      "short": "Oui. La courgette n'est pas toxique pour le chat : crue ou cuite, nature et en petits morceaux, elle peut faire une petite friandise occasionnelle.",
+      "why": "La courgette est une cucurbitacée, comme le concombre et la citrouille. Elle est très riche en eau, pauvre en calories et contient des fibres douces, faciles à digérer une fois cuite. Elle n'apporte pas ce dont le chat a vraiment besoin (protéines animales, taurine), donc elle reste un extra. Seule précaution : si une courgette est très amère, jette-la, c'est le signe d'un taux élevé de cucurbitacines, qui irritent l'intestin.",
+      "amount": "Une cuillère à café de courgette cuite à l'eau ou à la vapeur, ou quelques petits dés crus, de temps en temps. Sans huile ni sel, et pas de ratatouille ni de gratin, souvent préparés avec de l'ail, de l'oignon ou du fromage.",
+      "risks": [
+        "Selles molles ou diarrhée si la portion est trop grosse",
+        "Troubles digestifs avec une courgette très amère (cucurbitacines)",
+        "Ail et oignon cachés dans la ratatouille ou les poêlées",
+        "Gros morceaux crus, difficiles à mâcher"
+      ],
+      "ifEaten": "Un peu de courgette nature ne pose aucun problème. S'il en a mangé beaucoup, surveille ses selles pendant 24 à 48 h et appelle ton vétérinaire si les vomissements ou la diarrhée persistent. S'il a mangé un plat cuisiné avec de l'ail ou de l'oignon, appelle-le directement.",
+      "alternatives": "Le concombre, la citrouille cuite ou les haricots verts sont d'autres légumes doux et bien tolérés. Pour une vraie récompense, un morceau de dinde cuite lui fera plus plaisir.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger de la courgette crue ?",
+          "a": "Oui, en petits dés bien lavés. Cuite, elle est simplement plus tendre et plus facile à digérer."
+        },
+        {
+          "q": "Et la ratatouille ?",
+          "a": "Non. La ratatouille contient presque toujours de l'oignon et de l'ail, toxiques pour le chat, et beaucoup d'huile. Si tu veux partager, mets de côté un morceau de courgette cuite avant d'ajouter le reste."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Zucchini isn't toxic to cats: raw or cooked, plain and cut small, it makes a fine occasional snack.",
+      "why": "Zucchini is a summer squash, related to cucumber and pumpkin. It's mostly water, low in calories, with gentle fiber that's easy to digest once cooked. It lacks what cats truly need, like animal protein and taurine, so it stays an extra. One caveat: if a zucchini tastes very bitter, toss it, since bitterness signals high levels of cucurbitacins, which irritate the gut.",
+      "amount": "A teaspoon of steamed or boiled zucchini, or a few small raw cubes, once in a while. No oil or salt, and skip ratatouille or casseroles, which usually contain garlic, onion or cheese.",
+      "risks": [
+        "Soft stools or diarrhea if the portion is too big",
+        "Stomach upset from a very bitter zucchini (cucurbitacins)",
+        "Garlic and onion hidden in stir-fries and ratatouille",
+        "Large raw pieces that are hard to chew"
+      ],
+      "ifEaten": "A bit of plain zucchini is no problem. If your cat ate a lot, keep an eye on its stools for 24 to 48 hours and call your vet if vomiting or diarrhea keeps going. If it ate a dish cooked with garlic or onion, call your vet right away.",
+      "alternatives": "Cucumber, cooked pumpkin and green beans are other gentle veggies cats tolerate well. For a real reward, a bite of cooked turkey will go over better.",
+      "faq": [
+        {
+          "q": "Can cats eat raw zucchini?",
+          "a": "Yes, in small, well-washed cubes. Cooked zucchini is just softer and easier to digest."
+        },
+        {
+          "q": "Can cats eat zucchini bread?",
+          "a": "It's not a good idea. Zucchini bread is full of sugar and fat and may contain raisins, nuts or nutmeg, which are risky for cats. Plain zucchini is the safe way to share."
+        }
+      ]
+    }
+  },
+  {
+    "id": "carotte",
+    "verdict": "oui",
+    "related": [
+      "courgette",
+      "haricots-verts",
+      "citrouille",
+      "patate-douce"
+    ],
+    "fr": {
+      "short": "Oui. La carotte n'est pas toxique pour le chat : cuite, nature et coupée en petits morceaux, elle passe très bien chez la plupart des chats.",
+      "why": "La carotte apporte des fibres et du bêta-carotène, mais le chat ne sait pas transformer le bêta-carotène en vitamine A : il doit la trouver toute prête dans la viande. Elle ne lui sert donc pas de source de vitamines, juste de petite friandise. Crue, elle est dure et peut être difficile à mâcher et à avaler ; cuite, elle devient tendre et se digère mieux.",
+      "amount": "Une cuillère à café de carotte cuite à l'eau ou à la vapeur, écrasée ou en petits dés, une ou deux fois par semaine au plus. Sans beurre, sans sel et sans glaçage au miel.",
+      "risks": [
+        "Morceaux crus durs : risque d'étouffement ou de blocage",
+        "Gaz ou diarrhée si la portion est trop grosse",
+        "Carottes glacées au beurre ou au sucre, trop riches",
+        "Plats mijotés avec de l'oignon ou de l'ail"
+      ],
+      "ifEaten": "Un peu de carotte ne lui fera aucun mal. S'il a avalé un gros morceau cru, surveille-le 24 à 48 h et appelle ton vétérinaire s'il tousse, a des haut-le-cœur, vomit à répétition ou arrête de manger. Si c'était un plat mijoté avec de l'oignon ou de l'ail, appelle-le directement.",
+      "alternatives": "La citrouille cuite, la courgette et les haricots verts sont d'autres légumes bien tolérés. Pour sa vitamine A, une alimentation complète pour chat lui apporte tout ce qu'il faut.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger des carottes crues ?",
+          "a": "Ce n'est pas toxique, mais c'est dur. Si tu en donnes, râpe-la très finement ; sinon, cuite reste la meilleure option."
+        },
+        {
+          "q": "La carotte est-elle bonne pour les yeux de mon chat ?",
+          "a": "Pas vraiment. Le chat ne transforme pas le bêta-carotène en vitamine A comme nous : il la trouve dans la viande et le foie, et une alimentation complète lui en apporte assez."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Carrots aren't toxic to cats: cooked, plain and cut into small pieces, they go down well with most cats.",
+      "why": "Carrots provide fiber and beta-carotene, but cats can't convert beta-carotene into vitamin A the way people do; they need it ready-made from animal tissue. So carrots aren't a vitamin source for your cat, just a small treat. Raw, they're hard and can be tough to chew and swallow; cooked, they turn soft and are easier to digest.",
+      "amount": "A teaspoon of steamed or boiled carrot, mashed or diced small, once or twice a week at most. No butter, salt or honey glaze.",
+      "risks": [
+        "Hard raw chunks that can cause choking or a blockage",
+        "Gas or diarrhea if the portion is too big",
+        "Glazed carrots with butter or sugar, which are too rich",
+        "Stews or roasts cooked with onion or garlic"
+      ],
+      "ifEaten": "A bit of carrot won't hurt your cat. If it swallowed a big raw chunk, watch it for 24 to 48 hours and call your vet if it coughs, gags, vomits repeatedly or stops eating. If it was a stew cooked with onion or garlic, call your vet right away.",
+      "alternatives": "Cooked pumpkin, zucchini and green beans are other well-tolerated veggies. For vitamin A, a complete cat food already covers your cat's needs.",
+      "faq": [
+        {
+          "q": "Can cats eat raw carrots?",
+          "a": "They're not toxic, but they're hard. If you offer raw carrot, grate it very finely; otherwise, cooked is the better choice."
+        },
+        {
+          "q": "Can cats eat carrot cake?",
+          "a": "No. Carrot cake is loaded with sugar and fat, often contains raisins or nuts, and the frosting is mostly butter, cream cheese and sugar. A bit of plain cooked carrot is the safe way to share."
+        }
+      ]
+    }
+  },
+  {
+    "id": "haricots-verts",
+    "verdict": "oui",
+    "related": [
+      "petits-pois",
+      "carotte",
+      "brocoli",
+      "courgette"
+    ],
+    "fr": {
+      "short": "Oui. Les haricots verts sont sans danger pour le chat : cuits à l'eau, sans sel et coupés en petits tronçons, ils font une friandise légère.",
+      "why": "Les haricots verts sont pauvres en calories et riches en fibres et en eau. Cuits, ils sont tendres et faciles à digérer, et quelques tronçons ajoutés à la ration peuvent aider un chat au régime à se sentir rassasié, avec l'accord du vétérinaire. Crus, ils sont plus durs et contiennent des lectines, des protéines qui peuvent irriter l'intestin : la cuisson les neutralise.",
+      "amount": "Quelques tronçons de haricots verts cuits à l'eau ou à la vapeur, nature, de temps en temps. Les haricots en conserve sont souvent salés : choisis-les sans sel ajouté ou rince-les bien.",
+      "risks": [
+        "Gaz ou selles molles s'il en mange trop",
+        "Haricots crus, plus durs et plus irritants pour l'intestin",
+        "Conserves salées ou haricots poêlés à l'ail ou à l'échalote",
+        "Long haricot avalé entier : risque d'étouffement"
+      ],
+      "ifEaten": "Quelques haricots verts ne posent aucun souci. S'il en a mangé beaucoup, ou crus, surveille-le 24 à 48 h et appelle ton vétérinaire en cas de vomissements ou de diarrhée qui dure. S'ils étaient cuisinés à l'ail ou à l'échalote, appelle-le directement.",
+      "alternatives": "Les petits pois, la courgette et la carotte cuite sont aussi bien tolérés. Si ton chat doit perdre du poids, demande à ton vétérinaire un plan adapté plutôt que de remplir sa gamelle de légumes.",
+      "faq": [
+        {
+          "q": "Les haricots verts aident-ils un chat à maigrir ?",
+          "a": "Ils peuvent compléter la gamelle avec peu de calories, mais ils ne remplacent pas un régime adapté. Un chat qui maigrit trop vite peut développer une maladie grave du foie (la lipidose), donc fais-toi accompagner par ton vétérinaire."
+        },
+        {
+          "q": "Et les haricots rouges ou blancs ?",
+          "a": "Les haricots secs doivent toujours être bien cuits : crus, ils contiennent des lectines irritantes. Même cuits, ils sont riches en amidon et donnent des gaz, et ceux en sauce (chili, cassoulet) contiennent souvent de l'oignon et beaucoup de sel."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Green beans are safe for cats: boiled or steamed, unsalted and cut into short pieces, they make a light treat.",
+      "why": "Green beans are low in calories and rich in fiber and water. Cooked, they're tender and easy to digest, and a few pieces added to the bowl can help a cat on a diet feel full, with your vet's approval. Raw, they're tougher and contain lectins, proteins that can irritate the gut; cooking deactivates them.",
+      "amount": "A few pieces of boiled or steamed green beans, plain, once in a while. Canned green beans are often salted, so pick no-salt-added ones or rinse them well.",
+      "risks": [
+        "Gas or soft stools if your cat eats too many",
+        "Raw beans, which are tougher and harder on the gut",
+        "Salted canned beans or beans sauteed with garlic",
+        "A long bean swallowed whole, which can cause choking"
+      ],
+      "ifEaten": "A few green beans are nothing to worry about. If your cat ate a lot, or ate them raw, watch it for 24 to 48 hours and call your vet if vomiting or diarrhea doesn't settle. If they were cooked with garlic or onion, call your vet right away.",
+      "alternatives": "Peas, zucchini and cooked carrot are also well tolerated. If your cat needs to lose weight, ask your vet for a proper plan rather than filling the bowl with veggies.",
+      "faq": [
+        {
+          "q": "Can green beans help my cat lose weight?",
+          "a": "They can bulk up a meal with few calories, but they don't replace a vet-designed diet. Cats that lose weight too fast can develop a serious liver disease called hepatic lipidosis, so work with your vet."
+        },
+        {
+          "q": "Can cats eat canned green beans?",
+          "a": "Yes, if they're plain with no added salt; otherwise, rinse them well. Skip green bean casserole, which comes with fried onions and a rich, salty sauce."
+        }
+      ]
+    }
+  },
+  {
+    "id": "petits-pois",
+    "verdict": "oui",
+    "related": [
+      "haricots-verts",
+      "mais",
+      "carotte",
+      "lentilles"
+    ],
+    "fr": {
+      "short": "Oui. Les petits pois cuits sont sans danger pour le chat : quelques-uns, nature et légèrement écrasés, font une petite friandise.",
+      "why": "Les petits pois apportent des fibres, un peu de protéines végétales et des glucides. On en trouve d'ailleurs dans certaines croquettes, souvent sous forme de farine ou de protéines de pois. Mais le chat a besoin de protéines animales : les pois restent un petit complément, et en excès ils fermentent dans l'intestin et donnent des gaz.",
+      "amount": "Quelques petits pois cuits à l'eau, ou surgelés puis réchauffés, nature, de temps en temps. Écrase-les un peu pour qu'il ne les avale pas tout ronds, et évite les petits pois cuisinés avec des lardons, des oignons ou du beurre.",
+      "risks": [
+        "Gaz et ballonnements si la portion est trop grosse",
+        "Selles molles ou diarrhée",
+        "Petits pois cuisinés aux lardons, au beurre ou aux oignons",
+        "Conserves de petits pois-carottes, souvent salées et sucrées"
+      ],
+      "ifEaten": "Quelques petits pois ne lui feront pas de mal. S'il en a mangé une bonne quantité, surveille les gaz et ses selles pendant 24 à 48 h, et appelle ton vétérinaire si les troubles persistent. S'ils étaient cuisinés à l'oignon, appelle-le directement.",
+      "alternatives": "Les haricots verts et la carotte cuite sont d'autres légumes bien tolérés. Mais un morceau de poulet ou de dinde cuit reste la friandise la plus adaptée à un carnivore.",
+      "faq": [
+        {
+          "q": "Pourquoi y a-t-il des petits pois dans les croquettes ?",
+          "a": "Les pois servent de source de fibres, de glucides ou de protéines dans certaines recettes, notamment sans céréales. Dans un aliment complet, les quantités sont formulées et équilibrées : ce n'est pas une raison pour en ajouter beaucoup dans sa gamelle."
+        },
+        {
+          "q": "Mon chat peut-il manger des pois mange-tout ?",
+          "a": "Oui, cuits et coupés en petits morceaux, comme les petits pois. Crue, la cosse est fibreuse et difficile à mâcher."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cooked peas are safe for cats: a few plain, lightly mashed peas make a small treat.",
+      "why": "Peas provide fiber, some plant protein and carbohydrates. You'll even find them in some cat foods, often as pea flour or pea protein. But cats need animal protein, so peas are only a small extra, and too many ferment in the gut and cause gas.",
+      "amount": "A few boiled peas, or frozen peas warmed up, plain, once in a while. Mash them slightly so they aren't swallowed whole, and skip peas cooked with bacon, onions or butter.",
+      "risks": [
+        "Gas and bloating if the portion is too big",
+        "Soft stools or diarrhea",
+        "Peas cooked with bacon, butter or onions",
+        "Canned peas and carrots, often salted and sweetened"
+      ],
+      "ifEaten": "A few peas won't hurt your cat. If it ate a good amount, watch for gas and soft stools over 24 to 48 hours, and call your vet if the trouble continues. If they were cooked with onion, call your vet right away.",
+      "alternatives": "Green beans and cooked carrot are other well-tolerated veggies. But a bite of cooked chicken or turkey is still the treat best suited to a carnivore.",
+      "faq": [
+        {
+          "q": "Why are peas in cat food?",
+          "a": "Peas are used as a source of fiber, carbohydrates or protein in some recipes, especially grain-free ones. In a complete food, the amounts are formulated and balanced, which isn't a reason to add lots of peas to the bowl."
+        },
+        {
+          "q": "Can cats eat frozen peas?",
+          "a": "Yes, once thawed or lightly cooked. A frozen pea is hard and cold, so let it soften first and mash it a little."
+        }
+      ]
+    }
+  },
+  {
+    "id": "brocoli",
+    "verdict": "oui",
+    "related": [
+      "chou-fleur",
+      "chou",
+      "haricots-verts",
+      "asperge"
+    ],
+    "fr": {
+      "short": "Oui. Le brocoli est sans danger pour le chat : cuit à la vapeur, nature et en petite quantité, il peut faire une friandise occasionnelle.",
+      "why": "Le brocoli, de la famille des choux, apporte des fibres et des antioxydants, mais le chat n'en a pas besoin pour être en bonne santé. Comme les autres crucifères, il fermente dans l'intestin et peut donner des gaz si la portion est trop grosse. Cru, il est dur et plus difficile à digérer : la cuisson à la vapeur l'attendrit.",
+      "amount": "Une ou deux petites fleurettes cuites à la vapeur, coupées en morceaux, de temps en temps. Sans beurre, sans sel, sans fromage ni sauce.",
+      "risks": [
+        "Gaz et ballonnements",
+        "Diarrhée si la portion est trop grosse",
+        "Tiges crues dures, difficiles à mâcher",
+        "Gratins et sauces au fromage, trop gras et salés"
+      ],
+      "ifEaten": "Un peu de brocoli ne lui fera aucun mal. S'il en a mangé beaucoup, il peut avoir des gaz ou des selles molles : surveille-le 24 à 48 h et appelle ton vétérinaire si les vomissements ou la diarrhée persistent.",
+      "alternatives": "Le chou-fleur cuit, les haricots verts ou la courgette sont aussi bien tolérés. Et s'il aime surtout mâchonner du vert, l'herbe à chat est faite pour ça.",
+      "faq": [
+        {
+          "q": "Mon chat adore le brocoli, c'est normal ?",
+          "a": "Oui, certains chats aiment sa texture et en mâchonnent les fleurettes un peu comme de l'herbe. Tant que ça reste une petite quantité cuite, tu peux le laisser en profiter."
+        },
+        {
+          "q": "Mon chat peut-il manger du brocoli cru ?",
+          "a": "Ce n'est pas toxique, mais c'est plus dur et plus difficile à digérer. Mieux vaut le cuire à la vapeur et le couper en petits morceaux."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Broccoli is safe for cats: steamed, plain and in small amounts, it can be an occasional treat.",
+      "why": "Broccoli, part of the cabbage family, provides fiber and antioxidants, but cats don't need it to be healthy. Like other cruciferous veggies, it ferments in the gut and can cause gas if the portion is too big. Raw, it's hard and tougher to digest; steaming softens it.",
+      "amount": "One or two small florets, steamed and cut up, once in a while. No butter, salt, cheese or sauce.",
+      "risks": [
+        "Gas and bloating",
+        "Diarrhea if the portion is too big",
+        "Hard raw stalks that are difficult to chew",
+        "Cheesy casseroles and sauces, too fatty and salty"
+      ],
+      "ifEaten": "A bit of broccoli won't hurt your cat. A larger amount may cause gas or soft stools, so watch it for 24 to 48 hours and call your vet if vomiting or diarrhea keeps going.",
+      "alternatives": "Cooked cauliflower, green beans or zucchini are also well tolerated. And if your cat mostly likes chewing on greens, cat grass is made for that.",
+      "faq": [
+        {
+          "q": "Why does my cat love broccoli?",
+          "a": "Some cats enjoy the texture and nibble the florets a bit like grass. As long as it's a small, cooked amount, it's fine to let them enjoy it."
+        },
+        {
+          "q": "Can cats eat raw broccoli?",
+          "a": "It isn't toxic, but it's harder and tougher to digest. Steaming it and cutting it into small pieces is the better option."
+        }
+      ]
+    }
+  },
+  {
+    "id": "chou-fleur",
+    "verdict": "oui",
+    "related": [
+      "brocoli",
+      "chou",
+      "haricots-verts",
+      "courgette"
+    ],
+    "fr": {
+      "short": "Oui. Le chou-fleur n'est pas toxique pour le chat : cuit, nature et en petite quantité, il est sans danger, même s'il peut donner des gaz.",
+      "why": "Le chou-fleur fait partie des crucifères, comme le brocoli et le chou. Il est peu calorique et riche en fibres, mais ses glucides fermentent dans l'intestin et peuvent provoquer gaz et ballonnements, surtout s'il est cru ou donné en trop grande quantité. Il n'apporte rien d'indispensable à un chat bien nourri.",
+      "amount": "Une ou deux petites fleurettes cuites à l'eau ou à la vapeur, écrasées ou coupées fin, de temps en temps. Pas de gratin, de béchamel ni de chou-fleur rôti aux épices.",
+      "risks": [
+        "Gaz, ballonnements et inconfort digestif",
+        "Diarrhée si la portion est trop grosse",
+        "Morceaux crus durs, difficiles à mâcher",
+        "Gratin et béchamel, trop riches en lait, fromage et sel",
+        "Ail ou oignon en poudre dans les recettes rôties"
+      ],
+      "ifEaten": "Un peu de chou-fleur ne pose pas de problème. S'il en a mangé beaucoup, surveille-le 24 à 48 h : appelle ton vétérinaire s'il a le ventre gonflé et douloureux, ou si les vomissements ou la diarrhée persistent. S'il était assaisonné à l'ail ou à l'oignon, appelle-le directement.",
+      "alternatives": "Le brocoli, les haricots verts ou la citrouille cuite sont d'autres options bien tolérées ; la citrouille est même plus douce pour le transit.",
+      "faq": [
+        {
+          "q": "Et le gratin de chou-fleur ?",
+          "a": "Non. La béchamel et le fromage sont gras et salés, et le lait peut lui donner la diarrhée. Mets de côté une fleurette cuite nature avant de préparer le gratin."
+        },
+        {
+          "q": "Mon chat peut-il manger de la semoule de chou-fleur ?",
+          "a": "Oui, si elle est nature et cuite. Les versions toutes prêtes contiennent parfois de l'ail, de l'oignon ou du sel : vérifie la liste d'ingrédients."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cauliflower isn't toxic to cats: cooked, plain and in small amounts, it's safe, though it can cause gas.",
+      "why": "Cauliflower is a cruciferous vegetable, like broccoli and cabbage. It's low in calories and high in fiber, but its carbohydrates ferment in the gut and can cause gas and bloating, especially when raw or given in large amounts. It offers nothing essential to a well-fed cat.",
+      "amount": "One or two small florets, boiled or steamed, mashed or finely chopped, once in a while. No cheese sauce, no casserole, and no spice-roasted cauliflower.",
+      "risks": [
+        "Gas, bloating and tummy discomfort",
+        "Diarrhea if the portion is too big",
+        "Hard raw pieces that are difficult to chew",
+        "Cheese sauces, too rich in dairy, fat and salt",
+        "Garlic or onion powder in roasted recipes"
+      ],
+      "ifEaten": "A bit of cauliflower is no problem. If your cat ate a lot, watch it for 24 to 48 hours and call your vet if its belly looks swollen and sore, or if vomiting or diarrhea continues. If it was seasoned with garlic or onion, call your vet right away.",
+      "alternatives": "Broccoli, green beans or cooked pumpkin are other well-tolerated options, and pumpkin is even gentler on digestion.",
+      "faq": [
+        {
+          "q": "Can cats eat cauliflower rice?",
+          "a": "Yes, if it's plain and cooked. Ready-made versions sometimes contain garlic, onion or salt, so check the ingredient list."
+        },
+        {
+          "q": "Can cats eat raw cauliflower?",
+          "a": "It isn't toxic, but raw cauliflower is hard to chew and more likely to cause gas. Cooked and cut small is the better choice."
+        }
+      ]
+    }
+  },
+  {
+    "id": "chou",
+    "verdict": "peu",
+    "related": [
+      "brocoli",
+      "chou-fleur",
+      "salade",
+      "epinards"
+    ],
+    "fr": {
+      "short": "Un peu. Le chou n'est pas reconnu comme toxique pour le chat, mais il donne facilement des gaz : seulement cuit, nature, en petite quantité et rarement.",
+      "why": "Le chou est une crucifère très fermentescible : ses fibres et ses sucres sont digérés par les bactéries de l'intestin, ce qui produit des gaz et peut donner des ballonnements ou des selles molles. Il contient aussi des glucosinolates, des composés qui, consommés crus et en grande quantité sur la durée, peuvent freiner le fonctionnement de la thyroïde. Les données propres au chat sont limitées : la prudence consiste à le cuire et à rester sur de toutes petites portions.",
+      "amount": "Une cuillère à café de chou bien cuit à l'eau, nature et haché, de temps en temps au plus. Pas de choucroute, de chou farci ni de soupe au chou, qui contiennent du sel, de la charcuterie ou de l'oignon.",
+      "risks": [
+        "Gaz, ballonnements et douleurs abdominales",
+        "Selles molles ou diarrhée",
+        "Effet possible sur la thyroïde en cas de grandes quantités crues",
+        "Choucroute et chou farci : sel, charcuterie, oignon"
+      ],
+      "ifEaten": "Un peu de chou n'est généralement pas grave. Surveille-le 24 à 48 h et appelle ton vétérinaire s'il a le ventre gonflé et douloureux, vomit à répétition ou a une diarrhée qui dure. Si c'était de la soupe au chou ou un plat à l'oignon, appelle-le directement.",
+      "alternatives": "Le brocoli et le chou-fleur cuits sont un peu mieux tolérés, et les haricots verts ou la courgette sont plus doux encore pour l'intestin.",
+      "faq": [
+        {
+          "q": "Et le chou kale ?",
+          "a": "Le kale appartient à la même famille et pose les mêmes questions : des gaz, et des composés qui peuvent agir sur la thyroïde à forte dose. Si tu en donnes, une toute petite quantité cuite, rarement."
+        },
+        {
+          "q": "Mon chat peut-il manger de la choucroute ?",
+          "a": "Non. La choucroute est très salée et généralement servie avec des saucisses, du lard ou des oignons. Le sel en excès peut lui donner très soif et provoquer des vomissements."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Cabbage isn't known to be toxic to cats, but it easily causes gas: only cooked, plain, in small amounts and rarely.",
+      "why": "Cabbage is a very fermentable cruciferous vegetable: gut bacteria break down its fiber and sugars, producing gas and sometimes bloating or soft stools. It also contains glucosinolates, compounds that can interfere with thyroid function when eaten raw in large amounts over time. Cat-specific data are limited, so the cautious approach is to cook it and keep portions tiny.",
+      "amount": "A teaspoon of well-cooked, plain, chopped cabbage, once in a while at most. No coleslaw, sauerkraut, stuffed cabbage or cabbage soup, which come with salt, mayo, cured meat or onion.",
+      "risks": [
+        "Gas, bloating and belly pain",
+        "Soft stools or diarrhea",
+        "Possible thyroid effects from large amounts of raw cabbage",
+        "Coleslaw and sauerkraut: mayo, salt, onion"
+      ],
+      "ifEaten": "A bit of cabbage is usually not serious. Watch your cat for 24 to 48 hours and call your vet if its belly is swollen and sore, it vomits repeatedly or has diarrhea that won't stop. If it was cabbage soup or a dish with onion, call your vet right away.",
+      "alternatives": "Cooked broccoli and cauliflower are slightly better tolerated, and green beans or zucchini are gentler still on the gut.",
+      "faq": [
+        {
+          "q": "Can cats eat kale?",
+          "a": "Kale is in the same family and raises the same issues: gas, plus compounds that can affect the thyroid in large amounts. If you offer it, keep it to a tiny cooked portion, rarely."
+        },
+        {
+          "q": "Can cats eat coleslaw?",
+          "a": "No. Coleslaw combines raw cabbage with a fatty mayo dressing and sometimes onion, so it's gassy, rich and risky. If you want to share, offer a small bite of plain cooked cabbage instead."
+        }
+      ]
+    }
+  },
+  {
+    "id": "epinards",
+    "verdict": "peu",
+    "related": [
+      "chou",
+      "salade",
+      "betterave",
+      "brocoli"
+    ],
+    "fr": {
+      "short": "Un peu. Les épinards ne sont pas toxiques, mais ils sont riches en oxalates : à éviter complètement si ton chat a des problèmes urinaires ou rénaux.",
+      "why": "Les épinards contiennent beaucoup d'acide oxalique, qui se lie au calcium et s'élimine par les urines. Chez un chat prédisposé, ces oxalates peuvent favoriser la formation de cristaux et de calculs d'oxalate de calcium dans la vessie ou les reins. Chez un chat en bonne santé, une petite bouchée occasionnelle ne pose pas de problème connu, mais ce n'est pas un légume à mettre au menu.",
+      "amount": "Une ou deux feuilles cuites, hachées et nature, de temps en temps au maximum, et seulement chez un chat sans antécédent urinaire ni rénal. Pas d'épinards à la crème, au beurre ou en gratin, ni de tarte aux épinards.",
+      "risks": [
+        "Cristaux ou calculs d'oxalate de calcium chez les chats prédisposés",
+        "Aggravation d'une maladie rénale existante",
+        "Troubles digestifs si la quantité est importante",
+        "Épinards à la crème : lactose, beurre et sel"
+      ],
+      "ifEaten": "Une petite quantité n'est généralement pas un souci chez un chat en bonne santé ; surveille-le 24 à 48 h. S'il a déjà eu des calculs, des cristaux ou s'il est suivi pour les reins, préviens ton vétérinaire. Dans tous les cas, appelle-le s'il a du mal à uriner, va souvent au bac sans résultat ou a du sang dans les urines : un chat bloqué est une urgence.",
+      "alternatives": "Si ton chat aime le vert, la salade, la courgette ou l'herbe à chat sont bien plus pauvres en oxalates. Pour la santé urinaire, l'essentiel reste de le faire boire et de privilégier la pâtée.",
+      "faq": [
+        {
+          "q": "Les épinards cuits contiennent-ils moins d'oxalates ?",
+          "a": "La cuisson à l'eau en élimine une partie, à condition de jeter l'eau de cuisson, mais il en reste beaucoup. Ça ne rend pas les épinards adaptés à un chat qui a des problèmes urinaires."
+        },
+        {
+          "q": "Mon chat a mangé de la quiche aux épinards, que faire ?",
+          "a": "Une petite bouchée n'est souvent pas grave, mais regarde la recette : la quiche contient souvent du lard, de la crème et parfois de l'oignon ou de l'ail. Si c'est le cas, ou s'il en a mangé une bonne part, appelle ton vétérinaire."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Spinach isn't toxic, but it's rich in oxalates, so avoid it completely if your cat has urinary or kidney problems.",
+      "why": "Spinach contains a lot of oxalic acid, which binds calcium and is passed in the urine. In cats that are prone to it, these oxalates can contribute to calcium oxalate crystals and stones in the bladder or kidneys. In a healthy cat, an occasional small bite isn't known to cause trouble, but it's not a veggie to put on the menu.",
+      "amount": "One or two cooked, chopped, plain leaves once in a while at most, and only for cats with no history of urinary or kidney issues. No creamed spinach, spinach dip or spinach pie.",
+      "risks": [
+        "Calcium oxalate crystals or stones in cats prone to them",
+        "Worsening of existing kidney disease",
+        "Stomach upset if a large amount is eaten",
+        "Creamed spinach and dips: dairy, butter, salt, garlic"
+      ],
+      "ifEaten": "A small amount is usually fine for a healthy cat; keep an eye on it for 24 to 48 hours. If your cat has had stones or crystals before, or is being treated for kidney disease, let your vet know. In any case, call your vet if your cat strains to pee, keeps going to the litter box with little result or has blood in its urine: a blocked cat is an emergency.",
+      "alternatives": "If your cat likes greens, lettuce, zucchini or cat grass are much lower in oxalates. For urinary health, what matters most is plenty of water and wet food.",
+      "faq": [
+        {
+          "q": "Does cooking spinach reduce oxalates?",
+          "a": "Boiling removes some of them, as long as you throw away the cooking water, but plenty remains. It doesn't make spinach suitable for a cat with urinary problems."
+        },
+        {
+          "q": "Why is there spinach in my cat's food?",
+          "a": "Some recipes include small amounts of spinach. In a complete, formulated food, levels are controlled, but if your cat has a history of oxalate stones, ask your vet which diet is best."
+        }
+      ]
+    }
+  },
+  {
+    "id": "salade",
+    "verdict": "oui",
+    "related": [
+      "concombre",
+      "epinards",
+      "celeri",
+      "herbe-a-chat"
+    ],
+    "fr": {
+      "short": "Oui. La salade (laitue, romaine, batavia) n'est pas toxique pour le chat : quelques morceaux de feuille bien lavée, sans vinaigrette, sont sans danger.",
+      "why": "La laitue est composée presque entièrement d'eau, avec un peu de fibres et très peu de calories. Elle ne contient aucune substance connue pour être toxique chez le chat, et certains aiment la mâchonner comme de l'herbe. Le vrai danger vient de ce qu'on met dessus : la vinaigrette contient souvent de l'échalote ou de l'ail, et les salades composées mélangent oignon, croûtons, fromage ou charcuterie.",
+      "amount": "Quelques petits morceaux de feuille, lavés et nature, de temps en temps. Les feuilles plus vertes comme la romaine apportent un peu plus de fibres que l'iceberg, qui n'est presque que de l'eau.",
+      "risks": [
+        "Diarrhée s'il en mange beaucoup",
+        "Vinaigrette à l'échalote, à l'ail ou à l'oignon, toxiques",
+        "Pesticides ou terre sur des feuilles mal lavées",
+        "Salades composées : oignon, croûtons, fromage, sauce"
+      ],
+      "ifEaten": "Un peu de laitue nature ne pose aucun problème : surveille seulement ses selles pendant 24 à 48 h, et appelle ton vétérinaire si une diarrhée s'installe. Si la salade était assaisonnée avec de l'échalote, de l'ail ou de l'oignon, appelle-le directement.",
+      "alternatives": "Si ton chat mâchonne la salade pour le plaisir, un pot d'herbe à chat lui offrira la même chose en plus adapté. Pour une bouchée fraîche, un dé de concombre fonctionne aussi.",
+      "faq": [
+        {
+          "q": "Mon chat mange ma salade, pourquoi ?",
+          "a": "Beaucoup de chats aiment mâchonner des feuilles tendres, comme ils le feraient avec de l'herbe. On ne sait pas exactement pourquoi, mais c'est un comportement courant. Si ça s'accompagne de vomissements fréquents, parles-en à ton vétérinaire."
+        },
+        {
+          "q": "Et la roquette ou la mâche ?",
+          "a": "Elles ne sont pas connues pour être toxiques et suivent la même règle : quelques morceaux lavés, sans assaisonnement. La roquette, plus poivrée, plaît d'ailleurs rarement aux chats."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Lettuce isn't toxic to cats: a few small pieces of washed leaf, with no dressing, are perfectly safe.",
+      "why": "Lettuce is almost entirely water, with a little fiber and very few calories. It contains nothing known to be toxic to cats, and some enjoy chewing it like grass. The real danger is what goes on top: dressings often contain garlic, onion or shallot, and mixed salads add croutons, cheese, bacon or onion.",
+      "amount": "A few small pieces of washed, plain leaf, once in a while. Darker leaves like romaine have a bit more fiber than iceberg, which is mostly water.",
+      "risks": [
+        "Diarrhea if your cat eats a lot",
+        "Dressings with garlic, onion or shallot, which are toxic",
+        "Pesticides or dirt on poorly washed leaves",
+        "Mixed salads with onion, croutons, cheese or bacon"
+      ],
+      "ifEaten": "A bit of plain lettuce is no problem: just watch your cat's stools for 24 to 48 hours and call your vet if diarrhea sets in. If the salad had a dressing with garlic, onion or shallot, call your vet right away.",
+      "alternatives": "If your cat chews lettuce for fun, a pot of cat grass offers the same thing in a more suitable form. For a fresh bite, a cube of cucumber works too.",
+      "faq": [
+        {
+          "q": "Why does my cat eat lettuce?",
+          "a": "Many cats like chewing tender leaves, much as they would grass. Nobody knows exactly why, but it's common behavior. If it comes with frequent vomiting, talk to your vet."
+        },
+        {
+          "q": "Can cats eat Caesar salad?",
+          "a": "No. Caesar dressing usually contains garlic, anchovies and parmesan, so it's garlicky, salty and fatty, and croutons add more salt. Offer a plain piece of romaine instead."
+        }
+      ]
+    }
+  },
+  {
+    "id": "poivron",
+    "verdict": "oui",
+    "related": [
+      "tomate",
+      "piment",
+      "aubergine",
+      "champignons"
+    ],
+    "fr": {
+      "short": "Oui. Le poivron n'est pas toxique pour le chat : quelques petits morceaux bien mûrs, lavés, sans graines ni queue, sont sans danger.",
+      "why": "Le poivron appartient aux solanacées, comme la tomate, mais son fruit ne contient pas de quantité préoccupante d'alcaloïdes, et contrairement au piment, il n'a pas de capsaïcine. Sa chair est surtout faite d'eau et de fibres, et le chat n'a pas besoin de sa vitamine C, qu'il fabrique lui-même. Sa peau est un peu coriace et se digère mal crue chez certains chats ; les feuilles et les tiges de la plante sont à garder hors de sa portée par précaution.",
+      "amount": "Un ou deux petits dés de poivron rouge, jaune ou orange, cru ou cuit, de temps en temps. Retire les graines et la queue, et pas de poivron farci, mariné ou grillé à l'huile et à l'ail.",
+      "risks": [
+        "Selles molles ou diarrhée en cas d'excès",
+        "Peau crue coriace, parfois mal digérée",
+        "Confusion avec le piment, qui irrite la bouche et l'estomac",
+        "Poivrons farcis, marinés ou poêlés à l'ail ou à l'oignon"
+      ],
+      "ifEaten": "Un morceau de poivron ne lui fera pas de mal. S'il en a mangé beaucoup, surveille ses selles pendant 24 à 48 h et appelle ton vétérinaire si les troubles persistent. Si c'était un plat préparé avec de l'ail ou de l'oignon, appelle-le directement.",
+      "alternatives": "Le concombre et la courgette sont des options encore plus douces. Et si ton chat cherche surtout à croquer, un bout de poulet cuit lui conviendra mieux.",
+      "faq": [
+        {
+          "q": "Poivron vert, rouge ou jaune : lequel choisir ?",
+          "a": "Les trois sont sans danger. Le rouge, le jaune et l'orange sont plus mûrs, plus doux et plus faciles à digérer que le vert, qui est cueilli avant maturité."
+        },
+        {
+          "q": "Et le piment ?",
+          "a": "Non. Le piment contient de la capsaïcine, qui brûle la bouche et irrite l'estomac et l'intestin du chat. Garde-le, ainsi que les plats épicés, hors de sa portée."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Bell peppers aren't toxic to cats: a few small pieces of ripe, washed pepper, without seeds or stem, are safe.",
+      "why": "Bell peppers belong to the nightshade family, like tomatoes, but the fruit contains no worrying level of alkaloids, and unlike chili peppers, it has no capsaicin. The flesh is mostly water and fiber, and cats don't need its vitamin C, since they make their own. The skin is a bit tough and some cats digest it poorly raw; keep the plant's leaves and stems out of reach as a precaution.",
+      "amount": "One or two small cubes of red, yellow or orange pepper, raw or cooked, once in a while. Remove the seeds and stem, and skip stuffed, pickled or roasted peppers made with oil and garlic.",
+      "risks": [
+        "Soft stools or diarrhea if your cat eats too much",
+        "Tough raw skin that some cats digest poorly",
+        "Mix-ups with hot peppers, which irritate the mouth and gut",
+        "Stuffed or sauteed peppers made with garlic or onion"
+      ],
+      "ifEaten": "A piece of bell pepper won't hurt your cat. If it ate a lot, watch its stools for 24 to 48 hours and call your vet if the trouble continues. If it was a dish made with garlic or onion, call your vet right away.",
+      "alternatives": "Cucumber and zucchini are even milder options. And if your cat mainly wants something to chew, a bite of cooked chicken will suit it better.",
+      "faq": [
+        {
+          "q": "Can cats eat green bell peppers?",
+          "a": "Yes. Green peppers are simply picked before they ripen, so they're more bitter and a little harder to digest than red, yellow or orange ones, which are the better pick."
+        },
+        {
+          "q": "Can cats eat jalapenos or hot peppers?",
+          "a": "No. Hot peppers contain capsaicin, which burns the mouth and irritates a cat's stomach and gut. Keep them, and spicy dishes, out of reach."
+        }
+      ]
+    }
+  },
+  {
+    "id": "aubergine",
+    "verdict": "peu",
+    "related": [
+      "tomate",
+      "pomme-de-terre",
+      "poivron",
+      "courgette"
+    ],
+    "fr": {
+      "short": "Un peu. Comme la tomate, l'aubergine contient des alcaloïdes irritants, surtout crue ou pas mûre : au mieux une petite bouchée bien cuite et nature, rarement.",
+      "why": "L'aubergine est une solanacée, comme la tomate et la pomme de terre. La plante, ses feuilles, ses tiges et le fruit pas mûr contiennent des glycoalcaloïdes (solasonine, solamargine, de la même famille que la solanine) qui irritent le tube digestif et, à forte dose, peuvent agir sur le système nerveux. Le fruit mûr et cuit en contient peu, mais les données chez le chat sont rares : c'est pour ça qu'on reste prudent.",
+      "amount": "Si tu en donnes, une toute petite bouchée d'aubergine bien cuite et nature, de temps en temps, et jamais crue. Pas de ratatouille, de moussaka, de caviar d'aubergine ni d'aubergine frite, presque toujours préparés avec de l'ail, de l'oignon, beaucoup d'huile ou de sel.",
+      "risks": [
+        "Vomissements, diarrhée ou bave avec l'aubergine crue ou pas mûre",
+        "Abattement ou faiblesse si la plante ou les feuilles ont été mâchées",
+        "Ail et oignon dans le caviar d'aubergine, la moussaka, la ratatouille",
+        "Aubergine frite, gorgée d'huile, dure à digérer"
+      ],
+      "ifEaten": "Un petit morceau d'aubergine cuite n'est généralement pas grave. S'il a mangé de l'aubergine crue, des feuilles ou une grosse quantité, surveille-le 24 à 48 h et appelle ton vétérinaire s'il vomit, bave, semble abattu ou faible. Si c'était un plat préparé avec de l'ail ou de l'oignon, appelle-le directement.",
+      "alternatives": "La courgette, qu'on cuisine souvent avec elle, est une option bien plus simple : aucun alcaloïde, et elle se donne crue ou cuite. La citrouille cuite est aussi une bonne alternative.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger de l'aubergine crue ?",
+          "a": "Non. Crue, l'aubergine contient plus d'alcaloïdes et se digère mal. Si tu veux partager, seulement cuite et en toute petite quantité."
+        },
+        {
+          "q": "Mon chat a mangé du caviar d'aubergine, c'est grave ?",
+          "a": "Ça dépend de la recette : le caviar d'aubergine contient presque toujours de l'ail, parfois de l'oignon. Dans ce cas, appelle ton vétérinaire, même s'il n'a pas encore de symptômes."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Like tomatoes, eggplant contains irritating alkaloids, especially raw or unripe, so at most a small bite of plain, well-cooked eggplant, rarely.",
+      "why": "Eggplant is a nightshade, like tomatoes and potatoes. The plant, its leaves, stems and unripe fruit contain glycoalkaloids (solasonine and solamargine, relatives of solanine) that irritate the gut and, in large amounts, can affect the nervous system. Ripe, cooked fruit contains little, but there's not much data on cats, which is why caution makes sense.",
+      "amount": "If you share, keep it to a very small bite of plain, well-cooked eggplant now and then, and never raw. No eggplant parmesan, moussaka, baba ganoush or fried eggplant, which almost always come with garlic, onion, cheese, lots of oil or salt.",
+      "risks": [
+        "Vomiting, diarrhea or drooling from raw or unripe eggplant",
+        "Lethargy or weakness if the plant or leaves were chewed",
+        "Garlic and onion in baba ganoush, moussaka or ratatouille",
+        "Fried eggplant, soaked in oil and hard to digest"
+      ],
+      "ifEaten": "A small piece of cooked eggplant is usually not serious. If your cat ate raw eggplant, leaves or a large amount, watch it for 24 to 48 hours and call your vet if it vomits, drools, or seems lethargic or weak. If it was a dish made with garlic or onion, call your vet right away.",
+      "alternatives": "Zucchini, often cooked alongside it, is a much simpler option: no alkaloids, and fine raw or cooked. Cooked pumpkin is another good choice.",
+      "faq": [
+        {
+          "q": "Can cats eat raw eggplant?",
+          "a": "No. Raw eggplant contains more alkaloids and is hard to digest. If you want to share, only cooked and in a very small amount."
+        },
+        {
+          "q": "My cat ate baba ganoush, what should I do?",
+          "a": "Baba ganoush almost always contains garlic, so call your vet even if your cat seems fine. Garlic damages red blood cells, and signs can take a few days to show."
+        }
+      ]
+    }
+  },
+  {
+    "id": "champignons",
+    "verdict": "peu",
+    "related": [
+      "ail",
+      "oignon",
+      "aubergine",
+      "omelette"
+    ],
+    "fr": {
+      "short": "Un peu. Les champignons de Paris du commerce, cuits et nature, passent en petite quantité, mais les champignons sauvages peuvent être mortels : jamais.",
+      "why": "Les champignons cultivés vendus en magasin, comme le champignon de Paris, ne sont pas toxiques, mais ils n'ont pas d'intérêt pour un chat et se digèrent moins bien crus. Le vrai danger, ce sont les champignons sauvages : certaines espèces, comme les amanites, contiennent des toxines qui détruisent le foie ou les reins, et d'autres provoquent des troubles digestifs ou neurologiques. Même un connaisseur peut se tromper, et un chat qui joue dehors peut en mâchonner un sans qu'on le voie.",
+      "amount": "Un petit morceau de champignon de Paris cuit, sans beurre, sans ail, sans sel ni crème, de temps en temps. Les champignons poêlés à l'ail, à l'échalote ou en sauce à la crème sont à proscrire.",
+      "risks": [
+        "Champignons sauvages : atteinte du foie ou des reins, parfois mortelle",
+        "Vomissements, diarrhée, bave ou tremblements selon l'espèce",
+        "Champignons poêlés à l'ail ou à l'échalote",
+        "Sauces à la crème, grasses et salées",
+        "Troubles digestifs avec des champignons crus"
+      ],
+      "ifEaten": "S'il a mangé un petit morceau de champignon de Paris cuit et nature, surveille-le simplement 24 à 48 h. S'il a mâchonné un champignon sauvage, du jardin ou d'une balade, appelle ton vétérinaire ou un centre antipoison vétérinaire immédiatement, sans attendre les symptômes qui peuvent apparaître des heures plus tard, et ne le fais pas vomir toi-même. Si possible, garde le champignon ou prends-le en photo pour l'identifier.",
+      "alternatives": "Pour lui faire plaisir, un morceau de poulet ou d'œuf cuit nature est bien plus adapté. Côté légumes, la courgette ou les haricots verts cuits ne présentent aucun risque de confusion.",
+      "faq": [
+        {
+          "q": "Mon chat a mangé un champignon du jardin, que faire ?",
+          "a": "Appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, même s'il va bien. Garde le champignon ou une photo pour aider à l'identifier, et ne le fais pas vomir toi-même."
+        },
+        {
+          "q": "Et les champignons de Paris crus ?",
+          "a": "Ils ne sont pas toxiques, mais ils se digèrent moins bien. Cuits et nature, c'est préférable."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Store-bought button mushrooms, cooked and plain, are fine in small amounts, but wild mushrooms can be deadly, so never those.",
+      "why": "Cultivated mushrooms sold in stores, like button mushrooms, aren't toxic, but they offer a cat nothing and are harder to digest raw. The real danger is wild mushrooms: some species, such as Amanita mushrooms, contain toxins that destroy the liver or kidneys, and others cause digestive or neurological problems. Even experienced foragers make mistakes, and a cat playing outside can chew one without anyone noticing.",
+      "amount": "A small piece of cooked button mushroom, with no butter, garlic, salt or cream, once in a while. Mushrooms sauteed with garlic or in a cream sauce are off the table.",
+      "risks": [
+        "Wild mushrooms: liver or kidney damage, sometimes fatal",
+        "Vomiting, diarrhea, drooling or tremors, depending on species",
+        "Mushrooms sauteed with garlic or shallots",
+        "Cream sauces, which are fatty and salty",
+        "Stomach upset from raw mushrooms"
+      ],
+      "ifEaten": "If your cat ate a small piece of plain cooked button mushroom, just watch it for 24 to 48 hours. If it chewed a wild mushroom from the yard or a walk, call your vet or an animal poison control center right away, without waiting for symptoms, which can take hours to appear, and don't make your cat vomit yourself. If you can, keep the mushroom or take a photo to help identify it.",
+      "alternatives": "As a treat, a bite of plain cooked chicken or egg suits a cat far better. For veggies, zucchini or cooked green beans carry no risk of a mix-up.",
+      "faq": [
+        {
+          "q": "My cat ate a wild mushroom, what should I do?",
+          "a": "Call your vet or an animal poison control center right away, even if your cat seems fine. Keep the mushroom or a photo to help identify it, and don't try to make your cat vomit."
+        },
+        {
+          "q": "Can cats eat portobello or cremini mushrooms?",
+          "a": "They're the same species as button mushrooms, just more mature, so the same rule applies: a small cooked, plain piece is fine now and then."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mais",
+    "verdict": "peu",
+    "related": [
+      "petits-pois",
+      "popcorn",
+      "riz",
+      "pomme-de-terre"
+    ],
+    "fr": {
+      "short": "Un peu. Quelques grains de maïs cuits et nature sont sans danger, mais jamais l'épi : un morceau avalé peut boucher l'intestin de ton chat.",
+      "why": "Les grains de maïs sont surtout de l'amidon, avec un peu de protéines végétales et de fibres. On en trouve dans certaines croquettes, mais un chat n'en a pas besoin : son corps est fait pour tirer son énergie des protéines et des graisses animales. L'enveloppe du grain se digère mal, et l'épi, lui, est un vrai danger : rongé et avalé, il ne se digère pas et peut provoquer une occlusion intestinale.",
+      "amount": "Quelques grains cuits et nature, de temps en temps. Rince le maïs en boîte, souvent salé ou sucré, évite le maïs au beurre, et ne laisse jamais un épi rongé à sa portée, même dans la poubelle.",
+      "risks": [
+        "Occlusion intestinale si un morceau d'épi est avalé",
+        "Vomissements répétés, ventre douloureux, perte d'appétit",
+        "Selles molles ou gaz si la portion est trop grosse",
+        "Pop-corn salé, sucré ou au beurre, et grains non éclatés"
+      ],
+      "ifEaten": "Quelques grains de maïs ne posent pas de problème. S'il a avalé un morceau d'épi, appelle ton vétérinaire sans attendre, même s'il semble aller bien : une occlusion peut se déclarer dans les heures ou les jours qui suivent. Surveille aussi les vomissements, l'absence de selles et la perte d'appétit.",
+      "alternatives": "Les petits pois et les haricots verts cuits sont plus simples à donner. Et devant un film, une friandise pour chat remplace très bien le pop-corn.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du pop-corn ?",
+          "a": "Quelques flocons de pop-corn nature, sans sel ni beurre, ne sont pas toxiques. Mais les grains non éclatés peuvent abîmer une dent ou rester coincés, et le pop-corn du cinéma est trop salé ou sucré : mieux vaut s'en passer."
+        },
+        {
+          "q": "Pourquoi y a-t-il du maïs dans les croquettes ?",
+          "a": "Le maïs sert de source d'énergie et de liant dans certaines recettes. Dans un aliment complet bien formulé, ce n'est pas un problème, mais ça ne veut pas dire qu'il faut en ajouter dans sa gamelle."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A few kernels of plain cooked corn are safe, but never the cob: a swallowed piece can block your cat's intestines.",
+      "why": "Corn kernels are mostly starch, with a little plant protein and fiber. You'll find corn in some cat foods, but cats don't need it: their bodies are built to run on animal protein and fat. The kernel's outer skin is poorly digested, and the cob is a real hazard: chewed and swallowed, it doesn't break down and can cause an intestinal blockage.",
+      "amount": "A few plain cooked kernels, once in a while. Rinse canned corn, which is often salted or sweetened, skip buttered corn, and never leave a chewed cob within reach, even in the trash.",
+      "risks": [
+        "Intestinal blockage if a piece of cob is swallowed",
+        "Repeated vomiting, painful belly, loss of appetite",
+        "Soft stools or gas if the portion is too big",
+        "Salty, sweet or buttered popcorn, and unpopped kernels"
+      ],
+      "ifEaten": "A few kernels of corn are no problem. If your cat swallowed a piece of cob, call your vet right away, even if it seems fine: a blockage can develop over the following hours or days. Also watch for vomiting, no stools and loss of appetite.",
+      "alternatives": "Cooked peas and green beans are easier to share. And for movie night, a cat treat makes a much better stand-in for popcorn.",
+      "faq": [
+        {
+          "q": "Can cats eat popcorn?",
+          "a": "A few pieces of plain, air-popped popcorn with no salt or butter aren't toxic. But unpopped kernels can damage teeth or get stuck, and movie-theater popcorn is far too salty or sweet, so it's best skipped."
+        },
+        {
+          "q": "Can cats eat corn on the cob?",
+          "a": "Not the cob itself. Cats can chew off chunks that their gut can't digest, which can cause a blockage needing surgery. Cut a few kernels off for them instead."
+        }
+      ]
+    }
+  },
+  {
+    "id": "citrouille",
+    "verdict": "oui",
+    "related": [
+      "patate-douce",
+      "courgette",
+      "carotte",
+      "haricots-verts"
+    ],
+    "fr": {
+      "short": "Oui. Cuite et nature, la citrouille est sans danger pour le chat : ses fibres aident le transit, et une cuillère à café suffit.",
+      "why": "La citrouille, comme le potiron et la courge butternut, apporte des fibres solubles qui retiennent l'eau dans l'intestin. Elles peuvent aider à ramollir des selles trop dures ou à donner de la tenue à des selles trop molles, et les vétérinaires la conseillent parfois en cas de petits troubles du transit. Elle est peu calorique mais n'apporte pas de protéines animales : c'est un complément, pas un repas.",
+      "amount": "Une cuillère à café de citrouille cuite à l'eau ou à la vapeur, écrasée et nature, mélangée à sa pâtée, quelques fois par semaine au plus. La purée de citrouille 100 % nature en conserve convient aussi ; jamais de garniture pour tarte, sucrée et épicée.",
+      "risks": [
+        "Diarrhée si la portion est trop grosse",
+        "Préparations sucrées et épicées (tarte, garniture, boissons)",
+        "Citrouille crue, dure et moins digeste",
+        "Graines et peau, difficiles à digérer",
+        "Constipation qui dure et cache un autre problème"
+      ],
+      "ifEaten": "Un peu de citrouille ne pose aucun problème. S'il en a mangé beaucoup, il peut avoir des selles molles : surveille-le 24 à 48 h. Et si tu lui en donnes pour un souci de transit qui dure plus de deux jours, ou s'il force au bac sans résultat, consulte ton vétérinaire.",
+      "alternatives": "La patate douce cuite et la courgette sont d'autres légumes doux. Pour un problème de transit qui revient souvent, ton vétérinaire peut conseiller un aliment riche en fibres ou un complément adapté.",
+      "faq": [
+        {
+          "q": "La citrouille aide-t-elle contre la constipation du chat ?",
+          "a": "Elle peut aider un chat légèrement constipé grâce à ses fibres, à condition qu'il boive bien. S'il n'a pas fait de selles depuis plus de 48 h ou qu'il pousse au bac, va chez le vétérinaire : un mâle qui force peut aussi avoir un blocage urinaire, une urgence."
+        },
+        {
+          "q": "Et la soupe de potiron ?",
+          "a": "Non. La soupe de potiron contient souvent de l'oignon, de la crème, du bouillon salé et parfois de l'ail. Garde une cuillère de potiron cuit nature pour lui avant d'assaisonner."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Cooked and plain, pumpkin is safe for cats: its fiber helps digestion, and a teaspoon is enough.",
+      "why": "Pumpkin, like butternut and other winter squash, provides soluble fiber that holds water in the gut. It can help soften stools that are too hard or firm up stools that are too loose, which is why vets sometimes suggest it for mild digestive trouble. It's low in calories but has no animal protein, so it's a supplement, not a meal.",
+      "amount": "A teaspoon of steamed or boiled, mashed, plain pumpkin mixed into wet food, a few times a week at most. Canned 100% pure pumpkin puree works too; never pumpkin pie filling, which is sweetened and spiced.",
+      "risks": [
+        "Diarrhea if the portion is too big",
+        "Sweet, spiced treats like pie, filling or pumpkin spice drinks",
+        "Raw pumpkin, which is hard and less digestible",
+        "Seeds and rind, which are hard to digest",
+        "Lasting constipation that hides another problem"
+      ],
+      "ifEaten": "A bit of pumpkin is no problem. A larger amount may cause soft stools, so watch your cat for 24 to 48 hours. And if you're using pumpkin for a digestive issue that lasts more than two days, or your cat strains in the litter box without result, see your vet.",
+      "alternatives": "Cooked sweet potato and zucchini are other gentle veggies. For digestive trouble that keeps coming back, your vet can recommend a high-fiber diet or a suitable supplement.",
+      "faq": [
+        {
+          "q": "Is pumpkin good for constipated cats?",
+          "a": "It can help a mildly constipated cat thanks to its fiber, as long as the cat drinks enough. If your cat hasn't passed stool in over 48 hours or is straining, see your vet: a male cat straining may have a urinary blockage, which is an emergency."
+        },
+        {
+          "q": "Can cats eat canned pumpkin?",
+          "a": "Yes, if it's 100% pure pumpkin puree with nothing added. Avoid pumpkin pie filling, which contains sugar and spices like nutmeg."
+        }
+      ]
+    }
+  },
+  {
+    "id": "patate-douce",
+    "verdict": "oui",
+    "related": [
+      "citrouille",
+      "pomme-de-terre",
+      "carotte",
+      "courgette"
+    ],
+    "fr": {
+      "short": "Oui. La patate douce est sans danger pour le chat si elle est bien cuite, nature et donnée en petite quantité, jamais crue.",
+      "why": "Contrairement à la pomme de terre, la patate douce n'est pas une solanacée : elle ne contient pas de solanine. Elle apporte des fibres, mais surtout beaucoup d'amidon et de sucres, dont un carnivore n'a pas besoin. Crue, elle est dure, difficile à mâcher et peut provoquer des troubles digestifs ; cuite, elle devient tendre et se digère mieux.",
+      "amount": "Une cuillère à café de patate douce cuite à l'eau, à la vapeur ou au four, épluchée et écrasée, de temps en temps. Sans beurre, sans sucre, sans sel, et pas de frites de patate douce.",
+      "risks": [
+        "Prise de poids si elle est donnée souvent : c'est riche en amidon",
+        "Morceaux crus durs, difficiles à digérer",
+        "Diarrhée ou gaz si la portion est trop grosse",
+        "Purées au beurre, gratins ou frites de patate douce"
+      ],
+      "ifEaten": "Un peu de patate douce ne lui fera pas de mal. S'il en a mangé crue ou en grande quantité, surveille-le 24 à 48 h et appelle ton vétérinaire en cas de vomissements, de diarrhée qui dure ou de perte d'appétit.",
+      "alternatives": "La citrouille cuite apporte des fibres avec moins de calories. Pour un chat diabétique ou en surpoids, mieux vaut éviter les légumes riches en amidon.",
+      "faq": [
+        {
+          "q": "Patate douce ou pomme de terre, laquelle est la plus sûre ?",
+          "a": "La patate douce, car elle ne contient pas de solanine. Mais les deux doivent être cuites, nature et données en petite quantité."
+        },
+        {
+          "q": "Mon chat peut-il manger de la patate douce crue ?",
+          "a": "Non. Crue, elle est dure, difficile à digérer et peut lui donner mal au ventre. Toujours bien cuite."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Sweet potato is safe for cats when it's well cooked, plain and given in small amounts, never raw.",
+      "why": "Unlike regular potatoes, sweet potatoes aren't nightshades, so they contain no solanine. They provide fiber, but mostly starch and sugars, which a carnivore doesn't need. Raw, they're hard, tough to chew and can upset the stomach; cooked, they turn soft and are easier to digest.",
+      "amount": "A teaspoon of boiled, steamed or baked sweet potato, peeled and mashed, once in a while. No butter, sugar or salt, and no sweet potato fries.",
+      "risks": [
+        "Weight gain if given often, since it's starchy",
+        "Hard raw pieces that are difficult to digest",
+        "Diarrhea or gas if the portion is too big",
+        "Buttery mash, fries, or casseroles with sugar and marshmallows"
+      ],
+      "ifEaten": "A bit of sweet potato won't hurt your cat. If it ate some raw or a large amount, watch it for 24 to 48 hours and call your vet if it vomits, has diarrhea that won't stop or loses its appetite.",
+      "alternatives": "Cooked pumpkin offers fiber with fewer calories. For a diabetic or overweight cat, it's best to skip starchy veggies.",
+      "faq": [
+        {
+          "q": "Sweet potato or regular potato: which is safer for cats?",
+          "a": "Sweet potato, since it contains no solanine. Both should still be cooked, plain and given in small amounts."
+        },
+        {
+          "q": "Can cats eat sweet potato casserole?",
+          "a": "No. It's usually made with butter, brown sugar and marshmallows, sometimes pecans, which is far too rich and sugary for a cat. Set aside a spoonful of plain cooked sweet potato instead."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pomme-de-terre",
+    "verdict": "peu",
+    "related": [
+      "patate-douce",
+      "puree",
+      "frites",
+      "tomate"
+    ],
+    "fr": {
+      "short": "Un peu. Cuite et nature, la pomme de terre passe en petite quantité, mais crue, verte ou germée, jamais : elle contient de la solanine, toxique pour le chat.",
+      "why": "La pomme de terre est une solanacée. La solanine se concentre dans la peau, les parties vertes, les germes et les tubercules crus ou mal conservés ; elle irrite le tube digestif et, à forte dose, peut agir sur le système nerveux. La cuisson ne la détruit pas complètement, d'où l'importance d'éplucher et de retirer tout ce qui est vert. Une fois cuite, la chair est surtout de l'amidon, qui n'apporte rien d'utile à un carnivore.",
+      "amount": "Une cuillère à café de pomme de terre épluchée, bien cuite à l'eau ou à la vapeur et écrasée, de temps en temps. Sans beurre, sans lait, sans sel : pas de purée assaisonnée, de frites, de chips ni de gratin.",
+      "risks": [
+        "Pomme de terre crue, verte ou germée : solanine toxique",
+        "Vomissements, diarrhée, bave, abattement",
+        "Faiblesse ou troubles nerveux après une grosse quantité crue",
+        "Frites, chips et gratins : trop gras et trop salés",
+        "Prise de poids : c'est surtout de l'amidon"
+      ],
+      "ifEaten": "Un peu de pomme de terre cuite nature n'est pas un problème. S'il a mangé de la pomme de terre crue, de la peau verte ou des germes, surveille-le 24 à 48 h et appelle ton vétérinaire s'il vomit, bave, a la diarrhée ou semble faible. Appelle-le directement si la quantité est importante.",
+      "alternatives": "La patate douce cuite ne contient pas de solanine, et la citrouille cuite apporte des fibres avec peu de calories : deux options plus simples.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger de la purée ?",
+          "a": "Seulement une petite cuillère de purée sans beurre, sans lait et sans sel. La purée maison classique contient du lait et du beurre qui peuvent lui donner la diarrhée, et parfois de la muscade ou de l'ail."
+        },
+        {
+          "q": "Mon chat a mangé une frite, c'est grave ?",
+          "a": "Une frite n'est pas grave, mais c'est gras et salé : n'en fais pas une habitude. Surveille simplement qu'il n'ait pas de vomissements ni de diarrhée."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Cooked and plain, potato is fine in small amounts, but never raw, green or sprouted: it contains solanine, which is toxic to cats.",
+      "why": "Potatoes are nightshades. Solanine concentrates in the skin, green patches, sprouts and in raw or poorly stored potatoes; it irritates the gut and, in large amounts, can affect the nervous system. Cooking doesn't fully destroy it, which is why peeling and cutting away anything green matters. Once cooked, the flesh is mostly starch, which does nothing useful for a carnivore.",
+      "amount": "A teaspoon of peeled potato, well boiled or steamed and mashed, once in a while. No butter, milk or salt: no seasoned mashed potatoes, fries, chips or au gratin.",
+      "risks": [
+        "Raw, green or sprouted potato: toxic solanine",
+        "Vomiting, diarrhea, drooling, lethargy",
+        "Weakness or neurological signs after a large amount of raw potato",
+        "Fries, chips and gratins: too fatty and salty",
+        "Weight gain, since it's mostly starch"
+      ],
+      "ifEaten": "A little plain cooked potato is no problem. If your cat ate raw potato, green skin or sprouts, watch it for 24 to 48 hours and call your vet if it vomits, drools, has diarrhea or seems weak. Call right away if it ate a large amount.",
+      "alternatives": "Cooked sweet potato has no solanine, and cooked pumpkin brings fiber with few calories: two simpler options.",
+      "faq": [
+        {
+          "q": "Can cats eat mashed potatoes?",
+          "a": "Only a small spoonful made without butter, milk or salt. Classic mashed potatoes contain dairy and butter that can cause diarrhea, and sometimes garlic."
+        },
+        {
+          "q": "Can cats eat french fries?",
+          "a": "One fry isn't dangerous, but fries are fatty and salty, so don't make it a habit. Just watch for vomiting or diarrhea afterward."
+        }
+      ]
+    }
+  },
+  {
+    "id": "betterave",
+    "verdict": "peu",
+    "related": [
+      "epinards",
+      "carotte",
+      "patate-douce",
+      "celeri"
+    ],
+    "fr": {
+      "short": "Un peu. La betterave n'est pas toxique pour le chat, mais elle est sucrée et contient des oxalates : un petit morceau cuit et nature, de temps en temps seulement.",
+      "why": "La betterave apporte des fibres, mais aussi plus de sucres que la plupart des légumes, et des oxalates, encore plus abondants dans les fanes. Chez un chat prédisposé aux calculs d'oxalate de calcium ou atteint d'une maladie rénale, mieux vaut l'éviter. Son pigment rouge, la bétanine, peut colorer l'urine et les selles en rose ou en rouge : c'est sans gravité, mais ça peut faire peur et se confondre avec du sang.",
+      "amount": "Un ou deux petits dés de betterave cuite, nature et épluchée, de temps en temps, chez un chat sans problème urinaire ni rénal. Pas de betterave en salade (vinaigrette à l'échalote), marinée au vinaigre ou en chips.",
+      "risks": [
+        "Calculs d'oxalate de calcium chez les chats prédisposés",
+        "Urine ou selles rouges qui peuvent masquer du sang",
+        "Diarrhée si la portion est trop grosse",
+        "Betterave en vinaigrette à l'échalote ou marinée au vinaigre",
+        "Sucres à éviter chez un chat diabétique"
+      ],
+      "ifEaten": "Un petit morceau de betterave n'est pas grave, et une urine ou des selles rosées dans les 24 à 48 h sont normales. Appelle ton vétérinaire si la couleur persiste au-delà, s'il a du mal à uriner ou s'il va souvent au bac sans résultat. Si la betterave était assaisonnée à l'échalote ou à l'oignon, appelle-le directement.",
+      "alternatives": "La citrouille et la courgette cuites sont des légumes bien plus pauvres en oxalates. Pour un chat sujet aux calculs, demande à ton vétérinaire une alimentation urinaire adaptée.",
+      "faq": [
+        {
+          "q": "Mon chat a fait pipi rouge après avoir mangé de la betterave, c'est normal ?",
+          "a": "C'est possible : le pigment de la betterave peut colorer l'urine. Mais du sang dans les urines est aussi un signe de cystite ou de calculs, donc si tu as un doute, ou si ça dure, appelle ton vétérinaire."
+        },
+        {
+          "q": "Et les feuilles de betterave ?",
+          "a": "Mieux vaut les éviter : les fanes sont encore plus riches en oxalates que la racine."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. Beets aren't toxic to cats, but they're sugary and contain oxalates, so only a small piece, cooked and plain, once in a while.",
+      "why": "Beets provide fiber, but also more sugar than most vegetables, and oxalates, which are even more concentrated in the greens. For a cat prone to calcium oxalate stones or living with kidney disease, it's best to avoid them. Their red pigment, betanin, can turn urine and stools pink or red: harmless, but alarming, and easy to mistake for blood.",
+      "amount": "One or two small cubes of cooked, plain, peeled beet once in a while, and only for a cat with no urinary or kidney problems. No pickled beets, beet salad with dressing or beet chips.",
+      "risks": [
+        "Calcium oxalate stones in cats prone to them",
+        "Red urine or stools that can hide real blood",
+        "Diarrhea if the portion is too big",
+        "Pickled beets or salads with vinegar, salt or shallots",
+        "Sugar that diabetic cats should avoid"
+      ],
+      "ifEaten": "A small piece of beet isn't serious, and pinkish urine or stools over the next 24 to 48 hours are normal. Call your vet if the color lasts longer, if your cat strains to pee, or keeps going to the litter box with little result. If the beets were dressed with shallot or onion, call your vet right away.",
+      "alternatives": "Cooked pumpkin and zucchini are much lower in oxalates. For a cat prone to stones, ask your vet about a suitable urinary diet.",
+      "faq": [
+        {
+          "q": "My cat's pee is red after eating beets, is that normal?",
+          "a": "It can be: beet pigment can tint urine. But blood in the urine is also a sign of cystitis or stones, so if you're unsure or it lasts, call your vet."
+        },
+        {
+          "q": "Can cats eat beet greens?",
+          "a": "Best to skip them: the greens are even richer in oxalates than the root."
+        }
+      ]
+    }
+  },
+  {
+    "id": "celeri",
+    "verdict": "oui",
+    "related": [
+      "concombre",
+      "salade",
+      "asperge",
+      "persil"
+    ],
+    "fr": {
+      "short": "Oui. Le céleri n'est pas toxique pour le chat : quelques petits morceaux de branche ou de céleri-rave cuit, nature et coupés fin, sont sans danger.",
+      "why": "Le céleri branche est presque entièrement fait d'eau et de fibres longues et filandreuses, que le chat mâche mal. Ces fils peuvent gêner la déglutition : il faut donc le couper très petit, voire le cuire. Le céleri-rave, plus dense et plus riche en amidon, se donne cuit. Dans les deux cas, il n'apporte rien d'indispensable à un chat bien nourri.",
+      "amount": "Quelques rondelles très fines de céleri branche, sans les fils, ou une cuillère à café de céleri-rave cuit et écrasé, de temps en temps. Pas de céleri rémoulade, de soupe ni de sel de céleri.",
+      "risks": [
+        "Fils longs qui peuvent gêner la déglutition",
+        "Morceaux trop gros : risque d'étouffement",
+        "Selles molles en cas d'excès",
+        "Céleri rémoulade, soupes et bouillons avec oignon et sel",
+        "Sel de céleri, très salé"
+      ],
+      "ifEaten": "Un peu de céleri ne pose aucun problème. S'il a avalé un long morceau filandreux, surveille-le 24 à 48 h et appelle ton vétérinaire s'il tousse, a des haut-le-cœur ou vomit à répétition. Si c'était une soupe ou un bouillon avec de l'oignon, appelle-le directement.",
+      "alternatives": "Le concombre et la courgette offrent la même fraîcheur, sans les fils. S'il aime mâchonner des tiges vertes, propose-lui de l'herbe à chat.",
+      "faq": [
+        {
+          "q": "Et le céleri-rave ?",
+          "a": "Oui, cuit et écrasé, en petite quantité. Cru, il est dur et difficile à digérer, et le céleri rémoulade, préparé avec de la mayonnaise, est à éviter."
+        },
+        {
+          "q": "Mon chat peut-il manger les feuilles de céleri ?",
+          "a": "Elles ne sont pas connues pour être toxiques en petite quantité, mais elles sont amères et fibreuses. Quelques petits morceaux lavés, rarement, suffisent."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Celery isn't toxic to cats: a few small pieces of stalk, or of cooked celery root, served plain and finely cut, are safe.",
+      "why": "Celery stalks are almost entirely water plus long, stringy fibers that cats don't chew well. Those strings can make swallowing awkward, so it needs to be cut very small or cooked. Celery root (celeriac) is denser and starchier and should be cooked. Either way, it offers nothing essential to a well-fed cat.",
+      "amount": "A few very thin slices of stalk with the strings removed, or a teaspoon of cooked, mashed celery root, once in a while. No celery salt, creamy celery dishes or soups.",
+      "risks": [
+        "Long strings that can make swallowing difficult",
+        "Pieces that are too big, a choking risk",
+        "Soft stools if your cat eats too much",
+        "Soups and broths made with onion and salt",
+        "Celery salt, which is very salty"
+      ],
+      "ifEaten": "A bit of celery is no problem. If your cat swallowed a long, stringy piece, watch it for 24 to 48 hours and call your vet if it coughs, gags or vomits repeatedly. If it was soup or broth with onion, call your vet right away.",
+      "alternatives": "Cucumber and zucchini offer the same crunch without the strings. If your cat likes chewing green stems, offer cat grass.",
+      "faq": [
+        {
+          "q": "Can cats eat celery leaves?",
+          "a": "They aren't known to be toxic in small amounts, but they're bitter and fibrous. A few small, washed pieces now and then are plenty."
+        },
+        {
+          "q": "Can cats eat celery with peanut butter?",
+          "a": "Skip the peanut butter: it's very fatty, often salted, and some brands contain xylitol, which is dangerous for pets. A thin slice of plain celery is the safer way to share."
+        }
+      ]
+    }
+  },
+  {
+    "id": "asperge",
+    "verdict": "oui",
+    "related": [
+      "brocoli",
+      "haricots-verts",
+      "celeri",
+      "champignons"
+    ],
+    "fr": {
+      "short": "Oui. Les asperges ne sont pas toxiques pour le chat : une pointe tendre, cuite à l'eau ou à la vapeur, nature et coupée en morceaux, est sans danger.",
+      "why": "L'asperge apporte des fibres et beaucoup d'eau, mais rien dont un chat a vraiment besoin. Sa tige devient vite dure et fibreuse en descendant, d'où l'intérêt de ne garder que la pointe, bien cuite. Attention à ne pas la confondre avec l'asparagus, la plante décorative d'intérieur : ses baies peuvent provoquer vomissements et diarrhée, et le contact répété avec la plante peut irriter la peau.",
+      "amount": "Une ou deux pointes d'asperge cuites, coupées en petites rondelles, de temps en temps. Sans beurre, sans sel, et sans sauce hollandaise ou mousseline.",
+      "risks": [
+        "Tiges dures et fibreuses : risque d'étouffement",
+        "Selles molles ou gaz en cas d'excès",
+        "Sauces hollandaise ou au beurre, trop grasses",
+        "Confusion avec l'asparagus décoratif, toxique"
+      ],
+      "ifEaten": "Un morceau d'asperge cuite ne pose aucun problème. S'il a avalé un gros bout de tige dure, surveille-le 24 à 48 h et appelle ton vétérinaire en cas de haut-le-cœur, de vomissements répétés ou de perte d'appétit. S'il a mâchonné les baies d'un asparagus décoratif, appelle-le aussi.",
+      "alternatives": "Les haricots verts et le brocoli cuits sont tout aussi simples à donner. Et pour une plante d'intérieur à mâchonner sans risque, l'herbe à chat reste la meilleure option.",
+      "faq": [
+        {
+          "q": "L'asparagus (plante d'intérieur) est-il toxique pour le chat ?",
+          "a": "Oui. L'asparagus décoratif, souvent appelé fougère asperge, peut provoquer vomissements et diarrhée si ton chat en mange les baies, et des irritations de la peau au contact. Mets-le hors de sa portée."
+        },
+        {
+          "q": "Mon chat peut-il manger des asperges crues ?",
+          "a": "Ce n'est pas toxique, mais une asperge crue est dure et filandreuse. Cuite et coupée petite, elle est bien plus sûre."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Asparagus isn't toxic to cats: a tender tip, boiled or steamed, plain and cut into pieces, is safe.",
+      "why": "Asparagus provides fiber and lots of water, but nothing a cat really needs. The stalk gets tough and fibrous toward the bottom, so stick to the well-cooked tip. Don't confuse it with asparagus fern, a common houseplant: its berries can cause vomiting and diarrhea, and repeated contact with the plant can irritate the skin.",
+      "amount": "One or two cooked asparagus tips, sliced into small rounds, once in a while. No butter, salt or hollandaise.",
+      "risks": [
+        "Tough, fibrous stalks that can cause choking",
+        "Soft stools or gas if your cat eats too much",
+        "Hollandaise or butter sauces, which are too fatty",
+        "Mix-ups with asparagus fern, which is toxic"
+      ],
+      "ifEaten": "A piece of cooked asparagus is no problem. If your cat swallowed a big piece of tough stalk, watch it for 24 to 48 hours and call your vet if it gags, vomits repeatedly or loses its appetite. If it chewed the berries of an asparagus fern, call your vet too.",
+      "alternatives": "Cooked green beans and broccoli are just as easy to share. And for a houseplant your cat can safely chew, cat grass is the best option.",
+      "faq": [
+        {
+          "q": "Is asparagus fern toxic to cats?",
+          "a": "Yes. Asparagus fern can cause vomiting and diarrhea if a cat eats the berries, and skin irritation from contact. Keep it out of reach."
+        },
+        {
+          "q": "Can cats eat raw asparagus?",
+          "a": "It isn't toxic, but raw asparagus is hard and stringy. Cooked and cut small, it's much safer."
+        }
+      ]
+    }
+  },
+  {
+    "id": "oignon",
+    "verdict": "non",
+    "related": [
+      "ail",
+      "poireau",
+      "echalote",
+      "ciboulette"
+    ],
+    "fr": {
+      "short": "Non. L'oignon est toxique pour le chat, cru, cuit ou en poudre : il abîme ses globules rouges et peut provoquer une anémie grave.",
+      "why": "L'oignon, comme tous les alliums, contient des composés soufrés (dont le disulfure de propyle) qui oxydent l'hémoglobine des globules rouges. Ceux-ci se fragilisent, forment des corps de Heinz et sont détruits : c'est une anémie hémolytique. Le chat y est particulièrement sensible, plus que le chien, et ni la cuisson, ni le séchage, ni la mise en poudre ne font disparaître la toxicité. Les effets peuvent aussi s'additionner s'il en mange un peu, souvent.",
+      "amount": "Aucune quantité n'est sûre. Méfie-toi des sources cachées : sauces, soupes, bouillons, jus de viande, plats préparés, quiches, pizzas, et même certains petits pots pour bébé à la viande, qui contiennent souvent de l'oignon en poudre.",
+      "risks": [
+        "Anémie hémolytique (destruction des globules rouges)",
+        "Gencives pâles, faiblesse, fatigue, essoufflement",
+        "Urine foncée, rouge ou brune",
+        "Vomissements, diarrhée, perte d'appétit",
+        "Symptômes parfois décalés de plusieurs jours"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes : l'anémie peut n'apparaître que plusieurs jours après. Ne le fais pas vomir toi-même. Note ce qu'il a mangé, combien et à quelle heure, ça aidera le vétérinaire.",
+      "alternatives": "Un morceau de poulet ou de poisson cuit nature lui plaît tel quel, sans aucun assaisonnement. Si tu cuisines pour lui, réserve sa part avant d'ajouter l'oignon ou l'ail.",
+      "faq": [
+        {
+          "q": "Mon chat a mangé de la soupe à l'oignon, que faire ?",
+          "a": "Appelle ton vétérinaire tout de suite, même s'il semble aller bien. Une soupe à l'oignon est très concentrée, et les signes d'anémie peuvent mettre plusieurs jours à apparaître."
+        },
+        {
+          "q": "Et l'oignon cuit ou en poudre ?",
+          "a": "Tout aussi dangereux. La cuisson ne détruit pas les composés toxiques, et la poudre d'oignon est même plus concentrée que l'oignon frais."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Onion is toxic to cats, whether raw, cooked or powdered: it damages their red blood cells and can cause serious anemia.",
+      "why": "Onion, like all alliums, contains sulfur compounds (including propyl disulfide) that oxidize the hemoglobin in red blood cells. The cells weaken, form Heinz bodies and are destroyed, which is called hemolytic anemia. Cats are especially sensitive, more so than dogs, and cooking, drying or powdering doesn't remove the toxicity. The damage can also add up if a cat eats small amounts often.",
+      "amount": "No amount is safe. Watch for hidden sources: sauces, soups, broths, gravy, ready meals, quiche, pizza, and even some meat-based baby foods, which often contain onion powder.",
+      "risks": [
+        "Hemolytic anemia (destruction of red blood cells)",
+        "Pale gums, weakness, fatigue, rapid breathing",
+        "Dark, red or brown urine",
+        "Vomiting, diarrhea, loss of appetite",
+        "Symptoms that can be delayed by several days"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, without waiting for symptoms: anemia can take several days to appear. Don't make your cat vomit yourself. Note what it ate, how much and when, as that will help your vet.",
+      "alternatives": "A piece of plain cooked chicken or fish is a treat on its own, no seasoning needed. If you cook for your cat, set its portion aside before adding onion or garlic.",
+      "faq": [
+        {
+          "q": "Is onion powder bad for cats?",
+          "a": "Yes, and it's even more concentrated than fresh onion. Check labels on broths, seasoned meats and baby food before sharing anything."
+        },
+        {
+          "q": "Can cats eat gravy or broth made with onion?",
+          "a": "No. The toxic compounds pass into the liquid, so gravy, broth and soup made with onion are just as risky. If your cat had some, call your vet."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ail",
+    "verdict": "non",
+    "related": [
+      "oignon",
+      "poireau",
+      "echalote",
+      "ciboulette"
+    ],
+    "fr": {
+      "short": "Non. L'ail est toxique pour le chat, et même plus que l'oignon : cru, cuit ou en poudre, il attaque ses globules rouges et peut causer une anémie.",
+      "why": "L'ail appartient à la même famille que l'oignon, celle des alliums, mais ses composés soufrés sont plus concentrés : on le considère comme nettement plus toxique. Ces composés oxydent les globules rouges, qui forment des corps de Heinz et sont détruits par l'organisme : c'est une anémie hémolytique. Les signes apparaissent souvent avec un décalage d'un à plusieurs jours, et des petites doses répétées peuvent suffire.",
+      "amount": "Aucune quantité n'est sûre. L'ail se cache partout : sauces, marinades, pain à l'ail, beurre d'escargot, charcuterie, plats cuisinés, bouillons, et certains remèdes naturels présentés comme antipuces, à éviter.",
+      "risks": [
+        "Anémie hémolytique, parfois grave",
+        "Gencives pâles, faiblesse, respiration rapide",
+        "Urine foncée ou rougeâtre",
+        "Vomissements, diarrhée, douleurs abdominales",
+        "Signes qui apparaissent un à plusieurs jours après"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison vétérinaire immédiatement, même si ton chat semble aller bien : les effets sur le sang peuvent n'apparaître qu'après plusieurs jours. Ne le fais pas vomir toi-même. Précise s'il s'agissait d'ail frais, cuit ou en poudre, et la quantité approximative.",
+      "alternatives": "Pour lui faire plaisir, donne-lui un morceau de viande ou de poisson cuit sans aucun assaisonnement. Contre les puces, demande à ton vétérinaire un traitement adapté au chat.",
+      "faq": [
+        {
+          "q": "L'ail est-il efficace contre les puces du chat ?",
+          "a": "Non, et c'est dangereux. Rien ne montre que l'ail repousse les puces, alors que sa toxicité pour les globules rouges est bien connue. Utilise un antiparasitaire vétérinaire."
+        },
+        {
+          "q": "Mon chat a léché du pain à l'ail, que faire ?",
+          "a": "Appelle ton vétérinaire et décris-lui la quantité. Selon ce qu'il a avalé, il te dira s'il faut venir tout de suite ou le surveiller, avec parfois une prise de sang dans les jours qui suivent."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Garlic is toxic to cats, even more so than onion: raw, cooked or powdered, it attacks their red blood cells and can cause anemia.",
+      "why": "Garlic is in the same allium family as onion, but its sulfur compounds are more concentrated, so it's considered considerably more toxic. These compounds oxidize red blood cells, which form Heinz bodies and are destroyed by the body, causing hemolytic anemia. Signs often show up a day or several days later, and small repeated doses can be enough.",
+      "amount": "No amount is safe. Garlic hides everywhere: sauces, marinades, garlic bread, garlic butter, deli meats, ready meals, broths, and some so-called natural flea remedies, which you should avoid.",
+      "risks": [
+        "Hemolytic anemia, sometimes severe",
+        "Pale gums, weakness, rapid breathing",
+        "Dark or reddish urine",
+        "Vomiting, diarrhea, belly pain",
+        "Signs that appear one to several days later"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, even if your cat seems fine: the effects on the blood can take several days to appear. Don't make your cat vomit yourself. Tell them whether it was fresh, cooked or powdered garlic, and roughly how much.",
+      "alternatives": "To treat your cat, offer a bit of meat or fish cooked with no seasoning at all. For fleas, ask your vet for a cat-safe treatment.",
+      "faq": [
+        {
+          "q": "Is garlic good for fleas on cats?",
+          "a": "No, and it's dangerous. There's no good evidence that garlic repels fleas, while its toxicity to red blood cells is well established. Use a vet-approved flea treatment."
+        },
+        {
+          "q": "My cat licked garlic butter, what should I do?",
+          "a": "Call your vet and describe how much it ate. Depending on the amount, they'll tell you whether to come in now or monitor your cat, sometimes with a blood test over the next few days."
+        }
+      ]
+    }
+  },
+  {
+    "id": "poireau",
+    "verdict": "non",
+    "related": [
+      "oignon",
+      "ail",
+      "echalote",
+      "ciboulette"
+    ],
+    "fr": {
+      "short": "Non. Le poireau est un allium, comme l'oignon et l'ail : cru ou cuit, le blanc comme le vert, il est toxique pour les globules rouges du chat.",
+      "why": "Le poireau contient les mêmes types de composés soufrés que l'oignon et l'ail. Ils oxydent les globules rouges, qui se fragilisent et sont détruits : c'est une anémie hémolytique à corps de Heinz. Toutes les parties sont concernées, et la cuisson ne réduit pas la toxicité au point de le rendre sûr.",
+      "amount": "Aucune quantité n'est sûre. Attention aux sources cachées : soupes de légumes, potages, fondue de poireaux, quiches, tartes et bouillons, où le poireau est souvent mixé et invisible.",
+      "risks": [
+        "Anémie hémolytique (destruction des globules rouges)",
+        "Gencives pâles, faiblesse, fatigue",
+        "Urine foncée ou rougeâtre",
+        "Vomissements, diarrhée, perte d'appétit",
+        "Symptômes qui peuvent apparaître plusieurs jours après"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes : l'anémie peut n'apparaître que plusieurs jours après. Ne le fais pas vomir toi-même. Note ce qu'il a mangé, combien et quand.",
+      "alternatives": "Si tu prépares une soupe, mets de côté pour lui un morceau de courgette ou de carotte cuite avant d'ajouter le poireau.",
+      "faq": [
+        {
+          "q": "Mon chat a mangé de la soupe aux poireaux, que faire ?",
+          "a": "Appelle ton vétérinaire tout de suite, même s'il n'a pas de symptômes. Il te dira si une prise en charge immédiate ou une surveillance avec prise de sang est nécessaire, car l'anémie peut apparaître plusieurs jours après."
+        },
+        {
+          "q": "Le vert du poireau est-il moins dangereux ?",
+          "a": "Non. Le blanc et le vert contiennent tous les deux les composés toxiques. Garde les épluchures hors de sa portée, y compris dans la poubelle ou le compost."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Leeks are alliums, like onion and garlic: raw or cooked, white or green part, they're toxic to a cat's red blood cells.",
+      "why": "Leeks contain the same kinds of sulfur compounds as onion and garlic. These oxidize red blood cells, which weaken and are destroyed, causing Heinz body hemolytic anemia. Every part of the plant is involved, and cooking doesn't reduce the toxicity enough to make it safe.",
+      "amount": "No amount is safe. Watch for hidden sources: vegetable soups, potato leek soup, quiches, tarts and broths, where leek is often blended in and invisible.",
+      "risks": [
+        "Hemolytic anemia (destruction of red blood cells)",
+        "Pale gums, weakness, fatigue",
+        "Dark or reddish urine",
+        "Vomiting, diarrhea, loss of appetite",
+        "Symptoms that can appear several days later"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, without waiting for symptoms: anemia can take several days to show. Don't make your cat vomit yourself. Note what it ate, how much and when.",
+      "alternatives": "If you're making soup, set aside a piece of cooked zucchini or carrot for your cat before adding the leeks.",
+      "faq": [
+        {
+          "q": "My cat ate potato leek soup, what should I do?",
+          "a": "Call your vet right away, even if your cat shows no symptoms. They'll tell you whether it needs treatment now or monitoring with a blood test, since anemia can appear days later."
+        },
+        {
+          "q": "Are leek greens toxic to cats?",
+          "a": "Yes. Both the white and green parts contain the toxic compounds. Keep trimmings out of reach, including in the trash or compost."
+        }
+      ]
+    }
+  },
+  {
+    "id": "echalote",
+    "verdict": "non",
+    "related": [
+      "oignon",
+      "ail",
+      "poireau",
+      "ciboulette"
+    ],
+    "fr": {
+      "short": "Non. L'échalote est toxique pour le chat : c'est un allium, comme l'oignon et l'ail, et même en petite quantité elle peut abîmer ses globules rouges.",
+      "why": "L'échalote contient les mêmes types de composés soufrés que l'oignon et l'ail, qui oxydent l'hémoglobine. Les globules rouges endommagés forment des corps de Heinz et sont détruits, ce qui peut provoquer une anémie hémolytique. Crue, cuite, confite ou séchée, elle reste toxique, et comme on l'utilise finement hachée, elle passe facilement inaperçue dans un plat.",
+      "amount": "Aucune quantité n'est sûre. Elle se cache dans la vinaigrette, le beurre blanc, la béarnaise, les marinades, les sauces pour viande et les poêlées.",
+      "risks": [
+        "Anémie hémolytique (destruction des globules rouges)",
+        "Gencives pâles, faiblesse, essoufflement",
+        "Urine foncée ou rougeâtre",
+        "Vomissements, diarrhée, perte d'appétit",
+        "Symptômes parfois décalés de plusieurs jours"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, sans attendre les symptômes : l'anémie peut n'apparaître que plusieurs jours après. Ne le fais pas vomir toi-même. Note ce qu'il a mangé, combien et à quelle heure.",
+      "alternatives": "Si tu veux partager ton steak ou ton poisson, prélève sa part avant de mettre la sauce. Un morceau de viande cuite nature lui suffit largement.",
+      "faq": [
+        {
+          "q": "Mon chat a léché de la vinaigrette à l'échalote, c'est grave ?",
+          "a": "Quelques coups de langue contiennent sans doute peu d'échalote, mais on ne connaît pas de dose sûre. Appelle ton vétérinaire pour lui décrire la quantité : il te dira s'il faut consulter ou surveiller."
+        },
+        {
+          "q": "Et la sauce béarnaise ?",
+          "a": "Non. Elle contient de l'échalote, beaucoup de beurre et du jaune d'œuf : toxique et bien trop grasse pour un chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Shallots are toxic to cats: they're alliums, like onion and garlic, and even small amounts can damage red blood cells.",
+      "why": "Shallots contain the same kinds of sulfur compounds as onion and garlic, which oxidize hemoglobin. Damaged red blood cells form Heinz bodies and are destroyed, which can cause hemolytic anemia. Raw, cooked, caramelized or dried, they stay toxic, and because they're usually finely minced, they're easy to miss in a dish.",
+      "amount": "No amount is safe. Shallots hide in vinaigrettes, butter sauces, bearnaise, marinades, pan sauces for meat and stir-fries.",
+      "risks": [
+        "Hemolytic anemia (destruction of red blood cells)",
+        "Pale gums, weakness, rapid breathing",
+        "Dark or reddish urine",
+        "Vomiting, diarrhea, loss of appetite",
+        "Symptoms that can be delayed by several days"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, without waiting for symptoms: anemia can take several days to appear. Don't make your cat vomit yourself. Note what it ate, how much and when.",
+      "alternatives": "If you want to share your steak or fish, set your cat's portion aside before adding any sauce. A piece of plain cooked meat is plenty.",
+      "faq": [
+        {
+          "q": "My cat licked salad dressing with shallots, is it serious?",
+          "a": "A few licks probably contain little shallot, but no safe dose is known. Call your vet and describe the amount: they'll tell you whether to come in or keep watch."
+        },
+        {
+          "q": "Can cats eat steak with a shallot sauce?",
+          "a": "No. The sauce carries the toxic compounds, plus butter and salt. Give your cat a plain piece of cooked steak before any sauce goes on."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ciboulette",
+    "verdict": "non",
+    "related": [
+      "oignon",
+      "ail",
+      "poireau",
+      "herbe-a-chat"
+    ],
+    "fr": {
+      "short": "Non. La ciboulette est toxique pour le chat : de la famille de l'oignon et de l'ail, fraîche, cuite ou séchée, elle peut détruire ses globules rouges.",
+      "why": "La ciboulette est un allium, comme l'oignon, l'ail et le poireau. Ses composés soufrés oxydent les globules rouges du chat, qui forment des corps de Heinz et sont détruits : c'est une anémie hémolytique. On la croit inoffensive parce qu'elle est fine et qu'on en met peu, mais un chat qui grignote régulièrement un pot sur le balcon ou le rebord de la fenêtre peut en avaler assez pour s'intoxiquer.",
+      "amount": "Aucune quantité n'est sûre. On la trouve dans les fromages frais aux herbes, les omelettes, les sauces, les salades et les mélanges d'herbes séchées ; l'oignon vert et la cébette, très proches, sont tout aussi dangereux. Les pots de ciboulette doivent rester hors de sa portée.",
+      "risks": [
+        "Anémie hémolytique (destruction des globules rouges)",
+        "Gencives pâles, faiblesse, fatigue",
+        "Urine foncée ou rougeâtre",
+        "Vomissements, diarrhée, perte d'appétit",
+        "Symptômes qui peuvent apparaître plusieurs jours après"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou un centre antipoison vétérinaire tout de suite, même s'il n'en a mangé que quelques brins et qu'il semble aller bien : l'anémie peut apparaître plusieurs jours après. Ne le fais pas vomir toi-même. Note la quantité approximative et l'heure.",
+      "alternatives": "Si ton chat aime grignoter des plantes, offre-lui un pot d'herbe à chat (orge, blé ou avoine) ou de cataire, et place les aromatiques de la famille de l'oignon hors de sa portée.",
+      "faq": [
+        {
+          "q": "Mon chat a grignoté ma ciboulette, que faire ?",
+          "a": "Appelle ton vétérinaire, même s'il n'en a mangé que quelques brins et qu'il va bien. Il pourra te proposer une surveillance, voire une prise de sang dans les jours suivants, car l'anémie peut apparaître avec retard."
+        },
+        {
+          "q": "Quelles herbes aromatiques sont sans danger pour le chat ?",
+          "a": "L'herbe à chat, la cataire, le basilic, le thym et le romarin ne sont pas connus pour être toxiques en petite quantité. Évite toute la famille de l'oignon (ciboulette, ail, poireau, échalote, oignon vert) et demande à ton vétérinaire en cas de doute."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Chives are toxic to cats: part of the onion and garlic family, fresh, cooked or dried, they can destroy red blood cells.",
+      "why": "Chives are alliums, like onion, garlic and leeks. Their sulfur compounds oxidize a cat's red blood cells, which form Heinz bodies and are destroyed, causing hemolytic anemia. People assume chives are harmless because they're thin and used sparingly, but a cat that regularly nibbles a pot on the windowsill or balcony can eat enough to be poisoned.",
+      "amount": "No amount is safe. Chives turn up in herbed cream cheese, sour cream dips, omelets, sauces, salads and dried herb blends, and keep potted chives well out of reach.",
+      "risks": [
+        "Hemolytic anemia (destruction of red blood cells)",
+        "Pale gums, weakness, fatigue",
+        "Dark or reddish urine",
+        "Vomiting, diarrhea, loss of appetite",
+        "Symptoms that can appear several days later"
+      ],
+      "ifEaten": "Call your vet or an animal poison control center right away, even if your cat only nibbled a few blades and seems fine: anemia can appear several days later. Don't make your cat vomit yourself. Note roughly how much it ate and when.",
+      "alternatives": "If your cat likes nibbling plants, offer a pot of cat grass (barley, wheat or oats) or catnip, and keep onion-family herbs out of reach.",
+      "faq": [
+        {
+          "q": "My cat ate chives from my garden, what should I do?",
+          "a": "Call your vet, even if your cat only ate a few blades and seems fine. They may suggest monitoring and possibly a blood test over the following days, since anemia can show up late."
+        },
+        {
+          "q": "Are green onions and scallions toxic to cats too?",
+          "a": "Yes. Green onions, scallions and spring onions are alliums just like chives, and both the white and green parts are toxic to cats."
+        }
+      ]
+    }
+  }
+]

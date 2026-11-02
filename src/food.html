@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{page_title}}</title>
+<meta name="description" content="{{page_description}}">
+<link rel="canonical" href="{{page_url}}">
+<link rel="alternate" hreflang="fr" href="{{page_url_fr}}">
+<link rel="alternate" hreflang="en" href="{{page_url_en}}">
+<link rel="alternate" hreflang="x-default" href="{{page_url_fr}}">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#FFF4E8">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Mon chat peut ?">
+<meta property="og:locale" content="{{locale}}">
+<meta property="og:url" content="{{page_url}}">
+<meta property="og:title" content="{{food_question_plain}}">
+<meta property="og:description" content="{{page_description}}">
+<meta property="og:image" content="https://mon-chat-peut.com{{og_image}}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="/assets/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/figtree-latin.woff2" as="font" type="font/woff2" crossorigin>
+<script type="application/ld+json">{{page_jsonld}}</script>
+<style>
+{{css}}
+</style>
+</head>
+<body>
+<!-- Page générée par build.py à partir de src/food.html et src/foods/ : modifier src/, puis lancer python3 build.py -->
+<a class="skip" href="#contenu">{{skip}}</a>
+
+<header class="site-head">
+  <div class="wrap">
+    <a class="logo" href="{{home_href}}" aria-label="{{nav_home_label}}">Mon chat peut<img src="/img/logo.webp" width="81" height="120" alt=""></a>
+    <nav class="nav-links" aria-label="{{nav_sections}}">
+      <a href="{{home_href}}#test">{{nav_test}}</a>
+      <a href="{{home_href}}#app">{{nav_app}}</a>
+      <a href="{{foods_href}}">{{nav_foods}}</a>
+    </nav>
+    <a class="lang" href="{{lang_href}}" hreflang="{{lang_other}}" lang="{{lang_other}}" aria-label="{{lang_label}}">{{lang_code}}</a>
+    <a class="btn" href="{{store_href}}" rel="noopener">{{download}}</a>
+  </div>
+</header>
+
+<main id="contenu" data-v="{{verdict}}">
+  <section class="food-hero grid-paper">
+    <div class="wrap">
+      <ol class="crumbs">
+        <li><a href="{{home_href}}">{{food_crumb_home}}</a></li>
+        <li><a href="{{foods_href}}">{{foods_link}}</a></li>
+        <li><span aria-current="page">{{food_name}}</span></li>
+      </ol>
+      <p class="eyebrow">{{cat_label}}</p>
+      <h1>{{food_question}}</h1>
+      <div class="food-verdict">
+        <span class="stamp"><small>{{stamp_label}}</small><b>{{verdict_word}}</b></span>
+        <img class="food-vivi" src="/img/vivi-{{verdict}}.webp" width="300" height="{{vivi_h}}" alt="" fetchpriority="high">
+        <p class="food-short">{{food_short}}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="food-body">
+    <div class="wrap food-grid">
+      <article class="food-main">
+        <section class="block">
+          <h2>{{food_why}}</h2>
+          <p>{{food_text_why}}</p>
+        </section>
+        <section class="block">
+          <h2>{{food_amount}}</h2>
+          <p>{{food_text_amount}}</p>
+        </section>
+        <section class="block">
+          <h2>{{food_risks}}</h2>
+          <ul class="risks">{{food_risks_html}}</ul>
+        </section>
+        <section class="block alert">
+          <h2>{{food_ifeaten}}</h2>
+          <p>{{food_text_ifeaten}}</p>
+        </section>
+        <section class="block">
+          <h2>{{food_alternatives}}</h2>
+          <p>{{food_text_alternatives}}</p>
+        </section>
+        <section class="block">
+          <h2>{{food_faq}}</h2>
+          <div class="faq-list">{{food_faq_html}}</div>
+        </section>
+        <p class="disclaimer">{{food_disclaimer}}</p>
+      </article>
+
+      <aside class="food-aside">
+        <div class="cta-card">
+          <h2>{{food_cta_title}}</h2>
+          <p>{{food_cta_text}}</p>
+          <a class="store" href="{{store_href}}" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+            <span><small>{{store_small}}</small><b>Google Play</b></span>
+          </a>
+        </div>
+        <nav class="related" aria-label="{{food_related}}">
+          <h2>{{food_related}}</h2>
+          <ul>{{food_related_html}}</ul>
+          <a class="all-link" href="{{foods_href}}">{{foods_link}} →</a>
+        </nav>
+      </aside>
+    </div>
+  </section>
+</main>
+
+{{footer}}
+</body>
+</html>

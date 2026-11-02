@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "lait",
+    "verdict": "non",
+    "related": ["creme-fraiche", "fromage", "yaourt", "lait-vegetal"],
+    "fr": {
+      "short": "Non. La plupart des chats adultes digèrent mal le lactose du lait de vache, qui leur donne souvent diarrhée et ballonnements.",
+      "why": "Le chaton fabrique une enzyme, la lactase, pour digérer le lait de sa mère. Après le sevrage, cette production baisse chez beaucoup de chats, et le lactose non digéré fermente dans l'intestin. Résultat : gaz, ballonnements, diarrhée, parfois vomissements. L'image du chat qui lape sa soucoupe de lait est un cliché, pas un conseil.",
+      "amount": "Mieux vaut ne pas lui en donner du tout, qu'il soit entier, demi-écrémé ou écrémé : tous contiennent du lactose, le lait de chèvre aussi. Ce dont ton chat a vraiment besoin, c'est d'eau fraîche à volonté.",
+      "risks": [
+        "Diarrhée, parfois dans les heures qui suivent",
+        "Ballonnements, gaz et douleurs au ventre",
+        "Vomissements",
+        "Calories en trop, surtout avec le lait entier"
+      ],
+      "ifEaten": "Quelques lapées ne sont pas graves : au pire, il aura le ventre un peu dérangé. Surveille ses selles pendant 24 à 48 h et laisse-lui de l'eau fraîche. Si la diarrhée dure, s'il vomit plusieurs fois ou s'il semble abattu, appelle ton vétérinaire.",
+      "alternatives": "Pour lui faire plaisir, choisis un lait spécial chat, sans lactose, vendu en animalerie ou en grande surface. Une cuillère d'eau de cuisson d'un blanc de poulet nature, sans sel ni oignon, fait aussi souvent l'affaire.",
+      "faq": [
+        {
+          "q": "Et le lait sans lactose ?",
+          "a": "Le lait sans lactose pour humains est mieux toléré, puisque le sucre qui pose problème a été décomposé. Il reste gras et inutile pour un chat : préfère un lait formulé pour chat, en petite quantité."
+        },
+        {
+          "q": "Un chaton peut-il boire du lait de vache ?",
+          "a": "Non. Le lait de vache n'a pas la bonne composition pour un chaton et peut lui donner la diarrhée, ce qui devient vite dangereux à cet âge. Un chaton orphelin doit recevoir un lait maternisé pour chaton, avec les conseils d'un vétérinaire."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Most adult cats can't properly digest the lactose in cow's milk, and it often gives them diarrhea and an upset stomach.",
+      "why": "Kittens make an enzyme called lactase to digest their mother's milk. After weaning, many cats make much less of it, so the lactose in milk isn't broken down and ferments in the gut instead. That leads to gas, bloating, diarrhea and sometimes vomiting. The classic saucer of milk is a cartoon image, not good advice.",
+      "amount": "It's best to skip it entirely. Whole, 2% and skim milk all contain lactose, and so does goat's milk. What your cat really needs is fresh water, always available.",
+      "risks": [
+        "Diarrhea, sometimes within a few hours",
+        "Bloating, gas and belly pain",
+        "Vomiting",
+        "Extra calories, especially with whole milk"
+      ],
+      "ifEaten": "A few laps of milk usually aren't serious; the worst case is a mild upset stomach. Keep an eye on the litter box for 24 to 48 hours and make sure fresh water is available. If the diarrhea lasts, your cat vomits repeatedly or seems lethargic, call your vet.",
+      "alternatives": "If you want to give a treat, look for lactose-free milk made for cats, sold in pet stores and supermarkets. A spoonful of the cooking water from plain chicken, with no salt or onion, is often just as popular.",
+      "faq": [
+        {
+          "q": "Can kittens drink cow's milk?",
+          "a": "No. Cow's milk doesn't have the right makeup for kittens and can cause diarrhea, which quickly becomes dangerous at that age. An orphaned kitten needs a kitten milk replacer, ideally with guidance from a vet."
+        },
+        {
+          "q": "Is lactose-free milk OK for cats?",
+          "a": "Lactose-free milk for people is easier on the stomach, since the problem sugar has been broken down. It's still fatty and adds nothing your cat needs, so a small amount of milk made for cats is a better choice."
+        }
+      ]
+    }
+  },
+  {
+    "id": "fromage",
+    "verdict": "peu",
+    "related": ["lait", "fromage-blanc", "yaourt", "pizza"],
+    "fr": {
+      "short": "Un peu. Un petit dé de fromage à pâte dure passe en général, mais c'est gras et salé : une friandise rare, pas une habitude.",
+      "why": "En s'affinant, les fromages à pâte dure comme l'emmental, le comté ou le gruyère perdent la plus grande partie de leur lactose : ils sont donc mieux tolérés que le lait. En revanche, ils sont riches en graisses et en sel, deux choses dont un chat n'a pas besoin en plus de sa ration. Certains chats sont aussi allergiques aux protéines du lait.",
+      "amount": "Un dé gros comme un petit pois, une ou deux fois par semaine au maximum. Privilégie un fromage à pâte dure, nature, et retire la croûte.",
+      "risks": [
+        "Diarrhée ou vomissements chez les chats sensibles au lactose",
+        "Trop de sel : soif intense, troubles digestifs",
+        "Prise de poids si c'est quotidien",
+        "Fromages à l'ail, à l'oignon ou à la ciboulette : toxiques",
+        "Démangeaisons ou troubles digestifs en cas d'allergie"
+      ],
+      "ifEaten": "Un morceau de fromage chipé dans l'assiette n'est en général pas grave. Surveille l'apparition de diarrhée, de vomissements ou d'une grosse soif pendant 24 à 48 h. Appelle ton vétérinaire si ces signes apparaissent, s'il a mangé une grosse quantité ou un fromage à l'ail.",
+      "alternatives": "Pour une récompense, un petit morceau de poulet ou de dinde cuit nature fait aussi bien, sans le sel ni le gras. Les friandises pour chat au fromage sont aussi formulées pour lui.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du fromage râpé ?",
+          "a": "Une pincée d'emmental râpé de temps en temps, oui. Le parmesan est beaucoup plus salé : pas plus de quelques miettes. Et jamais de gratin, souvent plein de beurre, de crème ou d'oignon."
+        },
+        {
+          "q": "Quels fromages faut-il éviter ?",
+          "a": "Les fromages très salés comme les bleus ou la feta, les fromages frais ou fondus, plus riches en lactose, et tous ceux qui contiennent de l'ail, de l'oignon ou de la ciboulette. Les pâtes molles comme le camembert sont aussi très grasses."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A small cube of hard cheese is usually fine, but it's fatty and salty, so keep it a rare treat rather than a habit.",
+      "why": "As hard cheeses like cheddar, Swiss or parmesan age, most of their lactose disappears, which is why cats tolerate them better than milk. The catch is that cheese is packed with fat and salt, neither of which your cat needs on top of their regular food. Some cats are also allergic to milk proteins.",
+      "amount": "A cube about the size of a pea, once or twice a week at most. Stick to plain hard cheese and skip the rind.",
+      "risks": [
+        "Diarrhea or vomiting in lactose-sensitive cats",
+        "Too much salt: intense thirst, stomach upset",
+        "Weight gain if it becomes a daily thing",
+        "Cheeses with garlic, onion or chives are toxic",
+        "Itching or digestive trouble in allergic cats"
+      ],
+      "ifEaten": "A bite of cheese stolen from your plate is usually nothing to worry about. Watch for diarrhea, vomiting or unusual thirst over the next 24 to 48 hours. Call your vet if those signs appear, or if your cat ate a large amount or a cheese flavored with garlic.",
+      "alternatives": "As a reward, a bit of plain cooked chicken or turkey works just as well, without the salt and fat. Cheese-flavored cat treats are another option made for them.",
+      "faq": [
+        {
+          "q": "Can I use cheese to give my cat a pill?",
+          "a": "Wrapping a pill in a tiny piece of hard cheese is fine once in a while. For daily medication, pill treats made for cats or a little wet food are a better habit, and some medications shouldn't be taken with dairy, so check with your vet."
+        },
+        {
+          "q": "Can cats eat cream cheese?",
+          "a": "Only a tiny lick. Cream cheese is a fresh cheese, so it holds more lactose than aged cheese, and it's very fatty. Flavored versions with garlic, onion or chives are off-limits."
+        }
+      ]
+    }
+  },
+  {
+    "id": "fromage-blanc",
+    "verdict": "peu",
+    "related": ["yaourt", "fromage", "lait", "creme-fraiche"],
+    "fr": {
+      "short": "Un peu. Une petite cuillère de fromage blanc nature, sans sucre, est souvent bien tolérée, de temps en temps seulement.",
+      "why": "Le fromage blanc est un fromage frais : il n'a pas été affiné, donc il garde plus de lactose qu'un comté ou un emmental. La fermentation en élimine une partie, ce qui explique que beaucoup de chats le digèrent correctement en petite quantité. Mais certains réagissent quand même par une diarrhée, et les versions entières sont assez grasses.",
+      "amount": "Une cuillère à café, une à deux fois par semaine au maximum, nature et sans sucre. Pour un premier essai, donne encore moins et observe ses selles le lendemain.",
+      "risks": [
+        "Diarrhée ou ballonnements chez les chats sensibles au lactose",
+        "Version sucrée ou aux fruits : sucre inutile",
+        "Édulcorants possibles dans certains produits allégés",
+        "Prise de poids avec le fromage blanc entier"
+      ],
+      "ifEaten": "Une ou deux cuillères léchées dans un pot ne posent en général pas de problème. Surveille ses selles et son appétit pendant 24 à 48 h. Appelle ton vétérinaire si la diarrhée dure, s'il vomit, ou s'il a mangé un produit contenant du xylitol ou du chocolat.",
+      "alternatives": "Le lait spécial chat, sans lactose, fait plaisir sans risque digestif. Un peu de pâtée ou de poulet cuit nature reste la meilleure récompense.",
+      "faq": [
+        {
+          "q": "Fromage blanc 0 % ou 40 % ?",
+          "a": "Le 0 % est moins gras, mais il contient autant de lactose. Dans tous les cas, c'est la petite quantité qui compte : une cuillère à café, pas un bol."
+        },
+        {
+          "q": "Et les petits-suisses ?",
+          "a": "Nature, un petit-suisse est proche du fromage blanc : une cuillère de temps en temps passe. Les versions sucrées ou aromatisées pour enfants, en revanche, sont à éviter."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A teaspoon of plain cottage cheese now and then is usually well tolerated, but it does contain lactose and salt.",
+      "why": "Cottage cheese is a fresh cheese that isn't aged, so it keeps more lactose than hard cheeses like cheddar. Many cats handle a small amount without trouble, but lactose-sensitive cats may get diarrhea. Most cottage cheese also has added salt, and full-fat versions are fairly rich.",
+      "amount": "A teaspoon, once or twice a week at most, plain and unflavored. The first time, offer even less and check the litter box the next day.",
+      "risks": [
+        "Diarrhea or bloating in lactose-sensitive cats",
+        "Added salt",
+        "Flavored versions with fruit, sugar or chives",
+        "Weight gain with full-fat cottage cheese"
+      ],
+      "ifEaten": "A spoonful licked from the tub is usually no big deal. Keep an eye on your cat's stool and appetite for 24 to 48 hours. Call your vet if diarrhea persists, your cat vomits, or the product contained chives, xylitol or chocolate.",
+      "alternatives": "Lactose-free milk made for cats is a safer dairy-style treat. A bit of plain cooked chicken or wet food is still the best reward.",
+      "faq": [
+        {
+          "q": "Is low-fat cottage cheese better for cats?",
+          "a": "It's less fatty, but it has just as much lactose and salt. Either way, what matters is keeping the portion tiny: a teaspoon, not a bowl."
+        },
+        {
+          "q": "Can kittens eat cottage cheese?",
+          "a": "It's better not to. Kittens have sensitive stomachs and need a complete kitten food; an orphaned kitten needs a kitten milk replacer, not dairy made for people."
+        }
+      ]
+    }
+  },
+  {
+    "id": "yaourt",
+    "verdict": "peu",
+    "related": ["fromage-blanc", "lait", "fromage", "glace"],
+    "fr": {
+      "short": "Un peu. Une petite cuillère de yaourt nature, sans sucre ni édulcorant, est souvent bien tolérée de temps en temps.",
+      "why": "Pendant la fermentation, les ferments du yaourt consomment une partie du lactose, ce qui le rend plus digeste que le lait. Il en reste quand même assez pour donner la diarrhée à un chat sensible. Le vrai danger vient surtout de ce qu'on ajoute : sucre, fruits, arômes, chocolat ou édulcorants comme le xylitol.",
+      "amount": "Une cuillère à café, une à deux fois par semaine au maximum. Uniquement du yaourt nature sans sucre ajouté, et lis l'étiquette des versions allégées, qui contiennent parfois des édulcorants.",
+      "risks": [
+        "Diarrhée ou ballonnements chez les chats sensibles au lactose",
+        "Yaourt aux fruits ou sucré : sucre inutile",
+        "Xylitol dans certains yaourts allégés ou sans sucre",
+        "Yaourts et desserts au chocolat : toxiques"
+      ],
+      "ifEaten": "Quelques coups de langue dans un pot de yaourt nature ne sont pas graves. Surveille ses selles pendant 24 à 48 h. Si le yaourt contenait du chocolat ou du xylitol, ou si la diarrhée dure, appelle ton vétérinaire.",
+      "alternatives": "Un lait spécial chat, sans lactose, fait plaisir sans risque. Si c'est pour sa digestion, demande à ton vétérinaire un probiotique conçu pour les chats.",
+      "faq": [
+        {
+          "q": "Le yaourt est-il bon pour la digestion de mon chat ?",
+          "a": "Les ferments du yaourt sont sélectionnés pour l'humain, et on manque de preuves qu'ils aident vraiment le chat. Un probiotique vétérinaire est plus adapté, et une diarrhée qui dure mérite une consultation."
+        },
+        {
+          "q": "Et le yaourt grec ?",
+          "a": "Nature et sans sucre, il passe aussi en petite quantité. Égoutté, il contient souvent un peu moins de lactose, mais il est plus gras : une cuillère à café reste la limite."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A teaspoon of plain, unsweetened yogurt is often well tolerated by cats as an occasional treat.",
+      "why": "As yogurt ferments, its live cultures use up some of the lactose, which makes it easier to digest than milk. There's still enough left to upset a lactose-sensitive cat, though. The bigger danger is what gets added: sugar, fruit, flavorings, chocolate, or sweeteners like xylitol.",
+      "amount": "A teaspoon, once or twice a week at most. Only plain yogurt with no added sugar, and check the label on light versions, which sometimes contain sweeteners.",
+      "risks": [
+        "Diarrhea or bloating in lactose-sensitive cats",
+        "Fruit or sweetened yogurt: unnecessary sugar",
+        "Xylitol in some light or sugar-free yogurts",
+        "Chocolate yogurts and desserts are toxic"
+      ],
+      "ifEaten": "A few licks from a cup of plain yogurt aren't serious. Watch your cat's stool for 24 to 48 hours. If the yogurt contained chocolate or xylitol, or if diarrhea lasts, call your vet.",
+      "alternatives": "Lactose-free milk made for cats is a treat without the tummy risk. If it's about digestion, ask your vet about a probiotic designed for cats.",
+      "faq": [
+        {
+          "q": "Can cats eat Greek yogurt?",
+          "a": "Plain, unsweetened Greek yogurt is fine in tiny amounts. Straining removes some of the lactose, but full-fat versions are richer, so a teaspoon is still the limit."
+        },
+        {
+          "q": "Is yogurt a good probiotic for cats?",
+          "a": "The cultures in yogurt are chosen for people, and there's little evidence they do much for cats. A probiotic made for cats is a better bet, and diarrhea that lasts more than a day or two calls for a vet visit."
+        }
+      ]
+    }
+  },
+  {
+    "id": "creme-fraiche",
+    "verdict": "non",
+    "related": ["lait", "beurre", "fromage", "glace"],
+    "fr": {
+      "short": "Non. La crème fraîche est très grasse et contient du lactose : elle risque surtout de donner diarrhée et vomissements à ton chat.",
+      "why": "Avec environ 30 % de matières grasses, la crème fraîche entière est l'un des produits laitiers les plus gras. Ce gras en grande quantité irrite le système digestif et peut favoriser une pancréatite, tandis que le lactose qu'elle contient est mal digéré par la plupart des chats adultes. Le cliché du chat qui adore la crème vient de son goût pour le gras, pas d'un besoin.",
+      "amount": "Évite-la complètement, comme le lait, y compris en sauce : les plats à la crème contiennent souvent de l'oignon, de l'ail, du sel ou du fromage. La crème allégée reste grasse et contient toujours du lactose.",
+      "risks": [
+        "Diarrhée et ballonnements",
+        "Vomissements",
+        "Pancréatite possible, surtout après une grosse quantité",
+        "Sauces à la crème avec oignon ou ail : toxiques",
+        "Prise de poids"
+      ],
+      "ifEaten": "Un coup de langue sur une cuillère n'est pas une urgence : surveille selles et vomissements pendant 24 à 48 h. S'il a mangé une bonne quantité ou une sauce à l'oignon ou à l'ail, ou s'il est abattu, vomit plusieurs fois ou a mal au ventre, appelle ton vétérinaire.",
+      "alternatives": "Pour lui faire plaisir, un lait spécial chat sans lactose ou une friandise crémeuse pour chat en tube font le même effet. Un petit morceau de poulet cuit nature est aussi une valeur sûre.",
+      "faq": [
+        {
+          "q": "Et la crème chantilly ?",
+          "a": "Non plus. C'est de la crème entière fouettée avec du sucre, parfois avec un arôme : du gras, du lactose et du sucre, rien d'utile pour lui."
+        },
+        {
+          "q": "Pourquoi les chats aiment-ils autant la crème ?",
+          "a": "Les chats sont attirés par le gras, une source d'énergie importante dans leur alimentation de carnivore. Ils ne perçoivent même pas le goût sucré, mais l'odeur et la texture du gras laitier les attirent. Ça n'en fait pas un aliment adapté pour autant."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Cream is very high in fat and still contains lactose, so it's far more likely to upset your cat's stomach than to do them any good.",
+      "why": "Heavy cream is at least 36 percent fat, making it one of the richest dairy products there is. A big dose of fat irritates the digestive system and may contribute to pancreatitis, while the lactose is poorly digested by most adult cats. The old image of the cat that got the cream comes from their love of fat, not from any need.",
+      "amount": "Skip it entirely, just like milk, and that includes cream sauces, which often contain onion, garlic, salt or cheese. Light cream and half-and-half are still fatty and full of lactose.",
+      "risks": [
+        "Diarrhea and bloating",
+        "Vomiting",
+        "Possible pancreatitis, especially after a large amount",
+        "Cream sauces with onion or garlic are toxic",
+        "Weight gain"
+      ],
+      "ifEaten": "A lick off a spoon isn't an emergency: watch for diarrhea or vomiting over the next 24 to 48 hours. If your cat ate a good amount or got into a sauce with onion or garlic, or seems lethargic, vomits repeatedly or has a painful belly, call your vet.",
+      "alternatives": "Lactose-free cat milk or a creamy lickable cat treat gives the same pleasure. A small piece of plain cooked chicken is always a safe bet.",
+      "faq": [
+        {
+          "q": "Can cats have whipped cream?",
+          "a": "No. Whipped cream is heavy cream beaten with sugar, and the canned kind often adds stabilizers and flavorings: fat, lactose and sugar, with nothing useful for your cat."
+        },
+        {
+          "q": "Why do cats love cream so much?",
+          "a": "Cats are drawn to fat, an important energy source in a carnivore's diet. They can't even taste sweetness, but the smell and texture of dairy fat appeal to them. That doesn't make it good for them."
+        }
+      ]
+    }
+  },
+  {
+    "id": "beurre",
+    "verdict": "peu",
+    "related": ["huile-olive", "creme-fraiche", "pain", "lait"],
+    "fr": {
+      "short": "Un peu. Un coup de langue sur du beurre doux n'est pas dangereux, mais c'est presque du gras pur : à éviter au quotidien.",
+      "why": "Le beurre contient plus de 80 % de matières grasses et très peu de lactose, ce qui le rend moins problématique que le lait. Mais ce concentré de gras donne facilement la diarrhée, fait grossir et, en grande quantité, peut favoriser une pancréatite. Le beurre demi-sel ou salé ajoute en plus du sel.",
+      "amount": "Pas plus qu'une trace de la taille d'un petit pois, rarement, et seulement du beurre doux. Jamais de beurre à l'ail ou aux herbes, ni de plats cuisinés au beurre.",
+      "risks": [
+        "Diarrhée, parfois vomissements",
+        "Prise de poids",
+        "Pancréatite possible après une grosse quantité",
+        "Beurre salé ou demi-sel : sel en trop",
+        "Beurre à l'ail, à l'échalote ou beurre d'escargot : toxique"
+      ],
+      "ifEaten": "S'il a léché un peu de beurre sur ton couteau, pas d'inquiétude. S'il a dévoré une bonne partie de la plaquette, surveille vomissements, diarrhée, abattement ou ventre douloureux pendant 24 à 48 h, et appelle ton vétérinaire si ces signes apparaissent. Un beurre à l'ail mérite un appel dans tous les cas.",
+      "alternatives": "Pour lui faire plaisir, une friandise pour chat ou un petit morceau de poulet cuit nature est bien plus adapté. Contre les boules de poils, il existe des pâtes au malt conçues pour les chats.",
+      "faq": [
+        {
+          "q": "Faut-il mettre du beurre sur les pattes d'un chat après un déménagement ?",
+          "a": "C'est une vieille croyance, mais rien ne montre que ça l'aide à s'adapter. Pour qu'il prenne ses repères, garde-le plutôt à l'intérieur pendant quelques semaines et laisse-lui le temps d'explorer son nouveau logement."
+        },
+        {
+          "q": "Et la margarine ?",
+          "a": "Pas mieux : elle est tout aussi grasse, souvent salée, et contient des huiles végétales et des additifs. Même conclusion que pour le beurre : un coup de langue n'est pas grave, mais on n'en donne pas."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A lick of unsalted butter won't hurt your cat, but it's almost pure fat, so don't make it a habit.",
+      "why": "Butter is over 80 percent fat and contains very little lactose, so it's less of a problem than milk. Still, that much fat easily causes diarrhea, adds weight and, in large amounts, may contribute to pancreatitis. Salted butter adds sodium on top of that.",
+      "amount": "No more than a pea-sized dab, rarely, and only unsalted butter. Never garlic or herb butter, and no buttery dishes.",
+      "risks": [
+        "Diarrhea, sometimes vomiting",
+        "Weight gain",
+        "Possible pancreatitis after a large amount",
+        "Salted butter: extra sodium",
+        "Garlic butter or butter with chives is toxic"
+      ],
+      "ifEaten": "If your cat licked a little butter off your knife, don't worry. If they ate a good chunk of the stick, watch for vomiting, diarrhea, lethargy or a painful belly over the next 24 to 48 hours, and call your vet if those appear. Garlic butter is worth a call either way.",
+      "alternatives": "A cat treat or a small piece of plain cooked chicken is a much better reward. For hairballs, there are malt-based gels made for cats.",
+      "faq": [
+        {
+          "q": "Is butter good for hairballs?",
+          "a": "It's an old home remedy, but there's no good evidence it works, and it can cause diarrhea. Regular brushing and hairball gels made for cats are better options, and frequent hairballs are worth mentioning to your vet."
+        },
+        {
+          "q": "Can cats eat margarine?",
+          "a": "It's no better: just as fatty, often salted, and full of vegetable oils and additives. Same rule as butter: a lick won't hurt, but don't offer it."
+        }
+      ]
+    }
+  },
+  {
+    "id": "oeuf",
+    "verdict": "oui",
+    "related": ["oeuf-cru", "omelette", "poulet", "riz"],
+    "fr": {
+      "short": "Oui. Bien cuit et sans assaisonnement, l'œuf est une bonne source de protéines pour ton chat, en petite quantité.",
+      "why": "L'œuf apporte des protéines de grande qualité et des acides aminés utiles à un carnivore comme le chat. La cuisson est indispensable : elle détruit les salmonelles et neutralise l'avidine du blanc, une protéine qui empêche l'absorption de la biotine. Le jaune est riche en graisses, d'où l'intérêt de rester sur de petites portions.",
+      "amount": "Un petit morceau d'œuf dur ou une cuillère à soupe d'œuf brouillé, une à deux fois par semaine. Cuit sans beurre, sans huile, sans sel ni lait, et coupé en petits morceaux. Un œuf entier, c'est beaucoup de calories pour un chat.",
+      "risks": [
+        "Œuf mal cuit ou coulant : risque de salmonelle",
+        "Sel, beurre, lait ou oignon ajoutés à la cuisson",
+        "Prise de poids s'il en mange trop souvent",
+        "Rare allergie : démangeaisons, troubles digestifs"
+      ],
+      "ifEaten": "S'il a mangé un peu d'œuf cuit nature, aucun souci. S'il en a avalé beaucoup ou un plat assaisonné, comme une omelette aux oignons, surveille vomissements et diarrhée pendant 24 à 48 h. Appelle ton vétérinaire s'ils apparaissent ou si le plat contenait de l'oignon ou de l'ail.",
+      "alternatives": "D'autres protéines simples font aussi d'excellentes friandises : poulet, dinde ou poisson cuits nature. Les friandises pour chat restent l'option la plus pratique.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger des œufs brouillés ?",
+          "a": "Oui, s'ils sont bien cuits et préparés sans beurre, sans lait, sans sel ni fromage. Fais-les cuire à part pour lui, dans une poêle antiadhésive, et laisse-les refroidir."
+        },
+        {
+          "q": "Et la coquille d'œuf ?",
+          "a": "Inutile si ton chat mange une alimentation complète. Les morceaux de coquille peuvent être coupants, et la surface d'un œuf cru peut porter des salmonelles. La coquille réduite en poudre ne s'utilise que dans une ration ménagère établie avec un vétérinaire."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Fully cooked and unseasoned, eggs are a good source of protein for your cat in small amounts.",
+      "why": "Eggs provide high-quality protein and amino acids that suit a carnivore like your cat. Cooking is essential: it kills salmonella and neutralizes avidin, a protein in egg white that blocks the absorption of biotin. The yolk is high in fat, which is why small portions are the way to go.",
+      "amount": "A small piece of hard-boiled egg or a tablespoon of scrambled egg, once or twice a week. Cook it with no butter, oil, salt or milk, and cut it into small pieces. A whole egg is a lot of calories for a cat.",
+      "risks": [
+        "Undercooked or runny egg: salmonella risk",
+        "Salt, butter, milk or onion added while cooking",
+        "Weight gain if given too often",
+        "Rare egg allergy: itching, stomach upset"
+      ],
+      "ifEaten": "If your cat ate a little plain cooked egg, there's nothing to worry about. If they ate a lot, or a seasoned dish like an onion omelet, watch for vomiting and diarrhea over 24 to 48 hours. Call your vet if those show up or if the dish contained onion or garlic.",
+      "alternatives": "Other simple proteins make great treats too: plain cooked chicken, turkey or fish. Cat treats are the most convenient option.",
+      "faq": [
+        {
+          "q": "Can cats eat scrambled eggs?",
+          "a": "Yes, as long as they're fully cooked and made without butter, milk, salt or cheese. Make a small batch just for your cat in a nonstick pan and let it cool."
+        },
+        {
+          "q": "Can cats eat eggshells?",
+          "a": "There's no need if your cat eats a complete diet. Shell fragments can be sharp, and the outside of a raw egg can carry salmonella. Finely ground shell is only used as a calcium source in home-cooked diets designed with a vet."
+        }
+      ]
+    }
+  },
+  {
+    "id": "oeuf-cru",
+    "verdict": "non",
+    "related": ["oeuf", "poisson-cru", "pate-crue", "omelette"],
+    "fr": {
+      "short": "Non. L'œuf cru peut transmettre des salmonelles, et son blanc gêne l'absorption de la biotine : donne-le toujours bien cuit.",
+      "why": "Un œuf cru peut contenir des salmonelles, des bactéries qui rendent le chat malade et qu'il peut ensuite transmettre aux humains de la maison. Le blanc cru contient aussi de l'avidine, une protéine qui s'accroche à la biotine (vitamine B8) et l'empêche d'être absorbée. Une fois ne suffit pas à créer une carence, mais l'habitude peut abîmer la peau et le pelage. La cuisson règle ces deux problèmes.",
+      "amount": "À éviter, même dans une ration crue faite maison ou mélangé à sa pâtée. Si tu veux lui donner de l'œuf, fais-le cuire complètement, dur ou brouillé sans matière grasse.",
+      "risks": [
+        "Salmonellose : vomissements, diarrhée, fièvre, abattement",
+        "Transmission de bactéries aux humains de la maison",
+        "Carence en biotine si c'est fréquent : peau et poils abîmés",
+        "Pâtes et préparations crues à l'œuf : sucre, parfois chocolat"
+      ],
+      "ifEaten": "Un peu d'œuf cru léché par accident n'est en général pas une urgence. Surveille vomissements, diarrhée, fièvre ou fatigue pendant quelques jours, et appelle ton vétérinaire si ces signes apparaissent, surtout chez un chaton, un chat âgé ou malade. Lave-toi bien les mains et nettoie sa gamelle.",
+      "alternatives": "L'œuf cuit, dur ou brouillé nature, apporte les mêmes protéines sans ces risques. Le poulet ou le poisson cuits nature sont d'autres bonnes options.",
+      "faq": [
+        {
+          "q": "Et le jaune d'œuf cru seul ?",
+          "a": "Le jaune ne contient pas d'avidine, mais il peut quand même porter des salmonelles. Mieux vaut le cuire aussi."
+        },
+        {
+          "q": "L'œuf cru rend-il le poil plus brillant ?",
+          "a": "C'est une croyance répandue, mais un œuf cuit apporte les mêmes protéines et graisses sans le risque de salmonelle. À force, le blanc cru peut même provoquer une carence en biotine qui abîme le pelage."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Raw eggs can carry salmonella, and raw egg white interferes with biotin absorption, so always cook eggs before sharing.",
+      "why": "Raw eggs can contain salmonella, bacteria that can make your cat sick and that your cat can then pass to people in the household. Raw egg white also contains avidin, a protein that binds to biotin (vitamin B7) and keeps it from being absorbed. One egg won't cause a deficiency, but making it a habit can lead to skin and coat problems. Cooking solves both issues.",
+      "amount": "Avoid it, even in a homemade raw diet or mixed into wet food. If you want to give your cat egg, cook it all the way through, hard-boiled or scrambled with no fat.",
+      "risks": [
+        "Salmonella: vomiting, diarrhea, fever, lethargy",
+        "Bacteria passed on to people in the home",
+        "Biotin deficiency if frequent: dry skin, dull coat",
+        "Raw batters with egg: sugar, sometimes chocolate"
+      ],
+      "ifEaten": "A little raw egg licked by accident usually isn't an emergency. Watch for vomiting, diarrhea, fever or tiredness over the next few days, and call your vet if they appear, especially in a kitten, a senior or a cat with health issues. Wash your hands well and clean the bowl.",
+      "alternatives": "Cooked egg, hard-boiled or plain scrambled, gives the same protein without the risks. Plain cooked chicken or fish are other good choices.",
+      "faq": [
+        {
+          "q": "Can cats eat raw egg yolk?",
+          "a": "The yolk doesn't contain avidin, but it can still carry salmonella. It's safer to cook it too."
+        },
+        {
+          "q": "Will raw egg make my cat's coat shiny?",
+          "a": "That's a popular belief, but cooked egg offers the same protein and fats without the salmonella risk. Over time, raw egg white can actually cause a biotin deficiency that dulls the coat."
+        }
+      ]
+    }
+  },
+  {
+    "id": "riz",
+    "verdict": "oui",
+    "related": ["pates", "semoule", "poulet", "pomme-de-terre"],
+    "fr": {
+      "short": "Oui. Le riz blanc bien cuit et nature se digère bien et peut dépanner, mais il n'apporte presque rien à ton chat.",
+      "why": "Le chat est un carnivore strict : il tire son énergie des protéines et des graisses animales, et n'a pas besoin de glucides. Le riz cuit n'est pas toxique et il est doux pour l'intestin : c'est pour ça qu'on en trouve dans certaines croquettes et qu'il sert parfois de complément lors de petits troubles digestifs. Mais il ne remplace jamais la viande.",
+      "amount": "Une cuillère à café à une cuillère à soupe de riz blanc bien cuit, à l'eau sans sel, mélangée à sa nourriture, de temps en temps. Pas de riz frit, au beurre ou en sauce.",
+      "risks": [
+        "Riz cuisiné avec oignon, ail, sauce soja ou bouillon",
+        "Riz cru ou mal cuit : difficile à digérer",
+        "Constipation ou ballonnements si en excès",
+        "Calories inutiles et prise de poids"
+      ],
+      "ifEaten": "Un peu de riz nature n'est pas un problème. S'il a mangé un plat de riz assaisonné, surveille vomissements et diarrhée pendant 24 à 48 h. Appelle ton vétérinaire si des symptômes apparaissent ou si le plat contenait de l'oignon ou de l'ail.",
+      "alternatives": "Pour lui faire plaisir, mise plutôt sur les protéines : poulet, dinde ou poisson cuits nature. Pour les fibres, une cuillère de citrouille cuite est aussi une option.",
+      "faq": [
+        {
+          "q": "Le riz aide-t-il en cas de diarrhée ?",
+          "a": "Un peu de riz blanc avec du poulet cuit nature peut dépanner sur une courte durée, mais demande l'avis de ton vétérinaire. Si la diarrhée dure plus de 24 à 48 h, s'il vomit, refuse de manger ou semble abattu, ou s'il s'agit d'un chaton, consulte sans attendre."
+        },
+        {
+          "q": "Et le riz cantonais ?",
+          "a": "Non : il contient souvent de la ciboule ou de l'oignon, de la sauce soja très salée et de l'huile. Garde-le pour toi et donne-lui seulement du riz cuit à l'eau."
+        }
+      ]
+    },
+    "en": {
+      "short": "Yes. Plain, well-cooked white rice is easy to digest and can help in a pinch, but it gives your cat almost nothing.",
+      "why": "Cats are obligate carnivores: they run on animal protein and fat and have no real need for carbohydrates. Cooked rice isn't toxic and is gentle on the gut, which is why it shows up in some cat foods and is sometimes used for mild tummy trouble. It never replaces meat, though.",
+      "amount": "One teaspoon to one tablespoon of well-cooked white rice, boiled in unsalted water and mixed into their food, once in a while. No fried rice, buttered rice or rice in sauce.",
+      "risks": [
+        "Rice cooked with onion, garlic, soy sauce or broth",
+        "Raw or undercooked rice: hard to digest",
+        "Constipation or bloating if overdone",
+        "Empty calories and weight gain"
+      ],
+      "ifEaten": "A little plain rice isn't a problem. If your cat ate a seasoned rice dish, watch for vomiting and diarrhea over 24 to 48 hours. Call your vet if symptoms appear or if the dish contained onion or garlic.",
+      "alternatives": "To treat your cat, focus on protein: plain cooked chicken, turkey or fish. For fiber, a spoonful of plain cooked pumpkin is another option.",
+      "faq": [
+        {
+          "q": "Is rice good for cats with diarrhea?",
+          "a": "A little white rice with plain cooked chicken can help short term, but check with your vet first. If diarrhea lasts more than 24 to 48 hours, or your cat vomits, stops eating, seems lethargic or is a kitten, see a vet right away."
+        },
+        {
+          "q": "Can cats eat brown rice?",
+          "a": "Yes, cooked and plain, but it has more fiber and is a bit harder to digest than white rice. Neither one is something your cat actually needs."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pates",
+    "verdict": "peu",
+    "related": ["riz", "semoule", "pain", "lasagnes"],
+    "fr": {
+      "short": "Un peu. Quelques pâtes cuites et nature ne sont pas dangereuses, mais elles sont inutiles pour ton chat, et les sauces sont à proscrire.",
+      "why": "Les pâtes sont faites de farine de blé et d'eau, parfois d'œuf : rien de toxique une fois cuites. Mais c'est surtout de l'amidon, dont le chat, carnivore strict, n'a pas besoin. Le vrai risque vient de ce qui les accompagne : sauce tomate à l'ail et à l'oignon, crème, fromage, lardons, beurre et sel.",
+      "amount": "Une ou deux pâtes cuites à l'eau, sans sel ni sauce, coupées en petits morceaux, de temps en temps. Pas plus : elles remplissent son estomac sans le nourrir.",
+      "risks": [
+        "Sauces à l'ail ou à l'oignon : toxiques",
+        "Crème, fromage, beurre ou lardons : gras et sel",
+        "Diarrhée ou ballonnements si en excès",
+        "Calories inutiles et prise de poids"
+      ],
+      "ifEaten": "Quelques pâtes nature, aucune inquiétude. S'il a mangé des pâtes en sauce, surveille vomissements, diarrhée ou abattement pendant 24 à 48 h. Si la sauce contenait de l'ail ou de l'oignon, appelle ton vétérinaire, même si tout semble aller bien.",
+      "alternatives": "Pour un vrai plaisir de carnivore, donne-lui un petit morceau de viande ou de poisson cuit nature. Les friandises pour chat sont aussi faites pour ça.",
+      "faq": [
+        {
+          "q": "Et les pâtes à la bolognaise ou à la carbonara ?",
+          "a": "Non. La bolognaise contient presque toujours de l'oignon et de l'ail, la carbonara des lardons salés, du fromage et parfois de la crème. Si tu veux partager, mets de côté une pâte nature avant d'ajouter la sauce."
+        },
+        {
+          "q": "Mon chat peut-il manger des pâtes crues ?",
+          "a": "Les pâtes sèches crues ne sont pas toxiques, mais elles sont dures et peu digestes. S'il en a croqué une ou deux, ce n'est pas grave ; évite simplement qu'il en fasse un jeu."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A few pieces of plain cooked pasta won't hurt your cat, but they add nothing, and pasta sauces are a no-go.",
+      "why": "Pasta is made from wheat flour and water, sometimes egg, and none of that is toxic once cooked. But it's mostly starch, which cats, as obligate carnivores, don't need. The real risk is what comes with it: tomato sauce with garlic and onion, cream, cheese, bacon, butter and salt.",
+      "amount": "One or two pieces of pasta boiled in unsalted water, with no sauce, cut small, once in a while. More than that just fills their stomach without feeding them.",
+      "risks": [
+        "Sauces with garlic or onion are toxic",
+        "Cream, cheese, butter or bacon: fat and salt",
+        "Diarrhea or bloating if overdone",
+        "Empty calories and weight gain"
+      ],
+      "ifEaten": "A few plain noodles are nothing to worry about. If your cat ate pasta with sauce, watch for vomiting, diarrhea or lethargy over 24 to 48 hours. If the sauce contained garlic or onion, call your vet even if your cat seems fine.",
+      "alternatives": "For a real carnivore treat, offer a small piece of plain cooked meat or fish. Cat treats are made for this too.",
+      "faq": [
+        {
+          "q": "Can cats eat spaghetti with tomato sauce?",
+          "a": "No. Most tomato sauces contain garlic and onion, plus salt and sometimes cheese. If you want to share, set aside a plain noodle before adding the sauce."
+        },
+        {
+          "q": "Can cats eat mac and cheese?",
+          "a": "It's best not to. It combines pasta with cheese, butter, milk and salt, so it brings fat and lactose your cat doesn't need, and some versions include onion or garlic powder."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pain",
+    "verdict": "peu",
+    "related": ["pate-crue", "pates", "beurre", "biscuits"],
+    "fr": {
+      "short": "Un peu. Un petit bout de pain cuit nature n'est pas dangereux pour ton chat, mais il ne lui apporte rien.",
+      "why": "Une fois cuit, le pain ne fermente plus : la chaleur a détruit la levure. Il reste surtout de l'amidon, inutile pour un carnivore, et du sel, parfois en quantité non négligeable. Le danger vient des ajouts comme les raisins secs, l'ail, l'oignon ou le chocolat, et surtout de la pâte crue, qui est une urgence.",
+      "amount": "Un morceau de mie de la taille d'un ongle, de temps en temps, sans beurre, sans confiture ni pâte à tartiner. Pas de pain aux raisins, aux noix, à l'ail ou aux oignons.",
+      "risks": [
+        "Pain aux raisins, à l'ail ou à l'oignon : toxique",
+        "Viennoiseries au chocolat : toxiques",
+        "Sel et calories inutiles",
+        "Ballonnements ou diarrhée si en excès"
+      ],
+      "ifEaten": "Un morceau de pain nature ne pose pas de problème. S'il a mangé du pain contenant des raisins secs, de l'ail, de l'oignon ou du chocolat, appelle ton vétérinaire. Et si c'était de la pâte crue, c'est une urgence : appelle-le tout de suite.",
+      "alternatives": "Si ton chat adore la mie, propose-lui plutôt une friandise pour chat croquante. Un petit morceau de poulet cuit nature lui fera encore plus plaisir.",
+      "faq": [
+        {
+          "q": "Pourquoi mon chat adore-t-il le pain ?",
+          "a": "On ne sait pas exactement. L'odeur de levure attire beaucoup de chats (on trouve d'ailleurs de la levure de bière dans certaines friandises), et le beurre éventuel aussi. Les chats ne perçoivent pas le goût sucré : ce n'est donc pas une question de sucre."
+        },
+        {
+          "q": "Et la brioche ou le pain au chocolat ?",
+          "a": "La brioche est riche en beurre, en sucre et en œuf : pas toxique, mais à éviter. Le pain au chocolat, lui, est interdit à cause du chocolat, même en petite quantité."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A small piece of plain baked bread isn't dangerous for your cat, but it doesn't give them anything useful.",
+      "why": "Once bread is baked, it stops fermenting because the heat kills the yeast. What's left is mostly starch, which a carnivore doesn't need, plus a fair amount of salt. The danger lies in add-ins like raisins, garlic, onion or chocolate, and above all in raw dough, which is an emergency.",
+      "amount": "A fingernail-sized bit of the soft inside, once in a while, with no butter, jam or spread. No raisin bread, nut bread, garlic bread or onion bagels.",
+      "risks": [
+        "Raisin, garlic or onion bread is toxic",
+        "Chocolate pastries are toxic",
+        "Salt and empty calories",
+        "Bloating or diarrhea if overdone"
+      ],
+      "ifEaten": "A piece of plain bread is no problem. If your cat ate bread with raisins, garlic, onion or chocolate, call your vet. And if it was raw dough, that's an emergency: call right away.",
+      "alternatives": "If your cat loves bread, offer a crunchy cat treat instead. A small piece of plain cooked chicken will please them even more.",
+      "faq": [
+        {
+          "q": "Why does my cat love bread?",
+          "a": "No one knows for sure. Many cats are drawn to the smell of yeast (brewer's yeast is even used in some cat treats), or to the butter on it. Cats can't taste sweetness, so it isn't about sugar."
+        },
+        {
+          "q": "Can cats eat garlic bread?",
+          "a": "No. Garlic is toxic to cats even when cooked, and garlic bread usually comes loaded with butter and salt too. If your cat ate some, call your vet, since signs of garlic poisoning can take a few days to show."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cereales",
+    "verdict": "peu",
+    "related": ["flocons-avoine", "lait", "chocolat", "raisins-secs"],
+    "fr": {
+      "short": "Un peu. Quelques céréales nature et peu sucrées ne sont pas dangereuses, mais elles sont inutiles, et certaines sont toxiques.",
+      "why": "Les céréales du petit-déjeuner sont surtout faites d'amidon et souvent de sucre, deux choses dont un chat carnivore n'a aucun besoin. Les versions nature ne sont pas toxiques en quelques pétales. Mais beaucoup contiennent des ingrédients à éviter pour lui, comme le chocolat, les raisins secs, les fruits à coque ou le miel, et on les sert en général avec du lait, mal digéré.",
+      "amount": "Deux ou trois pétales nature, sans sucre ajouté ni enrobage, de temps en temps, et jamais avec du lait. Lis la liste des ingrédients avant de partager.",
+      "risks": [
+        "Céréales au chocolat : toxiques",
+        "Raisins secs : risque d'atteinte rénale",
+        "Fruits à coque : gras, difficiles à digérer",
+        "Lait ajouté : diarrhée",
+        "Sucre et calories inutiles"
+      ],
+      "ifEaten": "Quelques céréales nature, pas d'inquiétude. S'il a mangé des céréales au chocolat ou aux raisins secs, appelle ton vétérinaire en lui précisant la quantité. Sinon, surveille vomissements et diarrhée pendant 24 à 48 h.",
+      "alternatives": "Pour un petit croquant, les friandises pour chat sont faites pour lui. Ses croquettes habituelles, données à la main, font aussi souvent l'affaire.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger des céréales avec du lait ?",
+          "a": "Non : le lait de vache donne souvent la diarrhée aux chats adultes. S'il vient lécher ton bol, c'est surtout le lait qui l'attire."
+        },
+        {
+          "q": "Et le muesli ou le granola ?",
+          "a": "À éviter : ils contiennent souvent des raisins secs, des fruits à coque, du miel, parfois du chocolat. Tous ces ingrédients sont déconseillés ou toxiques pour un chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A few plain, low-sugar cereal flakes won't hurt your cat, but they're useless for them, and some cereals are toxic.",
+      "why": "Breakfast cereal is mostly starch and often sugar, neither of which a carnivorous cat needs. Plain varieties aren't toxic in a few pieces. But many contain ingredients cats should avoid, like chocolate, raisins, nuts or honey, and cereal usually comes with milk, which most adult cats digest poorly.",
+      "amount": "Two or three plain flakes with no added sugar or coating, once in a while, and never with milk. Check the ingredient list before sharing.",
+      "risks": [
+        "Chocolate cereal is toxic",
+        "Raisins: risk of kidney damage",
+        "Nuts: fatty and hard to digest",
+        "Added milk: diarrhea",
+        "Sugar and empty calories"
+      ],
+      "ifEaten": "A few pieces of plain cereal are nothing to worry about. If your cat ate chocolate cereal or one with raisins, call your vet and tell them roughly how much. Otherwise, watch for vomiting and diarrhea over 24 to 48 hours.",
+      "alternatives": "For something crunchy, cat treats are made for them. A few pieces of their usual kibble, offered by hand, often do the trick too.",
+      "faq": [
+        {
+          "q": "Can cats eat cereal with milk?",
+          "a": "No. Cow's milk often gives adult cats diarrhea. If your cat keeps sniffing your bowl, it's probably the milk they're after."
+        },
+        {
+          "q": "Can cats eat granola?",
+          "a": "It's best not to. Granola often contains raisins, nuts, honey and sometimes chocolate, all of which are either unsuitable or toxic for cats."
+        }
+      ]
+    }
+  },
+  {
+    "id": "flocons-avoine",
+    "verdict": "peu",
+    "related": ["cereales", "riz", "quinoa", "citrouille"],
+    "fr": {
+      "short": "Un peu. Une petite cuillère de flocons d'avoine cuits à l'eau, nature, ne pose pas de problème, mais ce n'est pas utile à ton chat.",
+      "why": "L'avoine n'est pas toxique, et on en trouve parfois dans les aliments pour chat pour ses fibres. Mais c'est une céréale riche en amidon, dont le chat, carnivore strict, n'a pas besoin. Crus, les flocons gonflent avec le liquide et se digèrent moins bien : mieux vaut les cuire.",
+      "amount": "Une cuillère à café de flocons cuits à l'eau, sans lait, sans sucre ni sel, refroidis, de temps en temps. Pas de porridge garni de raisins secs, de chocolat ou de miel.",
+      "risks": [
+        "Flocons crus : ballonnements, digestion difficile",
+        "Porridge au lait : diarrhée",
+        "Raisins secs ou chocolat ajoutés : toxiques",
+        "Calories inutiles si c'est fréquent"
+      ],
+      "ifEaten": "Quelques flocons nature ne sont pas un souci. Surveille ballonnements, vomissements ou diarrhée pendant 24 à 48 h. S'il a mangé un porridge ou un muesli aux raisins secs ou au chocolat, appelle ton vétérinaire.",
+      "alternatives": "Si tu cherches des fibres pour son transit, une cuillère de citrouille cuite nature est une meilleure idée, et ton vétérinaire peut te conseiller un aliment adapté. Pour une récompense, préfère un petit morceau de viande cuite.",
+      "faq": [
+        {
+          "q": "Faut-il cuire les flocons d'avoine ?",
+          "a": "Oui, c'est préférable. Cuits à l'eau, ils sont plus digestes que crus, qui gonflent dans l'estomac. Laisse-les bien refroidir avant de les proposer."
+        },
+        {
+          "q": "Et le porridge au lait ?",
+          "a": "Non : le lait de vache donne souvent la diarrhée aux chats adultes, et le porridge est souvent sucré. Si tu veux partager, mets de côté une cuillère de flocons cuits à l'eau, nature."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A teaspoon of plain oatmeal cooked in water is fine for your cat, but it isn't something they need.",
+      "why": "Oats aren't toxic, and they sometimes show up in cat food as a source of fiber. But they're a starchy grain, which an obligate carnivore doesn't need. Raw oats soak up liquid and are harder to digest, so cooked is better.",
+      "amount": "A teaspoon of oatmeal cooked in water, with no milk, sugar or salt, cooled down, once in a while. No oatmeal topped with raisins, chocolate chips or honey.",
+      "risks": [
+        "Raw oats: bloating, harder to digest",
+        "Oatmeal made with milk: diarrhea",
+        "Raisins or chocolate added: toxic",
+        "Empty calories if given often"
+      ],
+      "ifEaten": "A little plain oatmeal is nothing to worry about. Watch for bloating, vomiting or diarrhea over 24 to 48 hours. If your cat ate oatmeal or granola with raisins or chocolate, call your vet.",
+      "alternatives": "If you're looking for fiber to help digestion, a spoonful of plain cooked pumpkin is a better pick, and your vet can suggest a suitable food. As a reward, a small piece of cooked meat beats oatmeal every time.",
+      "faq": [
+        {
+          "q": "Can cats eat raw oats?",
+          "a": "It's better to cook them. Raw oats swell with liquid in the stomach and are harder to digest; cooked in water and cooled, they go down more easily."
+        },
+        {
+          "q": "Can cats eat flavored instant oatmeal?",
+          "a": "Avoid it. Flavored packets usually contain sugar, salt and flavorings, and some include raisins or chocolate. Plain oats cooked in water are the only version worth sharing."
+        }
+      ]
+    }
+  },
+  {
+    "id": "quinoa",
+    "verdict": "peu",
+    "related": ["riz", "semoule", "lentilles", "flocons-avoine"],
+    "fr": {
+      "short": "Un peu. Une petite cuillère de quinoa bien rincé et cuit nature n'est pas dangereuse, mais il ne remplace jamais la viande.",
+      "why": "Le quinoa est une graine riche en amidon, avec un peu de protéines végétales, mais ces protéines ne conviennent pas à un carnivore strict : elles n'apportent pas la taurine dont le chat a besoin. Sa surface est recouverte de saponines, des composés amers qui peuvent irriter le tube digestif ; on les élimine en le rinçant avant cuisson. Il contient aussi des oxalates, à éviter chez un chat sujet aux calculs urinaires.",
+      "amount": "Une cuillère à café de quinoa rincé, cuit à l'eau sans sel ni assaisonnement, de temps en temps. Pas de salade de quinoa avec oignon, ail, vinaigrette ou citron.",
+      "risks": [
+        "Quinoa mal rincé : irritation digestive",
+        "Salades avec oignon, ail ou vinaigrette",
+        "Ballonnements ou diarrhée si en excès",
+        "Oxalates : prudence en cas de calculs urinaires"
+      ],
+      "ifEaten": "Un peu de quinoa nature ne pose pas de problème. Surveille vomissements ou diarrhée pendant 24 à 48 h. Appelle ton vétérinaire si des symptômes apparaissent ou si le plat contenait de l'oignon ou de l'ail.",
+      "alternatives": "Pour des protéines utiles, rien ne vaut un petit morceau de poulet, de dinde ou de poisson cuit nature. Les friandises pour chat sont aussi formulées pour ses besoins.",
+      "faq": [
+        {
+          "q": "Le quinoa est-il une bonne source de protéines pour un chat ?",
+          "a": "Non. Le chat a besoin de protéines animales, qui apportent notamment la taurine, absente des végétaux. Le quinoa peut au mieux être une petite touche dans sa gamelle, jamais une base."
+        },
+        {
+          "q": "Faut-il rincer le quinoa avant de le donner ?",
+          "a": "Oui, rince-le bien à l'eau froide avant la cuisson, même si le paquet indique qu'il est déjà lavé. Cela retire les saponines amères qui peuvent irriter son estomac."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A teaspoon of well-rinsed, plain cooked quinoa isn't dangerous for your cat, but it never replaces meat.",
+      "why": "Quinoa is a starchy seed with some plant protein, but that protein doesn't suit an obligate carnivore: plants don't provide the taurine cats need. Its outer layer is coated with saponins, bitter compounds that can irritate the digestive tract, which rinsing before cooking removes. It also contains oxalates, so it's best avoided in cats prone to urinary stones.",
+      "amount": "A teaspoon of rinsed quinoa cooked in unsalted water with no seasoning, once in a while. No quinoa salads with onion, garlic, dressing or lemon.",
+      "risks": [
+        "Poorly rinsed quinoa: digestive irritation",
+        "Salads with onion, garlic or dressing",
+        "Bloating or diarrhea if overdone",
+        "Oxalates: caution if your cat has urinary stones"
+      ],
+      "ifEaten": "A little plain quinoa isn't a problem. Watch for vomiting or diarrhea over 24 to 48 hours. Call your vet if symptoms appear or if the dish contained onion or garlic.",
+      "alternatives": "For protein that actually counts, nothing beats a small piece of plain cooked chicken, turkey or fish. Cat treats are formulated for their needs too.",
+      "faq": [
+        {
+          "q": "Is quinoa a good protein source for cats?",
+          "a": "No. Cats need animal protein, which supplies taurine, among other things; plants don't contain it. Quinoa can be a tiny extra at most, never a base."
+        },
+        {
+          "q": "Can cats eat quinoa salad?",
+          "a": "Usually not. Quinoa salads often include onion, garlic, herbs, lemon and dressing. If you want to share, set aside a spoonful of plain cooked quinoa before mixing."
+        }
+      ]
+    }
+  },
+  {
+    "id": "semoule",
+    "verdict": "peu",
+    "related": ["couscous", "pates", "riz", "quinoa"],
+    "fr": {
+      "short": "Un peu. Une petite cuillère de semoule cuite à l'eau, nature, ne pose pas de problème, mais elle est inutile pour ton chat.",
+      "why": "La semoule est du blé dur moulu, comme les pâtes : pas toxique, mais composée surtout d'amidon, dont le chat n'a pas besoin. Le problème vient de la façon dont on la mange : avec le bouillon épicé du couscous, des merguez, du beurre, ou en dessert, cuite dans du lait sucré.",
+      "amount": "Une cuillère à café de semoule cuite à l'eau, sans sel ni beurre, refroidie, de temps en temps. Pas de semoule arrosée de bouillon, ni de gâteau de semoule.",
+      "risks": [
+        "Bouillon de couscous : oignon, épices, sel",
+        "Merguez et viandes épicées : gras et ail",
+        "Semoule au lait : lactose et sucre",
+        "Ballonnements ou diarrhée si en excès"
+      ],
+      "ifEaten": "Un peu de semoule nature ne pose pas de problème. S'il a mangé de la semoule avec du bouillon ou de la sauce, surveille vomissements et diarrhée pendant 24 à 48 h. Appelle ton vétérinaire si elle contenait de l'oignon ou de l'ail, ou si des symptômes apparaissent.",
+      "alternatives": "Si tu prépares un couscous, mets de côté un petit morceau de poulet ou d'agneau cuit sans épices, avant la sauce. Les friandises pour chat sont une autre option sûre.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du couscous ?",
+          "a": "Pas le plat complet : le bouillon contient de l'oignon, souvent de l'ail et des épices, et les merguez sont grasses et pimentées. Une cuillère de semoule nature, mise de côté avant le bouillon, passe en revanche."
+        },
+        {
+          "q": "Et le gâteau de semoule ?",
+          "a": "Non : il est cuit dans du lait avec du sucre, et contient parfois des raisins secs, toxiques pour le chat. Garde-le pour le dessert des humains."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A teaspoon of plain semolina cooked in water won't hurt your cat, but it gives them nothing they need.",
+      "why": "Semolina is coarsely ground durum wheat, the same thing pasta and couscous are made from. It isn't toxic, but it's mostly starch, which cats don't need. The problems come from how it's usually served: in a spiced couscous broth with sausage, with butter, or as a dessert cooked in sweetened milk.",
+      "amount": "A teaspoon of semolina cooked in water with no salt or butter, cooled, once in a while. No couscous soaked in broth and no semolina pudding.",
+      "risks": [
+        "Couscous broth: onion, spices, salt",
+        "Spicy sausages and meats: fat and garlic",
+        "Semolina pudding: lactose and sugar",
+        "Bloating or diarrhea if overdone"
+      ],
+      "ifEaten": "A little plain semolina isn't a problem. If your cat ate some with broth or sauce, watch for vomiting and diarrhea over 24 to 48 hours. Call your vet if it contained onion or garlic or if symptoms appear.",
+      "alternatives": "If you're cooking couscous, set aside a small piece of chicken or lamb cooked without spices, before the sauce goes on. Cat treats are another safe option.",
+      "faq": [
+        {
+          "q": "Can cats eat couscous?",
+          "a": "Plain couscous cooked in water is fine in a small spoonful. Couscous dishes with broth, onion, garlic or spices are not."
+        },
+        {
+          "q": "Can cats eat semolina pudding?",
+          "a": "No. It's cooked in milk with sugar and sometimes raisins, which are toxic to cats. Keep it for the humans."
+        }
+      ]
+    }
+  },
+  {
+    "id": "lentilles",
+    "verdict": "peu",
+    "related": ["pois-chiches", "petits-pois", "haricots-verts", "riz"],
+    "fr": {
+      "short": "Un peu. Quelques lentilles bien cuites et nature ne sont pas toxiques pour ton chat, mais elles donnent facilement des gaz.",
+      "why": "Les lentilles sont des légumineuses riches en amidon et en fibres, qui fermentent dans l'intestin et provoquent gaz et ballonnements. Crues ou mal cuites, elles contiennent des lectines et d'autres composés qui irritent le tube digestif ; la cuisson les neutralise en grande partie. Leurs protéines végétales ne remplacent pas la viande pour un carnivore strict.",
+      "amount": "Une cuillère à café de lentilles bien cuites à l'eau, sans sel, écrasées, de temps en temps. Rince bien les lentilles en conserve, souvent salées.",
+      "risks": [
+        "Gaz, ballonnements, inconfort digestif",
+        "Lentilles crues ou mal cuites : irritation digestive",
+        "Plats cuisinés avec oignon, ail, lardons ou saucisse",
+        "Conserves salées"
+      ],
+      "ifEaten": "Quelques lentilles nature ne sont pas un problème : au pire, quelques gaz. S'il a mangé un plat de lentilles cuisiné, surveille vomissements, diarrhée ou abattement pendant 24 à 48 h. Appelle ton vétérinaire si le plat contenait de l'oignon ou de l'ail.",
+      "alternatives": "Si tu veux lui donner un légume, les petits pois ou les haricots verts cuits nature passent mieux. Pour les protéines, un morceau de viande cuite reste la référence.",
+      "faq": [
+        {
+          "q": "Et les lentilles en conserve ?",
+          "a": "Elles sont déjà cuites, mais souvent salées : rince-les bien à l'eau claire. Évite celles qui sont cuisinées, comme le petit salé aux lentilles, avec lardons et oignons."
+        },
+        {
+          "q": "Et la soupe de lentilles ou le dahl ?",
+          "a": "Non : ces plats contiennent presque toujours de l'oignon, de l'ail et des épices comme le curry. L'oignon et l'ail sont toxiques pour le chat, même cuits."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A few well-cooked plain lentils aren't toxic to your cat, but they can easily cause gas.",
+      "why": "Lentils are legumes full of starch and fiber that ferment in the gut and cause gas and bloating. Raw or undercooked, they contain lectins and other compounds that irritate the digestive tract; thorough cooking neutralizes most of them. Their plant protein doesn't replace meat for an obligate carnivore.",
+      "amount": "A teaspoon of well-cooked lentils, boiled without salt and mashed, once in a while. Rinse canned lentils well, since they're often salted.",
+      "risks": [
+        "Gas, bloating, tummy discomfort",
+        "Raw or undercooked lentils: digestive irritation",
+        "Dishes cooked with onion, garlic, bacon or sausage",
+        "Salt in canned lentils"
+      ],
+      "ifEaten": "A few plain lentils aren't a problem; at worst, some gas. If your cat ate a seasoned lentil dish, watch for vomiting, diarrhea or lethargy over 24 to 48 hours. Call your vet if it contained onion or garlic.",
+      "alternatives": "If you want to give a vegetable, plain cooked peas or green beans go down more easily. For protein, a piece of cooked meat is still the gold standard.",
+      "faq": [
+        {
+          "q": "Can cats eat canned lentils?",
+          "a": "They're already cooked but often salted, so rinse them well under running water. Skip any that are seasoned or packed with onion or bacon."
+        },
+        {
+          "q": "Can cats eat lentil soup?",
+          "a": "No. Lentil soup and dal almost always contain onion, garlic and spices. Onion and garlic are toxic to cats, even cooked."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pois-chiches",
+    "verdict": "peu",
+    "related": ["lentilles", "petits-pois", "ail", "couscous"],
+    "fr": {
+      "short": "Un peu. Un ou deux pois chiches bien cuits et nature ne sont pas dangereux pour ton chat, mais le houmous, lui, est à éviter.",
+      "why": "Comme les lentilles, les pois chiches sont des légumineuses riches en amidon et en fibres : ils fermentent dans l'intestin et donnent facilement des gaz. Crus ou mal cuits, ils sont indigestes et contiennent des composés irritants que la cuisson neutralise. Entiers, ils peuvent aussi être avalés tout ronds par un chat gourmand.",
+      "amount": "Un ou deux pois chiches bien cuits, sans sel, écrasés, de temps en temps. Rince bien ceux en conserve, et oublie les pois chiches grillés, salés ou épicés.",
+      "risks": [
+        "Gaz et ballonnements",
+        "Pois chiches crus ou mal cuits : indigestes",
+        "Houmous : ail, citron, sel",
+        "Pois chiches grillés : sel, épices, durs à mâcher"
+      ],
+      "ifEaten": "Un pois chiche nature, pas d'inquiétude. S'il a mangé du houmous, appelle ton vétérinaire pour savoir si la quantité d'ail est préoccupante : ses effets peuvent n'apparaître qu'après plusieurs jours. Pour un autre plat assaisonné, surveille vomissements et diarrhée pendant 24 à 48 h.",
+      "alternatives": "Si tu veux partager un légume, les petits pois ou les haricots verts cuits nature passent mieux. Pour une vraie récompense, mise sur la viande ou le poisson cuits.",
+      "faq": [
+        {
+          "q": "Mon chat peut-il manger du houmous ?",
+          "a": "Non : le houmous contient de l'ail, du jus de citron, du sel et de la crème de sésame, très grasse. L'ail est toxique pour le chat, même en petite quantité."
+        },
+        {
+          "q": "Et les pois chiches crus ?",
+          "a": "Non plus : crus, ils sont très indigestes et contiennent des composés irritants. Ils doivent toujours être bien cuits."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. One or two well-cooked plain chickpeas aren't dangerous for your cat, but hummus is a different story.",
+      "why": "Like lentils, chickpeas are starchy, fiber-rich legumes that ferment in the gut and easily cause gas. Raw or undercooked, they're hard to digest and contain irritating compounds that cooking neutralizes. Whole, they can also be gulped down without chewing by an eager cat.",
+      "amount": "One or two well-cooked chickpeas, unsalted and mashed, once in a while. Rinse canned ones well, and skip roasted, salted or spiced chickpeas.",
+      "risks": [
+        "Gas and bloating",
+        "Raw or undercooked chickpeas are hard to digest",
+        "Hummus: garlic, lemon, salt",
+        "Roasted chickpeas: salt, spices, hard to chew"
+      ],
+      "ifEaten": "One plain chickpea is nothing to worry about. If your cat ate hummus, call your vet to check whether the amount of garlic is a concern, since its effects can take several days to appear. For other seasoned chickpea dishes, watch for vomiting or diarrhea over 24 to 48 hours.",
+      "alternatives": "If you want to share a vegetable, plain cooked peas or green beans go down more easily. For a real treat, go with cooked meat or fish.",
+      "faq": [
+        {
+          "q": "Can cats eat hummus?",
+          "a": "No. Hummus contains garlic, lemon juice, salt and fatty tahini. Garlic is toxic to cats, even in small amounts."
+        },
+        {
+          "q": "Can cats eat roasted chickpeas?",
+          "a": "It's better not to. They're usually salted or spiced, sometimes with garlic powder, and they're hard enough to be a choking risk."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pate-crue",
+    "verdict": "non",
+    "related": ["pain", "alcool", "pizza", "gateau"],
+    "fr": {
+      "short": "Non. La pâte crue levée gonfle et fermente dans l'estomac de ton chat en produisant de l'alcool : c'est une urgence vétérinaire.",
+      "why": "Dans la chaleur de l'estomac, la levure continue de travailler : la pâte gonfle, peut distendre l'estomac et provoquer de fortes douleurs. La fermentation produit aussi de l'éthanol, qui passe dans le sang et provoque une intoxication à l'alcool. Les pâtes sans levure, comme la pâte à biscuits ou à tarte, ne gonflent pas, mais contiennent de la farine crue, souvent de l'œuf cru et du sucre, parfois du chocolat.",
+      "amount": "Aucune quantité n'est sûre. Laisse lever la pâte couverte, hors de portée, dans une pièce où ton chat n'entre pas, et ne le laisse pas lécher le saladier ni les ustensiles.",
+      "risks": [
+        "Ventre gonflé et douloureux, efforts pour vomir sans y arriver",
+        "Démarche ivre, désorientation, abattement",
+        "Baisse de la température du corps et du taux de sucre dans le sang",
+        "Convulsions dans les cas graves",
+        "Farine et œufs crus : bactéries comme E. coli ou salmonelle"
+      ],
+      "ifEaten": "Appelle ton vétérinaire ou une clinique d'urgence tout de suite, même si ton chat semble aller bien : les signes peuvent apparaître en quelques heures. Ne le fais pas vomir toi-même, les méthodes maison sont dangereuses pour un chat et c'est au vétérinaire d'en décider. Note l'heure et la quantité approximative avalée.",
+      "alternatives": "Si ton chat traîne dans la cuisine pendant que tu cuisines, occupe-le avec une friandise pour chat ou un jouet. Une fois cuit, un tout petit bout de pain nature n'est pas dangereux.",
+      "faq": [
+        {
+          "q": "Et la pâte à cookies ou à gâteau crue ?",
+          "a": "Elle ne gonfle pas comme la pâte levée, mais elle contient de la farine et des œufs crus, du sucre, du beurre et souvent du chocolat. Appelle ton vétérinaire pour savoir quoi faire, surtout s'il y avait du chocolat."
+        },
+        {
+          "q": "La pâte une fois cuite est-elle dangereuse ?",
+          "a": "Non : la cuisson tue la levure, donc le pain cuit ne fermente plus. Un petit morceau de pain nature n'est pas dangereux, même s'il n'apporte rien à ton chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Raw yeast dough keeps rising and fermenting in your cat's stomach, producing alcohol, and it's a veterinary emergency.",
+      "why": "In the warmth of the stomach, the yeast keeps working: the dough expands, can stretch the stomach and cause severe pain. Fermentation also produces ethanol, which is absorbed into the bloodstream and causes alcohol poisoning. Doughs without yeast, like cookie or pie dough, don't rise, but they still contain raw flour, often raw egg and sugar, and sometimes chocolate.",
+      "amount": "No amount is safe. Let dough rise covered, out of reach, in a room your cat can't get into, and don't let them lick the bowl or utensils.",
+      "risks": [
+        "Swollen, painful belly; trying to vomit without success",
+        "Wobbly walking, disorientation, lethargy",
+        "Low body temperature and low blood sugar",
+        "Seizures in severe cases",
+        "Raw flour and eggs: bacteria such as E. coli or salmonella"
+      ],
+      "ifEaten": "Call your vet or an emergency clinic right away, even if your cat seems fine: signs can appear within a few hours. Don't try to make your cat vomit yourself; home methods are dangerous for cats, and that decision belongs to the vet. Note the time and roughly how much was eaten.",
+      "alternatives": "If your cat hangs around the kitchen while you bake, keep them busy with a cat treat or a toy. Once baked, a tiny piece of plain bread isn't dangerous.",
+      "faq": [
+        {
+          "q": "What about raw cookie dough?",
+          "a": "It doesn't rise like yeast dough, but it contains raw flour and eggs, sugar, butter and often chocolate. Call your vet for advice, especially if there was chocolate in it."
+        },
+        {
+          "q": "Is baked bread dangerous too?",
+          "a": "No. Baking kills the yeast, so bread no longer ferments. A small piece of plain bread isn't dangerous, even if it doesn't do your cat any good."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cacahuetes",
+    "verdict": "non",
+    "related": ["beurre-cacahuete", "noix", "mafe", "chips"],
+    "fr": {
+      "short": "Non. Les cacahuètes ne sont pas toxiques en soi, mais elles sont très grasses, souvent salées, et faciles à avaler de travers.",
+      "why": "La cacahuète est une légumineuse, pas une noix, mais elle est tout aussi grasse : en quantité, ce gras provoque vomissements et diarrhée, et peut favoriser une pancréatite. Les cacahuètes apéritif sont en plus salées, parfois enrobées ou aromatisées à l'ail ou à l'oignon. Petites et dures, elles peuvent faire s'étouffer un chat, et mal conservées, elles peuvent porter des moisissures toxiques, les aflatoxines.",
+      "amount": "On évite, même nature et non salées : elles n'apportent rien à ton chat. Range les bols d'apéritif hors de sa portée.",
+      "risks": [
+        "Vomissements, diarrhée",
+        "Pancréatite possible après une grosse quantité",
+        "Sel en excès : soif intense, troubles digestifs",
+        "Étouffement ou blocage avec une cacahuète entière ou la coque",
+        "Enrobages à l'ail, à l'oignon ou au chocolat"
+      ],
+      "ifEaten": "Une ou deux cacahuètes ne sont en général pas graves : surveille vomissements, diarrhée et abattement pendant 24 à 48 h. Appelle ton vétérinaire s'il en a mangé une bonne quantité, s'il tousse ou a du mal à respirer, ou si elles étaient enrobées de chocolat ou aromatisées à l'ail.",
+      "alternatives": "Pour l'apéro, prévois-lui ses propres friandises pour chat. Un petit morceau de poulet cuit nature fait aussi très plaisir.",
+      "faq": [
+        {
+          "q": "Et les cacahuètes nature, non salées ?",
+          "a": "Elles sont moins problématiques que les salées, mais restent très grasses et difficiles à digérer. Une cacahuète tombée par terre n'est pas grave ; ce n'est simplement pas une friandise à lui donner."
+        },
+        {
+          "q": "Et les cacahuètes enrobées de chocolat ?",
+          "a": "Là, c'est plus sérieux à cause du chocolat, toxique pour le chat. Appelle ton vétérinaire en lui indiquant combien il en a mangé."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Peanuts aren't toxic in themselves, but they're very fatty, often salted, and easy for a cat to choke on.",
+      "why": "Peanuts are legumes rather than true nuts, but they're just as fatty: in larger amounts, that fat causes vomiting and diarrhea and may contribute to pancreatitis. Snack peanuts are also salted, and some are coated or flavored with garlic or onion. They're small and hard enough to be a choking hazard, and poorly stored peanuts can carry toxic molds called aflatoxins.",
+      "amount": "Skip them, even plain and unsalted: they add nothing for your cat. Keep snack bowls out of reach.",
+      "risks": [
+        "Vomiting, diarrhea",
+        "Possible pancreatitis after a large amount",
+        "Too much salt: intense thirst, stomach upset",
+        "Choking or blockage from a whole peanut or shell",
+        "Coatings with garlic, onion or chocolate"
+      ],
+      "ifEaten": "One or two peanuts usually aren't serious: watch for vomiting, diarrhea and lethargy over 24 to 48 hours. Call your vet if your cat ate a good amount, is coughing or struggling to breathe, or if the peanuts were chocolate-covered or garlic-flavored.",
+      "alternatives": "At snack time, keep some cat treats handy for your cat. A small piece of plain cooked chicken goes over well too.",
+      "faq": [
+        {
+          "q": "Can cats eat unsalted peanuts?",
+          "a": "They're less of a problem than salted ones, but still very fatty and hard to digest. A peanut dropped on the floor isn't a big deal; it just isn't a treat to offer."
+        },
+        {
+          "q": "Can cats eat peanut shells?",
+          "a": "No. Shells are hard to digest, can cause choking or a blockage, and are more likely to carry mold. Keep them out of reach and toss them right away."
+        }
+      ]
+    }
+  },
+  {
+    "id": "beurre-cacahuete",
+    "verdict": "non",
+    "related": ["cacahuetes", "chewing-gum", "nutella", "mafe"],
+    "fr": {
+      "short": "Non. Le beurre de cacahuète est très gras, souvent salé et sucré, et certaines versions contiennent du xylitol : on évite.",
+      "why": "C'est de la cacahuète broyée, donc un concentré de gras qui peut provoquer vomissements et diarrhée, et favoriser une pancréatite. On y ajoute souvent du sel, du sucre et de l'huile. Certaines versions allégées ou sans sucre contiennent du xylitol (E967), très toxique pour le chien ; chez le chat, les données sont plus limitées, mais par prudence on l'évite totalement. Sa texture collante peut aussi le gêner pour avaler.",
+      "amount": "Pas de beurre de cacahuète, même pour cacher un médicament. S'il en a léché un peu sur ton doigt, ce n'est pas grave en soi, mais vérifie toujours l'étiquette.",
+      "risks": [
+        "Vomissements, diarrhée",
+        "Pancréatite possible après une grosse quantité",
+        "Xylitol dans certaines versions : très toxique chez le chien",
+        "Sel et sucre ajoutés",
+        "Texture collante : gêne pour avaler"
+      ],
+      "ifEaten": "Une petite léchouille de beurre de cacahuète classique n'est en général pas grave : surveille vomissements et diarrhée pendant 24 à 48 h. S'il en a mangé une bonne quantité, ou si l'étiquette mentionne du xylitol (E967), appelle ton vétérinaire sans attendre.",
+      "alternatives": "Pour donner un médicament, il existe des friandises pour chat conçues pour cacher un comprimé, ou un peu de pâtée fait l'affaire. Pour une récompense à lécher, les friandises crémeuses pour chat en tube sont faites pour ça.",
+      "faq": [
+        {
+          "q": "Peut-on cacher un médicament dans du beurre de cacahuète ?",
+          "a": "Mieux vaut pas. Utilise plutôt une friandise conçue pour cacher les comprimés ou un peu de pâtée, ou demande à ton vétérinaire si le médicament existe sous une autre forme, liquide ou en pâte."
+        },
+        {
+          "q": "Et le beurre de cacahuète sans sucre ?",
+          "a": "Attention : c'est justement dans les versions sans sucre ou allégées qu'on trouve parfois du xylitol, aussi appelé sucre de bouleau ou E967. Et même sans xylitol, il reste trop gras pour un chat."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Peanut butter is very fatty, often salted and sweetened, and some versions contain xylitol, so it's best avoided.",
+      "why": "It's ground peanuts, so it's concentrated fat that can cause vomiting and diarrhea and may contribute to pancreatitis. Salt, sugar and oil are often added. Some reduced-sugar or sugar-free versions contain xylitol, which is highly toxic to dogs; data in cats is more limited, but it's wise to avoid it completely. The sticky texture can also be hard for a cat to swallow.",
+      "amount": "No peanut butter, not even to hide a pill. If your cat licked a little off your finger, that's not serious in itself, but always check the label.",
+      "risks": [
+        "Vomiting, diarrhea",
+        "Possible pancreatitis after a large amount",
+        "Xylitol in some versions: highly toxic to dogs",
+        "Added salt and sugar",
+        "Sticky texture: hard to swallow"
+      ],
+      "ifEaten": "A small lick of regular peanut butter usually isn't serious: watch for vomiting and diarrhea over 24 to 48 hours. If your cat ate a good amount, or the label lists xylitol (sometimes called birch sugar), call your vet right away.",
+      "alternatives": "To give a pill, use a pill treat made for cats or a bit of wet food. For a lickable reward, creamy squeeze-tube treats for cats are made for exactly that.",
+      "faq": [
+        {
+          "q": "Can I use peanut butter to give my cat a pill?",
+          "a": "It's better not to. Use a pill treat made for cats or a little wet food, or ask your vet whether the medication comes in a liquid or paste form."
+        },
+        {
+          "q": "Is natural peanut butter safe for cats?",
+          "a": "Without xylitol or added sugar, it's less risky, but it's still very fatty and often salted. A lick won't hurt, but it isn't a treat to give."
+        }
+      ]
+    }
+  },
+  {
+    "id": "noix",
+    "verdict": "non",
+    "related": ["amandes", "noisettes", "noix-de-cajou", "cacahuetes"],
+    "fr": {
+      "short": "Non. Les noix sont très grasses, difficiles à digérer pour un chat, et les noix moisies peuvent contenir des toxines dangereuses.",
+      "why": "Comme les autres fruits à coque, les noix sont très riches en graisses : en quantité, elles provoquent vomissements et diarrhée, et peuvent favoriser une pancréatite. Quand elles moisissent, notamment celles ramassées au sol, elles peuvent porter des moisissures qui produisent des mycotoxines responsables de tremblements et de convulsions, des intoxications documentées chez le chien. Un cerneau ou un morceau de coque avalé peut aussi faire s'étouffer un chat.",
+      "amount": "Pas de noix pour ton chat, ni fraîches, ni sèches, ni dans un gâteau ou une salade. S'il a accès au jardin, ramasse les noix tombées au sol.",
+      "risks": [
+        "Vomissements, diarrhée",
+        "Pancréatite possible après une grosse quantité",
+        "Noix moisies : tremblements, convulsions",
+        "Étouffement ou blocage intestinal avec la coque"
+      ],
+      "ifEaten": "Un petit morceau de cerneau frais n'est en général pas grave : surveille vomissements et diarrhée pendant 24 à 48 h. Si la noix était moisie, s'il en a mangé plusieurs, ou s'il tremble, titube ou a du mal à respirer, appelle ton vétérinaire immédiatement.",
+      "alternatives": "Pour une friandise croquante, choisis des friandises pour chat. Un petit morceau de viande ou de poisson cuit nature lui fera plus plaisir qu'une noix.",
+      "faq": [
+        {
+          "q": "Et les noix moisies ou tombées de l'arbre ?",
+          "a": "Ce sont les plus dangereuses : les moisissures peuvent produire des toxines qui provoquent tremblements et convulsions. Si ton chat en a mâchonné, appelle ton vétérinaire, même s'il semble aller bien."
+        },
+        {
+          "q": "Et le pain ou le gâteau aux noix ?",
+          "a": "À éviter : en plus des noix, ils apportent du sucre, du beurre et parfois des raisins secs, toxiques pour le chat. Une miette tombée n'est pas grave, mais ne partage pas ta part."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Walnuts are very fatty and hard for cats to digest, and moldy walnuts can carry toxins that cause tremors.",
+      "why": "Like other tree nuts, walnuts are very high in fat: in larger amounts, they cause vomiting and diarrhea and may contribute to pancreatitis. When they go moldy, especially nuts that have fallen to the ground, they can harbor molds that produce tremorgenic mycotoxins, which cause tremors and seizures, as documented in dogs. A piece of walnut or shell can also be a choking hazard.",
+      "amount": "No walnuts for your cat, fresh, dried, or baked into cakes or salads. If your cat goes outside, pick up fallen walnuts in your yard.",
+      "risks": [
+        "Vomiting, diarrhea",
+        "Possible pancreatitis after a large amount",
+        "Moldy walnuts: tremors, seizures",
+        "Choking or intestinal blockage from shells"
+      ],
+      "ifEaten": "A small piece of fresh walnut usually isn't serious: watch for vomiting and diarrhea over 24 to 48 hours. If the walnut was moldy, your cat ate several, or they're trembling, wobbly or having trouble breathing, call your vet right away.",
+      "alternatives": "For something crunchy, choose cat treats. A small piece of plain cooked meat or fish will please your cat far more than a walnut.",
+      "faq": [
+        {
+          "q": "What about black walnuts or walnuts from the yard?",
+          "a": "Fallen walnuts, black walnuts included, often go moldy, and those molds can produce toxins that cause tremors and seizures. If your cat chewed on one, call your vet even if they seem fine."
+        },
+        {
+          "q": "Can cats eat banana bread with walnuts?",
+          "a": "Best not. On top of the nuts, it brings sugar and butter, and some recipes add raisins, which are toxic to cats. A crumb on the floor isn't a problem, but don't share your slice."
+        }
+      ]
+    }
+  },
+  {
+    "id": "amandes",
+    "verdict": "non",
+    "related": ["noix", "noisettes", "pistaches", "lait-vegetal"],
+    "fr": {
+      "short": "Non. Les amandes sont très grasses, dures à digérer et, entières, peuvent faire s'étouffer ton chat ou bloquer son intestin.",
+      "why": "Les amandes du commerce, dites douces, ne sont pas considérées comme toxiques, mais elles sont riches en graisses : en quantité, vomissements, diarrhée et pancréatite possible. Une amande entière est dure et assez grosse pour rester coincée dans la gorge ou l'intestin d'un chat. Les amandes amères, rares dans le commerce, contiennent en plus des composés cyanogènes.",
+      "amount": "Pas d'amandes pour ton chat, ni nature, ni grillées, ni salées, ni enrobées. Attention aussi aux pâtisseries et aux mélanges apéritif.",
+      "risks": [
+        "Vomissements, diarrhée",
+        "Étouffement avec une amande entière",
+        "Blocage intestinal",
+        "Amandes salées ou aromatisées : sel, ail, épices",
+        "Pancréatite possible après une grosse quantité"
+      ],
+      "ifEaten": "Une amande avalée n'est en général pas grave : surveille vomissements, diarrhée, perte d'appétit et ventre douloureux pendant 24 à 48 h. Appelle ton vétérinaire s'il tousse, a du mal à respirer ou à avaler, vomit à répétition ou ne va plus à la selle.",
+      "alternatives": "Pour une friandise croquante, les friandises pour chat sont faites pour lui. Un morceau de poulet cuit nature est aussi une bonne récompense.",
+      "faq": [
+        {
+          "q": "Et le lait d'amande ?",
+          "a": "Il n'est pas toxique, mais il n'est pas adapté : souvent sucré, parfois aromatisé, et sans intérêt nutritionnel pour un chat. Si tu veux lui faire plaisir, préfère un lait spécial chat, sans lactose."
+        },
+        {
+          "q": "Et la pâte d'amande ou la poudre d'amande ?",
+          "a": "La pâte d'amande est surtout du sucre, la poudre d'amande un concentré de gras, et on les retrouve dans des pâtisseries souvent beurrées ou chocolatées. À éviter."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Almonds are very fatty and hard to digest, and a whole almond can make your cat choke or block their intestines.",
+      "why": "The sweet almonds sold in stores aren't considered toxic, but they're high in fat: in larger amounts, that means vomiting, diarrhea and possibly pancreatitis. A whole almond is hard and big enough to get stuck in a cat's throat or gut. Bitter almonds, rarely sold, also contain cyanogenic compounds.",
+      "amount": "No almonds for your cat, whether raw, roasted, salted or coated. Watch out for baked goods and trail mixes too.",
+      "risks": [
+        "Vomiting, diarrhea",
+        "Choking on a whole almond",
+        "Intestinal blockage",
+        "Salted or flavored almonds: salt, garlic, spices",
+        "Possible pancreatitis after a large amount"
+      ],
+      "ifEaten": "One swallowed almond usually isn't serious: watch for vomiting, diarrhea, loss of appetite and a painful belly over 24 to 48 hours. Call your vet if your cat is coughing, struggling to breathe or swallow, vomiting repeatedly or not passing stool.",
+      "alternatives": "For a crunchy treat, cat treats are made for them. A piece of plain cooked chicken is a great reward too.",
+      "faq": [
+        {
+          "q": "Can cats drink almond milk?",
+          "a": "It isn't toxic, but it isn't suitable either: it's often sweetened or flavored and offers nothing nutritionally for a cat. Lactose-free milk made for cats is a better treat."
+        },
+        {
+          "q": "Can cats eat almond butter?",
+          "a": "It's best not to. It's concentrated almond fat, and like other nut butters, some versions contain added salt, sugar or even xylitol. Check the label if your cat licked some."
+        }
+      ]
+    }
+  },
+  {
+    "id": "noisettes",
+    "verdict": "non",
+    "related": ["nutella", "noix", "amandes", "chocolat"],
+    "fr": {
+      "short": "Non. Les noisettes sont très grasses et difficiles à digérer, et une noisette entière peut faire s'étouffer ton chat.",
+      "why": "Les noisettes ne sont pas connues pour être toxiques, mais comme tous les fruits à coque, elles sont très riches en graisses : en quantité, elles provoquent vomissements et diarrhée, et peuvent favoriser une pancréatite. Petites, rondes et dures, elles peuvent rester coincées dans la gorge ou l'intestin. On les retrouve aussi dans des produits dangereux pour lui, comme les pâtes à tartiner chocolatées.",
+      "amount": "Pas de noisettes, ni entières, ni concassées, ni en pâte à tartiner. Ne laisse pas traîner de noisettes dans leur coque, qu'il pourrait avaler en jouant.",
+      "risks": [
+        "Vomissements, diarrhée",
+        "Étouffement avec une noisette entière",
+        "Blocage intestinal, surtout avec la coque",
+        "Pâtes à tartiner et confiseries au chocolat : toxiques"
+      ],
+      "ifEaten": "Une noisette avalée n'est en général pas grave : surveille vomissements, perte d'appétit, ventre douloureux ou absence de selles pendant 24 à 48 h. Appelle ton vétérinaire s'il tousse ou a du mal à respirer, ou s'il a mangé de la pâte à tartiner chocolatée.",
+      "alternatives": "Pour une friandise croquante, choisis des friandises pour chat. Et pour jouer, une balle ou une souris en tissu remplace avantageusement la noisette.",
+      "faq": [
+        {
+          "q": "Et la pâte à tartiner aux noisettes ?",
+          "a": "Non : la plupart contiennent du cacao, toxique pour le chat, en plus du sucre et de l'huile. S'il en a mangé, appelle ton vétérinaire en précisant la quantité."
+        },
+        {
+          "q": "Mon chat joue avec une noisette, c'est dangereux ?",
+          "a": "Ça peut l'être : il risque de l'avaler en jouant, de s'étouffer ou de faire un blocage intestinal. Range-la et donne-lui un vrai jouet à la place."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Hazelnuts are very fatty and hard to digest, and a whole hazelnut can make your cat choke.",
+      "why": "Hazelnuts aren't known to be toxic, but like all tree nuts they're very high in fat: in larger amounts, they cause vomiting and diarrhea and may contribute to pancreatitis. Small, round and hard, they can get stuck in a cat's throat or gut. They also show up in products that are dangerous for cats, like chocolate hazelnut spreads.",
+      "amount": "No hazelnuts, whole, chopped or as a spread. Don't leave hazelnuts in the shell lying around, since your cat could swallow one while playing.",
+      "risks": [
+        "Vomiting, diarrhea",
+        "Choking on a whole hazelnut",
+        "Intestinal blockage, especially with the shell",
+        "Chocolate spreads and candies are toxic"
+      ],
+      "ifEaten": "One swallowed hazelnut usually isn't serious: watch for vomiting, loss of appetite, a painful belly or no stool over 24 to 48 hours. Call your vet if your cat is coughing or struggling to breathe, or if they ate chocolate hazelnut spread.",
+      "alternatives": "For a crunchy treat, go with cat treats. And for play, a ball or a fabric mouse is a much better toy than a hazelnut.",
+      "faq": [
+        {
+          "q": "Can cats eat chocolate hazelnut spread?",
+          "a": "No. These spreads contain cocoa, which is toxic to cats, plus lots of sugar and oil. If your cat ate some, call your vet and tell them roughly how much."
+        },
+        {
+          "q": "Is it dangerous if my cat plays with a hazelnut?",
+          "a": "It can be: your cat might swallow it during play and choke or end up with a blockage. Put it away and offer a real toy instead."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pistaches",
+    "verdict": "non",
+    "related": ["noix-de-cajou", "amandes", "cacahuetes", "glace"],
+    "fr": {
+      "short": "Non. Les pistaches sont grasses, presque toujours salées, et leurs coques peuvent blesser ton chat ou bloquer son intestin.",
+      "why": "Les pistaches ne sont pas toxiques en elles-mêmes, mais elles sont riches en graisses et vendues le plus souvent grillées et salées : vomissements, diarrhée, soif intense, et pancréatite possible en cas d'excès. Les coques, dures et pointues, peuvent rester coincées dans la gorge ou l'intestin. Mal conservées, les pistaches peuvent aussi développer des moisissures toxiques, les aflatoxines.",
+      "amount": "Pas de pistaches pour ton chat, ni décortiquées, ni dans leur coque. Jette les coques dans une poubelle fermée, car certains chats adorent jouer avec.",
+      "risks": [
+        "Vomissements, diarrhée",
+        "Sel en excès : soif intense, troubles digestifs",
+        "Coques : étouffement, blocage intestinal",
+        "Pancréatite possible après une grosse quantité",
+        "Moisissures toxiques sur les pistaches mal conservées"
+      ],
+      "ifEaten": "Une ou deux pistaches ne sont en général pas graves : surveille vomissements, diarrhée et soif pendant 24 à 48 h. Appelle ton vétérinaire s'il a avalé des coques et qu'il vomit, ne mange plus ou ne va plus à la selle, ou s'il en a mangé une bonne poignée.",
+      "alternatives": "À l'apéro, donne-lui plutôt une friandise pour chat. Un petit morceau de poulet ou de poisson cuit nature est aussi une valeur sûre.",
+      "faq": [
+        {
+          "q": "Mon chat a mangé une coque de pistache, que faire ?",
+          "a": "Surveille-le de près pendant 48 h : perte d'appétit, vomissements, ventre douloureux ou absence de selles peuvent signaler un blocage. Si l'un de ces signes apparaît, appelle ton vétérinaire."
+        },
+        {
+          "q": "Et la glace à la pistache ?",
+          "a": "Non : la glace associe lactose et sucre, et certaines contiennent des éclats de pistache ou des arômes. Un coup de langue n'est pas grave, mais ne lui en propose pas."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Pistachios are fatty, almost always salted, and their shells can injure your cat or block their intestines.",
+      "why": "Pistachios aren't toxic in themselves, but they're high in fat and usually sold roasted and salted, which can mean vomiting, diarrhea, intense thirst, and possibly pancreatitis if your cat eats a lot. The hard, pointed shells can get stuck in the throat or gut. Poorly stored pistachios can also grow toxic molds called aflatoxins.",
+      "amount": "No pistachios for your cat, shelled or in the shell. Toss shells in a closed trash can, since some cats love to bat them around.",
+      "risks": [
+        "Vomiting, diarrhea",
+        "Too much salt: intense thirst, stomach upset",
+        "Shells: choking, intestinal blockage",
+        "Possible pancreatitis after a large amount",
+        "Toxic molds on poorly stored pistachios"
+      ],
+      "ifEaten": "One or two pistachios usually aren't serious: watch for vomiting, diarrhea and thirst over 24 to 48 hours. Call your vet if your cat swallowed shells and is vomiting, not eating or not passing stool, or if they ate a good handful.",
+      "alternatives": "At snack time, give your cat a cat treat instead. A small piece of plain cooked chicken or fish is always a safe bet.",
+      "faq": [
+        {
+          "q": "My cat ate a pistachio shell. What should I do?",
+          "a": "Watch them closely for 48 hours: loss of appetite, vomiting, a painful belly or no stool can point to a blockage. If any of those signs appear, call your vet."
+        },
+        {
+          "q": "Can cats eat pistachio ice cream?",
+          "a": "No. Ice cream combines lactose and sugar, and some contain nut pieces or flavorings. A lick won't hurt, but don't offer it."
+        }
+      ]
+    }
+  },
+  {
+    "id": "noix-de-cajou",
+    "verdict": "non",
+    "related": ["pistaches", "cacahuetes", "amandes", "noix"],
+    "fr": {
+      "short": "Non. Les noix de cajou ne sont pas toxiques, mais elles sont grasses et souvent salées ou assaisonnées : pas pour ton chat.",
+      "why": "Les noix de cajou ne figurent pas parmi les aliments connus pour être toxiques pour le chat, mais elles restent riches en graisses : en quantité, vomissements, diarrhée et pancréatite possible. Elles sont presque toujours vendues grillées et salées, parfois aromatisées au miel, aux épices ou à l'ail dans les mélanges apéritif. Elles n'apportent rien qu'un chat ne trouve pas mieux dans la viande.",
+      "amount": "Pas de noix de cajou pour ton chat, même nature. Garde les mélanges apéritif hors de sa portée : ils contiennent souvent d'autres fruits à coque, et parfois des raisins secs.",
+      "risks": [
+        "Vomissements, diarrhée",
+        "Sel en excès : soif intense",
+        "Assaisonnements à l'ail, à l'oignon ou au piment",
+        "Pancréatite possible après une grosse quantité",
+        "Étouffement avec une noix entière"
+      ],
+      "ifEaten": "Une noix de cajou chipée n'est en général pas grave : surveille vomissements et diarrhée pendant 24 à 48 h. Appelle ton vétérinaire s'il en a mangé une bonne quantité, si elles étaient assaisonnées à l'ail ou à l'oignon, ou si le mélange contenait des raisins secs ou du chocolat.",
+      "alternatives": "Pour le grignotage, les friandises pour chat sont faites pour ça. Un petit morceau de poulet cuit nature lui fera tout autant plaisir.",
+      "faq": [
+        {
+          "q": "Et les noix de cajou nature, non salées ?",
+          "a": "Elles sont moins problématiques, mais restent grasses et sans intérêt pour un chat. Une noix tombée par terre n'est pas grave ; ce n'est simplement pas une friandise à lui donner."
+        },
+        {
+          "q": "Et le lait ou le beurre de cajou ?",
+          "a": "Le lait de cajou n'est pas toxique, mais souvent sucré et inutile ; le beurre de cajou est un concentré de gras. Dans les deux cas, on s'en passe, et on vérifie l'étiquette en cas d'édulcorants."
+        }
+      ]
+    },
+    "en": {
+      "short": "No. Cashews aren't toxic, but they're fatty and usually salted or seasoned, so they're not a snack for your cat.",
+      "why": "Cashews aren't among the foods known to be toxic to cats, but they're still rich in fat: in larger amounts, that means vomiting, diarrhea and possibly pancreatitis. They're almost always sold roasted and salted, and in snack mixes they may be flavored with honey, spices or garlic. They offer nothing a cat can't get better from meat.",
+      "amount": "No cashews for your cat, even plain. Keep trail mix and snack mixes out of reach, since they often contain other nuts and sometimes raisins.",
+      "risks": [
+        "Vomiting, diarrhea",
+        "Too much salt: intense thirst",
+        "Seasonings with garlic, onion or chili",
+        "Possible pancreatitis after a large amount",
+        "Choking on a whole cashew"
+      ],
+      "ifEaten": "A stolen cashew usually isn't serious: watch for vomiting and diarrhea over 24 to 48 hours. Call your vet if your cat ate a good amount, if the cashews were seasoned with garlic or onion, or if the mix contained raisins or chocolate.",
+      "alternatives": "For snacking, cat treats are made for exactly that. A small piece of plain cooked chicken will make your cat just as happy.",
+      "faq": [
+        {
+          "q": "Can cats eat unsalted cashews?",
+          "a": "They're less of a problem, but still fatty and of no use to a cat. A cashew dropped on the floor isn't a big deal; it just isn't a treat to offer."
+        },
+        {
+          "q": "Can cats have cashew milk or cashew butter?",
+          "a": "Cashew milk isn't toxic but is often sweetened and pointless for a cat, and cashew butter is concentrated fat. Skip both, and check the label for sweeteners if your cat got into some."
+        }
+      ]
+    }
+  },
+  {
+    "id": "huile-olive",
+    "verdict": "peu",
+    "related": ["beurre", "olive", "sardines", "thon"],
+    "fr": {
+      "short": "Un peu. Quelques gouttes d'huile d'olive dans sa gamelle ne posent pas de problème, mais un excès donne vite la diarrhée.",
+      "why": "L'huile d'olive n'est pas toxique, et les chats ont besoin de graisses dans leur alimentation, mais leur pâtée ou leurs croquettes en apportent déjà assez. C'est du gras pur : en trop grande quantité, elle accélère le transit, provoque diarrhée ou vomissements, et apporte beaucoup de calories. Une huile qui a servi à la friture ou à cuisiner de l'ail ou de l'oignon est à exclure.",
+      "amount": "Quelques gouttes, pas plus d'un quart de cuillère à café, de temps en temps, sur sa nourriture habituelle. Pas tous les jours sans l'avis de ton vétérinaire.",
+      "risks": [
+        "Diarrhée ou selles grasses",
+        "Vomissements après une grosse quantité",
+        "Prise de poids si c'est quotidien",
+        "Huile de cuisson parfumée à l'ail ou à l'oignon"
+      ],
+      "ifEaten": "S'il a léché un peu d'huile, pas d'inquiétude. S'il en a bu une bonne quantité, surveille diarrhée, vomissements et abattement pendant 24 à 48 h, et appelle ton vétérinaire si ces signes apparaissent ou si l'huile avait servi à cuisiner de l'ail ou de l'oignon.",
+      "alternatives": "Pour un pelage brillant, demande à ton vétérinaire un complément d'oméga-3 adapté aux chats. Une sardine à l'eau, sans sel ajouté, apporte aussi de bonnes graisses.",
+      "faq": [
+        {
+          "q": "L'huile d'olive aide-t-elle contre la constipation ou les boules de poils ?",
+          "a": "C'est un remède de grand-mère répandu, mais son efficacité n'est pas démontrée et elle peut donner la diarrhée. Si ton chat est constipé ou vomit souvent des boules de poils, parles-en à ton vétérinaire, qui proposera une solution adaptée."
+        },
+        {
+          "q": "Et les autres huiles ?",
+          "a": "Une goutte d'huile de colza ou de tournesol n'est pas plus dangereuse que l'huile d'olive. Les huiles essentielles, en revanche, n'ont rien à voir : beaucoup sont toxiques pour le chat, même sur la peau ou en diffusion."
+        }
+      ]
+    },
+    "en": {
+      "short": "A little. A few drops of olive oil on your cat's food are fine, but too much quickly leads to diarrhea.",
+      "why": "Olive oil isn't toxic, and cats do need fat in their diet, but their regular food already provides enough. It's pure fat: in larger amounts it speeds up digestion, causes diarrhea or vomiting, and adds a lot of calories. Oil that's been used for frying or for cooking garlic or onion is off-limits.",
+      "amount": "A few drops, no more than a quarter teaspoon, once in a while, on their usual food. Not every day unless your vet recommends it.",
+      "risks": [
+        "Diarrhea or greasy stool",
+        "Vomiting after a large amount",
+        "Weight gain if given daily",
+        "Cooking oil flavored with garlic or onion"
+      ],
+      "ifEaten": "If your cat licked a little oil, don't worry. If they drank a good amount, watch for diarrhea, vomiting and lethargy over 24 to 48 hours, and call your vet if those appear or if the oil had been used to cook garlic or onion.",
+      "alternatives": "For a shiny coat, ask your vet about an omega-3 supplement made for cats. A sardine packed in water with no added salt also provides healthy fats.",
+      "faq": [
+        {
+          "q": "Does olive oil help with constipation or hairballs?",
+          "a": "It's a popular home remedy, but there's little evidence it works, and it can cause diarrhea. If your cat is constipated or brings up hairballs often, talk to your vet about a proper solution."
+        },
+        {
+          "q": "What about other oils?",
+          "a": "A drop of canola or sunflower oil is no more dangerous than olive oil. Essential oils are a completely different story, though: many are toxic to cats, even on the skin or in a diffuser."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{foods_title}}</title>
+<meta name="description" content="{{foods_desc}}">
+<link rel="canonical" href="{{page_url}}">
+<link rel="alternate" hreflang="fr" href="{{page_url_fr}}">
+<link rel="alternate" hreflang="en" href="{{page_url_en}}">
+<link rel="alternate" hreflang="x-default" href="{{page_url_fr}}">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#FFF4E8">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Mon chat peut ?">
+<meta property="og:locale" content="{{locale}}">
+<meta property="og:url" content="{{page_url}}">
+<meta property="og:title" content="{{foods_title}}">
+<meta property="og:description" content="{{foods_desc}}">
+<meta property="og:image" content="https://mon-chat-peut.com{{og_image}}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="/assets/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/figtree-latin.woff2" as="font" type="font/woff2" crossorigin>
+<script type="application/ld+json">{{page_jsonld}}</script>
+<style>
+{{css}}
+</style>
+</head>
+<body>
+<!-- Page générée par build.py à partir de src/foods-index.html et src/foods/ : modifier src/, puis lancer python3 build.py -->
+<a class="skip" href="#contenu">{{skip}}</a>
+
+<header class="site-head">
+  <div class="wrap">
+    <a class="logo" href="{{home_href}}" aria-label="{{nav_home_label}}">Mon chat peut<img src="/img/logo.webp" width="81" height="120" alt=""></a>
+    <nav class="nav-links" aria-label="{{nav_sections}}">
+      <a href="{{home_href}}#test">{{nav_test}}</a>
+      <a href="{{home_href}}#app">{{nav_app}}</a>
+      <a href="{{foods_href}}" aria-current="page">{{nav_foods}}</a>
+    </nav>
+    <a class="lang" href="{{lang_href}}" hreflang="{{lang_other}}" lang="{{lang_other}}" aria-label="{{lang_label}}">{{lang_code}}</a>
+    <a class="btn" href="{{store_href}}" rel="noopener">{{download}}</a>
+  </div>
+</header>
+
+<main id="contenu">
+  <section class="foods-hero grid-paper">
+    <div class="wrap">
+      <ol class="crumbs">
+        <li><a href="{{home_href}}">{{food_crumb_home}}</a></li>
+        <li><span aria-current="page">{{foods_link}}</span></li>
+      </ol>
+      <p class="eyebrow">{{foods_eyebrow}}</p>
+      <h1>{{foods_h1}}</h1>
+      <p class="lede">{{foods_lede_n}}</p>
+      <div class="foods-tools">
+        <label class="foods-search">
+          <span class="sr-only">{{foods_search}}</span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+          <input type="search" id="q" placeholder="{{foods_placeholder}}" autocomplete="off" spellcheck="false">
+        </label>
+        <div class="filters" role="group" aria-label="{{stamp_label}}">
+          <button type="button" class="filter" data-filter="all" aria-pressed="true">{{foods_all}}</button>
+          <button type="button" class="filter" data-filter="oui" data-v="oui" aria-pressed="false">{{verdict_oui}}</button>
+          <button type="button" class="filter" data-filter="peu" data-v="peu" aria-pressed="false">{{verdict_peu}}</button>
+          <button type="button" class="filter" data-filter="non" data-v="non" aria-pressed="false">{{verdict_non}}</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="foods-list">
+    <div class="wrap">
+{{categories_html}}
+      <p class="foods-none" id="none" hidden>{{foods_none}}</p>
+    </div>
+  </section>
+</main>
+
+{{footer}}
+<script>
+(() => {
+  // Recherche et filtre par verdict, sans recharger la page ; sans script, toute la liste reste visible.
+  const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/œ/g, "oe");
+  const q = document.getElementById("q"), none = document.getElementById("none");
+  const cats = [...document.querySelectorAll(".cat")];
+  const filters = [...document.querySelectorAll(".filter")];
+  let verdict = "all";
+  function apply() {
+    const t = norm(q.value.trim());
+    let shown = 0;
+    cats.forEach(cat => {
+      let n = 0;
+      cat.querySelectorAll("li").forEach(li => {
+        const ok = (verdict === "all" || li.dataset.v === verdict) && (!t || li.dataset.k.includes(t));
+        li.hidden = !ok;
+        if (ok) n++;
+      });
+      cat.hidden = !n;
+      shown += n;
+    });
+    none.hidden = shown > 0;
+  }
+  q.addEventListener("input", apply);
+  filters.forEach(b => b.addEventListener("click", () => {
+    verdict = b.dataset.filter;
+    filters.forEach(f => f.setAttribute("aria-pressed", String(f === b)));
+    apply();
+  }));
+})();
+</script>
+</body>
+</html>
