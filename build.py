@@ -22,6 +22,7 @@ import html
 import json
 import re
 import shutil
+import urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -36,7 +37,15 @@ DIST = ROOT / "dist"
 # Tout ce que sert le site. Le reste du dépôt n'est pas publié.
 PUBLIC = ("index.html", "en", "mon-chat-peut-il-manger", "img", "assets/fonts", "favicon-96.png",
           "apple-touch-icon.png", "robots.txt", "sitemap.xml", "privacy-policy.html", "terms-of-service.html",
-          "user-rights.html", "_headers")
+          "user-rights.html", "share.html", "_headers")
+# /share et /en/share : la page du lien en bio TikTok (src/share.html), hors sitemap et hors moteurs de recherche.
+# Aliments des « réponses rapides » ; les trois premiers défilent dans le tampon de Vivi.
+SHARE_FOODS = ("chocolat", "poulet", "fromage", "lait", "thon", "oeuf")
+# Les installations Google Play venues de la page portent cette source (Play Console, Acquisition d'utilisateurs).
+SHARE_REFERRER = "utm_source=tiktok&utm_medium=bio"
+# Jeton de fournisseur App Store Connect (App Analytics, Campagnes). Renseigné, les installations iPhone venues
+# de la page sont comptées dans la campagne « tiktok ». Vide, le lien App Store reste le lien simple.
+APPSTORE_PT = ""
 # Pages aliment : un dossier par langue, une page par aliment, plus un index (index.html du dossier)
 FOODS_DIR = {"fr": "/mon-chat-peut-il-manger/", "en": "/en/can-cats-eat/"}
 VIVI_H = {"oui": 342, "peu": 336, "non": 351}
@@ -269,6 +278,36 @@ def food_pages(t, lang, foods, values, template, index_template, footer, css):
     print(f"{out_dir.relative_to(ROOT)}/ : {len(foods)} pages aliment + index")
 
 
+def share_path(lang):
+    return "/share" if lang == "fr" else "/en/share"
+
+
+def share_page(t, lang, foods, values, template, css):
+    """Écrit /share (ou /en/share) : les deux stores et quelques fiches aliment."""
+    other = "en" if lang == "fr" else "fr"
+    by_id = {f["id"]: f for f in foods}
+    words = t["verdict_words"]
+    picks = [by_id[i] for i in SHARE_FOODS if i in by_id]
+    play = f"{STORE}&hl={lang}&referrer={urllib.parse.quote(SHARE_REFERRER, safe='')}"
+    apple = t["appstore_href"] + (f"?pt={APPSTORE_PT}&ct=tiktok&mt=8" if APPSTORE_PT else "")
+    first = picks[0] if picks else None
+    v = dict(values, css=css)
+    v.update(
+        page_url=SITE + share_path(lang), lang_href=share_path(other),
+        share_apple_href=html.escape(apple), share_play_href=html.escape(play),
+        share_quick_html="".join(
+            f'<li data-v="{f["verdict"]}"><a class="food-link" href="{food_url(lang, f)}">'
+            f'<span>{esc(f[lang]["name"])}</span><span class="pill">{words[f["verdict"]]}</span></a></li>'
+            for f in picks
+        ),
+        share_stamp_v=first["verdict"] if first else "oui",
+        share_stamp_food=esc(first[lang]["name"]) if first else "",
+        share_stamp_word=words[first["verdict"]] if first else words["oui"],
+        share_stamps_json=script_json([[plain(f[lang]["name"]), f["verdict"], words[f["verdict"]]] for f in picks[:3]]),
+    )
+    write(ROOT / ("share.html" if lang == "fr" else "en/share.html"), render(template, v))
+
+
 def norm_key(text):
     import unicodedata
     text = text.lower().replace("œ", "oe")
@@ -299,9 +338,10 @@ def main():
     read = lambda name: (SRC / name).read_text(encoding="utf-8")
     template, legal_template, footer = read("template.html"), read("legal.html"), read("footer.html")
     food_template, foods_index_template = read("food.html"), read("foods-index.html")
+    share_template = read("share.html")
     base = read("base.css")
     css_landing, css_legal = minify_css(base + read("landing.css")), minify_css(base + read("legal.css"))
-    css_food = minify_css(base + read("food.css"))
+    css_food, css_share = minify_css(base + read("food.css")), minify_css(base + read("share.css"))
     js = read("app.js").strip()
     foods = load_foods()
     foods_by_id = {f["id"]: f for f in foods}
@@ -350,6 +390,7 @@ def main():
             write(out, render(legal_template, v))
 
         food_pages(t, lang, foods, values, food_template, foods_index_template, footer, css_food)
+        share_page(t, lang, foods, values, share_template, css_share)
 
     today = datetime.date.today().isoformat()
 

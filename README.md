@@ -37,6 +37,15 @@ Une page par aliment et par langue, pour remonter sur les recherches du type « 
 
 La liste vient des recherches réelles des utilisateurs (collection Firestore `replyCache` du projet `mon-chat-peut-reborn`), des 60 aliments de la démo et des recherches courantes. Les verdicts et les textes ont été réécrits à partir du consensus vétérinaire, pas repris du cache. Pour ajouter un aliment : une entrée dans `list.json`, son contenu dans un fichier de `src/foods/content/`, puis `python3 build.py`.
 
+### Page du lien en bio (`/share`)
+
+`/share` (et `/en/share`) est la page à mettre en lien dans la bio TikTok, façon Linktree : Vivi, les boutons App Store et Google Play, et quelques fiches aliment.
+
+- Gabarit `src/share.html`, style `src/share.css`, textes `share_*` dans `src/i18n/*.json`.
+- Le store du téléphone passe en premier, en roux : App Store sur iPhone, Google Play sur Android. Sur ordinateur, les deux sont à égalité.
+- Dans `build.py` : `SHARE_FOODS` (les fiches affichées ; les trois premières défilent dans le tampon de Vivi), `SHARE_REFERRER` (le lien Google Play porte `utm_source=tiktok`, visible dans la Play Console) et `APPSTORE_PT` (le jeton de fournisseur App Store Connect ; une fois renseigné, le lien App Store compte les installations dans une campagne « tiktok »).
+- La page est en `noindex` et hors du sitemap, pour ne pas concurrencer la landing.
+
 ## Déployer
 
 Le site est un Cloudflare Worker sans code, qui sert les fichiers de `dist/` (`wrangler.toml`), sur le compte Cloudflare devcompte44@gmail.com.
