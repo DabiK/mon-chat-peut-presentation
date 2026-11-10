@@ -91,9 +91,9 @@ def structured_data(t):
         "@graph": [
             {"@type": "WebSite", "@id": f"{SITE}/#website", "url": f"{SITE}/",
              "name": "Mon chat peut ?", "inLanguage": ["fr", "en"]},
-            {"@type": "MobileApplication", "name": "Mon chat peut ?", "operatingSystem": "Android",
+            {"@type": "MobileApplication", "name": "Mon chat peut ?", "operatingSystem": "Android, iOS",
              "applicationCategory": "LifestyleApplication", "description": plain(t["description"]),
-             "url": STORE, "installUrl": STORE, "inLanguage": t["lang"],
+             "url": STORE, "installUrl": [t["appstore_href"], STORE], "inLanguage": t["lang"],
              "image": f"{SITE}{t['og_image']}",
              "author": {"@type": "Person", "name": "Dabi Keita"}},
             {"@type": "FAQPage", "url": t["url"], "inLanguage": t["lang"], "mainEntity": faq},

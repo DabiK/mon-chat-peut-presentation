@@ -1,6 +1,6 @@
 # Mon chat peut ? · site de présentation
 
-Landing page de l'app [Mon chat peut ?](https://play.google.com/store/apps/details?id=com.dabik.monchatpeut), en ligne sur https://mon-chat-peut.com (français) et https://mon-chat-peut.com/en/ (anglais).
+Landing page de l'app Mon chat peut ? ([App Store](https://apps.apple.com/fr/app/mon-chat-peut/id6757156768), [Google Play](https://play.google.com/store/apps/details?id=com.dabik.monchatpeut)), en ligne sur https://mon-chat-peut.com (français) et https://mon-chat-peut.com/en/ (anglais).
 
 ## Modifier le site
 

@@ -122,7 +122,7 @@ button { font: inherit; color: inherit; }
   .nav-links { display: none; }
   .site-head .lang { margin-left: auto; }
 }
-/* Téléphone et tablette : le bouton de l'en-tête passerait à la ligne ; le test a juste en dessous son propre bouton Google Play. */
+/* Téléphone et tablette : le bouton de l'en-tête passerait à la ligne ; le test a juste en dessous ses propres boutons App Store et Google Play. */
 @media (max-width: 1019px) {
   .site-head .btn { display: none; }
 }

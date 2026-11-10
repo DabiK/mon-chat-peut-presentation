@@ -41,7 +41,7 @@
       <a href="{{foods_href}}">{{nav_foods}}</a>
     </nav>
     <a class="lang" href="{{lang_href}}" hreflang="{{lang_other}}" lang="{{lang_other}}" aria-label="{{lang_label}}">{{lang_code}}</a>
-    <a class="btn" href="{{store_href}}" rel="noopener">{{download}}</a>
+    <a class="btn" href="#telecharger">{{download}}</a>
   </div>
 </header>
 
@@ -94,13 +94,19 @@
       </article>
 
       <aside class="food-aside">
-        <div class="cta-card">
+        <div class="cta-card" id="telecharger">
           <h2>{{food_cta_title}}</h2>
           <p>{{food_cta_text}}</p>
-          <a class="store" href="{{store_href}}" rel="noopener">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
-            <span><small>{{store_small}}</small><b>Google Play</b></span>
-          </a>
+          <div class="stores">
+            <a class="store" href="{{appstore_href}}" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+              <span><small>{{appstore_small}}</small><b>App Store</b></span>
+            </a>
+            <a class="store" href="{{store_href}}" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+              <span><small>{{store_small}}</small><b>Google Play</b></span>
+            </a>
+          </div>
         </div>
         <nav class="related" aria-label="{{food_related}}">
           <h2>{{food_related}}</h2>
